@@ -13,6 +13,9 @@
   Satzübergänge zwischen zwei Textfenstern, ein Glossar-Verstoß und ein Tippfehler.
 - Tag 5 (Pray): Erklärung von „Shadow Proxying“ präzisiert – „… wenn einer E.V.E die Daten einer
   anderen Person übergestülpt werden“ (`DialogueTable|60018_105`).
+- Tag 5 (Pray): „Gezappel.“ → „Ein unruhiges Herumrutschen.“, Folgesatz „Pray drehte und wand sich,
+  als fühlte sie sich unwohl.“ (`60018_136`, `60018_137`).
+- „Don't tell me …“ einheitlich als „Sag bloß …“ statt „Sag nicht …“ (4 weitere Stellen).
 
 ## 1.0.0 – 2026-11-22
 

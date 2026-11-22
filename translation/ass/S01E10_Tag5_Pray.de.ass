@@ -131,7 +131,7 @@ Dialogue: 0,0:01:59.00,0:01:59.90,StartMain,Pray,0,0,0,DialogueTable|60018_112,K
 Dialogue: 0,0:02:00.00,0:02:00.90,StartMain,Chris,0,0,0,DialogueTable|60018_113,Daran habe ich keine Sekunde gezweifelt.
 Dialogue: 0,0:02:01.00,0:02:01.90,StartMain,Pray,0,0,0,DialogueTable|60018_114,Außerdem war der Typ, der es angebracht hat, furchtbar.
 Dialogue: 0,0:02:02.00,0:02:02.90,StartMain,Pray,0,0,0,DialogueTable|60018_115,Das Angebot kam von meinem schlimmsten Kunden des Jahres.
-Dialogue: 0,0:02:03.00,0:02:03.90,StartMain,Chris,0,0,0,DialogueTable|60018_116,Sag nicht, der Straßenlaternen-Idiot?
+Dialogue: 0,0:02:03.00,0:02:03.90,StartMain,Chris,0,0,0,DialogueTable|60018_116,Sag bloß, der Straßenlaternen-Idiot?
 Dialogue: 0,0:02:04.00,0:02:04.90,StartMain,Pray,0,0,0,DialogueTable|60018_117,Du sagst, du hast Gedächtnisprobleme, aber daran erinnerst du dich bestens.
 Dialogue: 0,0:02:05.00,0:02:05.90,StartMain,Pray,0,0,0,DialogueTable|60018_118,Genau. Er war es.
 Dialogue: 0,0:02:06.00,0:02:06.90,StartMain,Chris,0,0,0,DialogueTable|60018_119,Ein hochrangiger Manager von Sunshine Corp, der ein Shadow Proxy verlangt ...
@@ -149,10 +149,10 @@ Dialogue: 0,0:02:17.00,0:02:17.90,StartMain,Chris,0,0,0,DialogueTable|60018_130,
 Dialogue: 0,0:02:18.00,0:02:18.90,StartMain,Pray,0,0,0,DialogueTable|60018_131,Eben.
 Dialogue: 0,0:02:19.00,0:02:19.90,StartMain,Pray,0,0,0,DialogueTable|60018_132,Als ich ablehnte, ist er ausgerastet und hat mich eine herzlose Schlampe genannt.
 Dialogue: 0,0:02:20.00,0:02:20.90,StartMain,Pray,0,0,0,DialogueTable|60018_133,Er hat die höfliche Fassade fallen lassen und die Karte gespielt, die du so gut kennst.
-Dialogue: 0,0:02:21.00,0:02:21.90,StartMain,Chris,0,0,0,DialogueTable|60018_134,Sag nicht ... die Straßenlaternen abbauen?
+Dialogue: 0,0:02:21.00,0:02:21.90,StartMain,Chris,0,0,0,DialogueTable|60018_134,Sag bloß ... die Straßenlaternen abbauen?
 Dialogue: 0,0:02:22.00,0:02:22.90,StartMain,Pray,0,0,0,DialogueTable|60018_135,Jep. Und die Abogebühr erhöhen.
-Dialogue: 0,0:02:23.00,0:02:23.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60018_136,Gezappel.
-Dialogue: 0,0:02:24.00,0:02:24.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60018_137,Pray wand sich hin und her, als wäre es ihr unbehaglich.
+Dialogue: 0,0:02:23.00,0:02:23.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60018_136,Ein unruhiges Herumrutschen.
+Dialogue: 0,0:02:24.00,0:02:24.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60018_137,Pray drehte und wand sich, als fühlte sie sich unwohl.
 Dialogue: 0,0:02:25.00,0:02:25.90,StartMain,Pray,0,0,0,DialogueTable|60018_138,Komisch, oder?
 Dialogue: 0,0:02:26.00,0:02:26.90,StartMain,Pray,0,0,0,DialogueTable|60018_139,Dass man aus Liebe zu einem Menschen
 Dialogue: 0,0:02:27.00,0:02:27.90,StartMain,Pray,0,0,0,DialogueTable|60018_140,einen anderen so quälen kann.
