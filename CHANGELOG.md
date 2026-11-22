@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2 – unveröffentlicht
+
+- Tag 7 (Orca): „Anders als bei deinen Standard-E.V.Es“ → „Anders als gewöhnliche E.V.Es“ – das englische
+  „your standard“ war generisch gemeint, keine Anrede (`DialogueTable|60026_15`).
+
 ## 1.0.1 – 2026-11-23
 
 - Menü: Schaltfläche zum Öffnen des Ladens am Tagesbeginn heißt jetzt „Laden öffnen“ statt „Geöffnet“

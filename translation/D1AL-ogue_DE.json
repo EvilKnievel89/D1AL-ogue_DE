@@ -3,7 +3,7 @@
  "game": "D1AL-ogue",
  "steam_appid": 4270390,
  "language": "de",
- "version": "1.0.1",
+ "version": "1.0.2",
  "entries": {
   "CommentDialogueTable|60003_1_C1": "Fertig. Es schien keine größeren Probleme zu geben.",
   "CommentDialogueTable|60003_1_C2": "Fertig. Es schien keine größeren Probleme zu geben.",
@@ -3393,7 +3393,7 @@
   "DialogueTable|60026_12": "Das bist du schon.",
   "DialogueTable|60026_13": "Bei einem Modell wie deinem und den Aufträgen, die du mitbringst, Orca ...",
   "DialogueTable|60026_14": "halten die mich technisch ganz schön auf Trab.",
-  "DialogueTable|60026_15": "Anders als bei deinen Standard-E.V.Es",
+  "DialogueTable|60026_15": "Anders als gewöhnliche E.V.Es",
   "DialogueTable|60026_16": "setzt dein Modell auf vielseitige Hochleistungseinheiten.",
   "DialogueTable|60026_17": "Hohe Leistung heißt meistens,",
   "DialogueTable|60026_18": "dass sie viel schwerer zu reparieren sind oder öfter ausfallen.",
