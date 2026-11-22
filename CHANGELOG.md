@@ -9,6 +9,8 @@
 - Tag 7 (Pray): „zu der man zurückkann“ → „zu der man zurückkehren kann“ (`DialogueTable|60028_94`).
 - Tag 7 (Pray): „verdächtig glattzüngigen Mechaniker“ → „verdächtig redegewandten Mechaniker“
   (`DialogueTable|60028_163`).
+- Tag 7 (Pray): „nehme ich dich mit an einen Hammer-Laden“ → „nehme ich dich mit in ein mega leckeres
+  Restaurant“ (`DialogueTable|40282_6`).
 
 ## 1.0.1 – 2026-11-23
 
