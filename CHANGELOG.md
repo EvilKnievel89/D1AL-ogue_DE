@@ -7,6 +7,8 @@
 - Tag 7 (Pray): „Bist du komplett kastriert oder was?“ → „Bist du impotent oder was?“ – wie im Original
   (KO 고자, JA インポ) derb, aber idiomatisch (`DialogueTable|60028_35`).
 - Tag 7 (Pray): „zu der man zurückkann“ → „zu der man zurückkehren kann“ (`DialogueTable|60028_94`).
+- Tag 7 (Pray): „verdächtig glattzüngigen Mechaniker“ → „verdächtig redegewandten Mechaniker“
+  (`DialogueTable|60028_163`).
 
 ## 1.0.1 – 2026-11-23
 
