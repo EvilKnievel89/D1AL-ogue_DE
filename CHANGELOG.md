@@ -16,6 +16,10 @@
 - Tag 5 (Pray): „Gezappel.“ → „Ein unruhiges Herumrutschen.“, Folgesatz „Pray drehte und wand sich,
   als fühlte sie sich unwohl.“ (`60018_136`, `60018_137`).
 - „Don't tell me …“ einheitlich als „Sag bloß …“ statt „Sag nicht …“ (4 weitere Stellen).
+- Tag 5 (Lianne): Liannes Satz über fünf Textfenster („Dass ausgerechnet ich, die ich meine Gefühle so
+  schlecht im Griff habe, … liegt vielleicht nur daran, dass ich mir etwas wünsche, das ich nicht habe.“)
+  grammatisch durchgehend neu gebaut, „fader, langweiliger Mechaniker“ → „schlichter, unaufgeregter“
+  (`60020_30`–`60020_34`).
 
 ## 1.0.0 – 2026-11-22
 
