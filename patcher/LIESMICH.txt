@@ -1,0 +1,48 @@
+D1AL-ogue – Deutsche Fan-Übersetzung
+====================================
+
+Inoffizielle deutsche Übersetzung von D1AL-ogue (Steam). Übersetzt sind alle Dialoge,
+Zwischensequenzen, alle Enden, Menü, Tutorial, Kundenkommentare und News (4.091 Texte).
+
+HINWEIS: Die Übersetzung wurde mit KI (Claude) erstellt und nur stichprobenartig geprüft.
+Fehler und holprige Stellen sind möglich – Meldungen bitte als Issue auf GitHub.
+Dies ist ein Fan-Projekt ohne Verbindung zu CherryPicker. Alle Rechte am Spiel liegen beim Entwickler.
+
+
+INSTALLATION
+------------
+1. D1AL-ogue beenden.
+2. D1AL-ogue_DE_Patcher.exe starten (Doppelklick) und [1] Installieren wählen.
+   Der Spielordner wird über Steam automatisch gefunden. Falls nicht, fragt der Patcher danach.
+3. Im Spiel unter Optionen die Sprache „English“ wählen – die Texte erscheinen auf Deutsch.
+
+Windows kann beim ersten Start warnen („Der Computer wurde durch Windows geschützt“), weil die
+Datei nicht signiert ist: „Weitere Informationen“ > „Trotzdem ausführen“.
+Der Quellcode des Patchers liegt offen auf GitHub.
+
+
+DEINSTALLATION
+--------------
+Patcher starten und [2] Deinstallieren wählen – die Originaldateien werden wiederhergestellt.
+Alternativ in Steam: Rechtsklick auf D1AL-ogue > Eigenschaften > Installierte Dateien >
+„Dateien auf Fehler überprüfen“.
+
+
+NACH EINEM SPIEL-UPDATE
+-----------------------
+Steam überschreibt bei Updates die geänderten Dateien – das Spiel ist dann wieder englisch.
+Einfach den Patcher erneut starten und [1] Installieren wählen. Texte, die es in der neuen
+Spielversion nicht mehr gibt oder die neu dazukamen, bleiben englisch (der Patcher meldet das).
+
+
+WAS DER PATCHER ÄNDERT
+----------------------
+- D1AL-ogue_Data\StreamingAssets\aa\StandaloneWindows64\
+    localization-string-tables-english(unitedstates)(en-us)_assets_all.bundle
+  (englische Texte werden durch die deutschen ersetzt)
+- D1AL-ogue_Data\StreamingAssets\aa\catalog.bin
+  (Prüfsumme für genau dieses Bundle wird abgeschaltet, sonst lädt das Spiel es nicht)
+Sicherungen der Originale liegen in D1AL-ogue_Data\StreamingAssets\aa\_D1AL-ogue_DE_backup\.
+
+Kommandozeile:  D1AL-ogue_DE_Patcher.exe install|uninstall|status [--game "Pfad zum Spielordner"]
+Eine eigene/neuere D1AL-ogue_DE.json neben der .exe wird statt der eingebauten verwendet.

@@ -1,0 +1,92 @@
+[Script Info]
+Title: Menue
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,Sign_UI,UI,0,0,0,TitleTables|Start,Start
+Dialogue: 0,0:00:01.00,0:00:01.90,Sign_UI,UI,0,0,0,TitleTables|Load,Laden
+Dialogue: 0,0:00:02.00,0:00:02.90,Sign_UI,UI,0,0,0,TitleTables|Option,Optionen
+Dialogue: 0,0:00:03.00,0:00:03.90,Sign_UI,UI,0,0,0,TitleTables|Credit,Mitwirkende
+Dialogue: 0,0:00:04.00,0:00:04.90,Sign_UI,UI,0,0,0,TitleTables|Exit,Beenden
+Dialogue: 0,0:00:05.00,0:00:05.90,Sign_UI,UI,0,0,0,TitleTables|BUTTON_START,Start
+Dialogue: 0,0:00:06.00,0:00:06.90,Sign_UI,UI,0,0,0,TitleTables|BUTTON_CONTINUE,Fortsetzen
+Dialogue: 0,0:00:07.00,0:00:07.90,Sign_UI,UI,0,0,0,TitleTables|BUTTON_SETTINGS,Einstellungen
+Dialogue: 0,0:00:08.00,0:00:08.90,Sign_UI,UI,0,0,0,TitleTables|BUTTON_QUIT,Beenden
+Dialogue: 0,0:00:09.00,0:00:09.90,Sign_UI,UI,0,0,0,TitleTables|BUTTON_CONFIRM,Bestätigen
+Dialogue: 0,0:00:10.00,0:00:10.90,Sign_UI,UI,0,0,0,TitleTables|BUTTON_CANCEL,Abbrechen
+Dialogue: 0,0:00:11.00,0:00:11.90,Sign_UI,UI,0,0,0,TitleTables|BUTTON_BACK,Zurück
+Dialogue: 0,0:00:12.00,0:00:12.90,Sign_UI,UI,0,0,0,TitleTables|BUTTON_NEXT,Weiter
+Dialogue: 0,0:00:13.00,0:00:13.90,Sign_UI,UI,0,0,0,TitleTables|BUTTON_COMPLETE,Fertig
+Dialogue: 0,0:00:14.00,0:00:14.90,Sign_UI,UI,0,0,0,TitleTables|BUTTON_SUBMIT,Absenden
+Dialogue: 0,0:00:15.00,0:00:15.90,Sign_UI,UI,0,0,0,TitleTables|TITLE_MAIN_MENU,Hauptmenü
+Dialogue: 0,0:00:16.00,0:00:16.90,Sign_UI,UI,0,0,0,TitleTables|TITLE_GAME,Spiel
+Dialogue: 0,0:00:17.00,0:00:17.90,Sign_UI,UI,0,0,0,TitleTables|TITLE_PAUSE,Pause
+Dialogue: 0,0:00:18.00,0:00:18.90,Sign_UI,UI,0,0,0,TitleTables|TITLE_GAME_OVER,Game Over
+Dialogue: 0,0:00:19.00,0:00:19.90,Sign_UI,UI,0,0,0,TitleTables|TITLE_VICTORY,Sieg
+Dialogue: 0,0:00:20.00,0:00:20.90,Sign_UI,UI,0,0,0,TitleTables|TEXT_LOADING,Lädt …
+Dialogue: 0,0:00:21.00,0:00:21.90,Sign_UI,UI,0,0,0,TitleTables|TEXT_SCORE,Punkte: {0}
+Dialogue: 0,0:00:22.00,0:00:22.90,Sign_UI,UI,0,0,0,TitleTables|TEXT_LEVEL,Level {0}
+Dialogue: 0,0:00:23.00,0:00:23.90,Sign_UI,UI,0,0,0,TitleTables|TEXT_HP,HP: {0}/{1}
+Dialogue: 0,0:00:24.00,0:00:24.90,Sign_UI,UI,0,0,0,TitleTables|TEXT_TIME,Zeit: {0}
+Dialogue: 0,0:00:25.00,0:00:25.90,Sign_UI,UI,0,0,0,TitleTables|MESSAGE_CONFIRM_QUIT,Spiel wirklich beenden?
+Dialogue: 0,0:00:26.00,0:00:26.90,Sign_UI,UI,0,0,0,TitleTables|MESSAGE_SAVE_COMPLETE,Gespeichert
+Dialogue: 0,0:00:27.00,0:00:27.90,Sign_UI,UI,0,0,0,TitleTables|MESSAGE_LOAD_COMPLETE,Geladen
+Dialogue: 0,0:00:28.00,0:00:28.90,Sign_UI,UI,0,0,0,TitleTables|CONFIG_TITLE,Einstellungen
+Dialogue: 0,0:00:29.00,0:00:29.90,Sign_UI,UI,0,0,0,TitleTables|CONFIG_MASTER_VOLUME,Gesamtlautstärke
+Dialogue: 0,0:00:30.00,0:00:30.90,Sign_UI,UI,0,0,0,TitleTables|CONFIG_BGM_VOLUME,Musiklautstärke
+Dialogue: 0,0:00:31.00,0:00:31.90,Sign_UI,UI,0,0,0,TitleTables|CONFIG_SFX_VOLUME,Effektlautstärke
+Dialogue: 0,0:00:32.00,0:00:32.90,Sign_UI,UI,0,0,0,TitleTables|CONFIG_AMBIENT_VOLUME,Umgebungslautstärke
+Dialogue: 0,0:00:33.00,0:00:33.90,Sign_UI,UI,0,0,0,TitleTables|CONFIG_RESOLUTION,Auflösung
+Dialogue: 0,0:00:34.00,0:00:34.90,Sign_UI,UI,0,0,0,TitleTables|CONFIG_FULLSCREEN,Vollbild
+Dialogue: 0,0:00:35.00,0:00:35.90,Sign_UI,UI,0,0,0,TitleTables|CONFIG_LANGUAGE,Sprache
+Dialogue: 0,0:00:36.00,0:00:36.90,Sign_UI,UI,0,0,0,TitleTables|CONFIG_CLOSE,Schließen
+Dialogue: 0,0:00:37.00,0:00:37.90,Sign_UI,UI,0,0,0,TitleTables|LANGUAGE_KOREAN,한국어
+Dialogue: 0,0:00:38.00,0:00:38.90,Sign_UI,UI,0,0,0,TitleTables|LANGUAGE_ENGLISH,English
+Dialogue: 0,0:00:39.00,0:00:39.90,Sign_UI,UI,0,0,0,TitleTables|LANGUAGE_JAPANESE,日本語
+Dialogue: 0,0:00:40.00,0:00:40.90,Sign_UI,UI,0,0,0,TitleTables|SNS,SNS
+Dialogue: 0,0:00:41.00,0:00:41.90,Sign_UI,UI,0,0,0,TitleTables|Data,DATEN\nSPEICHER
+Dialogue: 0,0:00:42.00,0:00:42.90,Sign_UI,UI,0,0,0,TitleTables|YES,Ja
+Dialogue: 0,0:00:43.00,0:00:43.90,Sign_UI,UI,0,0,0,TitleTables|NO,Nein
+Dialogue: 0,0:00:44.00,0:00:44.90,Sign_UI,UI,0,0,0,TitleTables|UI_EXIT_ASK,Spiel wirklich beenden?
+Dialogue: 0,0:00:45.00,0:00:45.90,Sign_UI,UI,0,0,0,TitleTables|EMPTY,Leer
+Dialogue: 0,0:00:46.00,0:00:46.90,Sign_UI,UI,0,0,0,TitleTables|LOAD,Laden
+Dialogue: 0,0:00:47.00,0:00:47.90,Sign_UI,UI,0,0,0,TitleTables|SAVE,Speichern
+Dialogue: 0,0:00:48.00,0:00:48.90,Sign_UI,UI,0,0,0,TitleTables|DATA,Speicherdaten
+Dialogue: 0,0:00:49.00,0:00:49.90,Sign_UI,UI,0,0,0,TitleTables|CLEAR_REPAIR,Reparaturergebnisse
+Dialogue: 0,0:00:50.00,0:00:50.90,Sign_UI,UI,0,0,0,TitleTables|REPAIR_SUMMARY,Reparaturübersicht
+Dialogue: 0,0:00:51.00,0:00:51.90,Sign_UI,UI,0,0,0,TitleTables|PARTS_MOVE,Verschobene Teile
+Dialogue: 0,0:00:52.00,0:00:52.90,Sign_UI,UI,0,0,0,TitleTables|FUSION_COUNT,Fusionen
+Dialogue: 0,0:00:53.00,0:00:53.90,Sign_UI,UI,0,0,0,TitleTables|SPECIAL_FUSION_COUNT,Spezialfusionen
+Dialogue: 0,0:00:54.00,0:00:54.90,Sign_UI,UI,0,0,0,TitleTables|REPAIR_TIME,Reparaturzeit
+Dialogue: 0,0:00:55.00,0:00:55.90,Sign_UI,UI,0,0,0,TitleTables|CUSTOMER_COMMENT,Kundenkommentar
+Dialogue: 0,0:00:56.00,0:00:56.90,Sign_UI,UI,0,0,0,TitleTables|MUSIC_PLAYER,Musikplayer
+Dialogue: 0,0:00:57.00,0:00:57.90,Sign_UI,UI,0,0,0,TitleTables|OPEN_BUSINESS,Geöffnet
+Dialogue: 0,0:00:58.00,0:00:58.90,Sign_UI,UI,0,0,0,TitleTables|ACCEPT_REQUEST,Auftrag annehmen
+Dialogue: 0,0:00:59.00,0:00:59.90,Sign_UI,UI,0,0,0,TitleTables|UI_MONTH,
+Dialogue: 0,0:01:00.00,0:01:00.90,Sign_UI,UI,0,0,0,TitleTables|UI_DAY,
+Dialogue: 0,0:01:01.00,0:01:01.90,Sign_UI,UI,0,0,0,TitleTables|TITLE_GUIDE,Für ein intensiveres Erlebnis\nwird das Spielen mit Ton dringend empfohlen.\n<color=red>Zum Streamen bitte den Streaming-Modus aktivieren.</color>
+Dialogue: 0,0:01:02.00,0:01:02.90,Sign_UI,UI,0,0,0,TitleTables|MESSAGE,Nachricht
+Dialogue: 0,0:01:03.00,0:01:03.90,Sign_UI,UI,0,0,0,TitleTables|SKIP_KEY,ESC zum Überspringen
+Dialogue: 0,0:01:04.00,0:01:04.90,Sign_UI,UI,0,0,0,TitleTables|LANGUAGE_CHINESE_SIMPLE,简体中文
+Dialogue: 0,0:01:05.00,0:01:05.90,Sign_UI,UI,0,0,0,TitleTables|LANGUAGE_CHINESE_TRAD,繁體中文
+Dialogue: 0,0:01:06.00,0:01:06.90,Sign_UI,UI,0,0,0,TitleTables|POWER_NAME,<color=red>Power Unit</color>
+Dialogue: 0,0:01:07.00,0:01:07.90,Sign_UI,UI,0,0,0,TitleTables|POWER_DESC,Energiequelle, die als Herz fungiert\nLiefert die nötige Betriebsenergie und regelt die Gesamtleistung.
+Dialogue: 0,0:01:08.00,0:01:08.90,Sign_UI,UI,0,0,0,TitleTables|LOGIC_NAME,<color=blue>Logic Unit</color>
+Dialogue: 0,0:01:09.00,0:01:09.90,Sign_UI,UI,0,0,0,TitleTables|LOGIC_DESC,Zentrale Recheneinheit, die als Gehirn fungiert\nSteigert die Verarbeitungsgeschwindigkeit und steuert die kognitiven Fähigkeiten.
+Dialogue: 0,0:01:10.00,0:01:10.90,Sign_UI,UI,0,0,0,TitleTables|NERVE_NAME,<color=yellow>Neural Unit</color>
+Dialogue: 0,0:01:11.00,0:01:11.90,Sign_UI,UI,0,0,0,TitleTables|NERVE_DESC,Sinnesorgane und neuronales Netz in einem.\nErfasst externe Informationen und leitet Signale schnell an alle Komponenten weiter.
+Dialogue: 0,0:01:12.00,0:01:12.90,Sign_UI,UI,0,0,0,TitleTables|UI_TUTORIAL_START,Meine letzte Übungswartung ist schon eine Weile her. Gehen wir es Schritt für Schritt an.\n(Tutorial starten)
+Dialogue: 0,0:01:13.00,0:01:13.90,Sign_UI,UI,0,0,0,TitleTables|UI_TUTORIAL_SKIP,Das kenne ich alles schon. Bringen wir es einfach hinter uns.\n(Tutorial überspringen)
+Dialogue: 0,0:01:14.00,0:01:14.90,Sign_UI,UI,0,0,0,TitleTables|CONFIG_SKIP_ANIMATION,Schnelle Animationen
+Dialogue: 0,0:01:15.00,0:01:15.90,Sign_UI,UI,0,0,0,TitleTables|CHOICE,Entscheidung
+Dialogue: 0,0:01:16.00,0:01:16.90,Sign_UI,UI,0,0,0,TitleTables|PrivatePolicy,Datenschutzerklärung
+Dialogue: 0,0:01:17.00,0:01:17.90,Sign_UI,UI,0,0,0,TitleTables|PERFECT_REPAIR,Perfekte Reparatur!
+Dialogue: 0,0:01:18.00,0:01:18.90,Sign_UI,UI,0,0,0,TitleTables|REPAIR_COMPLETE,Reparatur abgeschlossen
+Dialogue: 0,0:01:19.00,0:01:19.90,Sign_UI,UI,0,0,0,TitleTables|GOAL_MOVE_COUNT,<color=yellow>Zielzüge</color>
+Dialogue: 0,0:01:20.00,0:01:20.90,Sign_UI,UI,0,0,0,TitleTables|GOAL_TIME_LIMIT,<color=yellow>Zielzeit</color>
+Dialogue: 0,0:01:21.00,0:01:21.90,Sign_UI,UI,0,0,0,TitleTables|CONFIG_STREAMING,Streaming-Modus

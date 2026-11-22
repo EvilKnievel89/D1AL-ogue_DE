@@ -1,0 +1,83 @@
+[Script Info]
+Title: S01E05_Tag2_Blade
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,StartMain,???,0,0,0,DialogueTable|60008_1,Tier-2-Power-Unit, Tier-2-Neural-Unit. Je zwei. Zack.
+Dialogue: 0,0:00:01.00,0:00:01.90,StartMain,Chris,0,0,0,DialogueTable|60008_2,...
+Dialogue: 0,0:00:02.00,0:00:02.90,StartMain,Chris,0,0,0,DialogueTable|60008_3,Hallo …?
+Dialogue: 0,0:00:03.00,0:00:03.90,StartMain,???,0,0,0,DialogueTable|60008_4,Was starrst du Löcher in die Luft?
+Dialogue: 0,0:00:04.00,0:00:04.90,StartMain,Chris,0,0,0,DialogueTable|60008_5,…Entschuldigen Sie. Stehen Sie zufällig direkt vor mir?
+Dialogue: 0,0:00:05.00,0:00:05.90,StartMain,???,0,0,0,DialogueTable|60008_6,Du kannst nur das sichtbare Lichtspektrum sehen?
+Dialogue: 0,0:00:06.00,0:00:06.90,StartMain,Chris,0,0,0,DialogueTable|60008_7,Ja, ich habe keine Digitalisierung des Sehnervs.
+Dialogue: 0,0:00:07.00,0:00:07.90,StartMain,???,0,0,0,DialogueTable|60008_8,Du hast nicht mal die Grundausstattung für diese Stadt.
+Dialogue: 0,0:00:08.00,0:00:08.90,StartMain,???,0,0,0,DialogueTable|60008_9,In dieser beschissenen Gegend, wo es Nacht ist, sobald man aufwacht, und man sich nur auf sichtbares Licht verlässt …
+Dialogue: 0,0:00:09.00,0:00:09.90,StartMain,???,0,0,0,DialogueTable|60008_10,kriegst du bald 'ne neurologische Störung und endest als einer dieser sabbernden Idioten da draußen.
+Dialogue: 0,0:00:10.00,0:00:10.90,StartMain,Chris,0,0,0,DialogueTable|60008_11,Ich zahle mein Neon-Shine-Abo regelmäßig, deshalb brauche ich das eigentlich nicht.
+Dialogue: 0,0:00:11.00,0:00:11.90,StartMain,???,0,0,0,DialogueTable|60008_12,Oh Mann. Da haben wir ja einen Idioten, der diesem verdammten Konzern sein Geld in den Rachen wirft.
+Dialogue: 0,0:00:12.00,0:00:12.90,StartMain,???,0,0,0,DialogueTable|60008_13,Du bist entweder ein dämlicher Trottel, dem die Medien das Hirn gewaschen haben,
+Dialogue: 0,0:00:13.00,0:00:13.90,StartMain,???,0,0,0,DialogueTable|60008_14,oder ein durchgeknallter Bastard mit silbernem Löffel im Mund, der glaubt, Geld wächst auf Bäumen.
+Dialogue: 0,0:00:14.00,0:00:14.90,StartMain,Chris,0,0,0,DialogueTable|60008_15,...
+Dialogue: 0,0:00:15.00,0:00:15.90,StartMain,Chris,0,0,0,DialogueTable|60008_16,Ich weiß nicht, was für ein Leben Sie führen,
+Dialogue: 0,0:00:16.00,0:00:16.90,StartMain,Chris,0,0,0,DialogueTable|60008_17,aber ich bin etwas zu gesetzestreu, um es auf Ihre Art zu machen.
+Dialogue: 0,0:00:17.00,0:00:17.90,StartMain,???,0,0,0,DialogueTable|60008_18,Ich bin erstaunt, dass jemand mit dem Kopf so in den Wolken noch in dieser Stadt lebt.
+Dialogue: 0,0:00:18.00,0:00:18.90,StartMain,???,0,0,0,DialogueTable|60008_19,Es ist ein Wunder, dass du überhaupt noch auf eigenen Beinen herumläufst.
+Dialogue: 0,0:00:19.00,0:00:19.90,StartMain,Chris,0,0,0,DialogueTable|60008_20,(Was für ein kompletter Spinner.)
+Dialogue: 0,0:00:20.00,0:00:20.90,StartMain,Chris,0,0,0,DialogueTable|60008_21,Bitte deaktivieren Sie Ihre optische Tarnung. Wenn Sie nicht wegen einer Reparatur hier sind, gehen Sie bitte.
+Dialogue: 0,0:00:21.00,0:00:21.90,StartMain,???,0,0,0,DialogueTable|60008_22,...!
+Dialogue: 0,0:00:22.00,0:00:22.90,StartMain,???,0,0,0,DialogueTable|60008_23,Kleiner, warum sagst du mir plötzlich, ich soll meine optische Tarnung deaktivieren?
+Dialogue: 0,0:00:23.00,0:00:23.90,StartMain,Chris,0,0,0,DialogueTable|60008_24,Für die Reparatur muss ich Sie scannen und die Einheit ersetzen,
+Dialogue: 0,0:00:24.00,0:00:24.90,StartMain,Chris,0,0,0,DialogueTable|60008_25,aber ich kann Sie überhaupt nicht sehen, also kann ich meine Arbeit nicht richtig machen.
+Dialogue: 0,0:00:25.00,0:00:25.90,StartMain,???,0,0,0,DialogueTable|60008_26,Ist das wirklich der einzige Grund?
+Dialogue: 0,0:00:26.00,0:00:26.90,StartMain,???,0,0,0,DialogueTable|60008_27,Heh. Du bist ja ein richtiger Komiker, was?
+Dialogue: 0,0:00:27.00,0:00:27.90,StartMain,???,0,0,0,DialogueTable|60008_28,Warum solltest du sie ersetzen? Ich tausche sie einfach selbst.
+Dialogue: 0,0:00:28.00,0:00:28.90,StartMain,Chris,0,0,0,DialogueTable|60008_29,Sie tauschen sie selbst?
+Dialogue: 0,0:00:29.00,0:00:29.90,StartMain,Chris,0,0,0,DialogueTable|60008_30,So wie ein Mensch sich nicht selbst den Bauch aufschneiden und in seinen Organen herumwühlen kann,
+Dialogue: 0,0:00:30.00,0:00:30.90,StartMain,Chris,0,0,0,DialogueTable|60008_31,kann eine E.V.E nicht einfach ihren Kernbereich aufklappen und allein eine Einheit tauschen.
+Dialogue: 0,0:00:31.00,0:00:31.90,StartMain,???,0,0,0,DialogueTable|60008_32,Nichts ist unmöglich, Kleiner.
+Dialogue: 0,0:00:32.00,0:00:32.90,StartMain,???,0,0,0,DialogueTable|60008_33,Man klappt nur das Gehäuse auf, tauscht die Einheit und macht wieder zu.
+Dialogue: 0,0:00:33.00,0:00:33.90,StartMain,???,0,0,0,DialogueTable|60008_34,Wenn ich dabei einen Fehler mache und der Strom für immer ausgeht,
+Dialogue: 0,0:00:34.00,0:00:34.90,StartMain,???,0,0,0,DialogueTable|60008_35,dann ist das eben das Ende für mich.
+Dialogue: 0,0:00:35.00,0:00:35.90,StartMain,Chris,0,0,0,DialogueTable|60008_36,So viel Leichtsinn macht mich sprachlos.
+Dialogue: 0,0:00:36.00,0:00:36.90,StartMain,???,0,0,0,DialogueTable|60008_37,Ich wäre dir dankbar, wenn du einfach die Klappe hältst und die Einheit fertig machst.
+Dialogue: 0,0:00:37.00,0:00:37.90,StartMain,Chris,0,0,0,DialogueTable|60008_38,So gern ich auch einfach den Mund halten und sie für Sie bereitmachen würde,
+Dialogue: 0,0:00:38.00,0:00:38.90,StartMain,Chris,0,0,0,DialogueTable|60008_39,als Betreiber muss ich an den Ruf meiner Klinik denken.
+Dialogue: 0,0:00:39.00,0:00:39.90,StartMain,???,0,0,0,DialogueTable|60008_40,Selbst wenn ich spurlos tot umfalle, macht niemand diesen Laden dafür verantwortlich.
+Dialogue: 0,0:00:40.00,0:00:40.90,StartMain,???,0,0,0,DialogueTable|60008_41,Selbst wenn mir auf offener Straße ein Konzernhenker den Kopf wegbläst, schreibt es jeder einem natürlichen Tod zu.
+Dialogue: 0,0:00:41.00,0:00:41.90,StartMain,Chris,0,0,0,DialogueTable|60008_42,Woher soll ich das wissen?
+Dialogue: 0,0:00:42.00,0:00:42.90,StartMain,Blade,0,0,0,DialogueTable|60008_43,Blade. Blade Hamilton.
+Dialogue: 0,0:00:43.00,0:00:43.90,StartMain,Blade,0,0,0,DialogueTable|60008_44,Wirf meinen Namen drei Blocks weiter unten in den Hinterhöfen in die Runde, und alle wissen Bescheid.
+Dialogue: 0,0:00:44.00,0:00:44.90,StartMain,Blade,0,0,0,DialogueTable|60008_45,Also, was du jetzt tun musst: Wisch dir diesen dämlichen Ausdruck aus dem Gesicht und synthetisier mir die Einheiten.
+Dialogue: 0,0:00:45.00,0:00:45.90,StartMain,Chris,0,0,0,DialogueTable|60008_46,Mit diesem Kerl kann man nicht reden …
+Dialogue: 0,0:00:46.00,0:00:46.90,StartMain,Chris,0,0,0,DialogueTable|60008_47,...
+Dialogue: 0,0:00:47.00,0:00:47.90,StartMain,Chris,0,0,0,DialogueTable|60008_48,Verstanden, Herr Blade.
+Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Chris,0,0,0,DialogueTable|60008_49,Ich bereite die Einheiten zuerst vor. Was genau brauchten Sie noch mal?
+Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Blade,0,0,0,DialogueTable|60008_50,Hab ich dir schon gesagt. Tier-2-Power-Unit, Tier-2-Neural-Unit.
+Dialogue: 0,0:00:50.00,0:00:50.90,StartMain,Blade,0,0,0,DialogueTable|60008_51,Brenn dir das in dein dämliches Hirn, damit du es nicht vergisst.
+Dialogue: 0,0:00:51.00,0:00:51.90,StartMain,Chris,0,0,0,DialogueTable|60008_52,(Verdammt …)
+Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Chris,0,0,0,DialogueTable|60008_53,Einen Moment bitte.
+Dialogue: 0,0:00:53.00,0:00:53.90,StartMain,Auftragstitel,0,0,0,DialogueTable|60008_54,[Blades Auftrag] Einheiten für einen Irren synthetisieren
+Dialogue: 0,0:00:54.00,0:00:54.90,ClearMain,Chris,0,0,0,DialogueTable|60009_1,Danke fürs Warten.
+Dialogue: 0,0:00:55.00,0:00:55.90,ClearMain,Blade,0,0,0,DialogueTable|60009_2,Schneller als gedacht.
+Dialogue: 0,0:00:56.00,0:00:56.90,ClearMain,Blade,0,0,0,DialogueTable|60009_3,Die synthetisierten Einheiten sind auch sauber.
+Dialogue: 0,0:00:57.00,0:00:57.90,ClearMain,Blade,0,0,0,DialogueTable|60009_4,Für einen, der vorhin so dämlich aussah, bist du fähiger, als du aussiehst.
+Dialogue: 0,0:00:58.00,0:00:58.90,ClearMain,Chris,0,0,0,DialogueTable|60009_5,Danke für das Kompliment.
+Dialogue: 0,0:00:59.00,0:00:59.90,ClearMain,Blade,0,0,0,DialogueTable|60009_6,Weil ich gute Laune habe, gebe ich dir einen Rat.
+Dialogue: 0,0:01:00.00,0:01:00.90,ClearMain,Blade,0,0,0,DialogueTable|60009_7,Du solltest das „Psychotherapie“-Schild an deiner Tür loswerden.
+Dialogue: 0,0:01:01.00,0:01:01.90,ClearMain,Blade,0,0,0,DialogueTable|60009_8,Der Schuppen, in dem ich letzte Woche eine vollbusige E.V.E abschleppen wollte, hatte genau dasselbe.
+Dialogue: 0,0:01:02.00,0:01:02.90,ClearMain,Chris,0,0,0,DialogueTable|60009_9,Danke für den Tipp, aber das ist die Identität meiner Klinik.
+Dialogue: 0,0:01:03.00,0:01:03.90,ClearMain,Chris,0,0,0,DialogueTable|60009_10,Deshalb habe ich nicht vor, es zu ändern.
+Dialogue: 0,0:01:04.00,0:01:04.90,ClearMain,Chris,0,0,0,DialogueTable|60009_11,Wissen Sie was? Deaktivieren Sie nächstes Mal Ihre optische Tarnung und lassen Sie mich selbst Hand anlegen,
+Dialogue: 0,0:01:05.00,0:01:05.90,ClearMain,Chris,0,0,0,DialogueTable|60009_12,dann bekommen Sie den vollen Service.
+Dialogue: 0,0:01:06.00,0:01:06.90,ClearMain,Blade,0,0,0,DialogueTable|60009_13,Solange du dieses Ding zwischen den Beinen baumeln hast, kriege ich von dir garantiert keinen „Service“.
+Dialogue: 0,0:01:07.00,0:01:07.90,ClearMain,Blade,0,0,0,DialogueTable|60009_14,Trotzdem danke. Dann war der Weg wohl nicht umsonst.
+Dialogue: 0,0:01:08.00,0:01:08.90,ClearMain,Chris,0,0,0,DialogueTable|60009_15,Machen Sie's gut, Herr Blade.
+Dialogue: 0,0:01:09.00,0:01:09.90,ClearMain,Chris,0,0,0,DialogueTable|60009_16,Bis zum nächsten Mal.
+Dialogue: 0,0:01:10.00,0:01:10.90,ClearMain,Blade,0,0,0,DialogueTable|60009_17,Verlass dich nicht drauf.
+Dialogue: 0,0:01:11.00,0:01:11.90,ClearMain,Chris,0,0,0,DialogueTable|60009_18,Mit verrückten Kunden umzugehen ist unglaublich ermüdend …
+Dialogue: 0,0:01:12.00,0:01:12.90,ClearMain,Chris,0,0,0,DialogueTable|60009_19,Ich mache heute besser Feierabend und beruhige meinen müden Körper und Geist mit einer Dose Bier.

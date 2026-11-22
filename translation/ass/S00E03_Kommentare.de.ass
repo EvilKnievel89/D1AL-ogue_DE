@@ -1,0 +1,55 @@
+[Script Info]
+Title: Kundenkommentare
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,Kommentar_Gut,Michelle,0,0,0,CommentTable|51000_C3,Ehrlich, ich wusste, dass du eine Reparaturklinik betreibst, aber ich hatte keine Ahnung, dass du so gut bist.
+Dialogue: 0,0:00:01.00,0:00:01.90,Kommentar_Normal,Michelle,0,0,0,CommentTable|51000_C2,Ehrlich, ich wusste, dass du eine Reparaturklinik betreibst, aber ich hatte keine Ahnung, dass du so gut bist.
+Dialogue: 0,0:00:02.00,0:00:02.90,Kommentar_Schlecht,Michelle,0,0,0,CommentTable|51000_C1,Ehrlich, ich wusste, dass du eine Reparaturklinik betreibst, aber ich hatte keine Ahnung, dass du so gut bist.
+Dialogue: 0,0:00:03.00,0:00:03.90,Kommentar_Gut,Pray,0,0,0,CommentTable|51001_C3,Fühlt es sich so an, wenn Ohara ihren Körper mit Brief Seed läutert?
+Dialogue: 0,0:00:04.00,0:00:04.90,Kommentar_Normal,Pray,0,0,0,CommentTable|51001_C2,Es fühlt sich an, als hätte ich einen Magical Lariat voll abbekommen. Als würde man nach viel Schmerz geläutert.
+Dialogue: 0,0:00:05.00,0:00:05.90,Kommentar_Schlecht,Pray,0,0,0,CommentTable|51001_C1,Es fühlt sich an, als hätte ich einen Magical Lariat voll abbekommen. Als würde man nach viel Schmerz geläutert.
+Dialogue: 0,0:00:06.00,0:00:06.90,Kommentar_Gut,Orca,0,0,0,CommentTable|51002_C3,Huch? Dieses seltsame, schwere Gefühl, das mich heruntergezogen hat, ist völlig weg! Nein, sogar besser – es fühlt sich so erfrischend an!
+Dialogue: 0,0:00:07.00,0:00:07.90,Kommentar_Normal,Orca,0,0,0,CommentTable|51002_C2,Gibt es hier eine Toilette? Es hat länger gedauert, als ich dachte, und ich muss dringend mal...
+Dialogue: 0,0:00:08.00,0:00:08.90,Kommentar_Schlecht,Orca,0,0,0,CommentTable|51002_C1,Gibt es hier eine Toilette? Es hat länger gedauert, als ich dachte, und ich muss dringend mal...
+Dialogue: 0,0:00:09.00,0:00:09.90,Kommentar_Gut,Lianne,0,0,0,CommentTable|51003_C3,Wie deine Hände gekonnt meine geheimen Winkel erkundet haben, die Führung übernommen und mir keinen Raum zum Widerstand gelassen haben...
+Dialogue: 0,0:00:10.00,0:00:10.90,Kommentar_Normal,Lianne,0,0,0,CommentTable|51003_C2,Du hast heute ziemlich viele kleine Patzer gemacht. Ich hoffe, du hast nicht an jemand anderen gedacht, während ich direkt vor dir sitze.
+Dialogue: 0,0:00:11.00,0:00:11.90,Kommentar_Schlecht,Lianne,0,0,0,CommentTable|51003_C1,Du hast heute ziemlich viele kleine Patzer gemacht. Ich hoffe, du hast nicht an jemand anderen gedacht, während ich direkt vor dir sitze.
+Dialogue: 0,0:00:12.00,0:00:12.90,Kommentar_Gut,Blade,0,0,0,CommentTable|51004_C3,Für einen Typen, der vorhin so dämlich aussah, bist du geschickter, als du aussiehst.
+Dialogue: 0,0:00:13.00,0:00:13.90,Kommentar_Normal,Blade,0,0,0,CommentTable|51004_C2,Für einen Typen, der vorhin so dämlich aussah, bist du geschickter, als du aussiehst.
+Dialogue: 0,0:00:14.00,0:00:14.90,Kommentar_Schlecht,Blade,0,0,0,CommentTable|51004_C1,Für einen Typen, der vorhin so dämlich aussah, bist du geschickter, als du aussiehst.
+Dialogue: 0,0:00:15.00,0:00:15.90,Kommentar_Gut,Pray,0,0,0,CommentTable|51005_C3,Was für einen Zauber hast du da gewirkt? Dadurch scheinen sich die angespannten Neural Units beruhigt zu haben.
+Dialogue: 0,0:00:16.00,0:00:16.90,Kommentar_Normal,Pray,0,0,0,CommentTable|51005_C2,Es kommt mir vor, als hätte es heute viel länger gedauert als sonst. Stimmt etwas nicht? Vielleicht warst du die ganze Nacht allein wach, so wie ich, und hast…
+Dialogue: 0,0:00:17.00,0:00:17.90,Kommentar_Schlecht,Pray,0,0,0,CommentTable|51005_C1,Es kommt mir vor, als hätte es heute viel länger gedauert als sonst. Stimmt etwas nicht? Vielleicht warst du die ganze Nacht allein wach, so wie ich, und hast…
+Dialogue: 0,0:00:18.00,0:00:18.90,Kommentar_Gut,Lianne,0,0,0,CommentTable|51006_C3,Es hat sich angefühlt, als wäre der ganze aufgestaute Stress vom ständigen Herumgeschubstwerden in letzter Zeit einfach weggespült worden. So sehr, dass ich fast den Verstand verloren hätte.
+Dialogue: 0,0:00:19.00,0:00:19.90,Kommentar_Normal,Lianne,0,0,0,CommentTable|51006_C2,Du warst heute ungewöhnlich langsam. Aber mir hat diese gemächliche Berührung eigentlich gefallen.
+Dialogue: 0,0:00:20.00,0:00:20.90,Kommentar_Schlecht,Lianne,0,0,0,CommentTable|51006_C1,Du warst heute ungewöhnlich langsam. Aber mir hat diese gemächliche Berührung eigentlich gefallen.
+Dialogue: 0,0:00:21.00,0:00:21.90,Kommentar_Gut,Orca,0,0,0,CommentTable|51007_C3,Aber... weil ich Buff Girl bin... muss ich alle beschützen… Ich stehe immer wieder auf... Zzz…
+Dialogue: 0,0:00:22.00,0:00:22.90,Kommentar_Normal,Orca,0,0,0,CommentTable|51007_C2,Wenn schon eine einfache Wiederherstellung so lange dauert, wäre ich bei einer schweren Verletzung gestorben!… Zzz…
+Dialogue: 0,0:00:23.00,0:00:23.90,Kommentar_Schlecht,Orca,0,0,0,CommentTable|51007_C1,Wenn schon eine einfache Wiederherstellung so lange dauert, wäre ich bei einer schweren Verletzung gestorben!… Zzz…
+Dialogue: 0,0:00:24.00,0:00:24.90,Kommentar_Gut,Blade,0,0,0,CommentTable|51008_C3,Im Gegensatz zu deinem dämlichen ersten Eindruck riecht dein Können nach etwas... ziemlich Gefährlichem.
+Dialogue: 0,0:00:25.00,0:00:25.90,Kommentar_Normal,Blade,0,0,0,CommentTable|51008_C2,Im Gegensatz zu deinem dämlichen ersten Eindruck riecht dein Können nach etwas... ziemlich Gefährlichem.
+Dialogue: 0,0:00:26.00,0:00:26.90,Kommentar_Schlecht,Blade,0,0,0,CommentTable|51008_C1,Im Gegensatz zu deinem dämlichen ersten Eindruck riecht dein Können nach etwas... ziemlich Gefährlichem.
+Dialogue: 0,0:00:27.00,0:00:27.90,Kommentar_Gut,Pray,0,0,0,CommentTable|51009_C3,Mein Kopf ist irgendwie benommen und... erfrischt. Äh... Keine Ahnung, ob ich das richtig erkläre.
+Dialogue: 0,0:00:28.00,0:00:28.90,Kommentar_Normal,Pray,0,0,0,CommentTable|51009_C2,Ich habe „Mach, was du willst“ gesagt, aber wer nimmt das denn bitte wörtlich? Meine Zehen standen kurz vor einem Krampf.
+Dialogue: 0,0:00:29.00,0:00:29.90,Kommentar_Schlecht,Pray,0,0,0,CommentTable|51009_C1,Ich habe „Mach, was du willst“ gesagt, aber wer nimmt das denn bitte wörtlich? Meine Zehen standen kurz vor einem Krampf.
+Dialogue: 0,0:00:30.00,0:00:30.90,Kommentar_Gut,Lianne,0,0,0,CommentTable|51010_C3,Puh... Ich glaube, mein Kopf wird endlich klar. Wenn ich unter deinen Händen bin… vergesse ich so... vieles.
+Dialogue: 0,0:00:31.00,0:00:31.90,Kommentar_Normal,Lianne,0,0,0,CommentTable|51010_C2,M-Meine Beine fühlen sich an wie Pudding… Wasser…
+Dialogue: 0,0:00:32.00,0:00:32.90,Kommentar_Schlecht,Lianne,0,0,0,CommentTable|51010_C1,M-Meine Beine fühlen sich an wie Pudding… Wasser…
+Dialogue: 0,0:00:33.00,0:00:33.90,Kommentar_Gut,Orca,0,0,0,CommentTable|51011_C3,Mein Schwanz fühlt sich schon leichter an, und die Motorik... scheint stabil!
+Dialogue: 0,0:00:34.00,0:00:34.90,Kommentar_Normal,Orca,0,0,0,CommentTable|51011_C2,Es hat etwas gedauert... Mein Schwanz fühlt sich schon leichter an, und die Motorik... scheint stabil!
+Dialogue: 0,0:00:35.00,0:00:35.90,Kommentar_Schlecht,Orca,0,0,0,CommentTable|51011_C1,Es hat etwas gedauert... Mein Schwanz fühlt sich schon leichter an, und die Motorik... scheint stabil!
+Dialogue: 0,0:00:36.00,0:00:36.90,Kommentar_Gut,Lianne,0,0,0,CommentTable|51012_C3,Ich habe das Gefühl, meine ganze Anspannung ist einfach dahingeschmolzen. D-diese… diese Methode, das sollten wir später wahrscheinlich nochmal machen…
+Dialogue: 0,0:00:37.00,0:00:37.90,Kommentar_Normal,Lianne,0,0,0,CommentTable|51012_C2,Chris... Das Kühlmittel direkt abzulassen ist... für uns E.V.Es... na ja, ein ziemlich empfindlicher Bereich.
+Dialogue: 0,0:00:38.00,0:00:38.90,Kommentar_Schlecht,Lianne,0,0,0,CommentTable|51012_C1,Chris... Das Kühlmittel direkt abzulassen ist... für uns E.V.Es... na ja, ein ziemlich empfindlicher Bereich.
+Dialogue: 0,0:00:39.00,0:00:39.90,Kommentar_Gut,Orca,0,0,0,CommentTable|51013_C3,Im Einsatz, mit echtem Kraftaufwand, mag es anders sein, aber… das Gefühl an sich ist vollkommen klar.
+Dialogue: 0,0:00:40.00,0:00:40.90,Kommentar_Normal,Orca,0,0,0,CommentTable|51013_C2,Es hat länger gedauert als erwartet. Tut mir leid. Ich muss ziemlich anstrengend gewesen sein…
+Dialogue: 0,0:00:41.00,0:00:41.90,Kommentar_Schlecht,Orca,0,0,0,CommentTable|51013_C1,Es hat länger gedauert als erwartet. Tut mir leid. Ich muss ziemlich anstrengend gewesen sein…
+Dialogue: 0,0:00:42.00,0:00:42.90,Kommentar_Gut,Pray,0,0,0,CommentTable|51014_C3,Noch ein bisschen länger... das ging viel zu schnell...
+Dialogue: 0,0:00:43.00,0:00:43.90,Kommentar_Normal,Pray,0,0,0,CommentTable|51014_C2,Noch ein bisschen länger... Ich hatte mich gerade an diese schöne, langsame Berührung gewöhnt…
+Dialogue: 0,0:00:44.00,0:00:44.90,Kommentar_Schlecht,Pray,0,0,0,CommentTable|51014_C1,Noch ein bisschen länger... Ich hatte mich gerade an diese schöne, langsame Berührung gewöhnt…

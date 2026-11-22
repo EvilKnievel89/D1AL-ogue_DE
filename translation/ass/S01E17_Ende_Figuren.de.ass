@@ -1,0 +1,219 @@
+[Script Info]
+Title: S01E17_Ende_Figuren
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80004_1,Der Nachthimmel am Polarnacht-Tag.
+Dialogue: 0,0:00:01.00,0:00:01.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80004_2,Das Chromatic Zenith erhellt die Stadt wie am helllichten Tag.
+Dialogue: 0,0:00:02.00,0:00:02.90,Ending_Figur,Chris,0,0,0,CutScene|80004_3,Entschuldigung ...
+Dialogue: 0,0:00:03.00,0:00:03.90,Ending_Figur,Chris,0,0,0,CutScene|80004_4,Tut mir leid, tut mir so leid ...
+Dialogue: 0,0:00:04.00,0:00:04.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80004_5,Diese grellen Straßen.
+Dialogue: 0,0:00:05.00,0:00:05.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80004_6,Mit noch grelleren Schildern und Vintage-Dekorationen.
+Dialogue: 0,0:00:06.00,0:00:06.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80004_7,Ihre Schönheit ließ mich nur noch kleiner fühlen,
+Dialogue: 0,0:00:07.00,0:00:07.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80004_8,da ich mich ohnehin mies fühlte, weil ich zu spät zur Reservierung kam.
+Dialogue: 0,0:00:08.00,0:00:08.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_9,Was zum ...
+Dialogue: 0,0:00:09.00,0:00:09.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_10,Du sagtest, du hättest an diesem kostbaren Polarnacht-Abend schon was vor,
+Dialogue: 0,0:00:10.00,0:00:10.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_11,also habe ich mich zurückgehalten, weil ich dachte, du hättest dir endlich eine Freundin geangelt ...
+Dialogue: 0,0:00:11.00,0:00:11.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_12,Du bist extra hierhergekommen, nur um Fotos zu machen?
+Dialogue: 0,0:00:12.00,0:00:12.90,Ending_Figur,Chris,0,0,0,CutScene|80004_13,Hier eine Reservierung zu kriegen ist ziemlich schwer, weißt du.
+Dialogue: 0,0:00:13.00,0:00:13.90,Ending_Figur,Chris,0,0,0,CutScene|80004_14,Es heißt, von hier hat man den besten Blick auf das Chromatic Zenith der ganzen Stadt.
+Dialogue: 0,0:00:14.00,0:00:14.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_15,Schön für dich,
+Dialogue: 0,0:00:15.00,0:00:15.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_16,aber ich weise nur darauf hin, dass du gerade völlig solo unterwegs bist.
+Dialogue: 0,0:00:16.00,0:00:16.90,Ending_Figur,Chris,0,0,0,CutScene|80004_17,Ich wollte es dir zeigen,
+Dialogue: 0,0:00:17.00,0:00:17.90,Ending_Figur,Chris,0,0,0,CutScene|80004_18,falls du dich melden würdest.
+Dialogue: 0,0:00:18.00,0:00:18.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_19,Mir?
+Dialogue: 0,0:00:19.00,0:00:19.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_20,Warum?
+Dialogue: 0,0:00:20.00,0:00:20.90,Ending_Figur,Chris,0,0,0,CutScene|80004_21,Chroma City ist ein raues Pflaster.
+Dialogue: 0,0:00:21.00,0:00:21.90,Ending_Figur,Chris,0,0,0,CutScene|80004_22,Zu viele Menschen leiden hier,
+Dialogue: 0,0:00:22.00,0:00:22.90,Ending_Figur,Chris,0,0,0,CutScene|80004_23,und Opfer überschreiten die Grenze und werden selbst zu denen, die anderen wehtun.
+Dialogue: 0,0:00:23.00,0:00:23.90,Ending_Figur,Chris,0,0,0,CutScene|80004_24,Trotzdem ...
+Dialogue: 0,0:00:24.00,0:00:24.90,Ending_Figur,Chris,0,0,0,CutScene|80004_25,dass eine Polarnacht in Chroma immer noch etwas Schönes sein kann ...
+Dialogue: 0,0:00:25.00,0:00:25.90,Ending_Figur,Chris,0,0,0,CutScene|80004_26,Das wollte ich dir zeigen.
+Dialogue: 0,0:00:26.00,0:00:26.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_27,Na ja ... ich weiß, das Thema ist jetzt abgehakt, aber ...
+Dialogue: 0,0:00:27.00,0:00:27.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_28,im Grunde sagst du, dass mehr an mir dran ist als nur ich selbst.
+Dialogue: 0,0:00:28.00,0:00:28.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_29,Das ist doch der Kern, oder?
+Dialogue: 0,0:00:29.00,0:00:29.90,Ending_Figur,Chris,0,0,0,CutScene|80004_30,Genau.
+Dialogue: 0,0:00:30.00,0:00:30.90,Ending_Figur,Chris,0,0,0,CutScene|80004_31,Ich schulde wohl allen anderen eine Entschuldigung, aber ...
+Dialogue: 0,0:00:31.00,0:00:31.90,Ending_Figur,Chris,0,0,0,CutScene|80004_32,aber für diese Reservierung habe ich gutes Geld bezahlt.
+Dialogue: 0,0:00:32.00,0:00:32.90,Ending_Figur,Chris,0,0,0,CutScene|80004_33,Wäre schade, sie verfallen zu lassen.
+Dialogue: 0,0:00:33.00,0:00:33.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_34,... Ich fühle mich abgezockt.
+Dialogue: 0,0:00:34.00,0:00:34.90,Ending_Figur,Chris,0,0,0,CutScene|80004_35,Oh, sieht aus, als könnte ich jetzt rein.
+Dialogue: 0,0:00:35.00,0:00:35.90,Ending_Figur,Chris,0,0,0,CutScene|80004_36,Komm, gehen wir rein.
+Dialogue: 0,0:00:36.00,0:00:36.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80001_1,Der Nachthimmel am Polarnacht-Tag.
+Dialogue: 0,0:00:37.00,0:00:37.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80001_2,Das Chromatic Zenith erhellt die Stadt wie am helllichten Tag.
+Dialogue: 0,0:00:38.00,0:00:38.90,Ending_Figur,Pray,0,0,0,CutScene|80001_3,Du kommst zu spät.
+Dialogue: 0,0:00:39.00,0:00:39.90,Ending_Figur,Pray,0,0,0,CutScene|80001_4,Viel zu spät.
+Dialogue: 0,0:00:40.00,0:00:40.90,Ending_Figur,Chris,0,0,0,CutScene|80001_5,Tut mir leid.
+Dialogue: 0,0:00:41.00,0:00:41.90,Ending_Figur,Chris,0,0,0,CutScene|80001_6,Michelle hat mir aus heiterem Himmel geschrieben.
+Dialogue: 0,0:00:42.00,0:00:42.90,Ending_Figur,Chris,0,0,0,CutScene|80001_7,Es ist ein großer Tag,
+Dialogue: 0,0:00:43.00,0:00:43.90,Ending_Figur,Chris,0,0,0,CutScene|80001_8,ich hätte besser aufpassen sollen ...
+Dialogue: 0,0:00:44.00,0:00:44.90,Ending_Figur,Pray,0,0,0,CutScene|80001_9,Michelle?
+Dialogue: 0,0:00:45.00,0:00:45.90,Ending_Figur,Pray,0,0,0,CutScene|80001_10,Endlich?
+Dialogue: 0,0:00:46.00,0:00:46.90,Ending_Figur,Pray,0,0,0,CutScene|80001_11,Danach und nach deinem Gesichtsausdruck zu urteilen,
+Dialogue: 0,0:00:47.00,0:00:47.90,Ending_Figur,Pray,0,0,0,CutScene|80001_12,ist es wohl gut gelaufen.
+Dialogue: 0,0:00:48.00,0:00:48.90,Ending_Figur,Pray,0,0,0,CutScene|80001_13,Du bist viel zu spät aufgekreuzt
+Dialogue: 0,0:00:49.00,0:00:49.90,Ending_Figur,Pray,0,0,0,CutScene|80001_14,mit einem breiten Grinsen im Gesicht,
+Dialogue: 0,0:00:50.00,0:00:50.90,Ending_Figur,Pray,0,0,0,CutScene|80001_15,also wollte ich dir schon gehörig die Meinung geigen ...
+Dialogue: 0,0:00:51.00,0:00:51.90,Ending_Figur,Chris,0,0,0,CutScene|80001_16,Das ist eine lange Geschichte,
+Dialogue: 0,0:00:52.00,0:00:52.90,Ending_Figur,Chris,0,0,0,CutScene|80001_17,aber jedenfalls ist alles gut ausgegangen.
+Dialogue: 0,0:00:53.00,0:00:53.90,Ending_Figur,Chris,0,0,0,CutScene|80001_18,Sie hat mich sogar angefeuert
+Dialogue: 0,0:00:54.00,0:00:54.90,Ending_Figur,Chris,0,0,0,CutScene|80001_19,und gesagt, ich soll mich beeilen
+Dialogue: 0,0:00:55.00,0:00:55.90,Ending_Figur,Chris,0,0,0,CutScene|80001_20,und heute einen guten Eindruck machen.
+Dialogue: 0,0:00:56.00,0:00:56.90,Ending_Figur,Pray,0,0,0,CutScene|80001_21,Hehehe.
+Dialogue: 0,0:00:57.00,0:00:57.90,Ending_Figur,Pray,0,0,0,CutScene|80001_22,Ach ja?
+Dialogue: 0,0:00:58.00,0:00:58.90,Ending_Figur,Pray,0,0,0,CutScene|80001_23,Dann komm sofort her.
+Dialogue: 0,0:00:59.00,0:00:59.90,Ending_Figur,Chris,0,0,0,CutScene|80001_24,Warte,
+Dialogue: 0,0:01:00.00,0:01:00.90,Ending_Figur,Chris,0,0,0,CutScene|80001_25,wir stehen direkt vor dem Restaurant, die Leute gucken.
+Dialogue: 0,0:01:01.00,0:01:01.90,Ending_Figur,Chris,0,0,0,CutScene|80001_26,Das hier draußen zu machen ist ein bisschen ...
+Dialogue: 0,0:01:02.00,0:01:02.90,Ending_Figur,Pray,0,0,0,CutScene|80001_27,Wen kümmert's?
+Dialogue: 0,0:01:03.00,0:01:03.90,Ending_Figur,Pray,0,0,0,CutScene|80001_28,Heute
+Dialogue: 0,0:01:04.00,0:01:04.90,Ending_Figur,Pray,0,0,0,CutScene|80001_29,darfst du glücklicher sein als alle anderen.
+Dialogue: 0,0:01:05.00,0:01:05.90,Ending_Figur,Pray,0,0,0,CutScene|80001_30,Verbring einfach Zeit mit jemand Besonderem,
+Dialogue: 0,0:01:06.00,0:01:06.90,Ending_Figur,Pray,0,0,0,CutScene|80001_31,iss was Fantastisches
+Dialogue: 0,0:01:07.00,0:01:07.90,Ending_Figur,Pray,0,0,0,CutScene|80001_32,und schlaf glücklich neben der Person ein, die du liebst,
+Dialogue: 0,0:01:08.00,0:01:08.90,Ending_Figur,Pray,0,0,0,CutScene|80001_33,Mehr musst du nicht tun.
+Dialogue: 0,0:01:09.00,0:01:09.90,Ending_Figur,Pray,0,0,0,CutScene|80001_34,Um alles andere kannst du dich später kümmern.
+Dialogue: 0,0:01:10.00,0:01:10.90,Ending_Figur,Pray,0,0,0,CutScene|80001_35,Fürs Erste
+Dialogue: 0,0:01:11.00,0:01:11.90,Ending_Figur,Pray,0,0,0,CutScene|80001_36,konzentrier dich einfach darauf.
+Dialogue: 0,0:01:12.00,0:01:12.90,Ending_Figur,Pray,0,0,0,CutScene|80001_37,Verstanden?
+Dialogue: 0,0:01:13.00,0:01:13.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80001_38,Pray vergrub ihr Gesicht an meiner Brust
+Dialogue: 0,0:01:14.00,0:01:14.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80001_39,und murmelte.
+Dialogue: 0,0:01:15.00,0:01:15.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80001_40,Ich sah mich nervös um
+Dialogue: 0,0:01:16.00,0:01:16.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80001_41,und prüfte, ob uns das Personal schiefe Blicke zuwarf,
+Dialogue: 0,0:01:17.00,0:01:17.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80001_42,als mir durchs Fenster ein Spruch ins Auge fiel.
+Dialogue: 0,0:01:18.00,0:01:18.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80001_43,„Heute ist ein froher Polarnacht-Tag.“
+Dialogue: 0,0:01:19.00,0:01:19.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80001_44,Mit leichterem Herzen
+Dialogue: 0,0:01:20.00,0:01:20.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80001_45,strich ich Pray übers Haar und schloss sanft die Augen.
+Dialogue: 0,0:01:21.00,0:01:21.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80001_46,Immerhin ist heute ein froher Polarnacht-Tag.
+Dialogue: 0,0:01:22.00,0:01:22.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_1,Der Nachthimmel am Polarnacht-Tag.
+Dialogue: 0,0:01:23.00,0:01:23.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_2,Das Chromatic Zenith erhellt die Stadt wie am helllichten Tag.
+Dialogue: 0,0:01:24.00,0:01:24.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_3,Hier ist es ganz schön frisch.
+Dialogue: 0,0:01:25.00,0:01:25.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_4,Moment, nein ... das klingt, als wollte ich früh zurück.
+Dialogue: 0,0:01:26.00,0:01:26.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_5,Wie wäre es dann mit ... „Der Mond ist heute Nacht wunderschön“?
+Dialogue: 0,0:01:27.00,0:01:27.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_6,... „Das ist einer der 4 klischeehaftesten Anmachsprüche aller Zeiten“?
+Dialogue: 0,0:01:28.00,0:01:28.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_7,Darüber habe ich lange nachgedacht ...
+Dialogue: 0,0:01:29.00,0:01:29.90,Ending_Figur,Chris,0,0,0,CutScene|80002_8,Hi, Lianne.
+Dialogue: 0,0:01:30.00,0:01:30.90,Ending_Figur,Chris,0,0,0,CutScene|80002_9,Tut mir leid, dass ich zu spät bin.
+Dialogue: 0,0:01:31.00,0:01:31.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_10,Vielleicht ... „Die Nachtluft ist ziemlich angenehm“ ...?
+Dialogue: 0,0:01:32.00,0:01:32.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_11,Ich glaube, eine coole, unnahbare Art würde funktionieren ...
+Dialogue: 0,0:01:33.00,0:01:33.90,Ending_Figur,Chris,0,0,0,CutScene|80002_12,Lianne?
+Dialogue: 0,0:01:34.00,0:01:34.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_13,Oh, hm?
+Dialogue: 0,0:01:35.00,0:01:35.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_14,D-Du bist da.
+Dialogue: 0,0:01:36.00,0:01:36.90,Ending_Figur,Chris,0,0,0,CutScene|80002_15,Ich habe dich warten lassen.
+Dialogue: 0,0:01:37.00,0:01:37.90,Ending_Figur,Chris,0,0,0,CutScene|80002_16,Es tut mir so leid, dass ich zu spät bin.
+Dialogue: 0,0:01:38.00,0:01:38.90,Ending_Figur,Chris,0,0,0,CutScene|80002_17,Es ist etwas Dringendes dazwischengekommen.
+Dialogue: 0,0:01:39.00,0:01:39.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_18,Kein Problem. Ich bin selbst gerade erst angekommen.
+Dialogue: 0,0:01:40.00,0:01:40.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_19,Jedenfalls, die Nachtluft ist ziemlich angenehm, findest du nicht?
+Dialogue: 0,0:01:41.00,0:01:41.90,Ending_Figur,Chris,0,0,0,CutScene|80002_20,Deine Ohren sind knallrot.
+Dialogue: 0,0:01:42.00,0:01:42.90,Ending_Figur,Chris,0,0,0,CutScene|80002_21,Bist du sicher, dass du nicht schon länger wartest?
+Dialogue: 0,0:01:43.00,0:01:43.90,Ending_Figur,Chris,0,0,0,CutScene|80002_22,Komm mal kurz her.
+Dialogue: 0,0:01:44.00,0:01:44.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_23,Lianne bereitet sich immer gründlich vor.
+Dialogue: 0,0:01:45.00,0:01:45.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_24,Also kann es gar nicht sein, dass sie nicht gewartet hat.
+Dialogue: 0,0:01:46.00,0:01:46.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_25,Und da sie sonst dicke Kleidung trägt, friert sie bestimmt schnell.
+Dialogue: 0,0:01:47.00,0:01:47.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_26,Ich machte mir unwillkürlich Sorgen um sie.
+Dialogue: 0,0:01:48.00,0:01:48.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_27,Ich nahm die Hände aus den Taschen
+Dialogue: 0,0:01:49.00,0:01:49.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_28,und legte sie um ihre Ohren.
+Dialogue: 0,0:01:50.00,0:01:50.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_29,Chris?!
+Dialogue: 0,0:01:51.00,0:01:51.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_30,Moment, ich weiß gerade nicht, was ich tun soll ...
+Dialogue: 0,0:01:52.00,0:01:52.90,Ending_Figur,Chris,0,0,0,CutScene|80002_31,Die sind eiskalt.
+Dialogue: 0,0:01:53.00,0:01:53.90,Ending_Figur,Chris,0,0,0,CutScene|80002_32,Entschuldige die Verspätung.
+Dialogue: 0,0:01:54.00,0:01:54.90,Ending_Figur,Chris,0,0,0,CutScene|80002_33,Michelle hat mir geschrieben.
+Dialogue: 0,0:01:55.00,0:01:55.90,Ending_Figur,Chris,0,0,0,CutScene|80002_34,Es ist nicht alles geklärt,
+Dialogue: 0,0:01:56.00,0:01:56.90,Ending_Figur,Chris,0,0,0,CutScene|80002_35,aber fürs Erste bin ich einfach erleichtert.
+Dialogue: 0,0:01:57.00,0:01:57.90,Ending_Figur,Chris,0,0,0,CutScene|80002_36,Was auch immer ab jetzt passiert,
+Dialogue: 0,0:01:58.00,0:01:58.90,Ending_Figur,Chris,0,0,0,CutScene|80002_37,ich habe dich bei mir, Lianne,
+Dialogue: 0,0:01:59.00,0:01:59.90,Ending_Figur,Chris,0,0,0,CutScene|80002_38,und viele andere, die helfen,
+Dialogue: 0,0:02:00.00,0:02:00.90,Ending_Figur,Chris,0,0,0,CutScene|80002_39,also mache ich mir nicht wirklich Sorgen.
+Dialogue: 0,0:02:01.00,0:02:01.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_40,Ein Glück ...
+Dialogue: 0,0:02:02.00,0:02:02.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_41,Mit deinen warmen Händen an mir ...
+Dialogue: 0,0:02:03.00,0:02:03.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_42,und nach so guten Neuigkeiten
+Dialogue: 0,0:02:04.00,0:02:04.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_43,fühlt es sich an, als würde meine ganze Angst einfach dahinschmelzen ...
+Dialogue: 0,0:02:05.00,0:02:05.90,Ending_Figur,Chris,0,0,0,CutScene|80002_44,Na dann, Lianne.
+Dialogue: 0,0:02:06.00,0:02:06.90,Ending_Figur,Chris,0,0,0,CutScene|80002_45,Wollen wir ein Stück spazieren gehen?
+Dialogue: 0,0:02:07.00,0:02:07.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_46,Nein.
+Dialogue: 0,0:02:08.00,0:02:08.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_47,Lass uns noch ein bisschen so bleiben.
+Dialogue: 0,0:02:09.00,0:02:09.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_48,Na ja, nicht nur ein bisschen ...
+Dialogue: 0,0:02:10.00,0:02:10.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_49,für immer wäre noch besser ...
+Dialogue: 0,0:02:11.00,0:02:11.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_50,Wie immer nicht ganz ehrlich mit ihren Gefühlen,
+Dialogue: 0,0:02:12.00,0:02:12.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_51,schmiegte sie sich langsam in meine Arme.
+Dialogue: 0,0:02:13.00,0:02:13.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_52,Lange Zeit
+Dialogue: 0,0:02:14.00,0:02:14.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_53,blieben wir einfach so und spürten die Wärme des anderen.
+Dialogue: 0,0:02:15.00,0:02:15.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_54,Irgendwann holte ich mir eine fiese Erkältung,
+Dialogue: 0,0:02:16.00,0:02:16.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_55,und Lianne musste ihre Wärmeregelungseinheit austauschen lassen.
+Dialogue: 0,0:02:17.00,0:02:17.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_56,Aber nach diesem Tag
+Dialogue: 0,0:02:18.00,0:02:18.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_57,wurde die Polarnacht mit einem Glück übermalt,
+Dialogue: 0,0:02:19.00,0:02:19.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_58,so warm wie Liannes Umarmung.
+Dialogue: 0,0:02:20.00,0:02:20.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_59,Wir lagen zusammengekuschelt im Bett,
+Dialogue: 0,0:02:21.00,0:02:21.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_60,und Michelles Genörgel zu hören ...
+Dialogue: 0,0:02:22.00,0:02:22.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_61,machte mich unglaublich dankbar,
+Dialogue: 0,0:02:23.00,0:02:23.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_62,also betete ich leise, dass dieser Moment ewig währen möge.
+Dialogue: 0,0:02:24.00,0:02:24.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_1,Der Nachthimmel am Polarnacht-Tag.
+Dialogue: 0,0:02:25.00,0:02:25.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_2,Das Chromatic Zenith erhellt die Stadt wie am helllichten Tag.
+Dialogue: 0,0:02:26.00,0:02:26.90,Ending_Figur,???,0,0,0,CutScene|80003_3,Brumm. Brrrumm. Dröhnen.
+Dialogue: 0,0:02:27.00,0:02:27.90,Ending_Figur,???,0,0,0,CutScene|80003_4,Quietsch– Rumms.
+Dialogue: 0,0:02:28.00,0:02:28.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_5,Vom erdbebenartigen Dröhnen erschreckt, fuhr ich herum
+Dialogue: 0,0:02:29.00,0:02:29.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_6,und erblickte ein vertrautes Gesicht.
+Dialogue: 0,0:02:30.00,0:02:30.90,Ending_Figur,Chris,0,0,0,CutScene|80003_7,Orca?!
+Dialogue: 0,0:02:31.00,0:02:31.90,Ending_Figur,Chris,0,0,0,CutScene|80003_8,War das gerade ein Motorrad?
+Dialogue: 0,0:02:32.00,0:02:32.90,Ending_Figur,Orca,0,0,0,CutScene|80003_9,Ja, das war es.
+Dialogue: 0,0:02:33.00,0:02:33.90,Ending_Figur,Orca,0,0,0,CutScene|80003_10,Du hast nicht geantwortet,
+Dialogue: 0,0:02:34.00,0:02:34.90,Ending_Figur,Orca,0,0,0,CutScene|80003_11,und du warst nicht dort, wo wir uns treffen wollten,
+Dialogue: 0,0:02:35.00,0:02:35.90,Ending_Figur,Orca,0,0,0,CutScene|80003_12,also habe ich vorsichtshalber nach dir gesucht.
+Dialogue: 0,0:02:36.00,0:02:36.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_13,Ich hatte gehört, dass sie gern fährt,
+Dialogue: 0,0:02:37.00,0:02:37.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_14,aber ein so lauter Motor könnte buchstäblich Tote wecken ...
+Dialogue: 0,0:02:38.00,0:02:38.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_15,Orca steckte definitiv voller Überraschungen.
+Dialogue: 0,0:02:39.00,0:02:39.90,Ending_Figur,Chris,0,0,0,CutScene|80003_16,Tut mir leid.
+Dialogue: 0,0:02:40.00,0:02:40.90,Ending_Figur,Chris,0,0,0,CutScene|80003_17,Ich war es, der um das Treffen gebeten hat,
+Dialogue: 0,0:02:41.00,0:02:41.90,Ending_Figur,Chris,0,0,0,CutScene|80003_18,aber am Ende habe ich dir nur Umstände gemacht.
+Dialogue: 0,0:02:42.00,0:02:42.90,Ending_Figur,Orca,0,0,0,CutScene|80003_19,Mach dir keine Sorgen.
+Dialogue: 0,0:02:43.00,0:02:43.90,Ending_Figur,Orca,0,0,0,CutScene|80003_20,Du scheinst deine Gründe gehabt zu haben.
+Dialogue: 0,0:02:44.00,0:02:44.90,Ending_Figur,Chris,0,0,0,CutScene|80003_21,Ja, es ist viel passiert.
+Dialogue: 0,0:02:45.00,0:02:45.90,Ending_Figur,Chris,0,0,0,CutScene|80003_22,Ich habe es dir nicht erzählt,
+Dialogue: 0,0:02:46.00,0:02:46.90,Ending_Figur,Chris,0,0,0,CutScene|80003_23,weil ich nicht wollte, dass du dich verantwortlich fühlst,
+Dialogue: 0,0:02:47.00,0:02:47.90,Ending_Figur,Chris,0,0,0,CutScene|80003_24,aber ich musste ein paar ungeklärte Dinge aus meiner Vergangenheit klären.
+Dialogue: 0,0:02:48.00,0:02:48.90,Ending_Figur,Orca,0,0,0,CutScene|80003_25,So beiläufig, wie du darüber sprichst,
+Dialogue: 0,0:02:49.00,0:02:49.90,Ending_Figur,Orca,0,0,0,CutScene|80003_26,scheint es gut gelaufen zu sein.
+Dialogue: 0,0:02:50.00,0:02:50.90,Ending_Figur,Chris,0,0,0,CutScene|80003_27,Ja, so kann man es sagen.
+Dialogue: 0,0:02:51.00,0:02:51.90,Ending_Figur,Chris,0,0,0,CutScene|80003_28,Alles dank deines Rats, Orca.
+Dialogue: 0,0:02:52.00,0:02:52.90,Ending_Figur,Orca,0,0,0,CutScene|80003_29,Ich habe nur über meine eigenen Interessen drauflosgeplappert.
+Dialogue: 0,0:02:53.00,0:02:53.90,Ending_Figur,Orca,0,0,0,CutScene|80003_30,Wenn überhaupt, war ich einfach froh,
+Dialogue: 0,0:02:54.00,0:02:54.90,Ending_Figur,Orca,0,0,0,CutScene|80003_31,jemanden zu haben, der bereit war zuzuhören.
+Dialogue: 0,0:02:55.00,0:02:55.90,Ending_Figur,Orca,0,0,0,CutScene|80003_32,Und ...
+Dialogue: 0,0:02:56.00,0:02:56.90,Ending_Figur,Orca,0,0,0,CutScene|80003_33,so wie es klingt,
+Dialogue: 0,0:02:57.00,0:02:57.90,Ending_Figur,Orca,0,0,0,CutScene|80003_34,hast du heute um das Treffen gebeten, nur um dich bei mir zu bedanken.
+Dialogue: 0,0:02:58.00,0:02:58.90,Ending_Figur,Chris,0,0,0,CutScene|80003_35,Ja, genau.
+Dialogue: 0,0:02:59.00,0:02:59.90,Ending_Figur,Chris,0,0,0,CutScene|80003_36,Du hast mir immer so sehr geholfen,
+Dialogue: 0,0:03:00.00,0:03:00.90,Ending_Figur,Chris,0,0,0,CutScene|80003_37,deshalb wollte ich dir meine aufrichtige Dankbarkeit zeigen.
+Dialogue: 0,0:03:01.00,0:03:01.90,Ending_Figur,Chris,0,0,0,CutScene|80003_38,Wo wir schon beim Thema sind, lass es mich einfach sagen.
+Dialogue: 0,0:03:02.00,0:03:02.90,Ending_Figur,Chris,0,0,0,CutScene|80003_39,Danke, Orca.
+Dialogue: 0,0:03:03.00,0:03:03.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_40,Still reichte ich ihr meine Hand ...
+Dialogue: 0,0:03:04.00,0:03:04.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_41,entgegen.
+Dialogue: 0,0:03:05.00,0:03:05.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_42,Aus Respekt ...
+Dialogue: 0,0:03:06.00,0:03:06.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_43,und einer Mischung aus anderen, komplizierten Gefühlen.
+Dialogue: 0,0:03:07.00,0:03:07.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_44,Eine stille Art zu sagen, dass ich mich auf alles freue, was als Nächstes für uns kommt.
+Dialogue: 0,0:03:08.00,0:03:08.90,Ending_Figur,Orca,0,0,0,CutScene|80003_45,Hmm ...
+Dialogue: 0,0:03:09.00,0:03:09.90,Ending_Figur,Chris,0,0,0,CutScene|80003_46,Haha ... ist das zu viel?
+Dialogue: 0,0:03:10.00,0:03:10.90,Ending_Figur,Chris,0,0,0,CutScene|80003_47,Entschuldige. Das war ein bisschen plötzlich von mir.
+Dialogue: 0,0:03:11.00,0:03:11.90,Ending_Figur,Orca,0,0,0,CutScene|80003_48,N-nein. Das ist es überhaupt nicht ...
+Dialogue: 0,0:03:12.00,0:03:12.90,Ending_Figur,Orca,0,0,0,CutScene|80003_49,Die Hand ... eines Mannes ...
+Dialogue: 0,0:03:13.00,0:03:13.90,Ending_Figur,Orca,0,0,0,CutScene|80003_50,Ich habe noch nie ... eine gehalten ...
+Dialogue: 0,0:03:14.00,0:03:14.90,Ending_Figur,Chris,0,0,0,CutScene|80003_51,...
+Dialogue: 0,0:03:15.00,0:03:15.90,Ending_Figur,Orca,0,0,0,CutScene|80003_52,...
+Dialogue: 0,0:03:16.00,0:03:16.90,Ending_Figur,Orca,0,0,0,CutScene|80003_53,Ich freue mich auf ... alles, was als Nächstes für uns kommt.
+Dialogue: 0,0:03:17.00,0:03:17.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_54,Wie Orca so zaghaft ihre Hand reichte ...
+Dialogue: 0,0:03:18.00,0:03:18.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_55,Dass jemand so Cooles ...
+Dialogue: 0,0:03:19.00,0:03:19.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_56,so niedlich sein kann.
+Dialogue: 0,0:03:20.00,0:03:20.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_57,Ihre Hand war kleiner und wärmer, als ich erwartet hatte.
+Dialogue: 0,0:03:21.00,0:03:21.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_58,Kaum zu glauben, dass das die Hände sind, die so viele gerettet haben.
+Dialogue: 0,0:03:22.00,0:03:22.90,Ending_Figur,Chris,0,0,0,CutScene|80003_59,Dann ...
+Dialogue: 0,0:03:23.00,0:03:23.90,Ending_Figur,Chris,0,0,0,CutScene|80003_60,Ich freue mich auch darauf.
+Dialogue: 0,0:03:24.00,0:03:24.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_61,Cool und doch niedlich,
+Dialogue: 0,0:03:25.00,0:03:25.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_62,stark und doch schüchtern ...
+Dialogue: 0,0:03:26.00,0:03:26.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_63,Orca hat wirklich einen geheimnisvollen Charme.
+Dialogue: 0,0:03:27.00,0:03:27.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_64,Ich spürte schon, wie die Vorfreude wuchs
+Dialogue: 0,0:03:28.00,0:03:28.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_65,auf alles, was diese neue Beziehung mit ihr bringen würde.

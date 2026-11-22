@@ -1,0 +1,87 @@
+[Script Info]
+Title: S01E18_Abspann
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,Abspann,Chris,0,0,0,CutScene|90001_1,<color=#BD9ED5>Chris</color> : Okay, fast fertig. Wie fühlt es sich an?
+Dialogue: 0,0:00:01.00,0:00:01.90,Abspann,Michelle,0,0,0,CutScene|90001_2,<color=#EE9671>Michelle</color> : Nicht mal annähernd gut. Meine Gelenke knarzen buchstäblich.
+Dialogue: 0,0:00:02.00,0:00:02.90,Abspann,Chris,0,0,0,CutScene|90001_3,<color=#BD9ED5>Chris</color> : Ich musste erst sicherstellen, dass du funktionierst. Ich hab Notersatzteile verwendet.
+Dialogue: 0,0:00:03.00,0:00:03.90,Abspann,Michelle,0,0,0,CutScene|90001_4,<color=#EE9671>Michelle</color> : ...Du meinst doch wohl nicht den Schrott, der sich im Lager stapelt?
+Dialogue: 0,0:00:04.00,0:00:04.90,Abspann,Chris,0,0,0,CutScene|90001_5,<color=#BD9ED5>Chris</color> : Du weißt genau, wie es um mein Konto steht.
+Dialogue: 0,0:00:05.00,0:00:05.90,Abspann,Michelle,0,0,0,CutScene|90001_6,<color=#EE9671>Michelle</color> : Dann pack mich einfach zurück ins Laufwerk. Lieber Daten als in einem Körper festzustecken, den ich kaum bewegen kann.
+Dialogue: 0,0:00:06.00,0:00:06.90,Abspann,Chris,0,0,0,CutScene|90001_7,<color=#BD9ED5>Chris</color> : Geht nicht.
+Dialogue: 0,0:00:07.00,0:00:07.90,Abspann,Michelle,0,0,0,CutScene|90001_8,<color=#EE9671>Michelle</color> : Warum nicht?
+Dialogue: 0,0:00:08.00,0:00:08.90,Abspann,Chris,0,0,0,CutScene|90001_9,<color=#BD9ED5>Chris</color> : Hab schon eine Anzeige aufgegeben.
+Dialogue: 0,0:00:09.00,0:00:09.90,Abspann,Chris,0,0,0,CutScene|90001_10,<color=#BD9ED5>Chris</color> : Hab geschrieben, dass ich eine süße, fähige neue Mitarbeiterin habe.
+Dialogue: 0,0:00:10.00,0:00:10.90,Abspann,Michelle,0,0,0,CutScene|90001_11,<color=#EE9671>Michelle</color> : ...
+Dialogue: 0,0:00:11.00,0:00:11.90,Abspann,Chris,0,0,0,CutScene|90001_12,<color=#BD9ED5>Chris</color> : Ich verlasse mich auf dieses süße Lächeln.
+Dialogue: 0,0:00:12.00,0:00:12.90,Abspann,Michelle,0,0,0,CutScene|90001_13,<color=#EE9671>Michelle</color> : Haa...
+Dialogue: 0,0:00:13.00,0:00:13.90,Abspann,Michelle,0,0,0,CutScene|90001_14,<color=#EE9671>Michelle</color> : Tausch die später lieber gegen hochwertige Teile aus.
+Dialogue: 0,0:00:14.00,0:00:14.90,Abspann,Michelle,0,0,0,CutScene|90001_15,<color=#EE9671>Michelle</color> : Verstanden?
+Dialogue: 0,0:00:15.00,0:00:15.90,Abspann,Pray,0,0,0,CutScene|90002_1,<color=#D3D184>Pray</color> : Viel... zu viele Leute. Ich bin erledigt. Das ist eine totale Katastrophe.
+Dialogue: 0,0:00:16.00,0:00:16.90,Abspann,Chris,0,0,0,CutScene|90002_2,<color=#BD9ED5>Chris</color> : Hey, Pray. Was machst du da unterm Tresen?
+Dialogue: 0,0:00:17.00,0:00:17.90,Abspann,Chris,0,0,0,CutScene|90002_3,<color=#BD9ED5>Chris</color> : Wo ist das „starke Herz eines Buff Girls“ geblieben, von dem Ohara ständig geredet hat?
+Dialogue: 0,0:00:18.00,0:00:18.90,Abspann,Pray,0,0,0,CutScene|90002_4,<color=#D3D184>Pray</color> : Hey! Oharas starkes Herz steht für den unbeugsamen Willen, allein gegen das Böse zu kämpfen...
+Dialogue: 0,0:00:19.00,0:00:19.90,Abspann,Pray,0,0,0,CutScene|90002_5,<color=#D3D184>Pray</color> : Das ist was völlig anderes, als sich vor einer riesigen Menge aufzuführen wie irgendein Freak!
+Dialogue: 0,0:00:20.00,0:00:20.90,Abspann,Nina,0,0,0,CutScene|90002_6,<color=#BE997B>Nina</color> : Pray! Was machst du da! Komm raus und verbreite diesen edlen „Buff-Girl-Geist“!
+Dialogue: 0,0:00:21.00,0:00:21.90,Abspann,Chris,0,0,0,CutScene|90002_7,<color=#BD9ED5>Chris</color> : Die Chefin ruft. Zeit auszurücken und die Bürger zu beschützen, oder?
+Dialogue: 0,0:00:22.00,0:00:22.90,Abspann,Pray,0,0,0,CutScene|90002_8,<color=#D3D184>Pray</color> : Ugh... echt jetzt...
+Dialogue: 0,0:00:23.00,0:00:23.90,Abspann,Pray,0,0,0,CutScene|90002_9,<color=#D3D184>Pray</color> : O-okay! Ich komme! Ich hab gesagt, ich komme!!
+Dialogue: 0,0:00:24.00,0:00:24.90,Abspann,Chris,0,0,0,CutScene|90003_1,<color=#BD9ED5>Chris</color> : Ähm... Was ist hier los?
+Dialogue: 0,0:00:25.00,0:00:25.90,Abspann,Lianne,0,0,0,CutScene|90003_2,<color=#D97C80>Lianne</color> : Du bist viel zu nett, Chris.
+Dialogue: 0,0:00:26.00,0:00:26.90,Abspann,Lianne,0,0,0,CutScene|90003_3,<color=#D97C80>Lianne</color> : Ich weiß, du willst rücksichtsvoll sein,
+Dialogue: 0,0:00:27.00,0:00:27.90,Abspann,Lianne,0,0,0,CutScene|90003_4,<color=#D97C80>Lianne</color> : aber nach all den Signalen, die ich dir gegeben habe, den Ahnungslosen zu spielen... das ist einfach grausam.
+Dialogue: 0,0:00:28.00,0:00:28.90,Abspann,Chris,0,0,0,CutScene|90003_5,<color=#BD9ED5>Chris</color> : ...Das überspringen wir mal kurz. Was hast du da für eine Spritze in der Hand?
+Dialogue: 0,0:00:29.00,0:00:29.90,Abspann,Lianne,0,0,0,CutScene|90003_6,<color=#D97C80>Lianne</color> : Ein Serum, das dich ehrlich macht. Lass einfach all die komplizierten Gedanken los und entspann dich.
+Dialogue: 0,0:00:30.00,0:00:30.90,Abspann,Chris,0,0,0,CutScene|90003_7,<color=#BD9ED5>Chris</color> : Allein diese Beschreibung klingt schon ziemlich gefährlich.
+Dialogue: 0,0:00:31.00,0:00:31.90,Abspann,Lianne,0,0,0,CutScene|90003_8,<color=#D97C80>Lianne</color> : Überhaupt nicht, es ist völlig sicher. Ich hab selbst schon eine Dosis genommen.
+Dialogue: 0,0:00:32.00,0:00:32.90,Abspann,Chris,0,0,0,CutScene|90003_9,<color=#BD9ED5>Chris</color> : Was?!
+Dialogue: 0,0:00:33.00,0:00:33.90,Abspann,Lianne,0,0,0,CutScene|90003_10,<color=#D97C80>Lianne</color> : Es müsste jetzt langsam wirken... Wie ist es? Spürst du schon was?
+Dialogue: 0,0:00:34.00,0:00:34.90,Abspann,Orca,0,0,0,CutScene|90004_1,<color=#9DB2E8>Orca</color> : Hast du Angst?
+Dialogue: 0,0:00:35.00,0:00:35.90,Abspann,Chris,0,0,0,CutScene|90004_2,<color=#BD9ED5>Chris</color> : Woran merkst du das? Ich sitze zum ersten Mal auf einem Motorrad... und der Wind, der mir um die Ohren heult, ist brutal.
+Dialogue: 0,0:00:36.00,0:00:36.90,Abspann,Orca,0,0,0,CutScene|90004_3,<color=#9DB2E8>Orca</color> : Wir sind schon an der vorgesehenen Haltestelle vorbei, ich kann jetzt nicht anhalten...
+Dialogue: 0,0:00:37.00,0:00:37.90,Abspann,Orca,0,0,0,CutScene|90004_4,<color=#9DB2E8>Orca</color> : Wenn du magst, kannst du dich an meinem Schwanz festhalten.
+Dialogue: 0,0:00:38.00,0:00:38.90,Abspann,Chris,0,0,0,CutScene|90004_5,<color=#BD9ED5>Chris</color> : Dein Schwanz?
+Dialogue: 0,0:00:39.00,0:00:39.90,Abspann,Orca,0,0,0,CutScene|90004_6,<color=#9DB2E8>Orca</color> : Mein Schwanz ist auch für Rettungseinsätze ausgelegt,
+Dialogue: 0,0:00:40.00,0:00:40.90,Abspann,Orca,0,0,0,CutScene|90004_7,<color=#9DB2E8>Orca</color> : also verkraftet er Erschütterungen gut-- Iih?!
+Dialogue: 0,0:00:41.00,0:00:41.90,Abspann,Orca,0,0,0,CutScene|90004_8,<color=#9DB2E8>Orca</color> : D-diese Stelle hat viele Nerven!
+Dialogue: 0,0:00:42.00,0:00:42.90,Abspann,Chris,0,0,0,CutScene|90004_9,<color=#BD9ED5>Chris</color> : Tut mir leid. Alte Gewohnheit als Mechaniker...
+Dialogue: 0,0:00:43.00,0:00:43.90,Abspann,Chris,0,0,0,CutScene|90004_10,<color=#BD9ED5>Chris</color> : Und hier?
+Dialogue: 0,0:00:44.00,0:00:44.90,Abspann,Orca,0,0,0,CutScene|90004_11,<color=#9DB2E8>Orca</color> : H-hyah?!
+Dialogue: 0,0:00:45.00,0:00:45.90,Abspann,Chris,0,0,0,CutScene|90004_12,<color=#BD9ED5>Chris</color> : Ghk?! Orca... du wickelst deinen Schwanz um meinen Hals... Ich kann nicht... atmen... gurgel...
+Dialogue: 0,0:00:46.00,0:00:46.90,Abspann,Pray,0,0,0,CutScene|90005_1,<color=#D3D184>Pray</color> : Viel... zu viele Leute. Ich bin erledigt. Das ist eine totale Katastrophe.
+Dialogue: 0,0:00:47.00,0:00:47.90,Abspann,Chris,0,0,0,CutScene|90005_2,<color=#BD9ED5>Chris</color> : Hey, Pray. Was machst du da unterm Tresen?
+Dialogue: 0,0:00:48.00,0:00:48.90,Abspann,Chris,0,0,0,CutScene|90005_3,<color=#BD9ED5>Chris</color> : Wo ist das „starke Herz eines Buff Girls“ geblieben, von dem Ohara ständig geredet hat?
+Dialogue: 0,0:00:49.00,0:00:49.90,Abspann,Pray,0,0,0,CutScene|90005_4,<color=#D3D184>Pray</color> : Hey! Oharas starkes Herz steht für den unbeugsamen Willen, allein gegen das Böse zu kämpfen...
+Dialogue: 0,0:00:50.00,0:00:50.90,Abspann,Pray,0,0,0,CutScene|90005_5,<color=#D3D184>Pray</color> : Das ist was völlig anderes, als sich vor einer riesigen Menge aufzuführen wie irgendein Freak!
+Dialogue: 0,0:00:51.00,0:00:51.90,Abspann,Nina,0,0,0,CutScene|90005_6,<color=#BE997B>Nina</color> : Pray! Was machst du da! Komm raus und verbreite diesen edlen „Buff-Girl-Geist“!
+Dialogue: 0,0:00:52.00,0:00:52.90,Abspann,Chris,0,0,0,CutScene|90005_7,<color=#BD9ED5>Chris</color> : Die Chefin ruft. Zeit auszurücken und die Bürger zu beschützen, oder?
+Dialogue: 0,0:00:53.00,0:00:53.90,Abspann,Pray,0,0,0,CutScene|90005_8,<color=#D3D184>Pray</color> : Ugh... echt jetzt...
+Dialogue: 0,0:00:54.00,0:00:54.90,Abspann,Pray,0,0,0,CutScene|90005_9,<color=#D3D184>Pray</color> : O-okay! Ich komme! Ich hab gesagt, ich komme!!
+Dialogue: 0,0:00:55.00,0:00:55.90,Abspann,Chris,0,0,0,CutScene|90006_1,<color=#BD9ED5>Chris</color> : Ähm... Was ist hier los?
+Dialogue: 0,0:00:56.00,0:00:56.90,Abspann,Lianne,0,0,0,CutScene|90006_2,<color=#D97C80>Lianne</color> : Du bist viel zu nett, Chris.
+Dialogue: 0,0:00:57.00,0:00:57.90,Abspann,Lianne,0,0,0,CutScene|90006_3,<color=#D97C80>Lianne</color> : Ich weiß, du willst rücksichtsvoll sein,
+Dialogue: 0,0:00:58.00,0:00:58.90,Abspann,Lianne,0,0,0,CutScene|90006_4,<color=#D97C80>Lianne</color> : aber nach all den Signalen, die ich dir gegeben habe, den Ahnungslosen zu spielen... das ist einfach grausam.
+Dialogue: 0,0:00:59.00,0:00:59.90,Abspann,Chris,0,0,0,CutScene|90006_5,<color=#BD9ED5>Chris</color> : ...Das überspringen wir mal kurz. Was hast du da für eine Spritze in der Hand?
+Dialogue: 0,0:01:00.00,0:01:00.90,Abspann,Lianne,0,0,0,CutScene|90006_6,<color=#D97C80>Lianne</color> : Ein Serum, das dich ehrlich macht. Lass einfach all die komplizierten Gedanken los und entspann dich.
+Dialogue: 0,0:01:01.00,0:01:01.90,Abspann,Chris,0,0,0,CutScene|90006_7,<color=#BD9ED5>Chris</color> : Allein diese Beschreibung klingt schon ziemlich gefährlich.
+Dialogue: 0,0:01:02.00,0:01:02.90,Abspann,Lianne,0,0,0,CutScene|90006_8,<color=#D97C80>Lianne</color> : Überhaupt nicht, es ist völlig sicher. Ich hab selbst schon eine Dosis genommen.
+Dialogue: 0,0:01:03.00,0:01:03.90,Abspann,Chris,0,0,0,CutScene|90006_9,<color=#BD9ED5>Chris</color> : Was?!
+Dialogue: 0,0:01:04.00,0:01:04.90,Abspann,Lianne,0,0,0,CutScene|90006_10,<color=#D97C80>Lianne</color> : Es müsste jetzt langsam wirken... Wie ist es? Spürst du schon was?
+Dialogue: 0,0:01:05.00,0:01:05.90,Abspann,Orca,0,0,0,CutScene|90007_1,<color=#9DB2E8>Orca</color> : Hast du Angst?
+Dialogue: 0,0:01:06.00,0:01:06.90,Abspann,Chris,0,0,0,CutScene|90007_2,<color=#BD9ED5>Chris</color> : Woran merkst du das? Ich sitze zum ersten Mal auf einem Motorrad... und der Wind, der mir um die Ohren heult, ist brutal.
+Dialogue: 0,0:01:07.00,0:01:07.90,Abspann,Orca,0,0,0,CutScene|90007_3,<color=#9DB2E8>Orca</color> : Wir sind schon an der vorgesehenen Haltestelle vorbei, ich kann jetzt nicht anhalten...
+Dialogue: 0,0:01:08.00,0:01:08.90,Abspann,Orca,0,0,0,CutScene|90007_4,<color=#9DB2E8>Orca</color> : Wenn du magst, kannst du dich an meinem Schwanz festhalten.
+Dialogue: 0,0:01:09.00,0:01:09.90,Abspann,Chris,0,0,0,CutScene|90007_5,<color=#BD9ED5>Chris</color> : Dein Schwanz?
+Dialogue: 0,0:01:10.00,0:01:10.90,Abspann,Orca,0,0,0,CutScene|90007_6,<color=#9DB2E8>Orca</color> : Mein Schwanz ist auch für Rettungseinsätze ausgelegt,
+Dialogue: 0,0:01:11.00,0:01:11.90,Abspann,Orca,0,0,0,CutScene|90007_7,<color=#9DB2E8>Orca</color> : also verkraftet er Erschütterungen gut-- Iih?!
+Dialogue: 0,0:01:12.00,0:01:12.90,Abspann,Orca,0,0,0,CutScene|90007_8,<color=#9DB2E8>Orca</color> : D-diese Stelle hat viele Nerven!
+Dialogue: 0,0:01:13.00,0:01:13.90,Abspann,Chris,0,0,0,CutScene|90007_9,<color=#BD9ED5>Chris</color> : Tut mir leid. Alte Gewohnheit als Mechaniker...
+Dialogue: 0,0:01:14.00,0:01:14.90,Abspann,Chris,0,0,0,CutScene|90007_10,<color=#BD9ED5>Chris</color> : Und hier?
+Dialogue: 0,0:01:15.00,0:01:15.90,Abspann,Orca,0,0,0,CutScene|90007_11,<color=#9DB2E8>Orca</color> : H-hyah?!
+Dialogue: 0,0:01:16.00,0:01:16.90,Abspann,Chris,0,0,0,CutScene|90007_12,<color=#BD9ED5>Chris</color> : Ghk?! Orca... du wickelst deinen Schwanz um meinen Hals... Ich kann nicht... atmen... gurgel...

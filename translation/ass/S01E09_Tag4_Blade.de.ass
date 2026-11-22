@@ -1,0 +1,125 @@
+[Script Info]
+Title: S01E09_Tag4_Blade
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_1,Biiiip-!
+Dialogue: 0,0:00:01.00,0:00:01.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_2,Bip, biiip...
+Dialogue: 0,0:00:02.00,0:00:02.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_3,...Das Feuer ist zu... es ist gefährlich, hineinzugehen...
+Dialogue: 0,0:00:03.00,0:00:03.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_4,...Bi-ip.
+Dialogue: 0,0:00:04.00,0:00:04.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_5,...y.
+Dialogue: 0,0:00:05.00,0:00:05.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_6,...ey...
+Dialogue: 0,0:00:06.00,0:00:06.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_7,...Hey!
+Dialogue: 0,0:00:07.00,0:00:07.90,StartMain,Chris,0,0,0,DialogueTable|60016_8,Ja! Ja, ja!
+Dialogue: 0,0:00:08.00,0:00:08.90,StartMain,Chris,0,0,0,DialogueTable|60016_9,...Moment, habe ich geschlafen?
+Dialogue: 0,0:00:09.00,0:00:09.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_10,Der Schrei dröhnte mir in den Ohren, und ich schoss reflexartig hoch.
+Dialogue: 0,0:00:10.00,0:00:10.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_11,Dieser Alarm eben ... war das ein Traum?
+Dialogue: 0,0:00:11.00,0:00:11.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_12,Ein vertrauter, unheilvoller roter Blitz flackert noch hinter meinen Lidern.
+Dialogue: 0,0:00:12.00,0:00:12.90,StartMain,Chris,0,0,0,DialogueTable|60016_13,(Schon wieder so ein seltsamer Traum ... was um Himmels willen war das bloß ...)
+Dialogue: 0,0:00:13.00,0:00:13.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_14,Durch meinen verschwommenen Blick sehe ich ein unwillkommenes Flimmern.
+Dialogue: 0,0:00:14.00,0:00:14.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_15,Es ist Blade, der Typ von neulich.
+Dialogue: 0,0:00:15.00,0:00:15.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_16,Kurz überlegte ich, mich weiter schlafend zu stellen,
+Dialogue: 0,0:00:16.00,0:00:16.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_17,aber der Gedanke an sein loses Mundwerk bescherte mir Kopfschmerzen,
+Dialogue: 0,0:00:17.00,0:00:17.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60016_18,also setzte ich mich einfach gerade hin.
+Dialogue: 0,0:00:18.00,0:00:18.90,StartMain,Blade,0,0,0,DialogueTable|60016_19,Hey, Bleichgesicht. Endlich wach?
+Dialogue: 0,0:00:19.00,0:00:19.90,StartMain,Chris,0,0,0,DialogueTable|60016_20,Blade?
+Dialogue: 0,0:00:20.00,0:00:20.90,StartMain,Blade,0,0,0,DialogueTable|60016_21,Wer soll sonst hier sein außer uns?
+Dialogue: 0,0:00:21.00,0:00:21.90,StartMain,Blade,0,0,0,DialogueTable|60016_22,Mit offener Ladentür zu pennen, du hast echt Mumm.
+Dialogue: 0,0:00:22.00,0:00:22.90,StartMain,Blade,0,0,0,DialogueTable|60016_23,Hör auf zu träumen und synthetisier mir zwei Tier-3-Power-Units und eine Tier-3-Neural-Unit.
+Dialogue: 0,0:00:23.00,0:00:23.90,StartMain,Blade,0,0,0,DialogueTable|60016_24,Und zwar zackig.
+Dialogue: 0,0:00:24.00,0:00:24.90,StartMain,Blade,0,0,0,DialogueTable|60016_25,Denn meine Geduld ist im Keller, genau wie die öffentliche Sicherheit in dieser verrotteten Stadt.
+Dialogue: 0,0:00:25.00,0:00:25.90,StartMain,Chris,0,0,0,DialogueTable|60016_26,Willkommen zurück, Blade.
+Dialogue: 0,0:00:26.00,0:00:26.90,StartMain,Chris,0,0,0,DialogueTable|60016_27,Draußen herrscht reges Treiben wegen der Vorbereitungen für den Polarnacht-Tag,
+Dialogue: 0,0:00:27.00,0:00:27.90,StartMain,Chris,0,0,0,DialogueTable|60016_28,aber Sie sehen nicht gerade begeistert aus.
+Dialogue: 0,0:00:28.00,0:00:28.90,StartMain,Blade,0,0,0,DialogueTable|60016_29,Feiern? Dass ich nicht lache.
+Dialogue: 0,0:00:29.00,0:00:29.90,StartMain,Blade,0,0,0,DialogueTable|60016_30,Weil diese verdammten Konzerne Hochleistungs-Hologramme raushauen,
+Dialogue: 0,0:00:30.00,0:00:30.90,StartMain,Blade,0,0,0,DialogueTable|60016_31,dreht meine optische Tarnrüstung total durch.
+Dialogue: 0,0:00:31.00,0:00:31.90,StartMain,Blade,0,0,0,DialogueTable|60016_32,Außerdem kichert die ganze Stadt wie bescheuert, zugedröhnt mit billigen Elektro-Drogen,
+Dialogue: 0,0:00:32.00,0:00:32.90,StartMain,Blade,0,0,0,DialogueTable|60016_33,und diese „Morning Glory“-Bastarde oder wie die heißen nutzen das aus und scheißen überall hin.
+Dialogue: 0,0:00:33.00,0:00:33.90,StartMain,Chris,0,0,0,DialogueTable|60016_34,Tatsächlich war heute schon ein anderer Kunde hier
+Dialogue: 0,0:00:34.00,0:00:34.90,StartMain,Chris,0,0,0,DialogueTable|60016_35,und meinte, draußen herrsche das totale Chaos, weil wichtige Einrichtungen der Stadt sabotiert wurden.
+Dialogue: 0,0:00:35.00,0:00:35.90,StartMain,Blade,0,0,0,DialogueTable|60016_36,Das geht alles auf ihr Konto.
+Dialogue: 0,0:00:36.00,0:00:36.90,StartMain,Blade,0,0,0,DialogueTable|60016_37,Nach außen geben sie sich als Befreiungsarmee gegen korrupte Macht,
+Dialogue: 0,0:00:37.00,0:00:37.90,StartMain,Blade,0,0,0,DialogueTable|60016_38,aber für mich sind das bloß dopaminsüchtige Bastarde, die durchdrehen, weil sie auf ihr eigenes Leben sauer sind.
+Dialogue: 0,0:00:38.00,0:00:38.90,StartMain,Blade,0,0,0,DialogueTable|60016_39,Bei all der Energie, die sie damit verschwenden, rumzurennen und von Weltveränderung zu quatschen,
+Dialogue: 0,0:00:39.00,0:00:39.90,StartMain,Blade,0,0,0,DialogueTable|60016_40,würden sie sich und der Welt einen riesigen Gefallen tun, wenn sie sich in einer Gasse mit einem Henker anlegen und draufgehen würden.
+Dialogue: 0,0:00:40.00,0:00:40.90,StartMain,Chris,0,0,0,DialogueTable|60016_41,Nun, ihre Methoden sind ziemlich extrem.
+Dialogue: 0,0:00:41.00,0:00:41.90,StartMain,Chris,0,0,0,DialogueTable|60016_42,Deshalb haben die Leute Angst, sogar bei dieser Jahresendstimmung.
+Dialogue: 0,0:00:42.00,0:00:42.90,StartMain,Blade,0,0,0,DialogueTable|60016_43,Angst? Nein, eher eine Riesennervensäge.
+Dialogue: 0,0:00:43.00,0:00:43.90,StartMain,Blade,0,0,0,DialogueTable|60016_44,Wegen dieser Möchtegern-Terroristen
+Dialogue: 0,0:00:44.00,0:00:44.90,StartMain,Blade,0,0,0,DialogueTable|60016_45,haben die verdammten Stability Officers an jedem Block Kontrollpunkte aufgebaut und starren alle nieder.
+Dialogue: 0,0:00:45.00,0:00:45.90,StartMain,Blade,0,0,0,DialogueTable|60016_46,Dadurch ist es 20-mal lästiger geworden, in diese Gegend rein- und rauszukommen. Echt ein verdammt hartes Pflaster.
+Dialogue: 0,0:00:46.00,0:00:46.90,StartMain,Chris,0,0,0,DialogueTable|60016_47,Zuerst bitte ich Sie zu warten, ich richte die D1AL-Ausrüstung ein. Das dauert einen Moment.
+Dialogue: 0,0:00:47.00,0:00:47.90,StartMain,Blade,0,0,0,DialogueTable|60016_48,...
+Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Blade,0,0,0,DialogueTable|60016_49,Übrigens, Kleiner ... wegen deiner Ausrüstung da.
+Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Chris,0,0,0,DialogueTable|60016_50,Ja?
+Dialogue: 0,0:00:50.00,0:00:50.90,StartMain,Blade,0,0,0,DialogueTable|60016_51,Das ist ein altes Modell der 1. Generation, stimmt's?
+Dialogue: 0,0:00:51.00,0:00:51.90,StartMain,Blade,0,0,0,DialogueTable|60016_52,So eins, das keine Wartungsprotokolle an Sunshine Corp schickt.
+Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Blade,0,0,0,DialogueTable|60016_53,So nicht nachverfolgbare Ausrüstung in diesen Zeiten zu benutzen ...
+Dialogue: 0,0:00:53.00,0:00:53.90,StartMain,Blade,0,0,0,DialogueTable|60016_54,heißt, du hast entweder Mumm ... oder jede Menge zu verbergen.
+Dialogue: 0,0:00:54.00,0:00:54.90,StartMain,Chris,0,0,0,DialogueTable|60016_55,...Nun. Ich bleibe dabei, weil ich es gewohnt bin.
+Dialogue: 0,0:00:55.00,0:00:55.90,StartMain,Chris,0,0,0,DialogueTable|60016_56,Außerdem macht es keine Papierspur auch für Sie einfacher, Blade.
+Dialogue: 0,0:00:56.00,0:00:56.90,StartMain,Blade,0,0,0,DialogueTable|60016_57,Hah, das nenne ich mal eine Antwort.
+Dialogue: 0,0:00:57.00,0:00:57.90,StartMain,Blade,0,0,0,DialogueTable|60016_58,Von außen siehst du aus wie ein braves Bonzensöhnchen, aber du bist ganz schön gerissen.
+Dialogue: 0,0:00:58.00,0:00:58.90,StartMain,Blade,0,0,0,DialogueTable|60016_59,Andererseits könnte man hier ohne diesen Mumm gar kein Geschäft führen.
+Dialogue: 0,0:00:59.00,0:00:59.90,StartMain,Chris,0,0,0,DialogueTable|60016_60,Das nehme ich als Kompliment.
+Dialogue: 0,0:01:00.00,0:01:00.90,StartMain,Chris,0,0,0,DialogueTable|60016_61,Ich fange jetzt an, also seien Sie bitte kurz still.
+Dialogue: 0,0:01:01.00,0:01:01.90,StartMain,Blade,0,0,0,DialogueTable|60016_62,...
+Dialogue: 0,0:01:02.00,0:01:02.90,StartMain,Blade,0,0,0,DialogueTable|60016_63,Aber hey, Kleiner, weißt du eigentlich, was der Name von diesem Idiotenhaufen bedeutet?
+Dialogue: 0,0:01:03.00,0:01:03.90,StartMain,Chris,0,0,0,DialogueTable|60016_64,(Sein Mundwerk steht nie still ...)
+Dialogue: 0,0:01:04.00,0:01:04.90,StartMain,Chris,0,0,0,DialogueTable|60016_65,Nun, heißt das nicht normalerweise einfach „Pracht des Morgens“?
+Dialogue: 0,0:01:05.00,0:01:05.90,StartMain,Chris,0,0,0,DialogueTable|60016_66,Es ist auch der Name einer Blume.
+Dialogue: 0,0:01:06.00,0:01:06.90,StartMain,Blade,0,0,0,DialogueTable|60016_67,Hah! Typisch, dass ein Treibhauspflänzchen wie du das denkt.
+Dialogue: 0,0:01:07.00,0:01:07.90,StartMain,Blade,0,0,0,DialogueTable|60016_68,Das heißt Morgenlatte, du Trottel.
+Dialogue: 0,0:01:08.00,0:01:08.90,StartMain,Blade,0,0,0,DialogueTable|60016_69,Irgendwelche weltfremden Gelehrten haben es wohl aus einem Wörterbuch gefischt, damit es schick klingt,
+Dialogue: 0,0:01:09.00,0:01:09.90,StartMain,Blade,0,0,0,DialogueTable|60016_70,aber für mich sind das bloß ein Haufen Rotzlöffel, deren einzige Leistung ist, jeden Morgen ein Zelt aufzuschlagen.
+Dialogue: 0,0:01:10.00,0:01:10.90,StartMain,Blade,0,0,0,DialogueTable|60016_71,Wenn sich ihr Rang nach dieser Morgenhärte richten würde,
+Dialogue: 0,0:01:11.00,0:01:11.90,StartMain,Blade,0,0,0,DialogueTable|60016_72,würde ich längst als ihr König die Stadt regieren. Meinst du nicht?
+Dialogue: 0,0:01:12.00,0:01:12.90,StartMain,Chris,0,0,0,DialogueTable|60016_73,...Das ist eine sehr vulgäre Denkweise.
+Dialogue: 0,0:01:13.00,0:01:13.90,StartMain,Chris,0,0,0,DialogueTable|60016_74,Aber andererseits, wenn es ihnen wirklich ernst damit wäre, die Welt zu verändern ...
+Dialogue: 0,0:01:14.00,0:01:14.90,StartMain,Chris,0,0,0,DialogueTable|60016_75,hätten sie nicht den ineffizienten Weg gewählt, öffentliche Einrichtungen in die Luft zu jagen, nur um Aufmerksamkeit zu erregen.
+Dialogue: 0,0:01:15.00,0:01:15.90,StartMain,Blade,0,0,0,DialogueTable|60016_76,Oh?
+Dialogue: 0,0:01:16.00,0:01:16.90,StartMain,Chris,0,0,0,DialogueTable|60016_77,Denn echte Profis hätten das Ziel einfach still ausgeschaltet.
+Dialogue: 0,0:01:17.00,0:01:17.90,StartMain,Blade,0,0,0,DialogueTable|60016_78,Hmm ... Dein Blick hat sich gerade ein bisschen verändert.
+Dialogue: 0,0:01:18.00,0:01:18.90,StartMain,Chris,0,0,0,DialogueTable|60016_79,War nur ein Scherz. Die Ausrüstung ist fertig eingerichtet, also lege ich los.
+Dialogue: 0,0:01:19.00,0:01:19.90,StartMain,Auftragstitel,0,0,0,DialogueTable|60016_80,[Blades Auftrag] Units für Blade synthetisieren, der es irgendwie lebend zurückgeschafft hat
+Dialogue: 0,0:01:20.00,0:01:20.90,ClearMain,Chris,0,0,0,DialogueTable|60017_1,Hier sind die Tier-3-Power-Units und die Neural Unit, die Sie bestellt haben.
+Dialogue: 0,0:01:21.00,0:01:21.90,ClearMain,Chris,0,0,0,DialogueTable|60017_2,Beim Synthetisieren habe ich noch eine Konturkorrektur für ein saubereres Finish eingebaut.
+Dialogue: 0,0:01:22.00,0:01:22.90,ClearMain,Chris,0,0,0,DialogueTable|60017_3,Damit kommen Sie problemlos an den Checkpoint-Scannern vorbei.
+Dialogue: 0,0:01:23.00,0:01:23.90,ClearMain,Blade,0,0,0,DialogueTable|60017_4,Oh, schnell, wie erwartet.
+Dialogue: 0,0:01:24.00,0:01:24.90,ClearMain,Blade,0,0,0,DialogueTable|60017_5,Die Oberfläche dieser synthetisierten Units ist auch richtig glatt.
+Dialogue: 0,0:01:25.00,0:01:25.90,ClearMain,Blade,0,0,0,DialogueTable|60017_6,...
+Dialogue: 0,0:01:26.00,0:01:26.90,ClearMain,Blade,0,0,0,DialogueTable|60017_7,Hm, sieh mal einer an?
+Dialogue: 0,0:01:27.00,0:01:27.90,ClearMain,Blade,0,0,0,DialogueTable|60017_8,Wie du Sicherheitscodes verschleierst, ist nicht ohne.
+Dialogue: 0,0:01:28.00,0:01:28.90,ClearMain,Blade,0,0,0,DialogueTable|60017_9,Entgegen deinem dämlichen ersten Eindruck riecht dein Können nach etwas ... ziemlich Gefährlichem.
+Dialogue: 0,0:01:29.00,0:01:29.90,ClearMain,Chris,0,0,0,DialogueTable|60017_10,Gefährlich? Das ist nur persönlicher Kundenservice.
+Dialogue: 0,0:01:30.00,0:01:30.90,ClearMain,Blade,0,0,0,DialogueTable|60017_11,Nee, gefällt mir. Leute, die ihre Arbeit ordentlich machen, sind meine Sorte.
+Dialogue: 0,0:01:31.00,0:01:31.90,ClearMain,Blade,0,0,0,DialogueTable|60017_12,Einem wie dir, der still seine Ergebnisse liefert, würde ich jederzeit mehr trauen als diesen Revoluzzern, die nur große Töne spucken.
+Dialogue: 0,0:01:32.00,0:01:32.90,ClearMain,Chris,0,0,0,DialogueTable|60017_13,Danke. Sie haben ein loses Mundwerk, Blade, aber Sie scheinen mir kein so übler Kerl zu sein.
+Dialogue: 0,0:01:33.00,0:01:33.90,ClearMain,Blade,0,0,0,DialogueTable|60017_14,Spar dir das schmeichlerische Gelaber.
+Dialogue: 0,0:01:34.00,0:01:34.90,ClearMain,Blade,0,0,0,DialogueTable|60017_15,Sei ehrlich. Wo hast du dir deine Sporen verdient?
+Dialogue: 0,0:01:35.00,0:01:35.90,ClearMain,Chris,0,0,0,DialogueTable|60017_16,Ich bin schon lange ein ganz normaler Mechaniker. Soweit ich mich erinnern kann.
+Dialogue: 0,0:01:36.00,0:01:36.90,ClearMain,Blade,0,0,0,DialogueTable|60017_17,„Soweit ich mich erinnern kann“ ... Heh, ziemlich kryptisch.
+Dialogue: 0,0:01:37.00,0:01:37.90,ClearMain,Chris,0,0,0,DialogueTable|60017_18,Na kommen Sie, Blade. Hören Sie auf mit dem Gewäsch und machen Sie sich auf den Weg.
+Dialogue: 0,0:01:38.00,0:01:38.90,ClearMain,Chris,0,0,0,DialogueTable|60017_19,Wenn Sie noch länger hier herumhängen, meldet Sie am Ende jemand.
+Dialogue: 0,0:01:39.00,0:01:39.90,ClearMain,Blade,0,0,0,DialogueTable|60017_20,Ja, ja. Ich gebe dir einen Gratis-Tipp, weil ich gerade gute Laune habe.
+Dialogue: 0,0:01:40.00,0:01:40.90,ClearMain,Blade,0,0,0,DialogueTable|60017_21,Bleib an diesem Polarnacht-Tag mit deinem Arsch zu Hause.
+Dialogue: 0,0:01:41.00,0:01:41.90,ClearMain,Blade,0,0,0,DialogueTable|60017_22,Denn auf der Straße heißt es, diese „Morgenlatten“-Bastarde ziehen was richtig Großes ab.
+Dialogue: 0,0:01:42.00,0:01:42.90,ClearMain,Blade,0,0,0,DialogueTable|60017_23,Wäre doch mein Verlust, wenn so ein handlicher Mechaniker wie du da mit reingerissen wird und draufgeht, oder?
+Dialogue: 0,0:01:43.00,0:01:43.90,ClearMain,Chris,0,0,0,DialogueTable|60017_24,Danke für den Rat. Aber ich glaube nicht, dass Sie in der Position sind, sich um mich zu sorgen, Blade.
+Dialogue: 0,0:01:44.00,0:01:44.90,ClearMain,Blade,0,0,0,DialogueTable|60017_25,Besorg dir nächstes Mal eine heiße E.V.E als Assistentin.
+Dialogue: 0,0:01:45.00,0:01:45.90,ClearMain,Blade,0,0,0,DialogueTable|60017_26,Dann gebe ich mein Geld gern aus, statt deine kränkliche Visage anzustarren.
+Dialogue: 0,0:01:46.00,0:01:46.90,ClearMain,Chris,0,0,0,DialogueTable|60017_27,Gute Heimreise.
+Dialogue: 0,0:01:47.00,0:01:47.90,ClearMain,Chris,0,0,0,DialogueTable|60017_28,(Der Kerl ist heute auch wieder irre.)
+Dialogue: 0,0:01:48.00,0:01:48.90,ClearMain,Chris,0,0,0,DialogueTable|60017_29,(Ich habe keine Ahnung, was in seinem Kopf vorgeht ...)
+Dialogue: 0,0:01:49.00,0:01:49.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60017_30,Während ich die flimmernde Gestalt verschwinden sehe,
+Dialogue: 0,0:01:50.00,0:01:50.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60017_31,wird mein Kopf langsam benommen.
+Dialogue: 0,0:01:51.00,0:01:51.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60017_32,Sogar das laute Schrillen des Infrarotsensors am Eingang
+Dialogue: 0,0:01:52.00,0:01:52.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60017_33,und Blades erschrockenes Fluchen
+Dialogue: 0,0:01:53.00,0:01:53.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60017_34,verschwimmen alle in einem fernen Dunst.
+Dialogue: 0,0:01:54.00,0:01:54.90,ClearMain,Chris,0,0,0,DialogueTable|60017_35,Ich sollte für heute Schluss machen, reingehen und sofort schlafen.

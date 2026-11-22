@@ -1,0 +1,242 @@
+[Script Info]
+Title: S01E08_Tag4_Orca
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,WorkBefore,Chris,0,0,0,DialogueTable|70003_1,(Mmh... Der anstrengendste Morgen seit Langem.)
+Dialogue: 0,0:00:01.00,0:00:01.90,WorkBefore,Chris,0,0,0,DialogueTable|70003_2,(Letzte Nacht hatte ich auch irgendeinen seltsamen Traum, aber ich kann mich an nichts erinnern...)
+Dialogue: 0,0:00:02.00,0:00:02.90,WorkBefore,Chris,0,0,0,DialogueTable|70003_3,(Kommt das alles davon, dass ich die Nahrungsergänzungsmittel ausgelassen habe?)
+Dialogue: 0,0:00:03.00,0:00:03.90,WorkBefore,Chris,0,0,0,DialogueTable|70003_4,(Mir geht es auch sonst nicht besonders gut...)
+Dialogue: 0,0:00:04.00,0:00:04.90,WorkBefore,Chris,0,0,0,DialogueTable|70003_5,(Normalerweise hilft es in solchen Momenten, sich einfach auf etwas zu konzentrieren.)
+Dialogue: 0,0:00:05.00,0:00:05.90,WorkBefore,Chris,0,0,0,DialogueTable|70003_6,(Ich mache vorerst einfach den Laden auf.)
+Dialogue: 0,0:00:06.00,0:00:06.90,StartMain,Michelle,0,0,0,DialogueTable|60014_1,Cinderella zieht also herum und spielt den gerechten Phantomdieb?
+Dialogue: 0,0:00:07.00,0:00:07.90,StartMain,Chris,0,0,0,DialogueTable|60014_2,Ja. Nachdem gestern ein Kunde davon erzählt hat, wurde ich neugierig und habe nachgeschaut,
+Dialogue: 0,0:00:08.00,0:00:08.90,StartMain,Chris,0,0,0,DialogueTable|60014_3,und manche feiern Cinderella schon als Helden.
+Dialogue: 0,0:00:09.00,0:00:09.90,StartMain,Michelle,0,0,0,DialogueTable|60014_4,Und dieser „Held“ drischt mit High Heels auf die Obrigkeit ein?
+Dialogue: 0,0:00:10.00,0:00:10.90,StartMain,Chris,0,0,0,DialogueTable|60014_5,Ich habe es anfangs auch nicht geglaubt, aber nachdem ich die Clips im Feed gesehen habe, habe ich meine Meinung geändert.
+Dialogue: 0,0:00:11.00,0:00:11.90,StartMain,Chris,0,0,0,DialogueTable|60014_6,High Heels können eine viel furchterregendere Waffe sein, als man denkt.
+Dialogue: 0,0:00:12.00,0:00:12.90,StartMain,Michelle,0,0,0,DialogueTable|60014_7,Echt? Dann kommt Cinderella bestimmt auch gleich in einer Kürbiskutsche angefahren.
+Dialogue: 0,0:00:13.00,0:00:13.90,StartMain,Chris,0,0,0,DialogueTable|60014_8,Eigentlich heißt es, dass Cinderella manchmal auf einem Hoverbike mit orangefarbenem Panzerglas aufkreuzt.
+Dialogue: 0,0:00:14.00,0:00:14.90,StartMain,Michelle,0,0,0,DialogueTable|60014_9,Was für ein Spektakel...
+Dialogue: 0,0:00:15.00,0:00:15.90,StartMain,Michelle,0,0,0,DialogueTable|60014_10,In einer Stadt voller Cinderella-Fetisch-Spinner und ihrer Anhänger
+Dialogue: 0,0:00:16.00,0:00:16.90,StartMain,Michelle,0,0,0,DialogueTable|60014_11,wundert es mich manchmal, wie du dort bei Verstand bleibst, Chris.
+Dialogue: 0,0:00:17.00,0:00:17.90,StartMain,Chris,0,0,0,DialogueTable|60014_12,Bei Verstand... Ab heute muss ich wirklich wachsam bleiben.
+Dialogue: 0,0:00:18.00,0:00:18.90,StartMain,Michelle,0,0,0,DialogueTable|60014_13,Wieso, stimmt was nicht?
+Dialogue: 0,0:00:19.00,0:00:19.90,StartMain,Chris,0,0,0,DialogueTable|60014_14,Weil die Stadt ab heute in die totale Polarnacht eintritt.
+Dialogue: 0,0:00:20.00,0:00:20.90,StartMain,Michelle,0,0,0,DialogueTable|60014_15,Totale Polarnacht?
+Dialogue: 0,0:00:21.00,0:00:21.90,StartMain,Michelle,0,0,0,DialogueTable|60014_16,Ist es dort nicht sowieso immer Nacht?
+Dialogue: 0,0:00:22.00,0:00:22.90,StartMain,Chris,0,0,0,DialogueTable|60014_17,Dunkel ist es den ganzen Tag, klar, aber es ist nicht 24 Stunden am Tag Nacht.
+Dialogue: 0,0:00:23.00,0:00:23.90,StartMain,Michelle,0,0,0,DialogueTable|60014_18,Das ergibt keinen Sinn...
+Dialogue: 0,0:00:24.00,0:00:24.90,StartMain,Chris,0,0,0,DialogueTable|60014_19,In Chroma City gibt es zwei Arten von Nacht.
+Dialogue: 0,0:00:25.00,0:00:25.90,StartMain,Chris,0,0,0,DialogueTable|60014_20,Die normale Nacht und die „Graue Nacht“, bei der die Sonne zwar oben steht, es aber trotzdem dunkel ist.
+Dialogue: 0,0:00:26.00,0:00:26.90,StartMain,Michelle,0,0,0,DialogueTable|60014_21,Du meinst, es ist sogar tagsüber dunkel?
+Dialogue: 0,0:00:27.00,0:00:27.90,StartMain,Chris,0,0,0,DialogueTable|60014_22,Ja. Als das hier noch eine Industriestadt war, war die Luftverschmutzung furchtbar,
+Dialogue: 0,0:00:28.00,0:00:28.90,StartMain,Chris,0,0,0,DialogueTable|60014_23,und der ganze Smog und Feinstaub von damals hat sich in der Stratosphäre angesammelt und eine Verschmutzungsschicht gebildet.
+Dialogue: 0,0:00:29.00,0:00:29.90,StartMain,Chris,0,0,0,DialogueTable|60014_24,Die hält das ganze Sonnenlicht ab, deshalb ist es sogar tagsüber dunkel.
+Dialogue: 0,0:00:30.00,0:00:30.90,StartMain,Chris,0,0,0,DialogueTable|60014_25,Es ist nur ein kleines bisschen heller als Nacht, weil das Licht kaum durchdringt.
+Dialogue: 0,0:00:31.00,0:00:31.90,StartMain,Chris,0,0,0,DialogueTable|60014_26,Genau genommen ist es eher Nacht mit einer Spur mehr Helligkeit.
+Dialogue: 0,0:00:32.00,0:00:32.90,StartMain,Chris,0,0,0,DialogueTable|60014_27,Das nennen wir die „Graue Nacht“.
+Dialogue: 0,0:00:33.00,0:00:33.90,StartMain,Michelle,0,0,0,DialogueTable|60014_28,Hm. Definitiv ein mieses Viertel.
+Dialogue: 0,0:00:34.00,0:00:34.90,StartMain,Chris,0,0,0,DialogueTable|60014_29,Wie ich gestern schon sagte, das ist der Charme dieser Stadt.
+Dialogue: 0,0:00:35.00,0:00:35.90,StartMain,Chris,0,0,0,DialogueTable|60014_30,Aber ich muss zugeben, um diese Jahreszeit ist es ziemlich mies.
+Dialogue: 0,0:00:36.00,0:00:36.90,StartMain,Michelle,0,0,0,DialogueTable|60014_31,Was ist denn mit dir los? Sonst würdest du doch alle Gründe herunterbeten, warum Chroma City so toll ist.
+Dialogue: 0,0:00:37.00,0:00:37.90,StartMain,Chris,0,0,0,DialogueTable|60014_32,Hm... Ich bin heute ein bisschen müde.
+Dialogue: 0,0:00:38.00,0:00:38.90,StartMain,Chris,0,0,0,DialogueTable|60014_33,Ich will es, glaube ich, einfach ruhig angehen lassen...
+Dialogue: 0,0:00:39.00,0:00:39.90,StartMain,Michelle,0,0,0,DialogueTable|60014_34,Schade.
+Dialogue: 0,0:00:40.00,0:00:40.90,StartMain,Chris,0,0,0,DialogueTable|60014_35,Wir reden morgen wieder.
+Dialogue: 0,0:00:41.00,0:00:41.90,StartMain,Michelle,0,0,0,DialogueTable|60014_36,Okay, bis morgen.
+Dialogue: 0,0:00:42.00,0:00:42.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_37,Müde ins Bett gegangen,
+Dialogue: 0,0:00:43.00,0:00:43.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_38,und müde aufgewacht.
+Dialogue: 0,0:00:44.00,0:00:44.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_39,Man sagt, Eltern wissen es immer am besten.
+Dialogue: 0,0:00:45.00,0:00:45.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_40,Nie hätte ich gedacht, dass die Nahrungsergänzungsmittel, die ich auf ihr Geheiß gewissenhaft nehmen sollte, so wirksam wären.
+Dialogue: 0,0:00:46.00,0:00:46.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_41,Dazu noch eine Depression und ein paar Krankheiten, und ich wäre garantiert ein Zombie.
+Dialogue: 0,0:00:47.00,0:00:47.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_42,Ich kann ein Stück weit verstehen, warum so viele Zombies auf den Straßen unterwegs sind.
+Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_43,Kopfschmerzen, chronische Erschöpfung, Schwindel und eine Prise Angst.
+Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_44,Die perfekte Prüfung, um am eigenen Leib zu lernen, wie wichtig Gesundheit ist.
+Dialogue: 0,0:00:50.00,0:00:50.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_45,Der menschliche Körper ist einer E.V.E ziemlich ähnlich,
+Dialogue: 0,0:00:51.00,0:00:51.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_46,also wenn die Hardware ausfällt, gerät die Software durcheinander – der Geist.
+Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_47,Natürlich gilt auch das Umgekehrte.
+Dialogue: 0,0:00:53.00,0:00:53.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_48,Zum Beispiel der Fall, in dem jemand
+Dialogue: 0,0:00:54.00,0:00:54.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_49,in einem kaputten Gefrierschrank rein aus psychischen Gründen erfroren ist,
+Dialogue: 0,0:00:55.00,0:00:55.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_50,oder echte Krankheiten, die durch Scheinmedikamente geheilt wurden.
+Dialogue: 0,0:00:56.00,0:00:56.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_51,Ein gesunder Geist in einem gesunden Körper.
+Dialogue: 0,0:00:57.00,0:00:57.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_52,Da meine körperliche Gesundheit ohnehin im Eimer ist,
+Dialogue: 0,0:00:58.00,0:00:58.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_53,sollte ich mich vielleicht auf den „gesunden Geist“ konzentrieren.
+Dialogue: 0,0:00:59.00,0:00:59.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_54,Wenn sich beide gegenseitig beeinflussen,
+Dialogue: 0,0:01:00.00,0:01:00.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_55,dann ist Stöhnen und Jammern über die Müdigkeit
+Dialogue: 0,0:01:01.00,0:01:01.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_56,nur ein Expressticket ganz nach unten, wenn Körper und Geist sich gegen mich verbünden.
+Dialogue: 0,0:01:02.00,0:01:02.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60014_57,Statt heute zu arbeiten, sollte ich vielleicht einfach leise...
+Dialogue: 0,0:01:03.00,0:01:03.90,StartMain,Orca,0,0,0,DialogueTable|60014_58,Hal...lo.
+Dialogue: 0,0:01:04.00,0:01:04.90,StartMain,Chris,0,0,0,DialogueTable|60014_59,Orca! Was ist passiert?!
+Dialogue: 0,0:01:05.00,0:01:05.90,StartMain,Orca,0,0,0,DialogueTable|60014_60,Ich wurde von herabstürzenden Trümmern getroffen.
+Dialogue: 0,0:01:06.00,0:01:06.90,StartMain,Orca,0,0,0,DialogueTable|60014_61,Normalerweise wäre ich ausgewichen... Ich war wohl einfach erschöpft von den vielen Einsätzen in letzter Zeit.
+Dialogue: 0,0:01:07.00,0:01:07.90,StartMain,Chris,0,0,0,DialogueTable|60014_62,Das liegt nicht an der Erschöpfung!
+Dialogue: 0,0:01:08.00,0:01:08.90,StartMain,Chris,0,0,0,DialogueTable|60014_63,Komm schnell rein!
+Dialogue: 0,0:01:09.00,0:01:09.90,StartMain,Chris,0,0,0,DialogueTable|60014_64,Dass deine äußere Legierungspanzerung so verbeult ist,
+Dialogue: 0,0:01:10.00,0:01:10.90,StartMain,Chris,0,0,0,DialogueTable|60014_65,heißt, dass du als normales E.V.E-Modell zerstört worden wärst, bevor wir auch nur den Kern hätten bergen können.
+Dialogue: 0,0:01:11.00,0:01:11.90,StartMain,Orca,0,0,0,DialogueTable|60014_66,Ach ja?
+Dialogue: 0,0:01:12.00,0:01:12.90,StartMain,Orca,0,0,0,DialogueTable|60014_67,Ich glaube, ich würde lieber einfach... ein bisschen ausruhen.
+Dialogue: 0,0:01:13.00,0:01:13.90,StartMain,Chris,0,0,0,DialogueTable|60014_68,Nach solchen Sätzen sterben Leute normalerweise!
+Dialogue: 0,0:01:14.00,0:01:14.90,StartMain,Chris,0,0,0,DialogueTable|60014_69,Ich fange sofort mit der Reparatur an.
+Dialogue: 0,0:01:15.00,0:01:15.90,StartMain,Orca,0,0,0,DialogueTable|60014_70,Dann nur ein bisschen... ausruhen...
+Dialogue: 0,0:01:16.00,0:01:16.90,StartMain,Chris,0,0,0,DialogueTable|60014_71,Orca...!
+Dialogue: 0,0:01:17.00,0:01:17.90,StartMain,Auftragstitel,0,0,0,DialogueTable|60014_72,[Orcas Auftrag] Schwer beschädigte Orca reparieren
+Dialogue: 0,0:01:18.00,0:01:18.90,Sub,Orca,0,0,0,DialogueTable|40140_1,Agh, ah...! ...Ngh...
+Dialogue: 0,0:01:19.00,0:01:19.90,Sub,Orca,0,0,0,DialogueTable|40140_2,Haa... ahh, ah!...
+Dialogue: 0,0:01:20.00,0:01:20.90,Repair1,Chris,0,0,0,DialogueTable|40141_1,Orca, kannst du mich hören?
+Dialogue: 0,0:01:21.00,0:01:21.90,Repair1,Orca,0,0,0,DialogueTable|40141_2,Ah... Ugh... Haa...
+Dialogue: 0,0:01:22.00,0:01:22.90,Repair1,Chris,0,0,0,DialogueTable|40141_3,Bleib bei mir. Ich muss wissen, ob du mich hören kannst.
+Dialogue: 0,0:01:23.00,0:01:23.90,Repair1,Orca,0,0,0,DialogueTable|40141_4,Agh, ah...! ...Haaa.
+Dialogue: 0,0:01:24.00,0:01:24.90,Repair1,Chris,0,0,0,DialogueTable|40141_5,Sie ist in wirklich schlechter Verfassung.
+Dialogue: 0,0:01:25.00,0:01:25.90,Repair1,Chris,0,0,0,DialogueTable|40141_6,(Die Power Unit und einige Neural Units haben komplett den Dienst eingestellt.)
+Dialogue: 0,0:01:26.00,0:01:26.90,Repair1,Chris,0,0,0,DialogueTable|40141_7,(Die äußere Legierung ist stark verformt, und der Innenrahmen drückt auf den Kern.)
+Dialogue: 0,0:01:27.00,0:01:27.90,Repair1,Chris,0,0,0,DialogueTable|40141_8,Ich muss mich beeilen. Auch alle anderen Teile brauchen dringend einen Unit-Austausch.
+Dialogue: 0,0:01:28.00,0:01:28.90,Repair2,Orca,0,0,0,DialogueTable|40142_1,...Ngh. S-so kalt...
+Dialogue: 0,0:01:29.00,0:01:29.90,Repair2,Chris,0,0,0,DialogueTable|40142_2,Orca, bist du wach?
+Dialogue: 0,0:01:30.00,0:01:30.90,Repair2,Orca,0,0,0,DialogueTable|40142_3,Nein... Ohara... Du darfst dort nicht zurückweichen... Ghk.
+Dialogue: 0,0:01:31.00,0:01:31.90,Repair2,Chris,0,0,0,DialogueTable|40142_4,Orca? Was hast du gerade...
+Dialogue: 0,0:01:32.00,0:01:32.90,Repair2,Orca,0,0,0,DialogueTable|40142_5,Konter...! Jetzt... Hals packen... Magical German Suplex...
+Dialogue: 0,0:01:33.00,0:01:33.90,Repair2,Chris,0,0,0,DialogueTable|40142_6,Zitierst du gerade ernsthaft Buff Girl? In so einer Lage?!
+Dialogue: 0,0:01:34.00,0:01:34.90,Repair2,Orca,0,0,0,DialogueTable|40142_7,B-Blut... Na und, wenn ich blute... Ich muss gewinnen... Ich muss die Kinder retten...!
+Dialogue: 0,0:01:35.00,0:01:35.90,Repair2,Chris,0,0,0,DialogueTable|40142_8,...
+Dialogue: 0,0:01:36.00,0:01:36.90,Repair2,Orca,0,0,0,DialogueTable|40142_9,Haa... Ohara, los geht's... Orca O. Ohara... Nur noch ein kleines Stück... wir können alle retten...!
+Dialogue: 0,0:01:37.00,0:01:37.90,Repair2,Chris,0,0,0,DialogueTable|40142_10,Orca.
+Dialogue: 0,0:01:38.00,0:01:38.90,Repair2,Chris,0,0,0,DialogueTable|40142_11,Ich sorge dafür, dass du die Kinder, die du gerettet hast, wiedersiehst.
+Dialogue: 0,0:01:39.00,0:01:39.90,Repair2,Chris,0,0,0,DialogueTable|40142_12,Ich rette dich, egal was kommt. Versprochen.
+Dialogue: 0,0:01:40.00,0:01:40.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60015_1_C3,Zum Glück ist das Schlimmste überstanden.
+Dialogue: 0,0:01:41.00,0:01:41.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60015_2_C3,Dank der schnellen Arbeit normalisiert sich die Kernleistung rasch.
+Dialogue: 0,0:01:42.00,0:01:42.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60015_3_C3,Puh... Endlich kann ich mal durchatmen.
+Dialogue: 0,0:01:43.00,0:01:43.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60015_4_C3,Mmm...
+Dialogue: 0,0:01:44.00,0:01:44.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60015_5_C3,Orca?
+Dialogue: 0,0:01:45.00,0:01:45.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60015_6_C3,Das fühlt sich so gut an... So für immer...
+Dialogue: 0,0:01:46.00,0:01:46.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60015_7_C3,Orca, du musst wach bleiben. Wenn du jetzt ohnmächtig wirst...!
+Dialogue: 0,0:01:47.00,0:01:47.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60015_8_C3,Aber... weil ich Buff Girl bin... muss ich alle beschützen...
+Dialogue: 0,0:01:48.00,0:01:48.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60015_9_C3,Ich stehe immer wieder auf, wieder und wieder... Zzz...
+Dialogue: 0,0:01:49.00,0:01:49.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60015_10_C3,...Orca hat wohl auch eine niedliche Seite.
+Dialogue: 0,0:01:50.00,0:01:50.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60015_1_C2,Zum Glück ist das Schlimmste überstanden.
+Dialogue: 0,0:01:51.00,0:01:51.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60015_2_C2,Hat gedauert, aber die Kernleistung normalisiert sich wieder.
+Dialogue: 0,0:01:52.00,0:01:52.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60015_3_C2,Puh... Endlich kann ich mal durchatmen.
+Dialogue: 0,0:01:53.00,0:01:53.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60015_4_C2,Ngh...
+Dialogue: 0,0:01:54.00,0:01:54.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60015_5_C2,Orca?
+Dialogue: 0,0:01:55.00,0:01:55.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60015_6_C2,Verdammt lahm, mein Brief Seed... Cube, ist dieses Ding nicht defekt?
+Dialogue: 0,0:01:56.00,0:01:56.90,Comment_Normal,Chris,0,0,0,DialogueTable|60015_49,...
+Dialogue: 0,0:01:57.00,0:01:57.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60015_8_C2,So lange für eine simple Erholung? Bei einer schweren Verletzung wäre ich längst tot!
+Dialogue: 0,0:01:58.00,0:01:58.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60015_9_C2,Es war aber knapp...
+Dialogue: 0,0:01:59.00,0:01:59.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60015_1_C1,Zum Glück ist das Schlimmste überstanden.
+Dialogue: 0,0:02:00.00,0:02:00.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60015_2_C1,Hat gedauert, aber die Kernleistung normalisiert sich wieder.
+Dialogue: 0,0:02:01.00,0:02:01.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60015_3_C1,Puh... Endlich kann ich mal durchatmen.
+Dialogue: 0,0:02:02.00,0:02:02.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60015_4_C1,Ngh...
+Dialogue: 0,0:02:03.00,0:02:03.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60015_5_C1,Orca?
+Dialogue: 0,0:02:04.00,0:02:04.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60015_6_C1,Verdammt lahm, mein Brief Seed... Cube, ist dieses Ding nicht defekt?
+Dialogue: 0,0:02:05.00,0:02:05.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60015_7_C2,...
+Dialogue: 0,0:02:06.00,0:02:06.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60015_8_C1,So lange für eine simple Erholung? Bei einer schweren Verletzung wäre ich längst tot!
+Dialogue: 0,0:02:07.00,0:02:07.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60015_9_C1,Es war aber knapp...
+Dialogue: 0,0:02:08.00,0:02:08.90,ClearMain,Orca,0,0,0,DialogueTable|60015_1,Mmh...
+Dialogue: 0,0:02:09.00,0:02:09.90,ClearMain,Chris,0,0,0,DialogueTable|60015_2,Orca...!
+Dialogue: 0,0:02:10.00,0:02:10.90,ClearMain,Chris,0,0,0,DialogueTable|60015_3,Orca, bist du wach?
+Dialogue: 0,0:02:11.00,0:02:11.90,ClearMain,Orca,0,0,0,DialogueTable|60015_4,Nur noch ein bisschen...
+Dialogue: 0,0:02:12.00,0:02:12.90,ClearMain,Chris,0,0,0,DialogueTable|60015_5,Noch ein bisschen? Hat dein Kern zu wenig Strom?! Warte.
+Dialogue: 0,0:02:13.00,0:02:13.90,ClearMain,Chris,0,0,0,DialogueTable|60015_6,Die Notstrom-Power-Unit, die ich hier irgendwo liegen hatte, ist...
+Dialogue: 0,0:02:14.00,0:02:14.90,ClearMain,Orca,0,0,0,DialogueTable|60015_7,...?
+Dialogue: 0,0:02:15.00,0:02:15.90,ClearMain,Orca,0,0,0,DialogueTable|60015_8,Chris?
+Dialogue: 0,0:02:16.00,0:02:16.90,ClearMain,Chris,0,0,0,DialogueTable|60015_9,Orca! Du bist wach.
+Dialogue: 0,0:02:17.00,0:02:17.90,ClearMain,Orca,0,0,0,DialogueTable|60015_10,Tut mir leid.
+Dialogue: 0,0:02:18.00,0:02:18.90,ClearMain,Orca,0,0,0,DialogueTable|60015_11,Tut mir leid. Seit ich dich zuletzt gesehen habe, habe ich kein Auge zugetan.
+Dialogue: 0,0:02:19.00,0:02:19.90,ClearMain,Orca,0,0,0,DialogueTable|60015_12,Sobald ich irgendwo bequem lag, bin ich einfach eingedöst...
+Dialogue: 0,0:02:20.00,0:02:20.90,ClearMain,Orca,0,0,0,DialogueTable|60015_13,Hab ich... zufällig im Schlaf etwas Komisches gesagt?
+Dialogue: 0,0:02:21.00,0:02:21.90,ClearMain,Chris,0,0,0,DialogueTable|60015_14,Ich bin einfach froh, dass du in Sicherheit bist.
+Dialogue: 0,0:02:22.00,0:02:22.90,ClearMain,Orca,0,0,0,DialogueTable|60015_15,Was soll diese ausweichende Antwort?
+Dialogue: 0,0:02:23.00,0:02:23.90,ClearMain,Chris,0,0,0,DialogueTable|60015_16,Wie hast du dich überhaupt so verletzt?
+Dialogue: 0,0:02:24.00,0:02:24.90,ClearMain,Chris,0,0,0,DialogueTable|60015_17,Ein normaler Gebäudeeinsturz würde Legierungsstahl nicht mal zerkratzen.
+Dialogue: 0,0:02:25.00,0:02:25.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60015_18,Orca sah mich stirnrunzelnd an.
+Dialogue: 0,0:02:26.00,0:02:26.90,ClearMain,Chris,0,0,0,DialogueTable|60015_19,Du hast wirklich nicht viel gesagt.
+Dialogue: 0,0:02:27.00,0:02:27.90,ClearMain,Chris,0,0,0,DialogueTable|60015_20,Nur deinen starken Willen.
+Dialogue: 0,0:02:28.00,0:02:28.90,ClearMain,Chris,0,0,0,DialogueTable|60015_21,Und vielleicht ein bisschen Schlafgerede über Buff Girl?
+Dialogue: 0,0:02:29.00,0:02:29.90,ClearMain,Orca,0,0,0,DialogueTable|60015_22,Das ist VIEL!!
+Dialogue: 0,0:02:30.00,0:02:30.90,ClearMain,Chris,0,0,0,DialogueTable|60015_23,Scheint, als würdest du es heimlich lieben, den Namen mit der aktuellen Buff Girl dieser Staffel zu teilen.
+Dialogue: 0,0:02:31.00,0:02:31.90,ClearMain,Chris,0,0,0,DialogueTable|60015_24,Orca O. „Ohara“.
+Dialogue: 0,0:02:32.00,0:02:32.90,ClearMain,Orca,0,0,0,DialogueTable|60015_25,Hör auf!!!
+Dialogue: 0,0:02:33.00,0:02:33.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60015_26,Orcas Reaktion zu beobachten war lustig,
+Dialogue: 0,0:02:34.00,0:02:34.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60015_27,aber ich wollte nicht am eigenen Leib herausfinden, wozu eine Maschine fähig ist, die einen Gebäudeeinsturz überlebt hat.
+Dialogue: 0,0:02:35.00,0:02:35.90,ClearMain,Chris,0,0,0,DialogueTable|60015_28,Okay. Ich hör schon auf.
+Dialogue: 0,0:02:36.00,0:02:36.90,ClearMain,Chris,0,0,0,DialogueTable|60015_29,Also, was ist wirklich passiert?
+Dialogue: 0,0:02:37.00,0:02:37.90,ClearMain,Chris,0,0,0,DialogueTable|60015_30,Dass so robuste Außenteile derart verbeult werden...
+Dialogue: 0,0:02:38.00,0:02:38.90,ClearMain,Orca,0,0,0,DialogueTable|60015_31,...Hm.
+Dialogue: 0,0:02:39.00,0:02:39.90,ClearMain,Orca,0,0,0,DialogueTable|60015_32,Hast du schon mal von einer Gruppe namens Morning Glory gehört?
+Dialogue: 0,0:02:40.00,0:02:40.90,ClearMain,Chris,0,0,0,DialogueTable|60015_33,Terroristen.
+Dialogue: 0,0:02:41.00,0:02:41.90,ClearMain,Chris,0,0,0,DialogueTable|60015_34,Einer der Hauptgründe, warum ich nachts Angst habe, durch die Straßen zu gehen.
+Dialogue: 0,0:02:42.00,0:02:42.90,ClearMain,Orca,0,0,0,DialogueTable|60015_35,Morning Glory ist eine Anti-Regierungs-Terrorgruppe.
+Dialogue: 0,0:02:43.00,0:02:43.90,ClearMain,Orca,0,0,0,DialogueTable|60015_36,Ihr Ziel ist es, die Massen zu mobilisieren, indem sie Armut und Entbehrung ausnutzen,
+Dialogue: 0,0:02:44.00,0:02:44.90,ClearMain,Orca,0,0,0,DialogueTable|60015_37,und ihnen ein Gefühl der Genugtuung zu geben, indem sie die Obrigkeit offen mit Füßen treten.
+Dialogue: 0,0:02:45.00,0:02:45.90,ClearMain,Orca,0,0,0,DialogueTable|60015_38,Außerdem sorgen sie in Chroma City für gesellschaftliche Probleme.
+Dialogue: 0,0:02:46.00,0:02:46.90,ClearMain,Chris,0,0,0,DialogueTable|60015_39,Sie behaupten, ein Ventil für die Wut zu sein.
+Dialogue: 0,0:02:47.00,0:02:47.90,ClearMain,Orca,0,0,0,DialogueTable|60015_40,Ja. Ihre Mitgliederzahl ist in letzter Zeit stark gestiegen.
+Dialogue: 0,0:02:48.00,0:02:48.90,ClearMain,Orca,0,0,0,DialogueTable|60015_41,Cinderella, Morning Glory...
+Dialogue: 0,0:02:49.00,0:02:49.90,ClearMain,Chris,0,0,0,DialogueTable|60015_42,Ich kenne tatsächlich eine E.V.E, die ein Fan von Cinderella ist.
+Dialogue: 0,0:02:50.00,0:02:50.90,ClearMain,Chris,0,0,0,DialogueTable|60015_43,Na ja, genauer gesagt „war“.
+Dialogue: 0,0:02:51.00,0:02:51.90,ClearMain,Orca,0,0,0,DialogueTable|60015_44,Morning Glory ist schlimmer als Cinderella.
+Dialogue: 0,0:02:52.00,0:02:52.90,ClearMain,Orca,0,0,0,DialogueTable|60015_45,Cinderella begeht nur bizarre Verbrechen,
+Dialogue: 0,0:02:53.00,0:02:53.90,ClearMain,Orca,0,0,0,DialogueTable|60015_46,aber Morning Glory benutzt solche Taten als Werkzeug, um die Massen aufzuhetzen.
+Dialogue: 0,0:02:54.00,0:02:54.90,ClearMain,Orca,0,0,0,DialogueTable|60015_47,Wenn sie nur den angestauten Zorn eines ganzen Lebens nehmen und ihm mit den Worten „Die sind schuld“ einen kleinen Schubs geben,
+Dialogue: 0,0:02:55.00,0:02:55.90,ClearMain,Orca,0,0,0,DialogueTable|60015_48,wird die unterdrückte Menge zu einem furchterregenden Mob.
+Dialogue: 0,0:02:56.00,0:02:56.90,ClearMain,Chris,0,0,0,CommentDialogueTable|60015_7_C1,...
+Dialogue: 0,0:02:57.00,0:02:57.90,ClearMain,Orca,0,0,0,DialogueTable|60015_50,Erst gestern hat Morning Glory die Stability-Officer-Akademie überfallen.
+Dialogue: 0,0:02:58.00,0:02:58.90,ClearMain,Orca,0,0,0,DialogueTable|60015_51,Es war eine Einrichtung, die zugleich als Waisenhaus diente.
+Dialogue: 0,0:02:59.00,0:02:59.90,ClearMain,Chris,0,0,0,DialogueTable|60015_52,Ah, diese Einrichtung, um die sich all die Verschwörungstheorien ranken.
+Dialogue: 0,0:03:00.00,0:03:00.90,ClearMain,Orca,0,0,0,DialogueTable|60015_53,Ja. Es heißt, man setze dort von klein auf auf strenge Indoktrination,
+Dialogue: 0,0:03:01.00,0:03:01.90,ClearMain,Orca,0,0,0,DialogueTable|60015_54,um sie zu perfekten Handlangern der Regierung zu formen.
+Dialogue: 0,0:03:02.00,0:03:02.90,ClearMain,Orca,0,0,0,DialogueTable|60015_55,Und das stimmt tatsächlich, zumindest bei den Kindern, die Stability Officers werden wollen.
+Dialogue: 0,0:03:03.00,0:03:03.90,ClearMain,Orca,0,0,0,DialogueTable|60015_56,Jedenfalls nahm Morning Glory diese Kontroverse zum Vorwand, die Akademie anzugreifen,
+Dialogue: 0,0:03:04.00,0:03:04.90,ClearMain,Orca,0,0,0,DialogueTable|60015_57,und setzte sogar Sprengstoff in Militärqualität ein, den sie weiß der Himmel woher hatten.
+Dialogue: 0,0:03:05.00,0:03:05.90,ClearMain,Orca,0,0,0,DialogueTable|60015_58,Ich habe die Kinder evakuiert und die Menge zurückgehalten,
+Dialogue: 0,0:03:06.00,0:03:06.90,ClearMain,Orca,0,0,0,DialogueTable|60015_59,als herabfallendes Armierungseisen auf mich und die Demonstranten niederkrachte.
+Dialogue: 0,0:03:07.00,0:03:07.90,ClearMain,Chris,0,0,0,DialogueTable|60015_60,Hören wir hier lieber auf.
+Dialogue: 0,0:03:08.00,0:03:08.90,ClearMain,Chris,0,0,0,DialogueTable|60015_61,Das ist furchtbar.
+Dialogue: 0,0:03:09.00,0:03:09.90,ClearMain,Orca,0,0,0,DialogueTable|60015_62,Ich verstehe.
+Dialogue: 0,0:03:10.00,0:03:10.90,ClearMain,Orca,0,0,0,DialogueTable|60015_63,Der Rest der Geschichte
+Dialogue: 0,0:03:11.00,0:03:11.90,ClearMain,Orca,0,0,0,DialogueTable|60015_64,ist ohnehin dieselbe alte, vorhersehbare Tragödie.
+Dialogue: 0,0:03:12.00,0:03:12.90,ClearMain,Chris,0,0,0,DialogueTable|60015_65,Chroma City und Morning Glory.
+Dialogue: 0,0:03:13.00,0:03:13.90,ClearMain,Chris,0,0,0,DialogueTable|60015_66,Nur die Menge und die Vermittler, die in diesen Konflikt geraten, enden tot oder verletzt.
+Dialogue: 0,0:03:14.00,0:03:14.90,ClearMain,Chris,0,0,0,DialogueTable|60015_67,Während sich die Drahtzieher hinten verstecken und große Reden schwingen.
+Dialogue: 0,0:03:15.00,0:03:15.90,ClearMain,Chris,0,0,0,DialogueTable|60015_68,Wenn sie so scharf auf einen Kampf sind, sollen sie doch einen Ring aufbauen und es dort ausfechten.
+Dialogue: 0,0:03:16.00,0:03:16.90,ClearMain,Chris,0,0,0,DialogueTable|60015_69,Die Einschaltquoten wären bestimmt auch der Hammer.
+Dialogue: 0,0:03:17.00,0:03:17.90,ClearMain,Orca,0,0,0,DialogueTable|60015_70,Wären Kampffähigkeiten dann nicht Voraussetzung für Politiker...
+Dialogue: 0,0:03:18.00,0:03:18.90,ClearMain,Orca,0,0,0,DialogueTable|60015_71,Jedenfalls,
+Dialogue: 0,0:03:19.00,0:03:19.90,ClearMain,Orca,0,0,0,DialogueTable|60015_72,ich dachte, du wärst ein sehr ruhiger Mensch, Chris,
+Dialogue: 0,0:03:20.00,0:03:20.90,ClearMain,Orca,0,0,0,DialogueTable|60015_73,aber du regst dich bei dem Thema ziemlich auf.
+Dialogue: 0,0:03:21.00,0:03:21.90,ClearMain,Chris,0,0,0,DialogueTable|60015_74,Tue ich das?
+Dialogue: 0,0:03:22.00,0:03:22.90,ClearMain,Orca,0,0,0,DialogueTable|60015_75,Ja.
+Dialogue: 0,0:03:23.00,0:03:23.90,ClearMain,Orca,0,0,0,DialogueTable|60015_76,Als wir uns kennenlernten, fand ich dich ein bisschen kalt,
+Dialogue: 0,0:03:24.00,0:03:24.90,ClearMain,Orca,0,0,0,DialogueTable|60015_77,mit einer scharfen, professionellen Kante.
+Dialogue: 0,0:03:25.00,0:03:25.90,ClearMain,Orca,0,0,0,DialogueTable|60015_78,Sogar beim Zwischenfall am Polarnacht-Tag
+Dialogue: 0,0:03:26.00,0:03:26.90,ClearMain,Orca,0,0,0,DialogueTable|60015_79,warst du so sachlich und kühl.
+Dialogue: 0,0:03:27.00,0:03:27.90,ClearMain,Chris,0,0,0,DialogueTable|60015_80,Was habe ich denn gesagt?
+Dialogue: 0,0:03:28.00,0:03:28.90,ClearMain,Chris,0,0,0,DialogueTable|60015_81,Ich erinnere mich nicht wirklich...
+Dialogue: 0,0:03:29.00,0:03:29.90,ClearMain,Orca,0,0,0,DialogueTable|60015_82,Du hast einmal gesagt: „Nimm Budget und Entschädigungen raus, und in Chroma bleiben nur die Patienten übrig.“
+Dialogue: 0,0:03:30.00,0:03:30.90,ClearMain,Orca,0,0,0,DialogueTable|60015_83,Ich habe darüber nachgedacht:
+Dialogue: 0,0:03:31.00,0:03:31.90,ClearMain,Orca,0,0,0,DialogueTable|60015_84,Allein die Show zu stoppen würde dazu führen, dass unzählige Arbeiter leiden
+Dialogue: 0,0:03:32.00,0:03:32.90,ClearMain,Orca,0,0,0,DialogueTable|60015_85,und massive finanzielle Verluste hinnehmen müssen.
+Dialogue: 0,0:03:33.00,0:03:33.90,ClearMain,Orca,0,0,0,DialogueTable|60015_86,Ganz zu schweigen davon, dass es die Öffentlichkeit enttäuschen würde, die sich auf das Festival gefreut hat.
+Dialogue: 0,0:03:34.00,0:03:34.90,ClearMain,Orca,0,0,0,DialogueTable|60015_87,Durch deine Worte ist mir klar geworden, dass hinter einer so harten Entscheidung ein Grund steckt.
+Dialogue: 0,0:03:35.00,0:03:35.90,ClearMain,Orca,0,0,0,DialogueTable|60015_88,Normalerweise habe ich nur Leute getroffen,
+Dialogue: 0,0:03:36.00,0:03:36.90,ClearMain,Orca,0,0,0,DialogueTable|60015_89,die entweder über die Demonstranten oder über Chroma City empört waren.
+Dialogue: 0,0:03:37.00,0:03:37.90,ClearMain,Chris,0,0,0,DialogueTable|60015_90,Ich war in letzter Zeit ziemlich müde,
+Dialogue: 0,0:03:38.00,0:03:38.90,ClearMain,Chris,0,0,0,DialogueTable|60015_91,vielleicht liegt es daran.
+Dialogue: 0,0:03:39.00,0:03:39.90,ClearMain,Chris,0,0,0,DialogueTable|60015_92,Wenn du heute nicht halbtot aufgetaucht wärst,
+Dialogue: 0,0:03:40.00,0:03:40.90,ClearMain,Chris,0,0,0,DialogueTable|60015_93,hätte ich den Laden gar nicht erst aufgemacht.
+Dialogue: 0,0:03:41.00,0:03:41.90,ClearMain,Orca,0,0,0,DialogueTable|60015_94,Dann tut es mir leid.
+Dialogue: 0,0:03:42.00,0:03:42.90,ClearMain,Orca,0,0,0,DialogueTable|60015_95,Ich sollte mich beeilen und gehen, damit du dich ausruhen kannst...
+Dialogue: 0,0:03:43.00,0:03:43.90,ClearMain,Chris,0,0,0,DialogueTable|60015_96,Das ist nicht nötig.
+Dialogue: 0,0:03:44.00,0:03:44.90,ClearMain,Chris,0,0,0,DialogueTable|60015_97,Es hat tatsächlich ziemlich viel Spaß gemacht. Und es war auch lohnend.
+Dialogue: 0,0:03:45.00,0:03:45.90,ClearMain,Orca,0,0,0,DialogueTable|60015_98,Übertreib es nicht, Chris.
+Dialogue: 0,0:03:46.00,0:03:46.90,ClearMain,Chris,0,0,0,DialogueTable|60015_99,So, wie du heute zugerichtet warst,
+Dialogue: 0,0:03:47.00,0:03:47.90,ClearMain,Chris,0,0,0,DialogueTable|60015_100,sollte ich das wohl eher sagen.
+Dialogue: 0,0:03:48.00,0:03:48.90,ClearMain,Chris,0,0,0,DialogueTable|60015_101,Bis dann, Buff Girl.
+Dialogue: 0,0:03:49.00,0:03:49.90,ClearMain,Orca,0,0,0,DialogueTable|60015_102,Aaaack!!
+Dialogue: 0,0:03:50.00,0:03:50.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60015_103,Mit zitterndem Schwanz verschwand Orca, als würde sie fliehen.
+Dialogue: 0,0:03:51.00,0:03:51.90,ClearMain,Chris,0,0,0,DialogueTable|60015_104,Jetzt, wo die Anspannung weg ist, überfällt mich die Erschöpfung auf einmal... Ich ruhe mich kurz aus.

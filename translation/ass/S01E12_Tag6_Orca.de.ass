@@ -1,0 +1,338 @@
+[Script Info]
+Title: S01E12_Tag6_Orca
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,WorkBefore,Chris,0,0,0,DialogueTable|70005_1,(Ich fühle mich viel leichter als gestern Morgen.)
+Dialogue: 0,0:00:01.00,0:00:01.90,WorkBefore,Chris,0,0,0,DialogueTable|70005_2,(Die Nahrungsergänzungsmittel habe ich wie gestern wieder nicht genommen – ach nein, die Gedächtnisunterdrücker,)
+Dialogue: 0,0:00:02.00,0:00:02.90,WorkBefore,Chris,0,0,0,DialogueTable|70005_3,(Wahrscheinlich macht allein das Wissen, was sie wirklich sind, schon so einen Unterschied.)
+Dialogue: 0,0:00:03.00,0:00:03.90,WorkBefore,Chris,0,0,0,DialogueTable|70005_4,(Aber was habe ich eigentlich vergessen?)
+Dialogue: 0,0:00:04.00,0:00:04.90,WorkBefore,Chris,0,0,0,DialogueTable|70005_5,(Michelle und der Polarnacht-Tag ... wie hängt das eigentlich zusammen?)
+Dialogue: 0,0:00:05.00,0:00:05.90,WorkBefore,Chris,0,0,0,DialogueTable|70005_6,(Puh ... Zu viel Grübeln gibt mir nur Kopfschmerzen.)
+Dialogue: 0,0:00:06.00,0:00:06.90,WorkBefore,Chris,0,0,0,DialogueTable|70005_7,(Jetzt, wo es mir besser geht, sollte ich den Laden aufmachen.)
+Dialogue: 0,0:00:07.00,0:00:07.90,StartMain,Chris,0,0,0,DialogueTable|60022_1,Michelle.
+Dialogue: 0,0:00:08.00,0:00:08.90,StartMain,Chris,0,0,0,DialogueTable|60022_2,Hast du kurz Zeit?
+Dialogue: 0,0:00:09.00,0:00:09.90,StartMain,Michelle,0,0,0,DialogueTable|60022_3,Was ist denn plötzlich los?
+Dialogue: 0,0:00:10.00,0:00:10.90,StartMain,Michelle,0,0,0,DialogueTable|60022_4,Bei dem Mist, den du sonst ohne Vorwarnung bei mir ablädst,
+Dialogue: 0,0:00:11.00,0:00:11.90,StartMain,Michelle,0,0,0,DialogueTable|60022_5,habe ich echt Angst vor dem, was jetzt kommt.
+Dialogue: 0,0:00:12.00,0:00:12.90,StartMain,Chris,0,0,0,DialogueTable|60022_6,Eine Kundin von mir hat mir erzählt,
+Dialogue: 0,0:00:13.00,0:00:13.90,StartMain,Chris,0,0,0,DialogueTable|60022_7,...dass in den Nahrungsergänzungsmitteln, die ich nehme, vielleicht tatsächlich gedächtnisunterdrückendes Zeug steckt.
+Dialogue: 0,0:00:14.00,0:00:14.90,StartMain,Michelle,0,0,0,DialogueTable|60022_8,Ist die Info überhaupt verlässlich?
+Dialogue: 0,0:00:15.00,0:00:15.90,StartMain,Michelle,0,0,0,DialogueTable|60022_9,Nach allem, was du mir bisher über deine Kundschaft erzählt hast,
+Dialogue: 0,0:00:16.00,0:00:16.90,StartMain,Michelle,0,0,0,DialogueTable|60022_10,sind die entweder totale Perverslinge oder haben das Tutorial für soziale Kompetenz übersprungen.
+Dialogue: 0,0:00:17.00,0:00:17.90,StartMain,Michelle,0,0,0,DialogueTable|60022_11,Oder ehrlich gesagt beides.
+Dialogue: 0,0:00:18.00,0:00:18.90,StartMain,Chris,0,0,0,DialogueTable|60022_12,Die ist seriös. Eine echte Expertin.
+Dialogue: 0,0:00:19.00,0:00:19.90,StartMain,Chris,0,0,0,DialogueTable|60022_13,Sie arbeitet bei einer Pharmafirma.
+Dialogue: 0,0:00:20.00,0:00:20.90,StartMain,Chris,0,0,0,DialogueTable|60022_14,Sie meinte auch, dass es meine Erinnerungen an dich unterdrücken könnte.
+Dialogue: 0,0:00:21.00,0:00:21.90,StartMain,Michelle,0,0,0,DialogueTable|60022_15,An mich?
+Dialogue: 0,0:00:22.00,0:00:22.90,StartMain,Michelle,0,0,0,DialogueTable|60022_16,Ehrlich gesagt, sah es ganz danach aus.
+Dialogue: 0,0:00:23.00,0:00:23.90,StartMain,Chris,0,0,0,DialogueTable|60022_17,Ja, vor allem nach dem, was gestern passiert ist.
+Dialogue: 0,0:00:24.00,0:00:24.90,StartMain,Michelle,0,0,0,DialogueTable|60022_18,Wie fühlst du dich jetzt?
+Dialogue: 0,0:00:25.00,0:00:25.90,StartMain,Chris,0,0,0,DialogueTable|60022_19,Schwer zu sagen.
+Dialogue: 0,0:00:26.00,0:00:26.90,StartMain,Chris,0,0,0,DialogueTable|60022_20,Ich fühle mich wieder völlig okay,
+Dialogue: 0,0:00:27.00,0:00:27.90,StartMain,Chris,0,0,0,DialogueTable|60022_21,und ich bin ziemlich zufrieden damit, wie es gerade läuft.
+Dialogue: 0,0:00:28.00,0:00:28.90,StartMain,Chris,0,0,0,DialogueTable|60022_22,Ich glaube, meine Erinnerungen zurückzuholen und herauszufinden, was echt ist,
+Dialogue: 0,0:00:29.00,0:00:29.90,StartMain,Chris,0,0,0,DialogueTable|60022_23,wäre wahrscheinlich der richtige Weg,
+Dialogue: 0,0:00:30.00,0:00:30.90,StartMain,Chris,0,0,0,DialogueTable|60022_24,...aber gleichzeitig habe ich Angst, dieses normale Leben zu verlieren.
+Dialogue: 0,0:00:31.00,0:00:31.90,StartMain,Michelle,0,0,0,DialogueTable|60022_25,Und die Pillen?
+Dialogue: 0,0:00:32.00,0:00:32.90,StartMain,Chris,0,0,0,DialogueTable|60022_26,Hab ich wieder.
+Dialogue: 0,0:00:33.00,0:00:33.90,StartMain,Chris,0,0,0,DialogueTable|60022_27,Deshalb ist mein Kopf gerade noch mehr durcheinander.
+Dialogue: 0,0:00:34.00,0:00:34.90,StartMain,Michelle,0,0,0,DialogueTable|60022_28,Weil die Möglichkeit, einfach die Pillen zu nehmen und glücklich zu leben ...
+Dialogue: 0,0:00:35.00,0:00:35.90,StartMain,Michelle,0,0,0,DialogueTable|60022_29,nur eine Armlänge entfernt ist?
+Dialogue: 0,0:00:36.00,0:00:36.90,StartMain,Chris,0,0,0,DialogueTable|60022_30,Genau.
+Dialogue: 0,0:00:37.00,0:00:37.90,StartMain,Chris,0,0,0,DialogueTable|60022_31,Ein Ausweg direkt in meiner Hand.
+Dialogue: 0,0:00:38.00,0:00:38.90,StartMain,Chris,0,0,0,DialogueTable|60022_32,Es hatte aber nicht nur Vorteile.
+Dialogue: 0,0:00:39.00,0:00:39.90,StartMain,Chris,0,0,0,DialogueTable|60022_33,Klar, es kann die Angst jederzeit betäuben,
+Dialogue: 0,0:00:40.00,0:00:40.90,StartMain,Chris,0,0,0,DialogueTable|60022_34,aber es löst nicht das eigentliche Problem.
+Dialogue: 0,0:00:41.00,0:00:41.90,StartMain,Michelle,0,0,0,DialogueTable|60022_35,Wie die Lösungen hinten im Buch.
+Dialogue: 0,0:00:42.00,0:00:42.90,StartMain,Chris,0,0,0,DialogueTable|60022_36,Genau.
+Dialogue: 0,0:00:43.00,0:00:43.90,StartMain,Chris,0,0,0,DialogueTable|60022_37,Man überlegt, ob man bei einer schweren Aufgabe in die Lösungen spickt, wenn man nicht weiterkommt.
+Dialogue: 0,0:00:44.00,0:00:44.90,StartMain,Chris,0,0,0,DialogueTable|60022_38,So in der Art.
+Dialogue: 0,0:00:45.00,0:00:45.90,StartMain,Michelle,0,0,0,DialogueTable|60022_39,Nur so ein Gedanke,
+Dialogue: 0,0:00:46.00,0:00:46.90,StartMain,Michelle,0,0,0,DialogueTable|60022_40,aber wenn es ein Problem ist, das du absolut nicht lösen kannst,
+Dialogue: 0,0:00:47.00,0:00:47.90,StartMain,Michelle,0,0,0,DialogueTable|60022_41,soll Aufschieben ja auch eine Option sein.
+Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Michelle,0,0,0,DialogueTable|60022_42,In einer Welt, in der so viele leiden, weil sie ihre Medizin-Abos nicht verlängern können,
+Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Michelle,0,0,0,DialogueTable|60022_43,klingt eine einzige Pille, die hilft, nach keiner schlechten Wahl.
+Dialogue: 0,0:00:50.00,0:00:50.90,StartMain,Michelle,0,0,0,DialogueTable|60022_44,Es ist nicht mal illegal oder so.
+Dialogue: 0,0:00:51.00,0:00:51.90,StartMain,Chris,0,0,0,DialogueTable|60022_45,Eine Kundin von mir hat dasselbe gesagt.
+Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Chris,0,0,0,DialogueTable|60022_46,Aber ich habe gehört, dass das Zeug jede Menge Nebenwirkungen hat.
+Dialogue: 0,0:00:53.00,0:00:53.90,StartMain,Chris,0,0,0,DialogueTable|60022_47,Vor allem will ich vor meiner Kundschaft gut dastehen.
+Dialogue: 0,0:00:54.00,0:00:54.90,StartMain,Michelle,0,0,0,DialogueTable|60022_48,Wie kommst du denn plötzlich darauf?
+Dialogue: 0,0:00:55.00,0:00:55.90,StartMain,Chris,0,0,0,DialogueTable|60022_49,Wie ich schon immer betont habe,
+Dialogue: 0,0:00:56.00,0:00:56.90,StartMain,Chris,0,0,0,DialogueTable|60022_50,sind Beratung und seelische Betreuung
+Dialogue: 0,0:00:57.00,0:00:57.90,StartMain,Chris,0,0,0,DialogueTable|60022_51,die Spezialität der D1AL-ogue.
+Dialogue: 0,0:00:58.00,0:00:58.90,StartMain,Chris,0,0,0,DialogueTable|60022_52,Wer sich auf Pillen verlässt, weil er sein eigenes Chaos nicht in den Griff kriegt,
+Dialogue: 0,0:00:59.00,0:00:59.90,StartMain,Chris,0,0,0,DialogueTable|60022_53,kann anderen schlecht Ratschläge geben.
+Dialogue: 0,0:01:00.00,0:01:00.90,StartMain,Michelle,0,0,0,DialogueTable|60022_54,Dann hat sich deine verdrehte Schwäche für E.V.Es
+Dialogue: 0,0:01:01.00,0:01:01.90,StartMain,Michelle,0,0,0,DialogueTable|60022_55,wohl endgültig bis ins Fetisch-Revier ausgebreitet.
+Dialogue: 0,0:01:02.00,0:01:02.90,StartMain,Michelle,0,0,0,DialogueTable|60022_56,Also, wer ist es?
+Dialogue: 0,0:01:03.00,0:01:03.90,StartMain,Michelle,0,0,0,DialogueTable|60022_57,Diese kecke E.V.E aus dem Café gegenüber, die ständig vorbeischaut?
+Dialogue: 0,0:01:04.00,0:01:04.90,StartMain,Michelle,0,0,0,DialogueTable|60022_58,Wie hieß sie noch ... Fliege?
+Dialogue: 0,0:01:05.00,0:01:05.90,StartMain,Chris,0,0,0,DialogueTable|60022_59,Pray.
+Dialogue: 0,0:01:06.00,0:01:06.90,StartMain,Michelle,0,0,0,DialogueTable|60022_60,Ah, stimmt. Pray.
+Dialogue: 0,0:01:07.00,0:01:07.90,StartMain,Michelle,0,0,0,DialogueTable|60022_61,Oder dieses TN-DLS-Militärmodell, das vor einer Weile ständig vorbeikam –
+Dialogue: 0,0:01:08.00,0:01:08.90,StartMain,Michelle,0,0,0,DialogueTable|60022_62,war das die E.V.E mit den Hasenohren?
+Dialogue: 0,0:01:09.00,0:01:09.90,StartMain,Michelle,0,0,0,DialogueTable|60022_63,Du hast Stein und Bein geschworen, Militärmodelle wegen der Vorschriften nicht anfassen zu dürfen, aber ...
+Dialogue: 0,0:01:10.00,0:01:10.90,StartMain,Michelle,0,0,0,DialogueTable|60022_64,du hast sie trotzdem etliche Male heimlich repariert.
+Dialogue: 0,0:01:11.00,0:01:11.90,StartMain,Michelle,0,0,0,DialogueTable|60022_65,Nachdem diese E.V.E nicht mehr vorbeikam,
+Dialogue: 0,0:01:12.00,0:01:12.90,StartMain,Michelle,0,0,0,DialogueTable|60022_66,war der plötzliche Anstieg deiner Suchen nach Tier-E.V.Es ein totaler Witz.
+Dialogue: 0,0:01:13.00,0:01:13.90,StartMain,Chris,0,0,0,DialogueTable|60022_67,Da hast du wohl nicht unrecht,
+Dialogue: 0,0:01:14.00,0:01:14.90,StartMain,Chris,0,0,0,DialogueTable|60022_68,aber ich will nicht nur für eine einzige Kundin gut aussehen.
+Dialogue: 0,0:01:15.00,0:01:15.90,StartMain,Michelle,0,0,0,DialogueTable|60022_69,Verrückt.
+Dialogue: 0,0:01:16.00,0:01:16.90,StartMain,Chris,0,0,0,DialogueTable|60022_70,Moment, das kam falsch rüber.
+Dialogue: 0,0:01:17.00,0:01:17.90,StartMain,Chris,0,0,0,DialogueTable|60022_71,Es ist nicht so, als läge mir keine Kundin am Herzen,
+Dialogue: 0,0:01:18.00,0:01:18.90,StartMain,Chris,0,0,0,DialogueTable|60022_72,aber ich meinte, dass das nicht die ganze Geschichte ist.
+Dialogue: 0,0:01:19.00,0:01:19.90,StartMain,Michelle,0,0,0,DialogueTable|60022_73,Keine Sorge, deine kleinen Balzrituale gehen mich null an.
+Dialogue: 0,0:01:20.00,0:01:20.90,StartMain,Michelle,0,0,0,DialogueTable|60022_74,Pass aber auf dich auf.
+Dialogue: 0,0:01:21.00,0:01:21.90,StartMain,Michelle,0,0,0,DialogueTable|60022_75,Der leichtsinnige Übermut brünstiger Tiere ...
+Dialogue: 0,0:01:22.00,0:01:22.90,StartMain,Michelle,0,0,0,DialogueTable|60022_76,endet nicht immer damit, dass man einen Partner findet.
+Dialogue: 0,0:01:23.00,0:01:23.90,StartMain,Chris,0,0,0,DialogueTable|60022_77,Im Kampf mit einem Rivalen zu sterben
+Dialogue: 0,0:01:24.00,0:01:24.90,StartMain,Chris,0,0,0,DialogueTable|60022_78,oder einem Raubtier ins Auge zu fallen und gefressen zu werden, ist klassischer Naturdoku-Stoff.
+Dialogue: 0,0:01:25.00,0:01:25.90,StartMain,Chris,0,0,0,DialogueTable|60022_79,Aber das auf mich anzuwenden ...
+Dialogue: 0,0:01:26.00,0:01:26.90,StartMain,Chris,0,0,0,DialogueTable|60022_80,ist eine ziemlich fiese Metapher.
+Dialogue: 0,0:01:27.00,0:01:27.90,StartMain,Michelle,0,0,0,DialogueTable|60022_81,Wie auch immer,
+Dialogue: 0,0:01:28.00,0:01:28.90,StartMain,Michelle,0,0,0,DialogueTable|60022_82,ich habe dich gewarnt.
+Dialogue: 0,0:01:29.00,0:01:29.90,StartMain,Michelle,0,0,0,DialogueTable|60022_83,Es sind die Medikamente, die Mama und Papa empfohlen haben, die dich ja soooo lieb haben.
+Dialogue: 0,0:01:30.00,0:01:30.90,StartMain,Michelle,0,0,0,DialogueTable|60022_84,Wenn sie es trotz der Nebenwirkungen empfehlen,
+Dialogue: 0,0:01:31.00,0:01:31.90,StartMain,Michelle,0,0,0,DialogueTable|60022_85,steckt vielleicht ein ernstes Geheimnis dahinter.
+Dialogue: 0,0:01:32.00,0:01:32.90,StartMain,Chris,0,0,0,DialogueTable|60022_86,Michelle ... weißt du etwas, das ich nicht weiß?
+Dialogue: 0,0:01:33.00,0:01:33.90,StartMain,Michelle,0,0,0,DialogueTable|60022_87,Nein.
+Dialogue: 0,0:01:34.00,0:01:34.90,StartMain,Michelle,0,0,0,DialogueTable|60022_88,Ich wünschte, es wäre so.
+Dialogue: 0,0:01:35.00,0:01:35.90,StartMain,???,0,0,0,DialogueTable|60022_89,Rums
+Dialogue: 0,0:01:36.00,0:01:36.90,StartMain,Chris,0,0,0,DialogueTable|60022_90,...
+Dialogue: 0,0:01:37.00,0:01:37.90,StartMain,???,0,0,0,DialogueTable|60022_91,Klong ...
+Dialogue: 0,0:01:38.00,0:01:38.90,StartMain,Chris,0,0,0,DialogueTable|60022_92,...?
+Dialogue: 0,0:01:39.00,0:01:39.90,StartMain,???,0,0,0,DialogueTable|60022_93,Klong, Schaben ... Klong
+Dialogue: 0,0:01:40.00,0:01:40.90,StartMain,???,0,0,0,DialogueTable|60022_94,Klong, Scheppern, Schaben ...
+Dialogue: 0,0:01:41.00,0:01:41.90,StartMain,Chris,0,0,0,DialogueTable|60022_95,...Willko–
+Dialogue: 0,0:01:42.00,0:01:42.90,StartMain,Orca,0,0,0,DialogueTable|60022_96,Hal... lo. Chris.
+Dialogue: 0,0:01:43.00,0:01:43.90,StartMain,Chris,0,0,0,DialogueTable|60022_97,Orca?
+Dialogue: 0,0:01:44.00,0:01:44.90,StartMain,Orca,0,0,0,DialogueTable|60022_98,Ich weiß, du bist krank, aber ... mir ist nur dieser Ort eingefallen.
+Dialogue: 0,0:01:45.00,0:01:45.90,StartMain,Orca,0,0,0,DialogueTable|60022_99,Reparatur ... brauche nur ein ...
+Dialogue: 0,0:01:46.00,0:01:46.90,StartMain,Chris,0,0,0,DialogueTable|60022_100,Alles klar.
+Dialogue: 0,0:01:47.00,0:01:47.90,StartMain,Chris,0,0,0,DialogueTable|60022_101,Ich fange mit ein paar Schnellreparaturen an.
+Dialogue: 0,0:01:48.00,0:01:48.90,StartMain,Chris,0,0,0,DialogueTable|60022_102,Du bist in keinem Zustand, dich um andere zu sorgen, Orca.
+Dialogue: 0,0:01:49.00,0:01:49.90,StartMain,Chris,0,0,0,DialogueTable|60022_103,Wie viele Finger halte ich hoch?
+Dialogue: 0,0:01:50.00,0:01:50.90,StartMain,Orca,0,0,0,DialogueTable|60022_104,Ich kann nichts sehen ...
+Dialogue: 0,0:01:51.00,0:01:51.90,StartMain,Chris,0,0,0,DialogueTable|60022_105,Stimmt.
+Dialogue: 0,0:01:52.00,0:01:52.90,StartMain,Chris,0,0,0,DialogueTable|60022_106,Die gute Nachricht: Deine optischen Sensoren sind noch online.
+Dialogue: 0,0:01:53.00,0:01:53.90,StartMain,Chris,0,0,0,DialogueTable|60022_107,Das musste ich prüfen,
+Dialogue: 0,0:01:54.00,0:01:54.90,StartMain,Chris,0,0,0,DialogueTable|60022_108,denn deine neuronalen Schaltkreise sind komplett durchgebrannt.
+Dialogue: 0,0:01:55.00,0:01:55.90,StartMain,Orca,0,0,0,DialogueTable|60022_109,...Ist es schlimm?
+Dialogue: 0,0:01:56.00,0:01:56.90,StartMain,Chris,0,0,0,DialogueTable|60022_110,Ehrlich gesagt brauchst du einen komplett neuen Körper.
+Dialogue: 0,0:01:57.00,0:01:57.90,StartMain,Chris,0,0,0,DialogueTable|60022_111,Weil deine Schaltkreise durchgebrannt sind,
+Dialogue: 0,0:01:58.00,0:01:58.90,StartMain,Chris,0,0,0,DialogueTable|60022_112,spürst du den Schmerz einfach nicht.
+Dialogue: 0,0:01:59.00,0:01:59.90,StartMain,Chris,0,0,0,DialogueTable|60022_113,Wahrscheinlich hast du es nur deshalb bis hierher geschafft, aber ...
+Dialogue: 0,0:02:00.00,0:02:00.90,StartMain,Chris,0,0,0,DialogueTable|60022_114,Wie lange ist das jetzt her?
+Dialogue: 0,0:02:01.00,0:02:01.90,StartMain,Orca,0,0,0,DialogueTable|60022_115,Ich bin nicht sicher.
+Dialogue: 0,0:02:02.00,0:02:02.90,StartMain,Orca,0,0,0,DialogueTable|60022_116,Ich bin von der Dark Brown Street gelaufen, also ...
+Dialogue: 0,0:02:03.00,0:02:03.90,StartMain,Chris,0,0,0,DialogueTable|60022_117,Dann sind es mindestens 4 Stunden.
+Dialogue: 0,0:02:04.00,0:02:04.90,StartMain,Chris,0,0,0,DialogueTable|60022_118,Ich fange mit der Reparatur an, sobald ich so weit bin.
+Dialogue: 0,0:02:05.00,0:02:05.90,StartMain,Chris,0,0,0,DialogueTable|60022_119,Kannst du bei Bewusstsein bleiben?
+Dialogue: 0,0:02:06.00,0:02:06.90,StartMain,Orca,0,0,0,DialogueTable|60022_120,Ich würde gern Ja sagen, aber ...
+Dialogue: 0,0:02:07.00,0:02:07.90,StartMain,Orca,0,0,0,DialogueTable|60022_121,ehrlich gesagt wird es schwierig.
+Dialogue: 0,0:02:08.00,0:02:08.90,StartMain,Chris,0,0,0,DialogueTable|60022_122,Ich rede einfach weiter mit dir.
+Dialogue: 0,0:02:09.00,0:02:09.90,StartMain,Chris,0,0,0,DialogueTable|60022_123,Halt nur noch ein bisschen durch.
+Dialogue: 0,0:02:10.00,0:02:10.90,StartMain,Auftragstitel,0,0,0,DialogueTable|60022_124,[Orcas Auftrag] Notfall-Körpertausch für die schwer beschädigte Orca
+Dialogue: 0,0:02:11.00,0:02:11.90,Sub,Orca,0,0,0,DialogueTable|40220_1,Aaah, ngh ... Ah ...
+Dialogue: 0,0:02:12.00,0:02:12.90,Sub,Orca,0,0,0,DialogueTable|40220_2,Agh, ah ...! Hah ... Chris, ich habe Angst ...
+Dialogue: 0,0:02:13.00,0:02:13.90,Repair1,Chris,0,0,0,DialogueTable|40221_1,Die Hilfsenergie ist erschöpft.
+Dialogue: 0,0:02:14.00,0:02:14.90,Repair1,Chris,0,0,0,DialogueTable|40221_2,Die muss hier irgendwo sein ...
+Dialogue: 0,0:02:15.00,0:02:15.90,Repair1,Orca,0,0,0,DialogueTable|40221_3,Bei der letzten Wartung lag sie im linken Regal ...
+Dialogue: 0,0:02:16.00,0:02:16.90,Repair1,Chris,0,0,0,DialogueTable|40221_4,Ah, da ist sie.
+Dialogue: 0,0:02:17.00,0:02:17.90,Repair1,Chris,0,0,0,DialogueTable|40221_5,Danke.
+Dialogue: 0,0:02:18.00,0:02:18.90,Repair1,Chris,0,0,0,DialogueTable|40221_6,Und tut mir leid,
+Dialogue: 0,0:02:19.00,0:02:19.90,Repair1,Chris,0,0,0,DialogueTable|40221_7,aber ich muss dich ein paar Dinge fragen, damit ich dich schneller wieder hinkriege.
+Dialogue: 0,0:02:20.00,0:02:20.90,Repair1,Chris,0,0,0,DialogueTable|40221_8,Kannst du mir sagen, wie du so schwer beschädigt wurdest?
+Dialogue: 0,0:02:21.00,0:02:21.90,Repair1,Orca,0,0,0,DialogueTable|40221_9,Ich habe einen direkten Treffer von einem Raketenwerfer abbekommen.
+Dialogue: 0,0:02:22.00,0:02:22.90,Repair1,Chris,0,0,0,DialogueTable|40221_10,...
+Dialogue: 0,0:02:23.00,0:02:23.90,Repair1,Chris,0,0,0,DialogueTable|40221_11,...Das ist nicht dein Ernst, oder?
+Dialogue: 0,0:02:24.00,0:02:24.90,Repair1,Orca,0,0,0,DialogueTable|40221_12,Kriegsherren, die auf Chromas Stellung und Prestige schielen ...
+Dialogue: 0,0:02:25.00,0:02:25.90,Repair1,Orca,0,0,0,DialogueTable|40221_13,scheinen diese sogenannten „revolutionären Gruppen“ zu unterstützen.
+Dialogue: 0,0:02:26.00,0:02:26.90,Repair1,Orca,0,0,0,DialogueTable|40221_14,Das Ausmaß der Gewalt ... und ihre Feuerkraft ...
+Dialogue: 0,0:02:27.00,0:02:27.90,Repair1,Orca,0,0,0,DialogueTable|40221_15,haben sich verschärft, als wollten sie die Gerüchte bestätigen.
+Dialogue: 0,0:02:28.00,0:02:28.90,Repair1,Chris,0,0,0,DialogueTable|40221_16,Kriegsherren ...
+Dialogue: 0,0:02:29.00,0:02:29.90,Repair1,Chris,0,0,0,DialogueTable|40221_17,Wir leben ja nicht im Mittelalter.
+Dialogue: 0,0:02:30.00,0:02:30.90,Repair1,Orca,0,0,0,DialogueTable|40221_18,Die strenge Zensur in Chroma ...
+Dialogue: 0,0:02:31.00,0:02:31.90,Repair1,Orca,0,0,0,DialogueTable|40221_19,...ist nur wegen der eindeutigen Bedrohung durch die Außenwelt gerechtfertigt.
+Dialogue: 0,0:02:32.00,0:02:32.90,Repair2,Orca,0,0,0,DialogueTable|40222_1,Chris.
+Dialogue: 0,0:02:33.00,0:02:33.90,Repair2,Orca,0,0,0,DialogueTable|40222_2,Wegen deiner gesundheitlichen Probleme von neulich ...
+Dialogue: 0,0:02:34.00,0:02:34.90,Repair2,Chris,0,0,0,DialogueTable|40222_3,Wenn du das zuerst ansprichst,
+Dialogue: 0,0:02:35.00,0:02:35.90,Repair2,Chris,0,0,0,DialogueTable|40222_4,laufen die Reparaturen wohl gut. Das ist eine Erleichterung.
+Dialogue: 0,0:02:36.00,0:02:36.90,Repair2,Chris,0,0,0,DialogueTable|40222_5,Was meine Gesundheit angeht ...
+Dialogue: 0,0:02:37.00,0:02:37.90,Repair2,Chris,0,0,0,DialogueTable|40222_6,Es war nichts Körperliches.
+Dialogue: 0,0:02:38.00,0:02:38.90,Repair2,Chris,0,0,0,DialogueTable|40222_7,Wenn man Gedächtnisunterdrücker absetzt,
+Dialogue: 0,0:02:39.00,0:02:39.90,Repair2,Chris,0,0,0,DialogueTable|40222_8,kann angestauter, unterbewusster Stress Phantomschmerzen verursachen, habe ich gehört.
+Dialogue: 0,0:02:40.00,0:02:40.90,Repair2,Chris,0,0,0,DialogueTable|40222_9,Wahrscheinlich ist mir das passiert.
+Dialogue: 0,0:02:41.00,0:02:41.90,Repair2,Orca,0,0,0,DialogueTable|40222_10,...Gedächtnisunterdrückung?
+Dialogue: 0,0:02:42.00,0:02:42.90,Repair2,Chris,0,0,0,DialogueTable|40222_11,Ja.
+Dialogue: 0,0:02:43.00,0:02:43.90,Repair2,Chris,0,0,0,DialogueTable|40222_12,Offenbar waren meine Erinnerungen jahrelang unterdrückt.
+Dialogue: 0,0:02:44.00,0:02:44.90,Repair2,Chris,0,0,0,DialogueTable|40222_13,Aber richtig angekommen ist das noch nicht.
+Dialogue: 0,0:02:45.00,0:02:45.90,Repair2,Chris,0,0,0,DialogueTable|40222_14,Zum Teil bin ich erleichtert, dass es nichts Körperliches war.
+Dialogue: 0,0:02:46.00,0:02:46.90,Repair2,Chris,0,0,0,DialogueTable|40222_15,Andererseits, wer weiß, ob ich das noch sage, wenn meine Erinnerungen zurückkommen.
+Dialogue: 0,0:02:47.00,0:02:47.90,Repair2,Orca,0,0,0,DialogueTable|40222_16,Dass so etwas passieren kann ...
+Dialogue: 0,0:02:48.00,0:02:48.90,Repair2,Orca,0,0,0,DialogueTable|40222_17,So etwas sieht man manchmal in den Nachrichten,
+Dialogue: 0,0:02:49.00,0:02:49.90,Repair2,Orca,0,0,0,DialogueTable|40222_18,aber es kam mir immer so weit weg von mir vor.
+Dialogue: 0,0:02:50.00,0:02:50.90,Repair2,Chris,0,0,0,DialogueTable|40222_19,Laut der Expertin
+Dialogue: 0,0:02:51.00,0:02:51.90,Repair2,Chris,0,0,0,DialogueTable|40222_20,ist es unglaublich verbreitet.
+Dialogue: 0,0:02:52.00,0:02:52.90,Repair2,Chris,0,0,0,DialogueTable|40222_21,Körperliche Verletzungen liegen offen an der Oberfläche, deshalb versteht das jeder.
+Dialogue: 0,0:02:53.00,0:02:53.90,Repair2,Chris,0,0,0,DialogueTable|40222_22,Aber die Psyche ... das ist eine ganz andere Geschichte.
+Dialogue: 0,0:02:54.00,0:02:54.90,Repair2,Chris,0,0,0,DialogueTable|40222_23,Es ist vielleicht häufiger, als wir denken.
+Dialogue: 0,0:02:55.00,0:02:55.90,Repair2,Orca,0,0,0,DialogueTable|40222_24,Chris, nach außen hin
+Dialogue: 0,0:02:56.00,0:02:56.90,Repair2,Orca,0,0,0,DialogueTable|40222_25,wirktest du so stabil und unversehrt ...
+Dialogue: 0,0:02:57.00,0:02:57.90,Repair2,Orca,0,0,0,DialogueTable|40222_26,jemand, auf den ich mich stützen konnte.
+Dialogue: 0,0:02:58.00,0:02:58.90,Repair2,Orca,0,0,0,DialogueTable|40222_27,Ich hatte keine Ahnung ... dass du etwas so Schmerzhaftes mit dir herumträgst, dass du es auslöschen wolltest.
+Dialogue: 0,0:02:59.00,0:02:59.90,Repair2,Chris,0,0,0,DialogueTable|40222_28,Tja, ich wusste es auch nicht.
+Dialogue: 0,0:03:00.00,0:03:00.90,Repair2,Chris,0,0,0,DialogueTable|40222_29,Und ich weiß es immer noch nicht.
+Dialogue: 0,0:03:01.00,0:03:01.90,Repair2,Chris,0,0,0,DialogueTable|40222_30,Klar ist nur, dass meine Erinnerungen unterdrückt sind,
+Dialogue: 0,0:03:02.00,0:03:02.90,Repair2,Chris,0,0,0,DialogueTable|40222_31,aber ich habe keine Ahnung, was sie eigentlich sind.
+Dialogue: 0,0:03:03.00,0:03:03.90,Repair2,Orca,0,0,0,DialogueTable|40222_32,Wie bei diesen Großstadtlegenden, die kursieren,
+Dialogue: 0,0:03:04.00,0:03:04.90,Repair2,Orca,0,0,0,DialogueTable|40222_33,ist es Amnesie?
+Dialogue: 0,0:03:05.00,0:03:05.90,Repair2,Orca,0,0,0,DialogueTable|40222_34,Weil sie Schlupflöcher in den Bedingungen ausnutzen,
+Dialogue: 0,0:03:06.00,0:03:06.90,Repair2,Orca,0,0,0,DialogueTable|40222_35,soll es fast unmöglich sein, eine Entschädigung zu bekommen ...
+Dialogue: 0,0:03:07.00,0:03:07.90,Repair2,Chris,0,0,0,DialogueTable|40222_36,Ich bin nicht sicher,
+Dialogue: 0,0:03:08.00,0:03:08.90,Repair2,Chris,0,0,0,DialogueTable|40222_37,aber es ist unwahrscheinlich.
+Dialogue: 0,0:03:09.00,0:03:09.90,Repair2,Chris,0,0,0,DialogueTable|40222_38,Ich habe mich informiert: Bis sie zurück sind, dauert es angeblich ein paar Wochen
+Dialogue: 0,0:03:10.00,0:03:10.90,Repair2,Chris,0,0,0,DialogueTable|40222_39,bis hin zu mehreren Monaten.
+Dialogue: 0,0:03:11.00,0:03:11.90,Repair2,Orca,0,0,0,DialogueTable|40222_40,Hmm ...
+Dialogue: 0,0:03:12.00,0:03:12.90,Repair2,Chris,0,0,0,DialogueTable|40222_41,Wenn ich es abkürzen will,
+Dialogue: 0,0:03:13.00,0:03:13.90,Repair2,Chris,0,0,0,DialogueTable|40222_42,empfehlen sie, Dinge zu wiederholen, die diese Erinnerungen auslösen.
+Dialogue: 0,0:03:14.00,0:03:14.90,Repair2,Chris,0,0,0,DialogueTable|40222_43,Zum Beispiel Zeit mit Leuten zu verbringen, die damit zu tun haben,
+Dialogue: 0,0:03:15.00,0:03:15.90,Repair2,Chris,0,0,0,DialogueTable|40222_44,oder sich Bilder anzusehen und Sprachaufnahmen anzuhören.
+Dialogue: 0,0:03:16.00,0:03:16.90,Repair2,Chris,0,0,0,DialogueTable|40222_45,Okay, genug geplaudert.
+Dialogue: 0,0:03:17.00,0:03:17.90,Repair2,Chris,0,0,0,DialogueTable|40222_46,Ich muss mich kurz konzentrieren.
+Dialogue: 0,0:03:18.00,0:03:18.90,Repair2,Chris,0,0,0,DialogueTable|40222_47,Das Schlimmste haben wir hinter uns,
+Dialogue: 0,0:03:19.00,0:03:19.90,Repair2,Chris,0,0,0,DialogueTable|40222_48,aber ein paar Probleme muss ich noch beheben.
+Dialogue: 0,0:03:20.00,0:03:20.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60023_1_C3,Schnell gehandelt, damit sind wir erst mal aus dem Gröbsten raus.
+Dialogue: 0,0:03:21.00,0:03:21.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60023_1_C2,Hat ein bisschen gedauert, aber wir sind erst mal aus dem Gröbsten raus.
+Dialogue: 0,0:03:22.00,0:03:22.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60023_1_C1,Hat ein bisschen gedauert, aber wir sind erst mal aus dem Gröbsten raus.
+Dialogue: 0,0:03:23.00,0:03:23.90,ClearMain,Chris,0,0,0,DialogueTable|60023_1,Für den Rest schauen wir erst mal, wie es hält, und sehen dann weiter.
+Dialogue: 0,0:03:24.00,0:03:24.90,ClearMain,Orca,0,0,0,DialogueTable|60023_2,Danke, Chris.
+Dialogue: 0,0:03:25.00,0:03:25.90,ClearMain,Orca,0,0,0,DialogueTable|60023_3,Ich weiß nicht, welche Anpassungen noch ausstehen,
+Dialogue: 0,0:03:26.00,0:03:26.90,ClearMain,Orca,0,0,0,DialogueTable|60023_4,aber mein Schwanz fühlt sich schon leichter an.
+Dialogue: 0,0:03:27.00,0:03:27.90,ClearMain,Chris,0,0,0,DialogueTable|60023_5,Hilfsenergie ausgetauscht, und deine Motorik ... wirkt stabil.
+Dialogue: 0,0:03:28.00,0:03:28.90,ClearMain,Chris,0,0,0,DialogueTable|60023_6,Außerdem habe ich deine neuronalen Schaltkreise neu kalibriert.
+Dialogue: 0,0:03:29.00,0:03:29.90,ClearMain,Chris,0,0,0,DialogueTable|60023_7,Wie fühlt sich das an?
+Dialogue: 0,0:03:30.00,0:03:30.90,ClearMain,Chris,0,0,0,DialogueTable|60023_8,Ich kenne mich mit E.V.Es aus,
+Dialogue: 0,0:03:31.00,0:03:31.90,ClearMain,Chris,0,0,0,DialogueTable|60023_9,aber wie es sich bei dir tatsächlich anfühlt, weiß ich nicht.
+Dialogue: 0,0:03:32.00,0:03:32.90,ClearMain,Orca,0,0,0,DialogueTable|60023_10,Nichts fühlt sich ungewöhnlich an.
+Dialogue: 0,0:03:33.00,0:03:33.90,ClearMain,Orca,0,0,0,DialogueTable|60023_11,Wenn du es nicht erwähnt hättest,
+Dialogue: 0,0:03:34.00,0:03:34.90,ClearMain,Orca,0,0,0,DialogueTable|60023_12,hätte ich den Unterschied nicht einmal bemerkt.
+Dialogue: 0,0:03:35.00,0:03:35.90,ClearMain,Chris,0,0,0,DialogueTable|60023_13,Im Moment, Orca ...
+Dialogue: 0,0:03:36.00,0:03:36.90,ClearMain,Chris,0,0,0,DialogueTable|60023_14,kann man wohl sagen, dass du im Grunde Daten bist, die in einen anderen Körper übertragen wurden.
+Dialogue: 0,0:03:37.00,0:03:37.90,ClearMain,Chris,0,0,0,DialogueTable|60023_15,Von außen siehst du gleich aus,
+Dialogue: 0,0:03:38.00,0:03:38.90,ClearMain,Chris,0,0,0,DialogueTable|60023_16,aber die meisten inneren Teile wurden ausgetauscht oder überholt.
+Dialogue: 0,0:03:39.00,0:03:39.90,ClearMain,Chris,0,0,0,DialogueTable|60023_17,Ich dachte also, es könnte sich etwas befremdlich anfühlen.
+Dialogue: 0,0:03:40.00,0:03:40.90,ClearMain,Orca,0,0,0,DialogueTable|60023_18,Man sagt, Empfinden wird eher
+Dialogue: 0,0:03:41.00,0:03:41.90,ClearMain,Orca,0,0,0,DialogueTable|60023_19,von der Wahrnehmung als von der Wirklichkeit bestimmt.
+Dialogue: 0,0:03:42.00,0:03:42.90,ClearMain,Orca,0,0,0,DialogueTable|60023_20,Wie der Schmerz in einem abgetrennten Arm zum Beispiel,
+Dialogue: 0,0:03:43.00,0:03:43.90,ClearMain,Orca,0,0,0,DialogueTable|60023_21,es gibt tatsächlich viele Fälle, in denen Wahrnehmung und Wirklichkeit nicht übereinstimmen.
+Dialogue: 0,0:03:44.00,0:03:44.90,ClearMain,Chris,0,0,0,DialogueTable|60023_22,Also ...
+Dialogue: 0,0:03:45.00,0:03:45.90,ClearMain,Chris,0,0,0,DialogueTable|60023_23,du meinst, es ist schwer zu merken, dass etwas nicht stimmt,
+Dialogue: 0,0:03:46.00,0:03:46.90,ClearMain,Chris,0,0,0,DialogueTable|60023_24,solange Orca Orca als ... Orca wahrnimmt?
+Dialogue: 0,0:03:47.00,0:03:47.90,ClearMain,Orca,0,0,0,DialogueTable|60023_25,Ja.
+Dialogue: 0,0:03:48.00,0:03:48.90,ClearMain,Orca,0,0,0,DialogueTable|60023_26,Abgesehen davon, dass du meinen Namen überstrapazierst ...
+Dialogue: 0,0:03:49.00,0:03:49.90,ClearMain,Orca,0,0,0,DialogueTable|60023_27,ist das eine völlig zutreffende Zusammenfassung.
+Dialogue: 0,0:03:50.00,0:03:50.90,ClearMain,Chris,0,0,0,DialogueTable|60023_28,Orca, Orca.
+Dialogue: 0,0:03:51.00,0:03:51.90,ClearMain,Orca,0,0,0,DialogueTable|60023_29,...Ja?
+Dialogue: 0,0:03:52.00,0:03:52.90,ClearMain,Chris,0,0,0,DialogueTable|60023_30,Orca, Orca.
+Dialogue: 0,0:03:53.00,0:03:53.90,ClearMain,Orca,0,0,0,DialogueTable|60023_31,Bitte hör auf ...
+Dialogue: 0,0:03:54.00,0:03:54.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_32,Eine E.V.E, härter als Stahl – eine, die ganz buchstäblich eine Rakete weggesteckt hat –
+Dialogue: 0,0:03:55.00,0:03:55.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_33,so bedröppelt zu sehen, war ziemlich unterhaltsam, aber ...
+Dialogue: 0,0:03:56.00,0:03:56.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_34,man muss wissen, wann Schluss ist, bevor man sein Glück überreizt.
+Dialogue: 0,0:03:57.00,0:03:57.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_35,Am besten lasse ich den Scherz jetzt fallen und wechsle das Thema.
+Dialogue: 0,0:03:58.00,0:03:58.90,ClearMain,Chris,0,0,0,DialogueTable|60023_36,War nur Spaß.
+Dialogue: 0,0:03:59.00,0:03:59.90,ClearMain,Chris,0,0,0,DialogueTable|60023_37,Wie auch immer, hattest du schon mal so einen Schaden?
+Dialogue: 0,0:04:00.00,0:04:00.90,ClearMain,Chris,0,0,0,DialogueTable|60023_38,Ich habe tief in deinem Kern Spuren von thermischer Verformung bemerkt.
+Dialogue: 0,0:04:01.00,0:04:01.90,ClearMain,Chris,0,0,0,DialogueTable|60023_39,Wenn so ein Schaden häufiger vorkommt,
+Dialogue: 0,0:04:02.00,0:04:02.90,ClearMain,Chris,0,0,0,DialogueTable|60023_40,würde ich dir ernsthaft raten, dir einen anderen Job zu suchen.
+Dialogue: 0,0:04:03.00,0:04:03.90,ClearMain,Orca,0,0,0,DialogueTable|60023_41,Ah ... dazu.
+Dialogue: 0,0:04:04.00,0:04:04.90,ClearMain,Orca,0,0,0,DialogueTable|60023_42,Das ist eine alte Verletzung.
+Dialogue: 0,0:04:05.00,0:04:05.90,ClearMain,Chris,0,0,0,DialogueTable|60023_43,Ich kann diese Spuren beseitigen,
+Dialogue: 0,0:04:06.00,0:04:06.90,ClearMain,Chris,0,0,0,DialogueTable|60023_44,aber ich habe es vorerst gelassen, weil wir größere Probleme hatten.
+Dialogue: 0,0:04:07.00,0:04:07.90,ClearMain,Chris,0,0,0,DialogueTable|60023_45,Soll ich mich später darum kümmern?
+Dialogue: 0,0:04:08.00,0:04:08.90,ClearMain,Orca,0,0,0,DialogueTable|60023_46,Nein, danke.
+Dialogue: 0,0:04:09.00,0:04:09.90,ClearMain,Orca,0,0,0,DialogueTable|60023_47,Ich behalte sie mit Absicht.
+Dialogue: 0,0:04:10.00,0:04:10.90,ClearMain,Orca,0,0,0,DialogueTable|60023_48,Sie sind eine Art Andenken.
+Dialogue: 0,0:04:11.00,0:04:11.90,ClearMain,Chris,0,0,0,DialogueTable|60023_49,Andenken ...
+Dialogue: 0,0:04:12.00,0:04:12.90,ClearMain,Orca,0,0,0,DialogueTable|60023_50,Du hast sicher schon gehört, wie Leute sagen ...
+Dialogue: 0,0:04:13.00,0:04:13.90,ClearMain,Orca,0,0,0,DialogueTable|60023_51,E.V.Es seien nur seelenlose Maschinen.
+Dialogue: 0,0:04:14.00,0:04:14.90,ClearMain,Chris,0,0,0,DialogueTable|60023_52,Diese Theorie ist längst widerlegt.
+Dialogue: 0,0:04:15.00,0:04:15.90,ClearMain,Chris,0,0,0,DialogueTable|60023_53,Dieser Unsinn, E.V.Es würden Gefühle nur mit Regulatoren und elektrischen Signalen imitieren ...
+Dialogue: 0,0:04:16.00,0:04:16.90,ClearMain,Chris,0,0,0,DialogueTable|60023_54,sagt im Grunde, dass wir Menschen auch keine Seele haben.
+Dialogue: 0,0:04:17.00,0:04:17.90,ClearMain,Chris,0,0,0,DialogueTable|60023_55,Die meisten Lebewesen laufen mit chemischen Regulatoren namens Hormonen ...
+Dialogue: 0,0:04:18.00,0:04:18.90,ClearMain,Chris,0,0,0,DialogueTable|60023_56,und elektrischen Signalen, nur um sich zu bewegen und zu denken.
+Dialogue: 0,0:04:19.00,0:04:19.90,ClearMain,Chris,0,0,0,DialogueTable|60023_57,Wer behaupten will, dass „nur der Mensch Würde hat“,
+Dialogue: 0,0:04:20.00,0:04:20.90,ClearMain,Chris,0,0,0,DialogueTable|60023_58,dessen Logik ist einfach voller Löcher.
+Dialogue: 0,0:04:21.00,0:04:21.90,ClearMain,Orca,0,0,0,DialogueTable|60023_59,Fakten hin oder her ...
+Dialogue: 0,0:04:22.00,0:04:22.90,ClearMain,Orca,0,0,0,DialogueTable|60023_60,Ich wollte trotzdem beweisen, dass sie sich irren.
+Dialogue: 0,0:04:23.00,0:04:23.90,ClearMain,Orca,0,0,0,DialogueTable|60023_61,Wir, die hergestellt und nicht geboren wurden ...
+Dialogue: 0,0:04:24.00,0:04:24.90,ClearMain,Orca,0,0,0,DialogueTable|60023_62,werden mit einem Selbstgefühl in die Welt geworfen, aber ohne echte Bindungen, die uns Halt geben.
+Dialogue: 0,0:04:25.00,0:04:25.90,ClearMain,Orca,0,0,0,DialogueTable|60023_63,Deshalb durchlaufen die meisten von uns eine Phase, in der sie nach Anerkennung hungern.
+Dialogue: 0,0:04:26.00,0:04:26.90,ClearMain,Orca,0,0,0,DialogueTable|60023_64,Ich nehme an, damals steckte ich genau in dieser Phase.
+Dialogue: 0,0:04:27.00,0:04:27.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_65,Das lag nicht nur an Orca. Es ist ein verbreitetes Phänomen unter E.V.Es.
+Dialogue: 0,0:04:28.00,0:04:28.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_66,Da E.V.Es hergestellt und nicht geboren werden ...
+Dialogue: 0,0:04:29.00,0:04:29.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_67,...haben sie laut Fachleuten nicht den Luxus, ihre Identität zu erkunden
+Dialogue: 0,0:04:30.00,0:04:30.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_68,unter dem Sicherheitsnetz einer Familie oder der Gesellschaft.
+Dialogue: 0,0:04:31.00,0:04:31.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_69,Studien zeigen sogar, dass sie dazu neigen, von sozialem Status und Kontakten besessen zu sein.
+Dialogue: 0,0:04:32.00,0:04:32.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_70,Wie ein ungeliebtes Kind.
+Dialogue: 0,0:04:33.00,0:04:33.90,ClearMain,Orca,0,0,0,DialogueTable|60023_71,Damals stand ich ziemlich unter Strom.
+Dialogue: 0,0:04:34.00,0:04:34.90,ClearMain,Orca,0,0,0,DialogueTable|60023_72,Ich habe die Befehle der Einsatzleitung ignoriert und mich in Rettungseinsätze gestürzt,
+Dialogue: 0,0:04:35.00,0:04:35.90,ClearMain,Orca,0,0,0,DialogueTable|60023_73,und den Überlebenden oft persönlich geholfen.
+Dialogue: 0,0:04:36.00,0:04:36.90,ClearMain,Chris,0,0,0,DialogueTable|60023_74,Muss hart gewesen sein.
+Dialogue: 0,0:04:37.00,0:04:37.90,ClearMain,Orca,0,0,0,DialogueTable|60023_75,Damals war mir das nicht klar.
+Dialogue: 0,0:04:38.00,0:04:38.90,ClearMain,Orca,0,0,0,DialogueTable|60023_76,Eher dachte ich, es wäre völlig normal.
+Dialogue: 0,0:04:39.00,0:04:39.90,ClearMain,Orca,0,0,0,DialogueTable|60023_77,Ich war völlig berauscht von der Vorstellung, der „gerechte Retter“ zu sein.
+Dialogue: 0,0:04:40.00,0:04:40.90,ClearMain,Chris,0,0,0,DialogueTable|60023_78,Man muss auf höheres Gelände steigen,
+Dialogue: 0,0:04:41.00,0:04:41.90,ClearMain,Chris,0,0,0,DialogueTable|60023_79,um den Weg, den man gegangen ist, wirklich zu sehen.
+Dialogue: 0,0:04:42.00,0:04:42.90,ClearMain,Chris,0,0,0,DialogueTable|60023_80,All das durchzumachen ...
+Dialogue: 0,0:04:43.00,0:04:43.90,ClearMain,Chris,0,0,0,DialogueTable|60023_81,hat dich zu der Orca gemacht, die du heute bist, würde ich sagen.
+Dialogue: 0,0:04:44.00,0:04:44.90,ClearMain,Orca,0,0,0,DialogueTable|60023_82,Das stimmt vielleicht ...
+Dialogue: 0,0:04:45.00,0:04:45.90,ClearMain,Orca,0,0,0,DialogueTable|60023_83,aber es macht die Fehler der Vergangenheit nicht ungeschehen.
+Dialogue: 0,0:04:46.00,0:04:46.90,ClearMain,Orca,0,0,0,DialogueTable|60023_84,Es war vor ein paar Jahren.
+Dialogue: 0,0:04:47.00,0:04:47.90,ClearMain,Orca,0,0,0,DialogueTable|60023_85,Es gab einen plötzlichen Terroranschlag, völlig aus heiterem Himmel.
+Dialogue: 0,0:04:48.00,0:04:48.90,ClearMain,Orca,0,0,0,DialogueTable|60023_86,Die Flammen waren so heftig, dass Rauch und Feuer fast den Himmel berührten.
+Dialogue: 0,0:04:49.00,0:04:49.90,ClearMain,Orca,0,0,0,DialogueTable|60023_87,Die Lage am Boden sah von Anfang an düster aus,
+Dialogue: 0,0:04:50.00,0:04:50.90,ClearMain,Orca,0,0,0,DialogueTable|60023_88,und die Einsatzleitung schlug schon vor, den ganzen Sektor aufzugeben.
+Dialogue: 0,0:04:51.00,0:04:51.90,ClearMain,Orca,0,0,0,DialogueTable|60023_89,Da sah ich diesen Jungen.
+Dialogue: 0,0:04:52.00,0:04:52.90,ClearMain,Orca,0,0,0,DialogueTable|60023_90,Er flehte den Trupp an ...
+Dialogue: 0,0:04:53.00,0:04:53.90,ClearMain,Orca,0,0,0,DialogueTable|60023_91,seine Familie zu retten, die auf der Flucht zusammengebrochen war.
+Dialogue: 0,0:04:54.00,0:04:54.90,ClearMain,Orca,0,0,0,DialogueTable|60023_92,Es war praktisch ein Himmelfahrtskommando, der Trupp zögerte vorzurücken.
+Dialogue: 0,0:04:55.00,0:04:55.90,ClearMain,Orca,0,0,0,DialogueTable|60023_93,Und am Ende ... bin ich einfach hineingesprungen.
+Dialogue: 0,0:04:56.00,0:04:56.90,ClearMain,Orca,0,0,0,DialogueTable|60023_94,Ich sagte ihm: „Sie leben noch. Es wird alles gut.“
+Dialogue: 0,0:04:57.00,0:04:57.90,ClearMain,Orca,0,0,0,DialogueTable|60023_95,Ich habe ein Versprechen gegeben, ohne zu wissen, ob ich es halten kann.
+Dialogue: 0,0:04:58.00,0:04:58.90,ClearMain,Orca,0,0,0,DialogueTable|60023_96,Aber am Ende ...
+Dialogue: 0,0:04:59.00,0:04:59.90,ClearMain,Orca,0,0,0,DialogueTable|60023_97,ist das Gebäude eingestürzt, und ich war die Einzige, die es mit knapper Not herausgeschafft hat.
+Dialogue: 0,0:05:00.00,0:05:00.90,ClearMain,Chris,0,0,0,DialogueTable|60023_98,...
+Dialogue: 0,0:05:01.00,0:05:01.90,ClearMain,Orca,0,0,0,DialogueTable|60023_99,Das Analyseteam sagte,
+Dialogue: 0,0:05:02.00,0:05:02.90,ClearMain,Orca,0,0,0,DialogueTable|60023_100,eine Ohnmacht während eines Brandes sei innerhalb von drei bis fünf Minuten tödlich.
+Dialogue: 0,0:05:03.00,0:05:03.90,ClearMain,Orca,0,0,0,DialogueTable|60023_101,Sie waren von Anfang an nicht mehr zu retten.
+Dialogue: 0,0:05:04.00,0:05:04.90,ClearMain,Orca,0,0,0,DialogueTable|60023_102,Aber da war es schon zu spät.
+Dialogue: 0,0:05:05.00,0:05:05.90,ClearMain,Orca,0,0,0,DialogueTable|60023_103,Ich hatte ihm schon versichert: „Sie leben noch.“
+Dialogue: 0,0:05:06.00,0:05:06.90,ClearMain,Orca,0,0,0,DialogueTable|60023_104,Keine noch so späte Entschuldigung ...
+Dialogue: 0,0:05:07.00,0:05:07.90,ClearMain,Orca,0,0,0,DialogueTable|60023_105,würde die Schuldgefühle dieses Jungen lindern.
+Dialogue: 0,0:05:08.00,0:05:08.90,ClearMain,Chris,0,0,0,DialogueTable|60023_106,Ein lebendes Geschwisterkind zurückzulassen ...
+Dialogue: 0,0:05:09.00,0:05:09.90,ClearMain,Orca,0,0,0,DialogueTable|60023_107,Ich habe danach alles versucht,
+Dialogue: 0,0:05:10.00,0:05:10.90,ClearMain,Orca,0,0,0,DialogueTable|60023_108,aber die Mauern, die er errichtet hat,
+Dialogue: 0,0:05:11.00,0:05:11.90,ClearMain,Orca,0,0,0,DialogueTable|60023_109,ließen sich nicht so leicht einreißen.
+Dialogue: 0,0:05:12.00,0:05:12.90,ClearMain,Orca,0,0,0,DialogueTable|60023_110,Es fühlt sich immer noch an wie gestern ... und ich bereue es zutiefst.
+Dialogue: 0,0:05:13.00,0:05:13.90,ClearMain,Orca,0,0,0,DialogueTable|60023_111,Ich habe viel zu spät erkannt ...
+Dialogue: 0,0:05:14.00,0:05:14.90,ClearMain,Orca,0,0,0,DialogueTable|60023_112,dass meine guten Absichten am Ende
+Dialogue: 0,0:05:15.00,0:05:15.90,ClearMain,Orca,0,0,0,DialogueTable|60023_113,jemand anderen verletzen können.
+Dialogue: 0,0:05:16.00,0:05:16.90,ClearMain,Chris,0,0,0,DialogueTable|60023_114,<shake a=0.2>Orca.
+Dialogue: 0,0:05:17.00,0:05:17.90,ClearMain,Orca,0,0,0,DialogueTable|60023_115,Ja ...?
+Dialogue: 0,0:05:18.00,0:05:18.90,ClearMain,Orca,0,0,0,DialogueTable|60023_116,Chris, du klingst zittrig.
+Dialogue: 0,0:05:19.00,0:05:19.90,ClearMain,Orca,0,0,0,DialogueTable|60023_117,Ist alles okay mit dir?
+Dialogue: 0,0:05:20.00,0:05:20.90,ClearMain,Chris,0,0,0,DialogueTable|60023_118,<shake a=0.2>Wenn es sich immer noch wie gestern anfühlt,
+Dialogue: 0,0:05:21.00,0:05:21.90,ClearMain,Chris,0,0,0,DialogueTable|60023_119,<shake a=0.2>darf ich dich dann etwas fragen?
+Dialogue: 0,0:05:22.00,0:05:22.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_120,Vor 10 Jahren, am Polarnacht-Tag.
+Dialogue: 0,0:05:23.00,0:05:23.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_121,Mitten in der Innenstadt, das Chromatic Zenith in vollem Gange.
+Dialogue: 0,0:05:24.00,0:05:24.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60023_122,An diesem Tag waren Michelle und ich ...
+Dialogue: 0,0:05:25.00,0:05:25.90,ClearMain,Chris,0,0,0,DialogueTable|60023_123,<shake a=0.2>Zufällig ...
+Dialogue: 0,0:05:26.00,0:05:26.90,ClearMain,Chris,0,0,0,DialogueTable|60023_124,<shake a=0.2>die Person, die an dem Tag gestorben ist ... hieß sie ...
+Dialogue: 0,0:05:27.00,0:05:27.90,ClearMain,Chris,0,0,0,DialogueTable|60023_125,<shake a=0.2><color=#EE9671>Michelle</color>...?

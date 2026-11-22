@@ -1,0 +1,139 @@
+[Script Info]
+Title: S01E16_Ende_Polarnacht
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_1,Polarnacht-Tag.
+Dialogue: 0,0:00:01.00,0:00:01.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_2,Das Finale, das den Jahreswechsel in Chroma City zum Leuchten brachte.
+Dialogue: 0,0:00:02.00,0:00:02.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_3,Neonreklamen blinkten,
+Dialogue: 0,0:00:03.00,0:00:03.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_4,und die Straßen waren voller Menschen.
+Dialogue: 0,0:00:04.00,0:00:04.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_5,Doch in diesem schummrigen Laden war es totenstill.
+Dialogue: 0,0:00:05.00,0:00:05.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_6,Die Stromumleitung für das Fest spielte da mit hinein,
+Dialogue: 0,0:00:06.00,0:00:06.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_7,aber für „D1AL-ogue“,
+Dialogue: 0,0:00:07.00,0:00:07.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_8,eine E.V.E-Wartungsklinik mit Schwerpunkt Psychotherapie, lag die Sache etwas anders.
+Dialogue: 0,0:00:08.00,0:00:08.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_9,Die Zeit verstrich,
+Dialogue: 0,0:00:09.00,0:00:09.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_10,doch von Michelle kam immer noch nichts.
+Dialogue: 0,0:00:10.00,0:00:10.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_11,Laut System hatte sie es gelesen,
+Dialogue: 0,0:00:11.00,0:00:11.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_12,aber es gab keine Antwort, überhaupt keine Reaktion.
+Dialogue: 0,0:00:12.00,0:00:12.90,Ending,Chris,0,0,0,DialogueTable|60112_13,Es wird bald Zeit zu gehen...
+Dialogue: 0,0:00:13.00,0:00:13.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_14,Egal, wie mies ich mich fühle,
+Dialogue: 0,0:00:14.00,0:00:14.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_15,versprochen ist versprochen.
+Dialogue: 0,0:00:15.00,0:00:15.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_16,Eine stille Straße ohne den kleinsten Lichtschimmer.
+Dialogue: 0,0:00:16.00,0:00:16.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_17,Den Blick zum Nachthimmel gerichtet,
+Dialogue: 0,0:00:17.00,0:00:17.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_18,machte ich mich fertig zum Aufbruch...
+Dialogue: 0,0:00:18.00,0:00:18.90,Ending,Michelle,0,0,0,DialogueTable|60112_19,<color=#C6C6C6>(Eingabe abgebrochen)</color>
+Dialogue: 0,0:00:19.00,0:00:19.90,Ending,Michelle,0,0,0,DialogueTable|60112_20,<color=#C6C6C6>(Eingabe abgebrochen)</color>
+Dialogue: 0,0:00:20.00,0:00:20.90,Ending,Michelle,0,0,0,DialogueTable|60112_21,Hi.
+Dialogue: 0,0:00:21.00,0:00:21.90,Ending,Chris,0,0,0,DialogueTable|60112_22,Michelle...
+Dialogue: 0,0:00:22.00,0:00:22.90,Ending,Michelle,0,0,0,DialogueTable|60112_23,Ich dachte, du freust dich mehr, von mir zu hören.
+Dialogue: 0,0:00:23.00,0:00:23.90,Ending,Michelle,0,0,0,DialogueTable|60112_24,Deine Reaktion fällt überraschend mau aus.
+Dialogue: 0,0:00:24.00,0:00:24.90,Ending,Michelle,0,0,0,DialogueTable|60112_25,Vielleicht hätte ich dich noch ein paar Tage länger ghosten sollen.
+Dialogue: 0,0:00:25.00,0:00:25.90,Ending,Chris,0,0,0,DialogueTable|60112_26,Es kommt nur so plötzlich,
+Dialogue: 0,0:00:26.00,0:00:26.90,Ending,Chris,0,0,0,DialogueTable|60112_27,ich wusste nicht, was ich sagen soll.
+Dialogue: 0,0:00:27.00,0:00:27.90,Ending,Chris,0,0,0,DialogueTable|60112_28,Ich freue mich wirklich... wirklich, von dir zu hören.
+Dialogue: 0,0:00:28.00,0:00:28.90,Ending,Michelle,0,0,0,DialogueTable|60112_29,Ich hab deine Nachricht gelesen.
+Dialogue: 0,0:00:29.00,0:00:29.90,Ending,Michelle,0,0,0,DialogueTable|60112_30,Wie ich mich fühle, liegt bei mir,
+Dialogue: 0,0:00:30.00,0:00:30.90,Ending,Michelle,0,0,0,DialogueTable|60112_31,und was du denkst, liegt bei dir.
+Dialogue: 0,0:00:31.00,0:00:31.90,Ending,Michelle,0,0,0,DialogueTable|60112_32,Auch wenn ich nicht wirklich deine Schwester bin,
+Dialogue: 0,0:00:32.00,0:00:32.90,Ending,Michelle,0,0,0,DialogueTable|60112_33,verstehe ich, dass du mich nicht verlieren willst.
+Dialogue: 0,0:00:33.00,0:00:33.90,Ending,Chris,0,0,0,DialogueTable|60112_34,Das klingt vielleicht widersprüchlich,
+Dialogue: 0,0:00:34.00,0:00:34.90,Ending,Chris,0,0,0,DialogueTable|60112_35,aber ich dachte, Ehrlichkeit wäre der beste Weg.
+Dialogue: 0,0:00:35.00,0:00:35.90,Ending,Chris,0,0,0,DialogueTable|60112_36,Wer auch immer du bist,
+Dialogue: 0,0:00:36.00,0:00:36.90,Ending,Chris,0,0,0,DialogueTable|60112_37,jeden Tag mit dir zu reden hat echt Spaß gemacht.
+Dialogue: 0,0:00:37.00,0:00:37.90,Ending,Chris,0,0,0,DialogueTable|60112_38,Es wurde praktisch Teil meiner Routine.
+Dialogue: 0,0:00:38.00,0:00:38.90,Ending,Michelle,0,0,0,DialogueTable|60112_39,Wer... bin ich?
+Dialogue: 0,0:00:39.00,0:00:39.90,Ending,Chris,0,0,0,DialogueTable|60112_40,Michelle.
+Dialogue: 0,0:00:40.00,0:00:40.90,Ending,Michelle,0,0,0,DialogueTable|60112_41,Michelle ist tot.
+Dialogue: 0,0:00:41.00,0:00:41.90,Ending,Michelle,0,0,0,DialogueTable|60112_42,Aber ich bin Michelle.
+Dialogue: 0,0:00:42.00,0:00:42.90,Ending,Michelle,0,0,0,DialogueTable|60112_43,Und das zu wissen... hat mich einfach dazu gebracht, mich selbst zu hassen.
+Dialogue: 0,0:00:43.00,0:00:43.90,Ending,Michelle,0,0,0,DialogueTable|60112_44,Ich kam mir vor wie eine Abscheulichkeit...
+Dialogue: 0,0:00:44.00,0:00:44.90,Ending,Michelle,0,0,0,DialogueTable|60112_45,etwas, das nur den Schmerz zurückbrachte
+Dialogue: 0,0:00:45.00,0:00:45.90,Ending,Michelle,0,0,0,DialogueTable|60112_46,für alle, denen ich etwas bedeutet habe.
+Dialogue: 0,0:00:46.00,0:00:46.90,Ending,Michelle,0,0,0,DialogueTable|60112_47,Dass es besser wäre...
+Dialogue: 0,0:00:47.00,0:00:47.90,Ending,Michelle,0,0,0,DialogueTable|60112_48,wenn ich einfach verschwände.
+Dialogue: 0,0:00:48.00,0:00:48.90,Ending,Michelle,0,0,0,DialogueTable|60112_49,Diese Gedanken haben mich einfach verschlungen.
+Dialogue: 0,0:00:49.00,0:00:49.90,Ending,Chris,0,0,0,DialogueTable|60112_50,Wir hatten aber auch viele schöne Zeiten.
+Dialogue: 0,0:00:50.00,0:00:50.90,Ending,Michelle,0,0,0,DialogueTable|60112_51,Das war...
+Dialogue: 0,0:00:51.00,0:00:51.90,Ending,Michelle,0,0,0,DialogueTable|60112_52,die einzige Möglichkeit, meine Zweifel zu übertönen.
+Dialogue: 0,0:00:52.00,0:00:52.90,Ending,Michelle,0,0,0,DialogueTable|60112_53,Dass du auf mich aufpasst,
+Dialogue: 0,0:00:53.00,0:00:53.90,Ending,Michelle,0,0,0,DialogueTable|60112_54,dich um mich sorgst
+Dialogue: 0,0:00:54.00,0:00:54.90,Ending,Michelle,0,0,0,DialogueTable|60112_55,und mich liebst.
+Dialogue: 0,0:00:55.00,0:00:55.90,Ending,Michelle,0,0,0,DialogueTable|60112_56,Als mir klar wurde, dass das alles nur
+Dialogue: 0,0:00:56.00,0:00:56.90,Ending,Michelle,0,0,0,DialogueTable|60112_57,eine durch Medikamente erzeugte Illusion war,
+Dialogue: 0,0:00:57.00,0:00:57.90,Ending,Michelle,0,0,0,DialogueTable|60112_58,hatte ich das Gefühl, das letzte Stück meines Wertes zu verlieren.
+Dialogue: 0,0:00:58.00,0:00:58.90,Ending,Michelle,0,0,0,DialogueTable|60112_59,Weil ich ihre Erinnerungen habe...
+Dialogue: 0,0:00:59.00,0:00:59.90,Ending,Michelle,0,0,0,DialogueTable|60112_60,bringe ich nur Schmerz...
+Dialogue: 0,0:01:00.00,0:01:00.90,Ending,Michelle,0,0,0,DialogueTable|60112_61,für alle, die sie geliebt hat,
+Dialogue: 0,0:01:01.00,0:01:01.90,Ending,Michelle,0,0,0,DialogueTable|60112_62,und alle, die sie geliebt haben.
+Dialogue: 0,0:01:02.00,0:01:02.90,Ending,Michelle,0,0,0,DialogueTable|60112_63,Also... leise zu verschwinden
+Dialogue: 0,0:01:03.00,0:01:03.90,Ending,Michelle,0,0,0,DialogueTable|60112_64,muss das Richtige sein.
+Dialogue: 0,0:01:04.00,0:01:04.90,Ending,Chris,0,0,0,DialogueTable|60112_65,Wenn es meine Schwester gewesen wäre,
+Dialogue: 0,0:01:05.00,0:01:05.90,Ending,Chris,0,0,0,DialogueTable|60112_66,hätte sie das getan.
+Dialogue: 0,0:01:06.00,0:01:06.90,Ending,Chris,0,0,0,DialogueTable|60112_67,Sie hat es immer gehasst, jemandem zur Last zu fallen.
+Dialogue: 0,0:01:07.00,0:01:07.90,Ending,Michelle,0,0,0,DialogueTable|60112_68,Stimmt.
+Dialogue: 0,0:01:08.00,0:01:08.90,Ending,Michelle,0,0,0,DialogueTable|60112_69,Ich wollte Michelle bleiben,
+Dialogue: 0,0:01:09.00,0:01:09.90,Ending,Michelle,0,0,0,DialogueTable|60112_70,also dachte ich, das wäre das letzte „Michelle“-Ding...
+Dialogue: 0,0:01:10.00,0:01:10.90,Ending,Michelle,0,0,0,DialogueTable|60112_71,...das ich noch tun konnte.
+Dialogue: 0,0:01:11.00,0:01:11.90,Ending,Michelle,0,0,0,DialogueTable|60112_72,Aber du...
+Dialogue: 0,0:01:12.00,0:01:12.90,Ending,Michelle,0,0,0,DialogueTable|60112_73,du hast mir gesagt, dass ich trotzdem zähle,
+Dialogue: 0,0:01:13.00,0:01:13.90,Ending,Michelle,0,0,0,DialogueTable|60112_74,auch wenn ich nicht die echte Michelle bin.
+Dialogue: 0,0:01:14.00,0:01:14.90,Ending,Michelle,0,0,0,DialogueTable|60112_75,Ob ich sie bin oder nicht,
+Dialogue: 0,0:01:15.00,0:01:15.90,Ending,Michelle,0,0,0,DialogueTable|60112_76,du hast mich gebeten, bei dir zu bleiben...
+Dialogue: 0,0:01:16.00,0:01:16.90,Ending,Michelle,0,0,0,DialogueTable|60112_77,Genau das wollte ich hören.
+Dialogue: 0,0:01:17.00,0:01:17.90,Ending,Chris,0,0,0,DialogueTable|60112_78,Auch ohne zu versuchen, Michelle zu sein,
+Dialogue: 0,0:01:18.00,0:01:18.90,Ending,Chris,0,0,0,DialogueTable|60112_79,bist du lustig.
+Dialogue: 0,0:01:19.00,0:01:19.90,Ending,Chris,0,0,0,DialogueTable|60112_80,Manchmal gibst du gute Ratschläge,
+Dialogue: 0,0:01:20.00,0:01:20.90,Ending,Chris,0,0,0,DialogueTable|60112_81,und manchmal bist du jemand, auf den ich mich verlassen kann.
+Dialogue: 0,0:01:21.00,0:01:21.90,Ending,Michelle,0,0,0,DialogueTable|60112_82,Das Problem war, dass ich einfach nicht so sein konnte.
+Dialogue: 0,0:01:22.00,0:01:22.90,Ending,Michelle,0,0,0,DialogueTable|60112_83,Nachdem ich deine Nachricht bekommen hatte,
+Dialogue: 0,0:01:23.00,0:01:23.90,Ending,Michelle,0,0,0,DialogueTable|60112_84,dachte ich darüber nach, wer ich bin, wenn ich nicht Michelle bin.
+Dialogue: 0,0:01:24.00,0:01:24.90,Ending,Michelle,0,0,0,DialogueTable|60112_85,Von Anfang an
+Dialogue: 0,0:01:25.00,0:01:25.90,Ending,Michelle,0,0,0,DialogueTable|60112_86,war mir klar, dass ich nicht mal verstehen konnte, was Michelle ausmacht.
+Dialogue: 0,0:01:26.00,0:01:26.90,Ending,Michelle,0,0,0,DialogueTable|60112_87,Erinnerungen? Gewohnheiten? Gefühle?
+Dialogue: 0,0:01:27.00,0:01:27.90,Ending,Michelle,0,0,0,DialogueTable|60112_88,Der Glaube, dass ich Michelle bin?
+Dialogue: 0,0:01:28.00,0:01:28.90,Ending,Michelle,0,0,0,DialogueTable|60112_89,Da ist mir etwas klar geworden.
+Dialogue: 0,0:01:29.00,0:01:29.90,Ending,Michelle,0,0,0,DialogueTable|60112_90,Was du meintest, als du „Ich weiß nicht“ gesagt hast.
+Dialogue: 0,0:01:30.00,0:01:30.90,Ending,Michelle,0,0,0,DialogueTable|60112_91,Dass du dich genauso verloren gefühlt hast.
+Dialogue: 0,0:01:31.00,0:01:31.90,Ending,Chris,0,0,0,DialogueTable|60112_92,Stimmt.
+Dialogue: 0,0:01:32.00,0:01:32.90,Ending,Chris,0,0,0,DialogueTable|60112_93,Ich war mir nicht sicher, ob Michelle wirklich tot war
+Dialogue: 0,0:01:33.00,0:01:33.90,Ending,Chris,0,0,0,DialogueTable|60112_94,oder ob du nicht Michelle bist.
+Dialogue: 0,0:01:34.00,0:01:34.90,Ending,Chris,0,0,0,DialogueTable|60112_95,Ich konnte es einfach nicht mit Sicherheit sagen.
+Dialogue: 0,0:01:35.00,0:01:35.90,Ending,Chris,0,0,0,DialogueTable|60112_96,Ich hatte keine Ahnung, was die richtige Antwort war.
+Dialogue: 0,0:01:36.00,0:01:36.90,Ending,Chris,0,0,0,DialogueTable|60112_97,Aber dann hat mir jemand das hier gesagt.
+Dialogue: 0,0:01:37.00,0:01:37.90,Ending,Chris,0,0,0,DialogueTable|60112_98,Wenn du es nicht weißt, sei einfach ehrlich.
+Dialogue: 0,0:01:38.00,0:01:38.90,Ending,Chris,0,0,0,DialogueTable|60112_99,Und gib dein Bestes.
+Dialogue: 0,0:01:39.00,0:01:39.90,Ending,Chris,0,0,0,DialogueTable|60112_100,Wenn du die Wahrheit nicht herausfinden kannst,
+Dialogue: 0,0:01:40.00,0:01:40.90,Ending,Chris,0,0,0,DialogueTable|60112_101,tu einfach, was du willst.
+Dialogue: 0,0:01:41.00,0:01:41.90,Ending,Michelle,0,0,0,DialogueTable|60112_102,Ich tue also, was ich will.
+Dialogue: 0,0:01:42.00,0:01:42.90,Ending,Michelle,0,0,0,DialogueTable|60112_103,Willst du das wirklich?
+Dialogue: 0,0:01:43.00,0:01:43.90,Ending,Chris,0,0,0,DialogueTable|60112_104,Ja.
+Dialogue: 0,0:01:44.00,0:01:44.90,Ending,Chris,0,0,0,DialogueTable|60112_105,Das ist alles, was ich will.
+Dialogue: 0,0:01:45.00,0:01:45.90,Ending,Michelle,0,0,0,DialogueTable|60112_106,...
+Dialogue: 0,0:01:46.00,0:01:46.90,Ending,Michelle,0,0,0,DialogueTable|60112_107,Chris.
+Dialogue: 0,0:01:47.00,0:01:47.90,Ending,Michelle,0,0,0,DialogueTable|60112_108,Dann darf ich einfach mal egoistisch sein...?
+Dialogue: 0,0:01:48.00,0:01:48.90,Ending,Michelle,0,0,0,DialogueTable|60112_109,Darf ich tun, was ich will,
+Dialogue: 0,0:01:49.00,0:01:49.90,Ending,Michelle,0,0,0,DialogueTable|60112_110,und bei dir bleiben?
+Dialogue: 0,0:01:50.00,0:01:50.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_111,Meine Geschichte mit Michelle hatte kein makelloses Ende,
+Dialogue: 0,0:01:51.00,0:01:51.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_112,aber gerade das ist in gewisser Weise der Grund,
+Dialogue: 0,0:01:52.00,0:01:52.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_113,warum mehr als genug Platz blieb...
+Dialogue: 0,0:01:53.00,0:01:53.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_114,um unser nächstes Kapitel zu schreiben.
+Dialogue: 0,0:01:54.00,0:01:54.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_115,Doch während ich zu weit in die Zukunft schaute,
+Dialogue: 0,0:01:55.00,0:01:55.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_116,übersah ich völlig, was direkt vor mir lag.
+Dialogue: 0,0:01:56.00,0:01:56.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_117,Ich kam zu spät.
+Dialogue: 0,0:01:57.00,0:01:57.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_118,Viel zu spät.
+Dialogue: 0,0:01:58.00,0:01:58.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_119,Michelles Nachricht erwischte mich so auf dem falschen Fuß,
+Dialogue: 0,0:01:59.00,0:01:59.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_120,dass ich meine Pläne komplett vergaß.
+Dialogue: 0,0:02:00.00,0:02:00.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_121,Als ich es endlich merkte und es ihr sagte,
+Dialogue: 0,0:02:01.00,0:02:01.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_122,fuhr sie mich an: „Du hast etwas so Wichtiges vor und sitzt hier rum und chattest mit mir?“
+Dialogue: 0,0:02:02.00,0:02:02.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_123,und sagte mir, ich solle endlich den Arsch hochkriegen.
+Dialogue: 0,0:02:03.00,0:02:03.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_124,Mit einem verlegenen Lächeln beeilte ich mich, fertig zu werden.
+Dialogue: 0,0:02:04.00,0:02:04.90,Ending,Erzaehler (Chris),0,0,0,DialogueTable|60112_125,Und tippte hektisch eine Nachricht ab.
+Dialogue: 0,0:02:05.00,0:02:05.90,Ending,Chris,0,0,0,DialogueTable|60113_1,Zum Restaurant, das ich gebucht hatte, um bei einer stinksauren Pray etwas wiedergutzumachen.
+Dialogue: 0,0:02:06.00,0:02:06.90,Ending,Chris,0,0,0,DialogueTable|60114_1,Zur Aussichtspromenade, um nach der frierenden Lianne zu sehen.
+Dialogue: 0,0:02:07.00,0:02:07.90,Ending,Chris,0,0,0,DialogueTable|60115_1,Zum Platz, um den Gefallen zu erwidern und Orca meine Aufwartung zu machen.
+Dialogue: 0,0:02:08.00,0:02:08.90,Ending,Chris,0,0,0,DialogueTable|60116_1,Zum Observatorium, für das ich reserviert hatte, um Michelle die nächtliche Stadt zu zeigen.

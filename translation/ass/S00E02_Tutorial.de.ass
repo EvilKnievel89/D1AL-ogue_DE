@@ -1,0 +1,56 @@
+[Script Info]
+Title: Tutorial
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_1,Hier siehst du die <color=#FFC04C>beschädigten Teile</color> an D1AL, die gerade repariert werden müssen.
+Dialogue: 0,0:00:01.00,0:00:01.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_2,Wenn du <color=#FFC04C>mit der Maus</color> über ein beschädigtes Teil fährst, werden die benötigten Units angezeigt.
+Dialogue: 0,0:00:02.00,0:00:02.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_3,Lass uns zuerst ein beschädigtes Teil <color=#FFC04C>auswählen</color>, an dem wir arbeiten.
+Dialogue: 0,0:00:03.00,0:00:03.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_4,D1AL besteht aus <color=#FFC04C>4 Ebenen</color> und <color=#FFC04C>6 Indizes</color>.
+Dialogue: 0,0:00:04.00,0:00:04.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_5,Du kannst ein Modul <color=#FFC04C>ziehen</color>, um die Plätze mit den benachbarten Modulen zu tauschen – nach oben, unten, links oder rechts.
+Dialogue: 0,0:00:05.00,0:00:05.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_6,Jeder Zug kostet Energie aus dem <color=#FFC04C>Akku</color> von D1AL.\nIst er leer, kannst du die Module nicht mehr tauschen.\nVersuchen wir, eins zu verschieben.
+Dialogue: 0,0:00:06.00,0:00:06.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_7,Wenn du ein Modul an die falsche Stelle ziehst, brichst du mit einem <color=#FFC04C>Rechtsklick</color> einfach ab.\nProbier es aus und brich es mit einem Rechtsklick ab.
+Dialogue: 0,0:00:07.00,0:00:07.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_8,Wenn du <color=#FFC04C>3 oder mehr</color> Module in einer Reihe anordnest, <color=#FFC04C>synthetisieren</color> sie sich zu einer Unit höherer Stufe.
+Dialogue: 0,0:00:08.00,0:00:08.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_9,Versuchen wir, sie zu einer höheren Stufe zu <color=#FFC04C>synthetisieren</color>.
+Dialogue: 0,0:00:09.00,0:00:09.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_10,Wenn du insgesamt 10-mal eine <color=#FFC04C>Kettensynthese</color> hinbekommst, wird der Akku überladen und seine Maximalkapazität steigt.\n<blink>(Klicke auf den Akku, um fortzufahren)</blink>
+Dialogue: 0,0:00:10.00,0:00:10.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_11,Das <color=#FFC04C>rechte Panel</color> zeigt dir die aktuellen Schadensstellen und die benötigten Units.\n<blink>(Klicke auf das Infopanel, um fortzufahren)</blink>
+Dialogue: 0,0:00:11.00,0:00:11.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_12,<color=#FFC04C>Fahre mit der Maus</color> über jede Schadensstelle, um die benötigte Unit zu sehen.
+Dialogue: 0,0:00:12.00,0:00:12.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_13,Lass uns die benötigte Unit <color=#FFC04C>synthetisieren</color> und zur Schadensstelle bringen.\n(Auch Units, die höher sind als benötigt, können verwendet werden)
+Dialogue: 0,0:00:13.00,0:00:13.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_14,Sobald du die benötigte Unit auf die Schadensstelle legst, wird der <color=#FFC04C>Ersetzen-Button</color> aktiv. Drück ihn einfach, um sie auszutauschen.
+Dialogue: 0,0:00:14.00,0:00:14.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_15,Warte nach dem Austausch einfach, bis die <color=#FFC04C>restlichen Module</color> fertig synthetisiert sind, bevor du weitermachst.
+Dialogue: 0,0:00:15.00,0:00:15.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_16,Hmm, der Austausch scheint reibungslos geklappt zu haben.\nGut, machen wir weiter. Wähle die nächste Schadensstelle aus.
+Dialogue: 0,0:00:16.00,0:00:16.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_17,Diese hier braucht mehrere Arten von Units.\nDas Infopanel zeigt dir die benötigten Unit-<color=#FFC04C>Farben</color> für jede Position.
+Dialogue: 0,0:00:17.00,0:00:17.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_18,Platziere die Units einfach passend zu den <color=#FFC04C>Farben</color>, dann kannst du sie austauschen.
+Dialogue: 0,0:00:18.00,0:00:18.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_19,Gut, legen wir die benötigten Units ab und bringen diese hier zu Ende.\n(Auch Units, die höher sind als benötigt, können verwendet werden)
+Dialogue: 0,0:00:19.00,0:00:19.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_20,Wählen wir jetzt die letzte Schadensstelle aus.
+Dialogue: 0,0:00:20.00,0:00:20.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_21,Die letzte Schadensstelle verlangt anscheinend eine <color=#FFC04C>hochstufige</color> Unit.
+Dialogue: 0,0:00:21.00,0:00:21.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_22,Du kannst <color=#FFC04C>Tab</color> drücken, um auf dein Handy zu schauen und zu sehen, wie jede Stufe aussieht.\n<blink>(Drücke Tab, um fortzufahren)</blink>
+Dialogue: 0,0:00:22.00,0:00:22.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_23,Klicken wir auf deinem Handy auf den <color=#FFC04C>Enzyklopädie-Button</color>.
+Dialogue: 0,0:00:23.00,0:00:23.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_24,Hier siehst du die Symbole für jede Unit-Stufe.
+Dialogue: 0,0:00:24.00,0:00:24.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_25,Probieren wir jetzt D1ALs <color=#FFC04C>Spezialfunktion</color> aus.\nSiehst du die <color=#FFC04C>Anzeigeleiste</color> links?\n<blink>(Klicke auf die Anzeigeleiste, um fortzufahren)</blink>
+Dialogue: 0,0:00:25.00,0:00:25.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_26,Immer wenn du <color=#FFC04C>4 oder mehr Module</color> synthetisierst, füllt sich die Anzeige für genau diesen Typ.
+Dialogue: 0,0:00:26.00,0:00:26.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_27,Ist sie voll aufgeladen, <color=#FFC04C>klicke auf die Anzeige</color> und dann auf ein Modul oder eine Unit eines anderen Typs, um es umzuwandeln.
+Dialogue: 0,0:00:27.00,0:00:27.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_28,Wandeln wir mal eins um.\nDu kannst jederzeit mit einem <color=#FFC04C>Rechtsklick</color> abbrechen.
+Dialogue: 0,0:00:28.00,0:00:28.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_29,Wenn du Mist gebaut hast oder die Sache aussichtslos wirkt, drück einfach den <color=#FFC04C>Neustart-Button</color>, um die Reparatur von vorn zu beginnen.\n<blink>(Klicke auf den Neustart-Button, um fortzufahren)</blink>
+Dialogue: 0,0:00:29.00,0:00:29.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|TUTORIAL_STEP_30,Laden wir die Anzeige auf und nutzen sie, um Typen umzuwandeln, während wir die Reparatur abschließen.
+Dialogue: 0,0:00:30.00,0:00:30.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51005_TUTORIAL_STEP_1,Sieht aus, als hätte sie gestern etwas zu heftig Spaß gehabt ...\nAnscheinend lässt eine <color=#FFC04C>Overloaded Unit</color> D1AL verrücktspielen.
+Dialogue: 0,0:00:31.00,0:00:31.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51005_TUTORIAL_STEP_2,Sehen wir uns zuerst den Reparaturbereich an.\n<blink>(Wähle den Reparaturbereich aus, um fortzufahren)</blink>
+Dialogue: 0,0:00:32.00,0:00:32.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51005_TUTORIAL_STEP_3,Wie vermutet, da ist eine Overloaded Unit. Die verursachen nach ein paar Zügen eine <color=#FFC04C>Überspannung</color> und <color=#FFC04C>schalten</color> die Module und Units in der Nähe aus. <blink>(Klicke, um fortzufahren)</blink>
+Dialogue: 0,0:00:33.00,0:00:33.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51005_TUTORIAL_STEP_4,Die verbleibenden Züge bis zur nächsten Überspannung werden im <color=#FFC04C>oberen rechten Panel</color> angezeigt.\n<blink>(Klicke auf das obere rechte Panel, um fortzufahren)</blink>
+Dialogue: 0,0:00:34.00,0:00:34.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51005_TUTORIAL_STEP_5,Bei einer Überspannung werden <color=#FFC04C>ein Feld links und rechts davon</color> sowie die Module und Units <color=#FFC04C>in derselben Spalte</color> ausgeschaltet.\n<blink>(Klicke auf die Overloaded Unit, um fortzufahren)</blink>
+Dialogue: 0,0:00:35.00,0:00:35.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51005_TUTORIAL_STEP_6,Die Overloaded Unit brennt nach <color=#FFC04C>drei Überspannungen</color> von selbst aus.\nArbeiten wir uns also daran vorbei und achten darauf, bei der Reparatur keine wichtigen Units zu verlieren.
+Dialogue: 0,0:00:36.00,0:00:36.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51010_TUTORIAL_STEP_1,Auf den ersten Blick sieht es nicht nach größeren Problemen aus ...\nWir müssen wohl genauer hinsehen.
+Dialogue: 0,0:00:37.00,0:00:37.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51010_TUTORIAL_STEP_2,Fangen wir gleich mit der Reparatur an.\n<blink>(Wähle den Reparaturbereich aus, um fortzufahren)</blink>
+Dialogue: 0,0:00:38.00,0:00:38.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51010_TUTORIAL_STEP_3,Das sieht nach einer Art <color=#FFC04C>Cyber Drug Unit</color> aus.\nScans zeigen, dass sie nach ein paar Zügen Module und Units in der Nähe infiziert. <blink>(Klicke auf die Cyber Drug Unit, um fortzufahren)</blink>
+Dialogue: 0,0:00:39.00,0:00:39.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51010_TUTORIAL_STEP_4,Die verbleibenden Züge bis zur Cyber-Drug-Infektion werden im <color=#FFC04C>oberen rechten Panel</color> angezeigt.\n<blink>(Klicke auf das obere rechte Panel, um fortzufahren)</blink>
+Dialogue: 0,0:00:40.00,0:00:40.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51010_TUTORIAL_STEP_5,Die Cyber Drug Unit scheint die Units und Module direkt <color=#FFC04C>darüber, darunter, links und rechts</color> von sich zu infizieren.\n<blink>(Klicke auf die Cyber Drug Unit, um fortzufahren)</blink>
+Dialogue: 0,0:00:41.00,0:00:41.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51010_TUTORIAL_STEP_6,Die Cyber Drug Unit zu <color=#FFC04C>synthetisieren</color> sollte die Drogencodes beseitigen. Lass sie bloß keine hochstufigen Units infizieren. Beeilen wir uns und löschen sie alle aus.
+Dialogue: 0,0:00:42.00,0:00:42.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51011_TUTORIAL_STEP_1,Dieser Schaden ist viel zu schwer ...\nWir müssen sofort mit der Reparatur anfangen.
+Dialogue: 0,0:00:43.00,0:00:43.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51011_TUTORIAL_STEP_2,Wählen wir den beschädigten Bereich aus, bevor sie komplett ausfällt.\n<blink>(Wähle den Reparaturbereich aus, um fortzufahren)</blink>
+Dialogue: 0,0:00:44.00,0:00:44.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51011_TUTORIAL_STEP_3,Diese Unit hier ... sie rührt sich nicht, und synthetisieren lässt sie sich auch nicht. Sieht aus, als wäre sie durch die Hitze komplett <color=#FFC04C>mit der Platine verschmolzen</color>. <blink>(Klicke auf die festsitzende Unit, um fortzufahren)</blink>
+Dialogue: 0,0:00:45.00,0:00:45.90,Tutorial,Chris,0,0,0,TutorialDialogueTable|51011_TUTORIAL_STEP_4,Dann bleibt uns wohl nichts anderes übrig. Wir müssen uns eben <color=#FFC04C>daran vorbeiarbeiten</color> und diese Reparatur hinkriegen.

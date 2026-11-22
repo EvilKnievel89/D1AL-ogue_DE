@@ -1,0 +1,253 @@
+[Script Info]
+Title: S01E15_Tag7_Pray
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,StartMain,Pray,0,0,0,DialogueTable|60028_1,Hey.
+Dialogue: 0,0:00:01.00,0:00:01.90,StartMain,Chris,0,0,0,DialogueTable|60028_2,Pray.
+Dialogue: 0,0:00:02.00,0:00:02.90,StartMain,Chris,0,0,0,DialogueTable|60028_3,Ich dachte, du steckst gerade bis zum Hals in Arbeit. Was gibt's?
+Dialogue: 0,0:00:03.00,0:00:03.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_4,Pray, die einfach so vorbeischaute.
+Dialogue: 0,0:00:04.00,0:00:04.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_5,Besseres Timing gab es nicht.
+Dialogue: 0,0:00:05.00,0:00:05.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_6,Liannes und Orcas Rat folgend,
+Dialogue: 0,0:00:06.00,0:00:06.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_7,versuchte ich, meine Gefühle für Michelle zu sortieren.
+Dialogue: 0,0:00:07.00,0:00:07.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_8,Doch ich war auf ein unerwartetes Problem gestoßen,
+Dialogue: 0,0:00:08.00,0:00:08.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_9,und mir war gerade der Gedanke gekommen, dass sie mir vielleicht helfen könnte.
+Dialogue: 0,0:00:09.00,0:00:09.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_10,Weil „Buff Girl Ohara“ bald endet,
+Dialogue: 0,0:00:10.00,0:00:10.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_11,hatte ich gedacht, sie wäre jetzt total im Stress...
+Dialogue: 0,0:00:11.00,0:00:11.90,StartMain,Pray,0,0,0,DialogueTable|60028_12,Wollte noch ein letztes Mal vorbeischauen, bevor der echte Stress losgeht.
+Dialogue: 0,0:00:12.00,0:00:12.90,StartMain,Pray,0,0,0,DialogueTable|60028_13,Ich muss mich heute praktisch totarbeiten.
+Dialogue: 0,0:00:13.00,0:00:13.90,StartMain,Pray,0,0,0,DialogueTable|60028_14,Und, wie hältst du dich so?
+Dialogue: 0,0:00:14.00,0:00:14.90,StartMain,Chris,0,0,0,DialogueTable|60028_15,Wie ich mich halte?
+Dialogue: 0,0:00:15.00,0:00:15.90,StartMain,Chris,0,0,0,DialogueTable|60028_16,Ah, stimmt.
+Dialogue: 0,0:00:16.00,0:00:16.90,StartMain,Chris,0,0,0,DialogueTable|60028_17,Ich war ein bisschen angeschlagen.
+Dialogue: 0,0:00:17.00,0:00:17.90,StartMain,Chris,0,0,0,DialogueTable|60028_18,Du bist extra hier hochgekommen, nur weil du dir deswegen Sorgen gemacht hast?
+Dialogue: 0,0:00:18.00,0:00:18.90,StartMain,Pray,0,0,0,DialogueTable|60028_19,Nicht wirklich...
+Dialogue: 0,0:00:19.00,0:00:19.90,StartMain,Pray,0,0,0,DialogueTable|60028_20,Eigentlich schon. Genau deswegen.
+Dialogue: 0,0:00:20.00,0:00:20.90,StartMain,Pray,0,0,0,DialogueTable|60028_21,Ich hab dich ja buchstäblich zu einem Date eingeladen,
+Dialogue: 0,0:00:21.00,0:00:21.90,StartMain,Pray,0,0,0,DialogueTable|60028_22,da bringt Leugnen jetzt nichts mehr.
+Dialogue: 0,0:00:22.00,0:00:22.90,StartMain,Chris,0,0,0,DialogueTable|60028_23,Date?
+Dialogue: 0,0:00:23.00,0:00:23.90,StartMain,Chris,0,0,0,DialogueTable|60028_24,Ah... du meinst, an Polarnacht was essen zu gehen.
+Dialogue: 0,0:00:24.00,0:00:24.90,StartMain,Chris,0,0,0,DialogueTable|60028_25,Technisch gesehen ist das ein Date.
+Dialogue: 0,0:00:25.00,0:00:25.90,StartMain,Pray,0,0,0,DialogueTable|60028_26,...
+Dialogue: 0,0:00:26.00,0:00:26.90,StartMain,Pray,0,0,0,DialogueTable|60028_27,...<shake a=0.5 f=10>Du</shake>
+Dialogue: 0,0:00:27.00,0:00:27.90,StartMain,Pray,0,0,0,DialogueTable|60028_28,<shake a=0.5 f=10>Du begriffsstutziger Mistkerl!!</shake>
+Dialogue: 0,0:00:28.00,0:00:28.90,StartMain,Pray,0,0,0,DialogueTable|60028_29,Wenn ein Mädchen so offensiv auf dich zugeht,
+Dialogue: 0,0:00:29.00,0:00:29.90,StartMain,Pray,0,0,0,DialogueTable|60028_30,solltest du dann nicht wenigstens den Wink verstehen?
+Dialogue: 0,0:00:30.00,0:00:30.90,StartMain,Chris,0,0,0,DialogueTable|60028_31,Moment.
+Dialogue: 0,0:00:31.00,0:00:31.90,StartMain,Chris,0,0,0,DialogueTable|60028_32,Warte mal kurz.
+Dialogue: 0,0:00:32.00,0:00:32.90,StartMain,Chris,0,0,0,DialogueTable|60028_33,Was hast du da gerade gesagt?
+Dialogue: 0,0:00:33.00,0:00:33.90,StartMain,Pray,0,0,0,DialogueTable|60028_34,Ich reich's dir praktisch auf dem Silbertablett.
+Dialogue: 0,0:00:34.00,0:00:34.90,StartMain,Pray,0,0,0,DialogueTable|60028_35,Bist du komplett kastriert oder was?
+Dialogue: 0,0:00:35.00,0:00:35.90,StartMain,Chris,0,0,0,DialogueTable|60028_36,Warte.
+Dialogue: 0,0:00:36.00,0:00:36.90,StartMain,Chris,0,0,0,DialogueTable|60028_37,Wir waren immer so vertraut miteinander,
+Dialogue: 0,0:00:37.00,0:00:37.90,StartMain,Chris,0,0,0,DialogueTable|60028_38,dass ich nie so darüber nachgedacht habe.
+Dialogue: 0,0:00:38.00,0:00:38.90,StartMain,Chris,0,0,0,DialogueTable|60028_39,Mal ehrlich,
+Dialogue: 0,0:00:39.00,0:00:39.90,StartMain,Chris,0,0,0,DialogueTable|60028_40,wir haben buchstäblich unsere Fetische miteinander geteilt,
+Dialogue: 0,0:00:40.00,0:00:40.90,StartMain,Chris,0,0,0,DialogueTable|60028_41,und wir haben uns gegenseitig praktisch in unserem allerschlimmsten Zustand erlebt...
+Dialogue: 0,0:00:41.00,0:00:41.90,StartMain,Chris,0,0,0,DialogueTable|60028_42,Außerdem
+Dialogue: 0,0:00:42.00,0:00:42.90,StartMain,Chris,0,0,0,DialogueTable|60028_43,hast du es ja nie direkt ausgesprochen.
+Dialogue: 0,0:00:43.00,0:00:43.90,StartMain,Pray,0,0,0,DialogueTable|60028_44,Du absoluter Idiot!
+Dialogue: 0,0:00:44.00,0:00:44.90,StartMain,Pray,0,0,0,DialogueTable|60028_45,Du hast mich komplett ignoriert, als ich es dir sagen wollte,
+Dialogue: 0,0:00:45.00,0:00:45.90,StartMain,Pray,0,0,0,DialogueTable|60028_46,und jetzt was? Ich hätte es nie gesagt?!
+Dialogue: 0,0:00:46.00,0:00:46.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_47,Plötzlich blitzte eine Erinnerung in meinem Kopf auf.
+Dialogue: 0,0:00:47.00,0:00:47.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_48,Pray, niedergeschlagen, die nur fragte, ob wir was essen gehen könnten.
+Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Chris,0,0,0,DialogueTable|60028_49,Sag nicht...
+Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Chris,0,0,0,DialogueTable|60028_50,An dem Tag, als du so komisch lachend vorbeigekommen bist?
+Dialogue: 0,0:00:50.00,0:00:50.90,StartMain,Chris,0,0,0,DialogueTable|60028_51,Was hast du damals gesagt?
+Dialogue: 0,0:00:51.00,0:00:51.90,StartMain,Pray,0,0,0,DialogueTable|60028_52,...
+Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Pray,0,0,0,DialogueTable|60028_53,<shake a=0.2>Ich hasse das!!!</shake>
+Dialogue: 0,0:00:53.00,0:00:53.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_54,Was genau hasst sie?
+Dialogue: 0,0:00:54.00,0:00:54.90,StartMain,Chris,0,0,0,DialogueTable|60028_55,Pray, hör auf.
+Dialogue: 0,0:00:55.00,0:00:55.90,StartMain,Chris,0,0,0,DialogueTable|60028_56,Warte. Warte doch mal, Pray.
+Dialogue: 0,0:00:56.00,0:00:56.90,StartMain,Chris,0,0,0,DialogueTable|60028_57,Ich muss dir wirklich was sagen. Im Ernst.
+Dialogue: 0,0:00:57.00,0:00:57.90,StartMain,Pray,0,0,0,DialogueTable|60028_58,Wenn du lügst,
+Dialogue: 0,0:00:58.00,0:00:58.90,StartMain,Pray,0,0,0,DialogueTable|60028_59,schmeckst du gleich Eisen.
+Dialogue: 0,0:00:59.00,0:00:59.90,StartMain,Chris,0,0,0,DialogueTable|60028_60,Meinst du, ich blute?
+Dialogue: 0,0:01:00.00,0:01:00.90,StartMain,Chris,0,0,0,DialogueTable|60028_61,Oder dass deine Faust in meinem Mund landet?
+Dialogue: 0,0:01:01.00,0:01:01.90,StartMain,Pray,0,0,0,DialogueTable|60028_62,Meine Faust landet in deinem Mund,
+Dialogue: 0,0:01:02.00,0:01:02.90,StartMain,Pray,0,0,0,DialogueTable|60028_63,UND du blutest.
+Dialogue: 0,0:01:03.00,0:01:03.90,StartMain,Pray,0,0,0,DialogueTable|60028_64,Und außerdem!
+Dialogue: 0,0:01:04.00,0:01:04.90,StartMain,Pray,0,0,0,DialogueTable|60028_65,Für deine Unhöflichkeit will ich Entschädigung.
+Dialogue: 0,0:01:05.00,0:01:05.90,StartMain,Pray,0,0,0,DialogueTable|60028_66,Das hat nichts mit dem Lügen zu tun.
+Dialogue: 0,0:01:06.00,0:01:06.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_67,Entschädigung...
+Dialogue: 0,0:01:07.00,0:01:07.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_68,Ihre Lieblingsart von „Belohnung“...
+Dialogue: 0,0:01:08.00,0:01:08.90,StartMain,Chris,0,0,0,DialogueTable|60028_69,Du bekommst so viel, wie du willst.
+Dialogue: 0,0:01:09.00,0:01:09.90,StartMain,Pray,0,0,0,DialogueTable|60028_70,Gut. Dann rede.
+Dialogue: 0,0:01:10.00,0:01:10.90,StartMain,Chris,0,0,0,DialogueTable|60028_71,Okay.
+Dialogue: 0,0:01:11.00,0:01:11.90,StartMain,Chris,0,0,0,DialogueTable|60028_72,Es geht um Michelle.
+Dialogue: 0,0:01:12.00,0:01:12.90,StartMain,Pray,0,0,0,DialogueTable|60028_73,Michelle?
+Dialogue: 0,0:01:13.00,0:01:13.90,StartMain,Pray,0,0,0,DialogueTable|60028_74,Ah... deine Schwester.
+Dialogue: 0,0:01:14.00,0:01:14.90,StartMain,Chris,0,0,0,DialogueTable|60028_75,Ob sie wirklich meine Schwester ist, ist schwer zu sagen, aber...
+Dialogue: 0,0:01:15.00,0:01:15.90,StartMain,Chris,0,0,0,DialogueTable|60028_76,Ja, genau die Michelle.
+Dialogue: 0,0:01:16.00,0:01:16.90,StartMain,Chris,0,0,0,DialogueTable|60028_77,Ich glaube, du könntest ihr bei dem helfen,
+Dialogue: 0,0:01:17.00,0:01:17.90,StartMain,Chris,0,0,0,DialogueTable|60028_78,was sie gerade durchmacht.
+Dialogue: 0,0:01:18.00,0:01:18.90,StartMain,Chris,0,0,0,DialogueTable|60028_79,Es ist kompliziert zu erklären,
+Dialogue: 0,0:01:19.00,0:01:19.90,StartMain,Chris,0,0,0,DialogueTable|60028_80,aber was mit ihr passiert, ähnelt stark den Nachwirkungen eines Shadow Proxy.
+Dialogue: 0,0:01:20.00,0:01:20.90,StartMain,Pray,0,0,0,DialogueTable|60028_81,Wovon redest du?
+Dialogue: 0,0:01:21.00,0:01:21.90,StartMain,Pray,0,0,0,DialogueTable|60028_82,Sie ist deine Schwester.
+Dialogue: 0,0:01:22.00,0:01:22.90,StartMain,Pray,0,0,0,DialogueTable|60028_83,Shadow-Proxying betrifft ausschließlich E.V.Es...
+Dialogue: 0,0:01:23.00,0:01:23.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_84,Nach etwas Aufregung
+Dialogue: 0,0:01:24.00,0:01:24.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_85,hörte Pray sich meine Erklärung an,
+Dialogue: 0,0:01:25.00,0:01:25.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_86,und ein zwiespältiger Ausdruck huschte über ihr Gesicht.
+Dialogue: 0,0:01:26.00,0:01:26.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_87,So etwas Schweres ohne Vorwarnung auf sie abzuladen...
+Dialogue: 0,0:01:27.00,0:01:27.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_88,Ihre Reaktion war wohl ziemlich natürlich.
+Dialogue: 0,0:01:28.00,0:01:28.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_89,Wenn wir hier fertig sind,
+Dialogue: 0,0:01:29.00,0:01:29.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_90,sollte ich ihr ein paar gute Snacks besorgen.
+Dialogue: 0,0:01:30.00,0:01:30.90,StartMain,Pray,0,0,0,DialogueTable|60028_91,Chris...
+Dialogue: 0,0:01:31.00,0:01:31.90,StartMain,Pray,0,0,0,DialogueTable|60028_92,In gewisser Weise ist das viel ernster als bloße Nachwirkungen.
+Dialogue: 0,0:01:32.00,0:01:32.90,StartMain,Pray,0,0,0,DialogueTable|60028_93,Bei den Nachwirkungen eines Shadow Proxy
+Dialogue: 0,0:01:33.00,0:01:33.90,StartMain,Pray,0,0,0,DialogueTable|60028_94,gibt es wenigstens noch eine ursprüngliche Persönlichkeit, zu der man zurückkann.
+Dialogue: 0,0:01:34.00,0:01:34.90,StartMain,Pray,0,0,0,DialogueTable|60028_95,Klar, wer sie früher waren, fühlt sich vielleicht an wie
+Dialogue: 0,0:01:35.00,0:01:35.90,StartMain,Pray,0,0,0,DialogueTable|60028_96,etwas Vergangenes,
+Dialogue: 0,0:01:36.00,0:01:36.90,StartMain,Pray,0,0,0,DialogueTable|60028_97,wie eine ferne Kindheitserinnerung,
+Dialogue: 0,0:01:37.00,0:01:37.90,StartMain,Pray,0,0,0,DialogueTable|60028_98,aber die Erinnerungen werden ja nicht tatsächlich beschädigt.
+Dialogue: 0,0:01:38.00,0:01:38.90,StartMain,Pray,0,0,0,DialogueTable|60028_99,Also...
+Dialogue: 0,0:01:39.00,0:01:39.90,StartMain,Pray,0,0,0,DialogueTable|60028_100,es ist eher so, wie es dir gerade geht.
+Dialogue: 0,0:01:40.00,0:01:40.90,StartMain,Chris,0,0,0,DialogueTable|60028_101,Wenn man es so sagt,
+Dialogue: 0,0:01:41.00,0:01:41.90,StartMain,Chris,0,0,0,DialogueTable|60028_102,liegst du ziemlich genau richtig.
+Dialogue: 0,0:01:42.00,0:01:42.90,StartMain,Chris,0,0,0,DialogueTable|60028_103,Die Erinnerungen kommen schon zurück,
+Dialogue: 0,0:01:43.00,0:01:43.90,StartMain,Chris,0,0,0,DialogueTable|60028_104,aber abgesehen von ein paar wirklich intensiven Momenten
+Dialogue: 0,0:01:44.00,0:01:44.90,StartMain,Chris,0,0,0,DialogueTable|60028_105,fühlen sie sich eher wie kalte Daten an als wie echte Gefühle.
+Dialogue: 0,0:01:45.00,0:01:45.90,StartMain,Chris,0,0,0,DialogueTable|60028_106,Du bist scharfsinnig, Pray.
+Dialogue: 0,0:01:46.00,0:01:46.90,StartMain,Pray,0,0,0,DialogueTable|60028_107,Leider
+Dialogue: 0,0:01:47.00,0:01:47.90,StartMain,Pray,0,0,0,DialogueTable|60028_108,sieht es bei Michelle anders aus.
+Dialogue: 0,0:01:48.00,0:01:48.90,StartMain,Pray,0,0,0,DialogueTable|60028_109,Sobald die Persönlichkeit, die sie verkörpert, weg ist,
+Dialogue: 0,0:01:49.00,0:01:49.90,StartMain,Pray,0,0,0,DialogueTable|60028_110,bleibt praktisch nichts mehr übrig.
+Dialogue: 0,0:01:50.00,0:01:50.90,StartMain,Pray,0,0,0,DialogueTable|60028_111,Genau deshalb klammert sie sich daran, Michelle zu sein,
+Dialogue: 0,0:01:51.00,0:01:51.90,StartMain,Pray,0,0,0,DialogueTable|60028_112,noch viel stärker.
+Dialogue: 0,0:01:52.00,0:01:52.90,StartMain,Chris,0,0,0,DialogueTable|60028_113,Wenn ich akzeptiere, dass Michelle tot ist...
+Dialogue: 0,0:01:53.00,0:01:53.90,StartMain,Pray,0,0,0,DialogueTable|60028_114,Dann war ihr ganzes Leben eine Lüge.
+Dialogue: 0,0:01:54.00,0:01:54.90,StartMain,Pray,0,0,0,DialogueTable|60028_115,Ihre Erinnerungen, ihre Persönlichkeit... sogar die Momente, die sie bisher erlebt hat.
+Dialogue: 0,0:01:55.00,0:01:55.90,StartMain,Chris,0,0,0,DialogueTable|60028_116,Aber Michelle wusste es tief im Inneren irgendwie auch.
+Dialogue: 0,0:01:56.00,0:01:56.90,StartMain,Chris,0,0,0,DialogueTable|60028_117,Sie hat sich trotzdem ein eigenes Leben aufgebaut, obwohl sie es wusste,
+Dialogue: 0,0:01:57.00,0:01:57.90,StartMain,Chris,0,0,0,DialogueTable|60028_118,also alles als Lüge abzutun, kommt mir
+Dialogue: 0,0:01:58.00,0:01:58.90,StartMain,Chris,0,0,0,DialogueTable|60028_119,ziemlich weit hergeholt vor.
+Dialogue: 0,0:01:59.00,0:01:59.90,StartMain,Pray,0,0,0,DialogueTable|60028_120,Es geht nicht um die Fakten, Chris.
+Dialogue: 0,0:02:00.00,0:02:00.90,StartMain,Pray,0,0,0,DialogueTable|60028_121,Sie hat ihr ganzes Leben nur auf dich vertraut,
+Dialogue: 0,0:02:01.00,0:02:01.90,StartMain,Pray,0,0,0,DialogueTable|60028_122,obwohl sie die Wahrheit im Hinterkopf hatte.
+Dialogue: 0,0:02:02.00,0:02:02.90,StartMain,Pray,0,0,0,DialogueTable|60028_123,Wenn sie von dir hört: „Michelle ist tot“...
+Dialogue: 0,0:02:03.00,0:02:03.90,StartMain,Pray,0,0,0,DialogueTable|60028_124,...ist das, als würde sie ihre allerletzte Hoffnung verlieren.
+Dialogue: 0,0:02:04.00,0:02:04.90,StartMain,Pray,0,0,0,DialogueTable|60028_125,Hör zu, ich bin nicht Michelle,
+Dialogue: 0,0:02:05.00,0:02:05.90,StartMain,Pray,0,0,0,DialogueTable|60028_126,also kann ich dir nicht die perfekte Antwort geben,
+Dialogue: 0,0:02:06.00,0:02:06.90,StartMain,Pray,0,0,0,DialogueTable|60028_127,aber eins weiß ich.
+Dialogue: 0,0:02:07.00,0:02:07.90,StartMain,Pray,0,0,0,DialogueTable|60028_128,Sie muss sich so allein fühlen.
+Dialogue: 0,0:02:08.00,0:02:08.90,StartMain,Pray,0,0,0,DialogueTable|60028_129,Und sie braucht jemanden, der die Hand ausstreckt.
+Dialogue: 0,0:02:09.00,0:02:09.90,StartMain,Pray,0,0,0,DialogueTable|60028_130,Der Einzige, der ihr helfen kann...
+Dialogue: 0,0:02:10.00,0:02:10.90,StartMain,Pray,0,0,0,DialogueTable|60028_131,bist du.
+Dialogue: 0,0:02:11.00,0:02:11.90,StartMain,Chris,0,0,0,DialogueTable|60028_132,Das ist meine Verantwortung.
+Dialogue: 0,0:02:12.00,0:02:12.90,StartMain,Chris,0,0,0,DialogueTable|60028_133,Ich muss das klären.
+Dialogue: 0,0:02:13.00,0:02:13.90,StartMain,Pray,0,0,0,DialogueTable|60028_134,Genau die richtige Einstellung.
+Dialogue: 0,0:02:14.00,0:02:14.90,StartMain,Pray,0,0,0,DialogueTable|60028_135,Aber statt zu versuchen, sie zu überzeugen,
+Dialogue: 0,0:02:15.00,0:02:15.90,StartMain,Pray,0,0,0,DialogueTable|60028_136,ist es vielleicht am besten, einfach ehrlich zu sein.
+Dialogue: 0,0:02:16.00,0:02:16.90,StartMain,Pray,0,0,0,DialogueTable|60028_137,Ihr ist wahrscheinlich wichtiger, sich selbst nicht zu verlieren,
+Dialogue: 0,0:02:17.00,0:02:17.90,StartMain,Pray,0,0,0,DialogueTable|60028_138,als einfach „Michelle“ zu bleiben.
+Dialogue: 0,0:02:18.00,0:02:18.90,StartMain,Pray,0,0,0,DialogueTable|60028_139,Sie hat Angst, zu „nichts“ zu werden,
+Dialogue: 0,0:02:19.00,0:02:19.90,StartMain,Pray,0,0,0,DialogueTable|60028_140,...nicht jemandes Tochter, nicht jemandes Schwester.
+Dialogue: 0,0:02:20.00,0:02:20.90,StartMain,Pray,0,0,0,DialogueTable|60028_141,Wenn du ihr einfach sagst, was du wirklich fühlst...
+Dialogue: 0,0:02:21.00,0:02:21.90,StartMain,Pray,0,0,0,DialogueTable|60028_142,und es ehrlich meinst,
+Dialogue: 0,0:02:22.00,0:02:22.90,StartMain,Pray,0,0,0,DialogueTable|60028_143,kannst du vielleicht nicht sofort alles in Ordnung bringen,
+Dialogue: 0,0:02:23.00,0:02:23.90,StartMain,Pray,0,0,0,DialogueTable|60028_144,aber ich glaube nicht, dass es damit endet,
+Dialogue: 0,0:02:24.00,0:02:24.90,StartMain,Pray,0,0,0,DialogueTable|60028_145,dass du sie für immer verlierst.
+Dialogue: 0,0:02:25.00,0:02:25.90,StartMain,Chris,0,0,0,DialogueTable|60028_146,Beeindruckend, Pray.
+Dialogue: 0,0:02:26.00,0:02:26.90,StartMain,Chris,0,0,0,DialogueTable|60028_147,Du hast Michelle ja nie getroffen,
+Dialogue: 0,0:02:27.00,0:02:27.90,StartMain,Chris,0,0,0,DialogueTable|60028_148,wie kannst du sie dann so perfekt durchschauen?
+Dialogue: 0,0:02:28.00,0:02:28.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_149,Pray verstand Michelle fast zu gut –
+Dialogue: 0,0:02:29.00,0:02:29.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_150,sogar für jemanden wie mich,
+Dialogue: 0,0:02:30.00,0:02:30.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_151,der praktisch sein ganzes Leben mit ihr verbracht hatte.
+Dialogue: 0,0:02:31.00,0:02:31.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_152,Ihre Einschätzung der ganzen Lage war so klar,
+Dialogue: 0,0:02:32.00,0:02:32.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_153,als hätte sie alles selbst erlebt.
+Dialogue: 0,0:02:33.00,0:02:33.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_154,Bei meinen Worten
+Dialogue: 0,0:02:34.00,0:02:34.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60028_155,lächelte Pray schwach und sprach.
+Dialogue: 0,0:02:35.00,0:02:35.90,StartMain,Pray,0,0,0,DialogueTable|60028_156,Jede E.V.E
+Dialogue: 0,0:02:36.00,0:02:36.90,StartMain,Pray,0,0,0,DialogueTable|60028_157,gerät irgendwann in eine Identitätskrise.
+Dialogue: 0,0:02:37.00,0:02:37.90,StartMain,Pray,0,0,0,DialogueTable|60028_158,Manchmal verirren sie sich,
+Dialogue: 0,0:02:38.00,0:02:38.90,StartMain,Pray,0,0,0,DialogueTable|60028_159,und manchmal treffen sie die falschen Entscheidungen.
+Dialogue: 0,0:02:39.00,0:02:39.90,StartMain,Chris,0,0,0,DialogueTable|60028_160,Pray...
+Dialogue: 0,0:02:40.00,0:02:40.90,StartMain,Pray,0,0,0,DialogueTable|60028_161,Bei mir
+Dialogue: 0,0:02:41.00,0:02:41.90,StartMain,Pray,0,0,0,DialogueTable|60028_162,war es, mich in die Hände von...
+Dialogue: 0,0:02:42.00,0:02:42.90,StartMain,Pray,0,0,0,DialogueTable|60028_163,einem verdächtig glattzüngigen Mechaniker zu begeben,
+Dialogue: 0,0:02:43.00,0:02:43.90,StartMain,Pray,0,0,0,DialogueTable|60028_164,der in einer zwielichtig benannten Werkstatt am düsteren Stadtrand arbeitet.
+Dialogue: 0,0:02:44.00,0:02:44.90,StartMain,Chris,0,0,0,DialogueTable|60028_165,...Verstehe.
+Dialogue: 0,0:02:45.00,0:02:45.90,StartMain,Chris,0,0,0,DialogueTable|60028_166,So war das also.
+Dialogue: 0,0:02:46.00,0:02:46.90,StartMain,Pray,0,0,0,DialogueTable|60028_167,Hat es geholfen?
+Dialogue: 0,0:02:47.00,0:02:47.90,StartMain,Chris,0,0,0,DialogueTable|60028_168,Natürlich.
+Dialogue: 0,0:02:48.00,0:02:48.90,StartMain,Chris,0,0,0,DialogueTable|60028_169,Ehrlich, ich glaube, wenn ich genau das tue, was du gesagt hast,
+Dialogue: 0,0:02:49.00,0:02:49.90,StartMain,Chris,0,0,0,DialogueTable|60028_170,hört sie mir tatsächlich zu.
+Dialogue: 0,0:02:50.00,0:02:50.90,StartMain,Pray,0,0,0,DialogueTable|60028_171,Entscheidend ist, dass deine wahren Gefühle ankommen.
+Dialogue: 0,0:02:51.00,0:02:51.90,StartMain,Pray,0,0,0,DialogueTable|60028_172,Lass dich nicht von der äußeren Hülle blenden.
+Dialogue: 0,0:02:52.00,0:02:52.90,StartMain,Pray,0,0,0,DialogueTable|60028_173,Ähem.
+Dialogue: 0,0:02:53.00,0:02:53.90,StartMain,Pray,0,0,0,DialogueTable|60028_174,Nun, was meine Entschädigung angeht...
+Dialogue: 0,0:02:54.00,0:02:54.90,StartMain,Chris,0,0,0,DialogueTable|60028_175,Ja, ja.
+Dialogue: 0,0:02:55.00,0:02:55.90,StartMain,Chris,0,0,0,DialogueTable|60028_176,Die verdächtige Mechanikerhand.
+Dialogue: 0,0:02:56.00,0:02:56.90,StartMain,Chris,0,0,0,DialogueTable|60028_177,Kommt sofort.
+Dialogue: 0,0:02:57.00,0:02:57.90,StartMain,Auftragstitel,0,0,0,DialogueTable|60028_178,[Prays Auftrag] Verdächtige(?) Mechanikerhand für Pray
+Dialogue: 0,0:02:58.00,0:02:58.90,Sub,Pray,0,0,0,DialogueTable|40280_1,Ngh, nnngh... Hah, das fühlt sich so komisch an...
+Dialogue: 0,0:02:59.00,0:02:59.90,Sub,Pray,0,0,0,DialogueTable|40280_2,Ngh, nnh... Ach Mensch, schau mir nicht ins Gesicht! Das ist mir peinlich!
+Dialogue: 0,0:03:00.00,0:03:00.90,Repair1,Chris,0,0,0,DialogueTable|40281_1,Du musst deine Zehen ausstrecken.
+Dialogue: 0,0:03:01.00,0:03:01.90,Repair1,Pray,0,0,0,DialogueTable|40281_2,Aber so fühlt es sich besser an...
+Dialogue: 0,0:03:02.00,0:03:02.90,Repair1,Chris,0,0,0,DialogueTable|40281_3,Da E.V.Es ziemlich ähnlich wie Menschen aufgebaut sind,
+Dialogue: 0,0:03:03.00,0:03:03.90,Repair1,Chris,0,0,0,DialogueTable|40281_4,können sich deine Muskelfasern verkrampfen.
+Dialogue: 0,0:03:04.00,0:03:04.90,Repair1,Chris,0,0,0,DialogueTable|40281_5,Das nennt man normalerweise einen Krampf.
+Dialogue: 0,0:03:05.00,0:03:05.90,Repair1,Pray,0,0,0,DialogueTable|40281_6,...
+Dialogue: 0,0:03:06.00,0:03:06.90,Repair1,Chris,0,0,0,DialogueTable|40281_7,So ist's gut.
+Dialogue: 0,0:03:07.00,0:03:07.90,Repair1,Chris,0,0,0,DialogueTable|40281_8,Gute Entscheidung.
+Dialogue: 0,0:03:08.00,0:03:08.90,Repair2,Pray,0,0,0,DialogueTable|40282_1,Wenn wir hier fertig sind,
+Dialogue: 0,0:03:09.00,0:03:09.90,Repair2,Pray,0,0,0,DialogueTable|40282_2,redest du dann mit Michelle?
+Dialogue: 0,0:03:10.00,0:03:10.90,Repair2,Chris,0,0,0,DialogueTable|40282_3,Natürlich versuche ich, mit ihr zu reden.
+Dialogue: 0,0:03:11.00,0:03:11.90,Repair2,Chris,0,0,0,DialogueTable|40282_4,Falls sie antwortet, jedenfalls.
+Dialogue: 0,0:03:12.00,0:03:12.90,Repair2,Pray,0,0,0,DialogueTable|40282_5,Wenn alles klappt,
+Dialogue: 0,0:03:13.00,0:03:13.90,Repair2,Pray,0,0,0,DialogueTable|40282_6,nehme ich dich mit an einen Hammer-Laden
+Dialogue: 0,0:03:14.00,0:03:14.90,Repair2,Pray,0,0,0,DialogueTable|40282_7,und füttere dich, bis du platzt.
+Dialogue: 0,0:03:15.00,0:03:15.90,Repair2,Chris,0,0,0,DialogueTable|40282_8,Du zahlst?
+Dialogue: 0,0:03:16.00,0:03:16.90,Repair2,Pray,0,0,0,DialogueTable|40282_9,Na klar, warum sollte ich das sonst sagen,
+Dialogue: 0,0:03:17.00,0:03:17.90,Repair2,Pray,0,0,0,DialogueTable|40282_10,wenn's nicht auf mich ginge...
+Dialogue: 0,0:03:18.00,0:03:18.90,Repair2,Chris,0,0,0,DialogueTable|40282_11,Das hast du letztes Mal auch gesagt,
+Dialogue: 0,0:03:19.00,0:03:19.90,Repair2,Chris,0,0,0,DialogueTable|40282_12,und dann hast du gejammert und gefragt, ob wir die Rechnung teilen können.
+Dialogue: 0,0:03:20.00,0:03:20.90,Repair2,Pray,0,0,0,DialogueTable|40282_13,Das...! Das war...!
+Dialogue: 0,0:03:21.00,0:03:21.90,Repair2,Pray,0,0,0,DialogueTable|40282_14,Für so eine Rechnung hatte ich nichts zurückgelegt!
+Dialogue: 0,0:03:22.00,0:03:22.90,Repair2,Pray,0,0,0,DialogueTable|40282_15,Ich spare inzwischen richtig.
+Dialogue: 0,0:03:23.00,0:03:23.90,Repair2,Pray,0,0,0,DialogueTable|40282_16,Und außerdem
+Dialogue: 0,0:03:24.00,0:03:24.90,Repair2,Pray,0,0,0,DialogueTable|40282_17,hole ich sowieso alles aus dir raus, was mir zusteht...
+Dialogue: 0,0:03:25.00,0:03:25.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60029_1_C3,Puh-
+Dialogue: 0,0:03:26.00,0:03:26.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60029_2_C3,So, die Wartung ist fertig.
+Dialogue: 0,0:03:27.00,0:03:27.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60029_3_C3,Zeit aufzustehen.
+Dialogue: 0,0:03:28.00,0:03:28.90,Comment_Good,Pray,0,0,0,CommentDialogueTable|60029_4_C3,Hab keine Lust.
+Dialogue: 0,0:03:29.00,0:03:29.90,Comment_Good,Pray,0,0,0,CommentDialogueTable|60029_5_C3,Nur noch ein bisschen... das war viel zu schnell...
+Dialogue: 0,0:03:30.00,0:03:30.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60029_1_C2,Puh-
+Dialogue: 0,0:03:31.00,0:03:31.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60029_2_C2,So, die Wartung ist fertig.
+Dialogue: 0,0:03:32.00,0:03:32.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60029_3_C2,Zeit aufzustehen.
+Dialogue: 0,0:03:33.00,0:03:33.90,Comment_Normal,Pray,0,0,0,CommentDialogueTable|60029_4_C2,Hab keine Lust.
+Dialogue: 0,0:03:34.00,0:03:34.90,Comment_Normal,Pray,0,0,0,CommentDialogueTable|60029_5_C2,Nur noch ein bisschen... das war viel zu schnell...
+Dialogue: 0,0:03:35.00,0:03:35.90,Comment_Normal,Pray,0,0,0,CommentDialogueTable|60029_6_C2,Ich hatte mich gerade an diese schöne, langsame Berührung gewöhnt...
+Dialogue: 0,0:03:36.00,0:03:36.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60029_1_C1,Puh-
+Dialogue: 0,0:03:37.00,0:03:37.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60029_2_C1,So, die Wartung ist fertig.
+Dialogue: 0,0:03:38.00,0:03:38.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60029_3_C1,Zeit aufzustehen.
+Dialogue: 0,0:03:39.00,0:03:39.90,Comment_Bad,Pray,0,0,0,CommentDialogueTable|60029_4_C1,Hab keine Lust.
+Dialogue: 0,0:03:40.00,0:03:40.90,Comment_Bad,Pray,0,0,0,CommentDialogueTable|60029_5_C1,Nur noch ein bisschen... das war viel zu schnell...
+Dialogue: 0,0:03:41.00,0:03:41.90,Comment_Bad,Pray,0,0,0,CommentDialogueTable|60029_6_C1,Ich hatte mich gerade an diese schöne, langsame Berührung gewöhnt...
+Dialogue: 0,0:03:42.00,0:03:42.90,ClearMain,Chris,0,0,0,DialogueTable|60029_1,Selbst wenn ich dir entgegenkommen wollte,
+Dialogue: 0,0:03:43.00,0:03:43.90,ClearMain,Chris,0,0,0,DialogueTable|60029_2,sind meine Extras aufgebraucht.
+Dialogue: 0,0:03:44.00,0:03:44.90,ClearMain,Chris,0,0,0,DialogueTable|60029_3,Weißt du eigentlich, wie viel Zeit vergangen ist?
+Dialogue: 0,0:03:45.00,0:03:45.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60029_4,Daraufhin
+Dialogue: 0,0:03:46.00,0:03:46.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60029_5,riss Pray die Augen auf und starrte mich schockiert an.
+Dialogue: 0,0:03:47.00,0:03:47.90,ClearMain,Pray,0,0,0,DialogueTable|60029_6,Z-Zeit?!
+Dialogue: 0,0:03:48.00,0:03:48.90,ClearMain,Chris,0,0,0,DialogueTable|60029_7,Es sind fast vier Stunden.
+Dialogue: 0,0:03:49.00,0:03:49.90,ClearMain,Chris,0,0,0,DialogueTable|60029_8,Komm zu dir.
+Dialogue: 0,0:03:50.00,0:03:50.90,ClearMain,Pray,0,0,0,DialogueTable|60029_9,Ich bin geliefert...
+Dialogue: 0,0:03:51.00,0:03:51.90,ClearMain,Pray,0,0,0,DialogueTable|60029_10,Tut mir leid, Chefin...!!
+Dialogue: 0,0:03:52.00,0:03:52.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60029_11,Pray sprang auf
+Dialogue: 0,0:03:53.00,0:03:53.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60029_12,und warf hastig ihren Mantel über.
+Dialogue: 0,0:03:54.00,0:03:54.90,ClearMain,Pray,0,0,0,DialogueTable|60029_13,Ich drücke dir und Michelle die Daumen.
+Dialogue: 0,0:03:55.00,0:03:55.90,ClearMain,Pray,0,0,0,DialogueTable|60029_14,Und vergiss Polarnacht nicht!?!
+Dialogue: 0,0:03:56.00,0:03:56.90,ClearMain,Chris,0,0,0,DialogueTable|60029_15,...Mach ich.
+Dialogue: 0,0:03:57.00,0:03:57.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60029_16,Ich antwortete mit Verspätung,
+Dialogue: 0,0:03:58.00,0:03:58.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60029_17,während ihre verklingenden Rufe zu mir drangen.
+Dialogue: 0,0:03:59.00,0:03:59.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60029_18,Später am Abend.
+Dialogue: 0,0:04:00.00,0:04:00.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60029_19,Ich schickte Michelle eine Nachricht.
+Dialogue: 0,0:04:01.00,0:04:01.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60029_20,Meine ehrlichen Gefühle.
+Dialogue: 0,0:04:02.00,0:04:02.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60029_21,Und alles, was bis jetzt passiert war...

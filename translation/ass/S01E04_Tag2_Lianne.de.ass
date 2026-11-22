@@ -1,0 +1,315 @@
+[Script Info]
+Title: S01E04_Tag2_Lianne
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,WorkBefore,Chris,0,0,0,DialogueTable|70001_1,(Wieder so ein düsterer, trüber Tag.)
+Dialogue: 0,0:00:01.00,0:00:01.90,WorkBefore,Chris,0,0,0,DialogueTable|70001_2,(Wo kaum noch richtiger Tag übrig ist, ist selbst eine „Graue Nacht“ schwer zu bekommen.)
+Dialogue: 0,0:00:02.00,0:00:02.90,WorkBefore,Chris,0,0,0,DialogueTable|70001_3,(Deshalb fühlt sich mein Körper noch steifer an.)
+Dialogue: 0,0:00:03.00,0:00:03.90,WorkBefore,Chris,0,0,0,DialogueTable|70001_4,(Herumsitzen macht mich nur noch ausgelaugter. Ich sollte mich beeilen und den Laden aufmachen.)
+Dialogue: 0,0:00:04.00,0:00:04.90,StartMain,Chris,0,0,0,DialogueTable|60006_1,Haben Mama und Papa gesagt, dass sie dieses Jahr wieder nicht zum Chromatic Zenith kommen?
+Dialogue: 0,0:00:05.00,0:00:05.90,StartMain,Michelle,0,0,0,DialogueTable|60006_2,Wie jedes Jahr, ja.
+Dialogue: 0,0:00:06.00,0:00:06.90,StartMain,Chris,0,0,0,DialogueTable|60006_3,Und du?
+Dialogue: 0,0:00:07.00,0:00:07.90,StartMain,Michelle,0,0,0,DialogueTable|60006_4,Ist doch klar. Ich auch nicht.
+Dialogue: 0,0:00:08.00,0:00:08.90,StartMain,Chris,0,0,0,DialogueTable|60006_5,Ich verstehe echt nicht, warum keiner hingeht.
+Dialogue: 0,0:00:09.00,0:00:09.90,StartMain,Chris,0,0,0,DialogueTable|60006_6,Als wir klein waren, haben sie uns jedes Jahr hingeschleppt, auch wenn wir nicht wollten.
+Dialogue: 0,0:00:10.00,0:00:10.90,StartMain,Michelle,0,0,0,DialogueTable|60006_7,Du weißt, wie lange das her ist.
+Dialogue: 0,0:00:11.00,0:00:11.90,StartMain,Michelle,0,0,0,DialogueTable|60006_8,Mama und Papa werden langsam älter,
+Dialogue: 0,0:00:12.00,0:00:12.90,StartMain,Michelle,0,0,0,DialogueTable|60006_9,da fällt es ihnen schwer, an überfüllte, laute Orte zu gehen.
+Dialogue: 0,0:00:13.00,0:00:13.90,StartMain,Michelle,0,0,0,DialogueTable|60006_10,Und ich wohne zu weit weg, um es zu schaffen, also …
+Dialogue: 0,0:00:14.00,0:00:14.90,StartMain,Michelle,0,0,0,DialogueTable|60006_11,Wenn du so unbedingt hinwillst, warum gehst du nicht mit einer Freundin?
+Dialogue: 0,0:00:15.00,0:00:15.90,StartMain,Chris,0,0,0,DialogueTable|60006_12,Du willst doch Streit mit mir anfangen, oder?
+Dialogue: 0,0:00:16.00,0:00:16.90,StartMain,Michelle,0,0,0,DialogueTable|60006_13,Sieh dir an, wie alt du bist. Geh raus und lern Leute kennen.
+Dialogue: 0,0:00:17.00,0:00:17.90,StartMain,Michelle,0,0,0,DialogueTable|60006_14,Noch besser, wenn es eine Frau ist.
+Dialogue: 0,0:00:18.00,0:00:18.90,StartMain,Michelle,0,0,0,DialogueTable|60006_15,Du kannst nicht ewig die ganze Nacht in deinem Zimmer sitzen und Bier trinken.
+Dialogue: 0,0:00:19.00,0:00:19.90,StartMain,Chris,0,0,0,DialogueTable|60006_16,An dem Tag, an dem ich in dieser Stadt mit einer Frau im Bett einschlafe,
+Dialogue: 0,0:00:20.00,0:00:20.90,StartMain,Chris,0,0,0,DialogueTable|60006_17,wache ich höchstwahrscheinlich am nächsten Tag nicht mehr auf.
+Dialogue: 0,0:00:21.00,0:00:21.90,StartMain,Chris,0,0,0,DialogueTable|60006_18,Und irgendwo im Haupt-Newsfeed taucht ein Artikel auf.
+Dialogue: 0,0:00:22.00,0:00:22.90,StartMain,Chris,0,0,0,DialogueTable|60006_19,Opfer (Chris J. Hayes, 22) in einem Motel gefunden, Organe entnommen …
+Dialogue: 0,0:00:23.00,0:00:23.90,StartMain,Michelle,0,0,0,DialogueTable|60006_20,Dieser Mangel an Selbstvertrauen ist dein Problem, Chris.
+Dialogue: 0,0:00:24.00,0:00:24.90,StartMain,Michelle,0,0,0,DialogueTable|60006_21,Mir wird zwar selbst schlecht, das zu sagen, aber objektiv gesehen siehst du ziemlich gut aus.
+Dialogue: 0,0:00:25.00,0:00:25.90,StartMain,Chris,0,0,0,DialogueTable|60006_22,Bäh.
+Dialogue: 0,0:00:26.00,0:00:26.90,StartMain,Michelle,0,0,0,DialogueTable|60006_23,Ugh, lass uns das einfach lassen.
+Dialogue: 0,0:00:27.00,0:00:27.90,StartMain,Michelle,0,0,0,DialogueTable|60006_24,Also, wenn du das Chromatic Zenith so unbedingt sehen willst, geh einfach allein.
+Dialogue: 0,0:00:28.00,0:00:28.90,StartMain,Chris,0,0,0,DialogueTable|60006_25,Wenn ich allein gehe, gehe ich eben gar nicht.
+Dialogue: 0,0:00:29.00,0:00:29.90,StartMain,Chris,0,0,0,DialogueTable|60006_26,Sollte nicht wenigstens jemand auf meiner Seite sein, falls einer Streit anfängt?
+Dialogue: 0,0:00:30.00,0:00:30.90,StartMain,Michelle,0,0,0,DialogueTable|60006_27,Also, was machst du an dem Tag?
+Dialogue: 0,0:00:31.00,0:00:31.90,StartMain,Chris,0,0,0,DialogueTable|60006_28,Ich werde wohl auch dieses Jahr wieder mit einem Bier Dokims Stream gucken müssen …
+Dialogue: 0,0:00:32.00,0:00:32.90,StartMain,Chris,0,0,0,DialogueTable|60006_29,und meinen Polarnacht-Tag darin ertränken.
+Dialogue: 0,0:00:33.00,0:00:33.90,StartMain,Michelle,0,0,0,DialogueTable|60006_30,Stream, von wegen. Du willst doch nur die ganze Nacht mit deinem geliebten Silikon aufbleiben, oder …
+Dialogue: 0,0:00:34.00,0:00:34.90,StartMain,Chris,0,0,0,DialogueTable|60006_31,Hey, woher … ! Moment, du warst ja noch nie in meinem Zimmer!
+Dialogue: 0,0:00:35.00,0:00:35.90,StartMain,Michelle,0,0,0,DialogueTable|60006_32,Volltreffer.
+Dialogue: 0,0:00:36.00,0:00:36.90,StartMain,Chris,0,0,0,DialogueTable|60006_33,N-nein … So ist das nicht …
+Dialogue: 0,0:00:37.00,0:00:37.90,StartMain,Chris,0,0,0,DialogueTable|60006_34,Halt die Klappe! Du bist doch auch Single und hockst wahrscheinlich ganz allein in deinem Zimmer …
+Dialogue: 0,0:00:38.00,0:00:38.90,StartMain,???,0,0,0,DialogueTable|60006_35,Hallo, Chris.
+Dialogue: 0,0:00:39.00,0:00:39.90,StartMain,Chris,0,0,0,DialogueTable|60006_36,…
+Dialogue: 0,0:00:40.00,0:00:40.90,StartMain,???,0,0,0,DialogueTable|60006_37,Du siehst aus, als wärst du gut gelaunt.
+Dialogue: 0,0:00:41.00,0:00:41.90,StartMain,???,0,0,0,DialogueTable|60006_38,Hast du endlich die Figur bekommen, die du haben wolltest?
+Dialogue: 0,0:00:42.00,0:00:42.90,StartMain,Chris,0,0,0,DialogueTable|60006_39,...
+Dialogue: 0,0:00:43.00,0:00:43.90,StartMain,???,0,0,0,DialogueTable|60006_40,Chris?
+Dialogue: 0,0:00:44.00,0:00:44.90,StartMain,Chris,0,0,0,DialogueTable|60006_41,Ah, Lianne. Entschuldige.
+Dialogue: 0,0:00:45.00,0:00:45.90,StartMain,Chris,0,0,0,DialogueTable|60006_42,Ich war gerade mit etwas anderem beschäftigt … Kannst du mir einen Augenblick geben?
+Dialogue: 0,0:00:46.00,0:00:46.90,StartMain,Lianne,0,0,0,DialogueTable|60006_43,Schade.
+Dialogue: 0,0:00:47.00,0:00:47.90,StartMain,Lianne,0,0,0,DialogueTable|60006_44,Ich hatte gehofft, bei dem Spaß mitmachen zu dürfen …
+Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Lianne,0,0,0,DialogueTable|60006_45,Ich meine, du siehst jetzt auch gut aus, aber dieser Gesichtsausdruck eben … den zeigst du mir nie.
+Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Lianne,0,0,0,DialogueTable|60006_46,Es war so ein echtes Lächeln.
+Dialogue: 0,0:00:50.00,0:00:50.90,StartMain,Lianne,0,0,0,DialogueTable|60006_47,Ich bin eifersüchtig. Egal, auf wen.
+Dialogue: 0,0:00:51.00,0:00:51.90,StartMain,Chris,0,0,0,DialogueTable|60006_48,Haha …
+Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Chris,0,0,0,DialogueTable|60006_49,Das war nur meine kleine Schwester.
+Dialogue: 0,0:00:53.00,0:00:53.90,StartMain,Chris,0,0,0,DialogueTable|60006_50,Ein komisches Gör, das mir jeden Tag den Kopf abreißen will.
+Dialogue: 0,0:00:54.00,0:00:54.90,StartMain,Lianne,0,0,0,DialogueTable|60006_51,Ah … die, von der du immer erzählst?
+Dialogue: 0,0:00:55.00,0:00:55.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60006_52,Lianne atmete tief durch und
+Dialogue: 0,0:00:56.00,0:00:56.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60006_53,murmelte leise vor sich hin.
+Dialogue: 0,0:00:57.00,0:00:57.90,StartMain,Lianne,0,0,0,DialogueTable|60006_54,Na ja, eine kleine Schwester kann ich verstehen.
+Dialogue: 0,0:00:58.00,0:00:58.90,StartMain,Lianne,0,0,0,DialogueTable|60006_55,Wenn überhaupt, sollte ich mich gut mit ihr stellen.
+Dialogue: 0,0:00:59.00,0:00:59.90,StartMain,Chris,0,0,0,DialogueTable|60006_56,…?
+Dialogue: 0,0:01:00.00,0:01:00.90,StartMain,Chris,0,0,0,DialogueTable|60006_57,Jedenfalls, was führt dich heute her?
+Dialogue: 0,0:01:01.00,0:01:01.90,StartMain,Chris,0,0,0,DialogueTable|60006_58,Ich dachte, dein regulärer Check-up war erst vor Kurzem.
+Dialogue: 0,0:01:02.00,0:01:02.90,StartMain,Lianne,0,0,0,DialogueTable|60006_59,Ich hatte in der Nähe zu tun und dachte, ich schaue vorbei, um dein Gesicht zu sehen.
+Dialogue: 0,0:01:03.00,0:01:03.90,StartMain,Lianne,0,0,0,DialogueTable|60006_60,Außerdem könnte ich gleich meine Prozessoreinheit tauschen lassen, wenn ich schon mal da bin.
+Dialogue: 0,0:01:04.00,0:01:04.90,StartMain,Chris,0,0,0,DialogueTable|60006_61,Das ist lustig.
+Dialogue: 0,0:01:05.00,0:01:05.90,StartMain,Lianne,0,0,0,DialogueTable|60006_62,Was denn?
+Dialogue: 0,0:01:06.00,0:01:06.90,StartMain,Chris,0,0,0,DialogueTable|60006_63,Als du das erste Mal hier warst, dachte ich, du kommst nie wieder …
+Dialogue: 0,0:01:07.00,0:01:07.90,StartMain,Chris,0,0,0,DialogueTable|60006_64,… aber jetzt schaust du ganz ohne Grund vorbei.
+Dialogue: 0,0:01:08.00,0:01:08.90,StartMain,Lianne,0,0,0,DialogueTable|60006_65,Ich habe doch gesagt, dass ich meine Prozessoreinheit tauschen lassen will.
+Dialogue: 0,0:01:09.00,0:01:09.90,StartMain,Chris,0,0,0,DialogueTable|60006_66,Du hast gesagt, das machst du „wenn du schon mal da bist“. Bist du nicht einfach nur vorbeigekommen, um Hallo zu sagen?
+Dialogue: 0,0:01:10.00,0:01:10.90,StartMain,Chris,0,0,0,DialogueTable|60006_67,Aber wenn nicht, sehe ich sie mir kurz an.
+Dialogue: 0,0:01:11.00,0:01:11.90,StartMain,Lianne,0,0,0,DialogueTable|60006_68,...
+Dialogue: 0,0:01:12.00,0:01:12.90,StartMain,Lianne,0,0,0,DialogueTable|60006_69,Na gut, du hast gewonnen.
+Dialogue: 0,0:01:13.00,0:01:13.90,StartMain,Lianne,0,0,0,DialogueTable|60006_70,Ich bin hergekommen, um ein bisschen zu jammern.
+Dialogue: 0,0:01:14.00,0:01:14.90,StartMain,Chris,0,0,0,DialogueTable|60006_71,Okay. Schieß los.
+Dialogue: 0,0:01:15.00,0:01:15.90,StartMain,Lianne,0,0,0,DialogueTable|60006_72,Für eine derart zwielichtige Reparaturklinik …
+Dialogue: 0,0:01:16.00,0:01:16.90,StartMain,Chris,0,0,0,DialogueTable|60006_73,Und trotzdem kommst du immer wieder. Es gefällt dir hier wohl.
+Dialogue: 0,0:01:17.00,0:01:17.90,StartMain,Lianne,0,0,0,DialogueTable|60006_74,Hier herrscht eine schöne, ruhige Gemütlichkeit. Weit weg vom Trubel.
+Dialogue: 0,0:01:18.00,0:01:18.90,StartMain,Lianne,0,0,0,DialogueTable|60006_75,Ein stiller Ort und leicht kühle Luft sind gut, um sentimental zu werden.
+Dialogue: 0,0:01:19.00,0:01:19.90,StartMain,Lianne,0,0,0,DialogueTable|60006_76,Dadurch kann ich vollkommen abschalten.
+Dialogue: 0,0:01:20.00,0:01:20.90,StartMain,Chris,0,0,0,DialogueTable|60006_77,Soll das ein Kompliment sein? Dass ich keine Kundschaft habe?
+Dialogue: 0,0:01:21.00,0:01:21.90,StartMain,Lianne,0,0,0,DialogueTable|60006_78,Jep. Das ist ein Kompliment.
+Dialogue: 0,0:01:22.00,0:01:22.90,StartMain,Chris,0,0,0,DialogueTable|60006_79,Wenn du das sagst, nehme ich es als Kompliment.
+Dialogue: 0,0:01:23.00,0:01:23.90,StartMain,Chris,0,0,0,DialogueTable|60006_80,Also, worüber jammerst du heute?
+Dialogue: 0,0:01:24.00,0:01:24.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60006_81,Lianne runzelte die Stirn, als würde sie schon der bloße Gedanke daran nerven.
+Dialogue: 0,0:01:25.00,0:01:25.90,StartMain,Chris,0,0,0,DialogueTable|60006_82,Du machst ein ziemliches Gesicht.
+Dialogue: 0,0:01:26.00,0:01:26.90,StartMain,Lianne,0,0,0,DialogueTable|60006_83,Hm? Oh? Echt?
+Dialogue: 0,0:01:27.00,0:01:27.90,StartMain,Lianne,0,0,0,DialogueTable|60006_84,Tut mir leid. Wenn die Prozessoreinheit für den Gefühlsausdruck überlastet ist, werden meine Stimmungsschwankungen richtig schlimm, und ich kann es nicht verbergen …
+Dialogue: 0,0:01:28.00,0:01:28.90,StartMain,Lianne,0,0,0,DialogueTable|60006_85,Ich will dir diesen Blick nicht mehr zeigen.
+Dialogue: 0,0:01:29.00,0:01:29.90,StartMain,Lianne,0,0,0,DialogueTable|60006_86,Kann ich zuerst die Wartung bekommen?
+Dialogue: 0,0:01:30.00,0:01:30.90,StartMain,Chris,0,0,0,DialogueTable|60006_87,Kann ich machen, aber …
+Dialogue: 0,0:01:31.00,0:01:31.90,StartMain,Auftragstitel,0,0,0,DialogueTable|60006_88,[Liannes Auftrag] Extreme Stimmungsschwankungen reparieren
+Dialogue: 0,0:01:32.00,0:01:32.90,Sub,Lianne,0,0,0,DialogueTable|40060_1,Puh … Haa … Wie erwartet, du bist so zart … das ist so entspannend …
+Dialogue: 0,0:01:33.00,0:01:33.90,Sub,Lianne,0,0,0,DialogueTable|40060_2,Mmh, ngh … du darfst ruhig etwas ruppiger sein.
+Dialogue: 0,0:01:34.00,0:01:34.90,Repair1,Lianne,0,0,0,DialogueTable|40061_1,Jedes Mal, wenn ich herkomme, telefonierst du gerade mit deiner Schwester.
+Dialogue: 0,0:01:35.00,0:01:35.90,Repair1,Chris,0,0,0,DialogueTable|40061_2,Das ist meine Routine direkt nach dem Aufmachen.
+Dialogue: 0,0:01:36.00,0:01:36.90,Repair1,Chris,0,0,0,DialogueTable|40061_3,Streit mit meiner Schwester anfangen.
+Dialogue: 0,0:01:37.00,0:01:37.90,Repair1,Lianne,0,0,0,DialogueTable|40061_4,Bei dieser Routine würde ich nächstes Mal gern mitmachen.
+Dialogue: 0,0:01:38.00,0:01:38.90,Repair1,Chris,0,0,0,DialogueTable|40061_5,Moment, du, Lianne?
+Dialogue: 0,0:01:39.00,0:01:39.90,Repair1,Lianne,0,0,0,DialogueTable|40061_6,Ich habe gehört, dass es in der menschlichen Gesellschaft höflich ist, die Familie kennenzulernen, bevor der Hauptakt kommt.
+Dialogue: 0,0:01:40.00,0:01:40.90,Repair1,Chris,0,0,0,DialogueTable|40061_7,Ich weiß nicht, was du mit „Hauptakt“ meinst,
+Dialogue: 0,0:01:41.00,0:01:41.90,Repair1,Chris,0,0,0,DialogueTable|40061_8,aber deine Emotionseinheit überhitzt schon wieder.
+Dialogue: 0,0:01:42.00,0:01:42.90,Repair1,Lianne,0,0,0,DialogueTable|40061_9,Der Hauptakt … Hihi …
+Dialogue: 0,0:01:43.00,0:01:43.90,Repair2,Lianne,0,0,0,DialogueTable|40062_1,Was hältst du von der wachsenden Romantik zwischen Menschen und E.V.Es?
+Dialogue: 0,0:01:44.00,0:01:44.90,Repair2,Chris,0,0,0,DialogueTable|40062_2,Als jemand, der noch nie mit einem Menschen ausgegangen ist, ist mir das zu abstrakt, um darauf zu antworten.
+Dialogue: 0,0:01:45.00,0:01:45.90,Repair2,Lianne,0,0,0,DialogueTable|40062_3,Wirklich?
+Dialogue: 0,0:01:46.00,0:01:46.90,Repair2,Lianne,0,0,0,DialogueTable|40062_4,Dieser eine Satz hat meine Meinung komplett auf die „Dafür“-Seite gezogen.
+Dialogue: 0,0:01:47.00,0:01:47.90,Repair2,Chris,0,0,0,DialogueTable|40062_5,Lianne, die Temperatur deiner Emotionseinheit steigt.
+Dialogue: 0,0:01:48.00,0:01:48.90,Repair2,Chris,0,0,0,DialogueTable|40062_6,Das ist gefährlich, also versuch bitte, dich während der Wartung zu beruhigen.
+Dialogue: 0,0:01:49.00,0:01:49.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60007_1_C3,Die Wartung ist reibungslos verlaufen.
+Dialogue: 0,0:01:50.00,0:01:50.90,Comment_Good,Lianne,0,0,0,CommentDialogueTable|60007_2_C3,Deine Arbeit heute war fast zu geschmeidig.
+Dialogue: 0,0:01:51.00,0:01:51.90,Comment_Good,Lianne,0,0,0,CommentDialogueTable|60007_3_C3,Wie deine Hände meine geheimen Winkel so gekonnt erkundet haben, die Führung übernommen und mir keinen Raum zum Widerstand gelassen haben …
+Dialogue: 0,0:01:52.00,0:01:52.90,Comment_Good,Lianne,0,0,0,CommentDialogueTable|60007_4_C3,An wessen Kern hast du sonst noch … so zärtlich herumgestreichelt?
+Dialogue: 0,0:01:53.00,0:01:53.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60007_5_C3,Lianne?
+Dialogue: 0,0:01:54.00,0:01:54.90,Comment_Good,Lianne,0,0,0,DialogueTable|60007_66,...
+Dialogue: 0,0:01:55.00,0:01:55.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60007_1_C2,Die Wartung ist reibungslos verlaufen.
+Dialogue: 0,0:01:56.00,0:01:56.90,Comment_Normal,Lianne,0,0,0,CommentDialogueTable|60007_2_C2,Es sah so aus, als wären dir heute ziemlich viele kleine Patzer unterlaufen.
+Dialogue: 0,0:01:57.00,0:01:57.90,Comment_Normal,Lianne,0,0,0,CommentDialogueTable|60007_3_C2,Wo hattest du deinen Kopf?
+Dialogue: 0,0:01:58.00,0:01:58.90,Comment_Normal,Lianne,0,0,0,CommentDialogueTable|60007_4_C2,Ich hoffe, du hast nicht an jemand anderen gedacht, während ich direkt vor dir sitze.
+Dialogue: 0,0:01:59.00,0:01:59.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60007_5_C2,Nein. Ich gehe kaum aus, deshalb sehe ich kaum neue Gesichter.
+Dialogue: 0,0:02:00.00,0:02:00.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60007_1_C1,Die Wartung ist reibungslos verlaufen.
+Dialogue: 0,0:02:01.00,0:02:01.90,Comment_Bad,Lianne,0,0,0,CommentDialogueTable|60007_2_C1,Es sah so aus, als wären dir heute ziemlich viele kleine Patzer unterlaufen.
+Dialogue: 0,0:02:02.00,0:02:02.90,Comment_Bad,Lianne,0,0,0,CommentDialogueTable|60007_3_C1,Wo hattest du deinen Kopf?
+Dialogue: 0,0:02:03.00,0:02:03.90,Comment_Bad,Lianne,0,0,0,CommentDialogueTable|60007_4_C1,Ich hoffe, du hast nicht an jemand anderen gedacht, während ich direkt vor dir sitze.
+Dialogue: 0,0:02:04.00,0:02:04.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60007_5_C1,Nein. Ich gehe kaum aus, deshalb sehe ich kaum neue Gesichter.
+Dialogue: 0,0:02:05.00,0:02:05.90,ClearMain,Chris,0,0,0,DialogueTable|60007_1,Die Kundschaft, die in diese Klinik kommt, ist im Grunde mein ganzes Sozialleben.
+Dialogue: 0,0:02:06.00,0:02:06.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_2,…Hmm.
+Dialogue: 0,0:02:07.00,0:02:07.90,ClearMain,Chris,0,0,0,DialogueTable|60007_3,Aber das hat auch sein Gutes.
+Dialogue: 0,0:02:08.00,0:02:08.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_4,Was denn?
+Dialogue: 0,0:02:09.00,0:02:09.90,ClearMain,Chris,0,0,0,DialogueTable|60007_5,Dass jemand so Wunderbares wie du vorbeischaut … da fühlt sich sogar dieser trostlose Ort ein bisschen lebendig an.
+Dialogue: 0,0:02:10.00,0:02:10.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_6,Oh, wenn du so aus heiterem Himmel solche Sachen sagst, werde ich ganz rot.
+Dialogue: 0,0:02:11.00,0:02:11.90,ClearMain,Chris,0,0,0,DialogueTable|60007_7,Deine Prozessoreinheit war viel stärker überlastet, als ich dachte.
+Dialogue: 0,0:02:12.00,0:02:12.90,ClearMain,Chris,0,0,0,DialogueTable|60007_8,Für jemanden, der nur zum Jammern gekommen ist, brauchtest du ziemlich ernste Wartung.
+Dialogue: 0,0:02:13.00,0:02:13.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_9,Ich dachte, es würde besser, wenn ich Dampf ablasse.
+Dialogue: 0,0:02:14.00,0:02:14.90,ClearMain,Chris,0,0,0,DialogueTable|60007_10,Hätte ich die Einheit gelassen, wie sie war, hättest du bald wegen genau desselben Problems wieder vor der Tür gestanden,
+Dialogue: 0,0:02:15.00,0:02:15.90,ClearMain,Chris,0,0,0,DialogueTable|60007_11,also habe ich sie gegen eine hochwertigere Einheit getauscht.
+Dialogue: 0,0:02:16.00,0:02:16.90,ClearMain,Chris,0,0,0,DialogueTable|60007_12,Dein letzter Check-up ist noch gar nicht so lange her. Was ist passiert, dass sie so abgenutzt ist?
+Dialogue: 0,0:02:17.00,0:02:17.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_13,Warte. Dazu komme ich gleich.
+Dialogue: 0,0:02:18.00,0:02:18.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_14,Du weißt ja, dass ich in einer Pharmafirma arbeite, oder?
+Dialogue: 0,0:02:19.00,0:02:19.90,ClearMain,Chris,0,0,0,DialogueTable|60007_15,Natürlich.
+Dialogue: 0,0:02:20.00,0:02:20.90,ClearMain,Chris,0,0,0,DialogueTable|60007_16,Ich habe schon viel über dein Leben gehört, Lianne, jedes Mal, wenn du zur Wartung kommst.
+Dialogue: 0,0:02:21.00,0:02:21.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_17,Seit Kurzem haben wir bei der Arbeit einen neuen Forscher.
+Dialogue: 0,0:02:22.00,0:02:22.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_18,Angeblich ist er unglaublich talentiert oder so … Die Firma hat sich ein Bein ausgerissen, um ihn anzuwerben, also ist er es vielleicht.
+Dialogue: 0,0:02:23.00,0:02:23.90,ClearMain,Chris,0,0,0,DialogueTable|60007_19,Das Problem ist, dass Talent nicht alles ist.
+Dialogue: 0,0:02:24.00,0:02:24.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_20,Genau.
+Dialogue: 0,0:02:25.00,0:02:25.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_21,Er ist durch Beziehungen reingekommen, schaut aber ständig auf den Rest von uns herab.
+Dialogue: 0,0:02:26.00,0:02:26.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_22,Nur weil er später dazugekommen ist,
+Dialogue: 0,0:02:27.00,0:02:27.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_23,erwartet er, dass wir ihm alle Projektinfos, die er nicht kennt, mundgerecht servieren.
+Dialogue: 0,0:02:28.00,0:02:28.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_24,Die Geschäftsführung ist von seinen Veröffentlichungen und seiner Erfolgsbilanz völlig überzeugt …
+Dialogue: 0,0:02:29.00,0:02:29.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_25,… also blieb meinen Kollegen und mir nichts anderes übrig, als alles zu tun, was er verlangte.
+Dialogue: 0,0:02:30.00,0:02:30.90,ClearMain,Chris,0,0,0,DialogueTable|60007_26,Klingt nach mehr Arbeit für dich.
+Dialogue: 0,0:02:31.00,0:02:31.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_27,Wenn das nur alles wäre.
+Dialogue: 0,0:02:32.00,0:02:32.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_28,Das eigentliche Problem ist seine Einstellung.
+Dialogue: 0,0:02:33.00,0:02:33.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_29,Es wäre ja noch okay, wenn es ihm leidtäte oder er dankbar wäre, aber er hält es einfach für selbstverständlich.
+Dialogue: 0,0:02:34.00,0:02:34.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_30,Obwohl wir Arbeit machen, die wir gar nicht machen müssten.
+Dialogue: 0,0:02:35.00,0:02:35.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_31,Da frage ich mich, ob das ganze Lernen sein halbes Gehirn gegrillt hat.
+Dialogue: 0,0:02:36.00,0:02:36.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_32,Neulich hat er einer Kollegin gesagt, ihre Forschung sei „interessant“ …
+Dialogue: 0,0:02:37.00,0:02:37.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_33,… und hat tatsächlich gefragt, ob er das Projekt nicht einfach übernehmen könnte.
+Dialogue: 0,0:02:38.00,0:02:38.90,ClearMain,Chris,0,0,0,DialogueTable|60007_34,Meine Güte …
+Dialogue: 0,0:02:39.00,0:02:39.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_35,Fast wäre es in eine Schreierei ausgeartet, aber unsere Kollegen sind dazwischengegangen und konnten es gerade so beenden.
+Dialogue: 0,0:02:40.00,0:02:40.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_36,Es nervt, aber dank ihm haben wir uns die Geschäftsführung vom Hals geschafft,
+Dialogue: 0,0:02:41.00,0:02:41.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_37,was uns etwas Zeit verschafft, die Stabilität des Produkts zu verbessern.
+Dialogue: 0,0:02:42.00,0:02:42.90,ClearMain,Chris,0,0,0,DialogueTable|60007_38,Büropolitik …
+Dialogue: 0,0:02:43.00,0:02:43.90,ClearMain,Chris,0,0,0,DialogueTable|60007_39,Das fühlt sich ziemlich weit weg von meinem Leben an.
+Dialogue: 0,0:02:44.00,0:02:44.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_40,Das kann ich mir vorstellen.
+Dialogue: 0,0:02:45.00,0:02:45.90,ClearMain,Chris,0,0,0,DialogueTable|60007_41,Aus meiner Sicht, Lianne, bist du gar nicht so anders als ich.
+Dialogue: 0,0:02:46.00,0:02:46.90,ClearMain,Chris,0,0,0,DialogueTable|60007_42,Das klingt, als würdest du im Grunde sagen, wie anstrengend es ist, sich mit Büropolitik herumzuschlagen, die einem völlig egal ist, oder?
+Dialogue: 0,0:02:47.00,0:02:47.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_43,Ich würde gern Nein sagen, aber nach dem, was vor ein paar Tagen passiert ist, muss ich dir zustimmen.
+Dialogue: 0,0:02:48.00,0:02:48.90,ClearMain,Chris,0,0,0,DialogueTable|60007_44,Vor ein paar Tagen?
+Dialogue: 0,0:02:49.00,0:02:49.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_45,Ja. Die Hälfte der Überlastungsprobleme meiner Einheit hat wohl an diesem Tag angefangen.
+Dialogue: 0,0:02:50.00,0:02:50.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_46,Wir sind aneinandergeraten.
+Dialogue: 0,0:02:51.00,0:02:51.90,ClearMain,Chris,0,0,0,DialogueTable|60007_47,Ihr seid aneinandergeraten?!
+Dialogue: 0,0:02:52.00,0:02:52.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_48,Es war eigentlich keine richtige Schlägerei.
+Dialogue: 0,0:02:53.00,0:02:53.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_49,Ich habe ihn einfach umgehauen.
+Dialogue: 0,0:02:54.00,0:02:54.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_50,Er hat schlecht über unser Projekt geredet.
+Dialogue: 0,0:02:55.00,0:02:55.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_51,Er sagte, wir würden nur das Budget verbrennen, indem wir seit Jahren klinische Studien wiederholen, oder so.
+Dialogue: 0,0:02:56.00,0:02:56.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_52,Er sagte, die Talente der Forscher würden verschwendet,
+Dialogue: 0,0:02:57.00,0:02:57.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_53,und fragte, ob wir vorhätten, diese Forschung abzuschließen und ein vielversprechenderes Projekt zu starten.
+Dialogue: 0,0:02:58.00,0:02:58.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_54,Das hat er mir direkt ins Gesicht gesagt. Der Projektleiterin.
+Dialogue: 0,0:02:59.00,0:02:59.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_55,Ich hätte es ahnen müssen, als die Geschäftsführung ihn so blind gepusht hat.
+Dialogue: 0,0:03:00.00,0:03:00.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_56,Da sie keine Experten sind, wussten sie, dass sie uns mit Logik nicht schlagen können,
+Dialogue: 0,0:03:01.00,0:03:01.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_57,also war alles ein Schachzug, einen weiteren Experten hereinzuholen, damit wir einknicken.
+Dialogue: 0,0:03:02.00,0:03:02.90,ClearMain,Chris,0,0,0,DialogueTable|60007_58,Das ist ziemlich ernste Sabotage.
+Dialogue: 0,0:03:03.00,0:03:03.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_59,Leider für sie waren die sozialen Fähigkeiten dieses Protegés schlimmer, als man sich vorstellen kann,
+Dialogue: 0,0:03:04.00,0:03:04.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_60,und er hat es komplett verpasst, unser Team für sich zu gewinnen.
+Dialogue: 0,0:03:05.00,0:03:05.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_61,Wenn überhaupt, hat es uns sogar enger zusammengeschweißt …
+Dialogue: 0,0:03:06.00,0:03:06.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_62,Manche meiner Teamkollegen haben mich sogar angefeuert und getröstet, obwohl ich den ersten Schlag gesetzt habe.
+Dialogue: 0,0:03:07.00,0:03:07.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_63,Natürlich weiß ich, dass ich auch im Unrecht war.
+Dialogue: 0,0:03:08.00,0:03:08.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_64,Mir ging es ziemlich zwiespältig, als ich zusah, wie er allein den Krankenwagen rief, weil es sonst niemanden interessierte.
+Dialogue: 0,0:03:09.00,0:03:09.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_65,Das muss die Schuld gewesen sein, die nach der Genugtuung einsetzte …
+Dialogue: 0,0:03:10.00,0:03:10.90,ClearMain,Chris,0,0,0,DialogueTable|60007_111,...
+Dialogue: 0,0:03:11.00,0:03:11.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_67,Ich musste einen Vorfallbericht schreiben, und jetzt sind die Überlebenschancen des Projekts noch geringer.
+Dialogue: 0,0:03:12.00,0:03:12.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_68,Ich habe mich gefragt, was passiert wäre, wenn ich mich einfach zurückgehalten hätte.
+Dialogue: 0,0:03:13.00,0:03:13.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_69,Ich habe einen Berg Arbeit vor mir, aber mein erster Gedanke war nur, wegzulaufen.
+Dialogue: 0,0:03:14.00,0:03:14.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_70,Ich will einfach alles vergessen und mich ein bisschen ausruhen …
+Dialogue: 0,0:03:15.00,0:03:15.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_71,Also bin ich zu dir gekommen.
+Dialogue: 0,0:03:16.00,0:03:16.90,ClearMain,Chris,0,0,0,DialogueTable|60007_72,Ich höre dir ja nur ein bisschen beim Jammern zu.
+Dialogue: 0,0:03:17.00,0:03:17.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_73,Das reicht völlig.
+Dialogue: 0,0:03:18.00,0:03:18.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_74,Und dank dir habe ich meine Gedanken schon sortiert.
+Dialogue: 0,0:03:19.00,0:03:19.90,ClearMain,Chris,0,0,0,DialogueTable|60007_75,Dank mir?
+Dialogue: 0,0:03:20.00,0:03:20.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_76,Ein Ort zum Verstecken, wann immer man einfach weglaufen will,
+Dialogue: 0,0:03:21.00,0:03:21.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_77,eine Möglichkeit, neue Kraft zu tanken und den Mut zu finden, der Welt wieder entgegenzutreten.
+Dialogue: 0,0:03:22.00,0:03:22.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_78,Das ist das Ziel unseres Projekts.
+Dialogue: 0,0:03:23.00,0:03:23.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_79,Zu sehen, wie mir das Verstecken und Ausruhen hier den Mut gegeben hat, durchzuhalten,
+Dialogue: 0,0:03:24.00,0:03:24.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_80,hat mir klargemacht, dass mein Projekt nicht einfach hier enden darf.
+Dialogue: 0,0:03:25.00,0:03:25.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_81,Wenn schon die Wirkung davon, „mir einfach ein bisschen beim Jammern zuzuhören“, wie du es nennst, so groß ist,
+Dialogue: 0,0:03:26.00,0:03:26.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_82,dann wird unser Medikament der Welt sehr viel Gutes tun.
+Dialogue: 0,0:03:27.00,0:03:27.90,ClearMain,Chris,0,0,0,DialogueTable|60007_83,Darf ich fragen, was für ein Medikament das ist?
+Dialogue: 0,0:03:28.00,0:03:28.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_84,Das erzähle ich dir liebend gern.
+Dialogue: 0,0:03:29.00,0:03:29.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_85,Liannes Augen leuchteten auf, als hätte ich ihr Lieblingsthema angeschnitten.
+Dialogue: 0,0:03:30.00,0:03:30.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_86,Es ist eine Erleichterung, sie wieder ganz die Alte zu sehen.
+Dialogue: 0,0:03:31.00,0:03:31.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_87,Unser Labor konzentriert sich hauptsächlich auf gedächtnisunterdrückende Medikamente.
+Dialogue: 0,0:03:32.00,0:03:32.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_88,Sie hindern die Anwender daran, bestimmte Erinnerungen abzurufen.
+Dialogue: 0,0:03:33.00,0:03:33.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_89,Das Hauptziel ist die Unterdrückung von Traumata. Allerdings besteht Missbrauchspotenzial …
+Dialogue: 0,0:03:34.00,0:03:34.90,ClearMain,Chris,0,0,0,DialogueTable|60007_90,Klingt so.
+Dialogue: 0,0:03:35.00,0:03:35.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_91,Genau. Deshalb zögern wir die Markteinführung hinaus.
+Dialogue: 0,0:03:36.00,0:03:36.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_92,Es gibt bereits ein ähnliches Medikament,
+Dialogue: 0,0:03:37.00,0:03:37.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_93,aber wir sehen weitaus mehr Fälle von Nebenwirkungen und Missbrauch als von sachgemäßer Anwendung.
+Dialogue: 0,0:03:38.00,0:03:38.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_94,Die Geschäftsführung sieht darin allerdings einen kommerziellen Erfolg …
+Dialogue: 0,0:03:39.00,0:03:39.90,ClearMain,Chris,0,0,0,DialogueTable|60007_95,Sich an ein bewährtes Produkt klammern …
+Dialogue: 0,0:03:40.00,0:03:40.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_96,Genau. Sie haben fast dasselbe behauptet.
+Dialogue: 0,0:03:41.00,0:03:41.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_97,Ihre Logik lautet im Grunde: Solange es die Sicherheitsprüfungen besteht und sich gut verkauft, wen kümmert es, wie es verwendet wird.
+Dialogue: 0,0:03:42.00,0:03:42.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_98,Eigentlich verursacht es für den Körper selbst kaum körperlichen Schaden.
+Dialogue: 0,0:03:43.00,0:03:43.90,ClearMain,Chris,0,0,0,DialogueTable|60007_99,Ich nehme selbst ein paar Medikamente, aber so eine Einstellung ist ziemlich abstoßend.
+Dialogue: 0,0:03:44.00,0:03:44.90,ClearMain,Chris,0,0,0,DialogueTable|60007_100,Egal, wie viel man weiß, es gibt Grenzen dafür, was ein normaler Verbraucher ohne Fachwissen durchschauen kann.
+Dialogue: 0,0:03:45.00,0:03:45.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_101,Eigentlich weiß ich nicht mal, was in den Multivitaminen steckt, die ich nehme.
+Dialogue: 0,0:03:46.00,0:03:46.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_102,Da ich kaum Sonne sehe, schätze ich, dass Vitamin D drin ist …
+Dialogue: 0,0:03:47.00,0:03:47.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_103,Und … hmm, Vitamin D …
+Dialogue: 0,0:03:48.00,0:03:48.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_104,Keine Ahnung.
+Dialogue: 0,0:03:49.00,0:03:49.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_105,Die Medikamente auf dem Markt dämpfen Erinnerungen, die sich beim Anwender besonders stark eingeprägt haben.
+Dialogue: 0,0:03:50.00,0:03:50.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_106,Wenn man versucht, sie abzurufen, wird der Erinnerungsprozess unterbrochen oder verschwommen.
+Dialogue: 0,0:03:51.00,0:03:51.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_107,Das ähnelt sehr dem Herumbasteln am photonischen neuronalen Netz einer E.V.E.
+Dialogue: 0,0:03:52.00,0:03:52.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_108,Man kann sich vielleicht von furchtbar schmerzhaften Erinnerungen distanzieren,
+Dialogue: 0,0:03:53.00,0:03:53.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_109,riskiert aber auch, seine Träume zu verlieren, und manchmal sogar die Gesichter der Familie oder die kostbarsten Erinnerungen.
+Dialogue: 0,0:03:54.00,0:03:54.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_110,In schweren Fällen vergisst man sogar, dass man überhaupt ein Gedächtnismittel nimmt. Das ist praktisch Amnesie.
+Dialogue: 0,0:03:55.00,0:03:55.90,ClearMain,Chris,0,0,0,DialogueTable|60007_164,...
+Dialogue: 0,0:03:56.00,0:03:56.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_112,Unser Labor entwickelt ein Medikament, das gezielt bestimmte Erinnerungen anspricht und nur diesen Teil betäubt.
+Dialogue: 0,0:03:57.00,0:03:57.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_113,Es wird nicht für den allgemeinen Gebrauch sein, aber wir planen, getrennte Versionen für Dinge wie „Trennungen“ oder „Traumata“ zu vermarkten.
+Dialogue: 0,0:03:58.00,0:03:58.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_114,Wenn wir Erfolg haben, wird es nicht als irgendein „Amnesie-Medikament“ für Entführungen oder Menschenhandel missbraucht.
+Dialogue: 0,0:03:59.00,0:03:59.90,ClearMain,Chris,0,0,0,DialogueTable|60007_115,Das Gedächtnis durch ein Medikament zu verlieren …
+Dialogue: 0,0:04:00.00,0:04:00.90,ClearMain,Chris,0,0,0,DialogueTable|60007_116,Es kommt zurück, sobald man es absetzt, oder?
+Dialogue: 0,0:04:01.00,0:04:01.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_117,Theoretisch ja.
+Dialogue: 0,0:04:02.00,0:04:02.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_118,Aber bei den Medikamenten, die schon auf dem Markt sind, ist das offenbar nicht immer so.
+Dialogue: 0,0:04:03.00,0:04:03.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_119,Und das ist auch der Hauptgrund, warum ich diese klinischen Studien in die Länge ziehe.
+Dialogue: 0,0:04:04.00,0:04:04.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_120,Viele Menschen in Chroma City brauchen dieses Medikament.
+Dialogue: 0,0:04:05.00,0:04:05.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_121,Deshalb sind häufige Nebenwirkungen schlicht inakzeptabel.
+Dialogue: 0,0:04:06.00,0:04:06.90,ClearMain,Chris,0,0,0,DialogueTable|60007_122,Auch wenn es in Chroma City den ganzen Tag verdammt dunkel ist,
+Dialogue: 0,0:04:07.00,0:04:07.90,ClearMain,Chris,0,0,0,DialogueTable|60007_123,bin ich mir nicht sicher, ob es so viele Patienten gibt, die ihre eigenen Erinnerungen tatsächlich unterdrücken wollen würden.
+Dialogue: 0,0:04:08.00,0:04:08.90,ClearMain,Chris,0,0,0,DialogueTable|60007_124,Der durchschnittliche Patient geht nicht mal ins Krankenhaus, bevor es schlimmer wird.
+Dialogue: 0,0:04:09.00,0:04:09.90,ClearMain,Chris,0,0,0,DialogueTable|60007_125,Ich habe sogar mal jemanden gesehen, der versucht hat, einen gelähmten Finger einfach durch Dehnen zu heilen.
+Dialogue: 0,0:04:10.00,0:04:10.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_126,Stimmt. Viele Leute scheinen zu glauben, Krankenhäuser seien für Wiederauferstehungen da.
+Dialogue: 0,0:04:11.00,0:04:11.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_127,Aber dieses Medikament ist nicht nur dazu da, schwere Traumata zu überwinden.
+Dialogue: 0,0:04:12.00,0:04:12.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_128,Es soll auch neurologischen Störungen durch Lichtmangel vorbeugen.
+Dialogue: 0,0:04:13.00,0:04:13.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_129,Das Blackout-Phänomen. Hmm … nennt man sie heutzutage Zombies?
+Dialogue: 0,0:04:14.00,0:04:14.90,ClearMain,Chris,0,0,0,DialogueTable|60007_130,So nennt man sie meistens, soweit ich höre.
+Dialogue: 0,0:04:15.00,0:04:15.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_131,Genau. Die Hauptursache dafür, zum Zombie zu werden, sind neurologische Störungen.
+Dialogue: 0,0:04:16.00,0:04:16.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_132,Selbst wenn Lichtmangel ihr einziges Problem ist, sammeln sich durch Probleme des Nervensystems extreme Traumata an.
+Dialogue: 0,0:04:17.00,0:04:17.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_133,Sobald dieses Medikament fertig ist, wird es die Zahl der Zombies auf den Straßen mehr als halbieren.
+Dialogue: 0,0:04:18.00,0:04:18.90,ClearMain,Chris,0,0,0,DialogueTable|60007_134,Zombie-Prävention und Traumabewältigung. Klingt nach einem soliden Plan.
+Dialogue: 0,0:04:19.00,0:04:19.90,ClearMain,Chris,0,0,0,DialogueTable|60007_135,Außerdem scheint es gut zu sein, dass man diese Erinnerungen zurückholen kann.
+Dialogue: 0,0:04:20.00,0:04:20.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_136,Das ist ein heißes Thema unter meinen Kollegen.
+Dialogue: 0,0:04:21.00,0:04:21.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_137,Manche argumentieren: Weil die Erinnerungen zurückkehren, wenn man aufhört,
+Dialogue: 0,0:04:22.00,0:04:22.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_138,zwingt das die Leute im Grunde dazu, das Medikament immer weiter zu kaufen.
+Dialogue: 0,0:04:23.00,0:04:23.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_139,Sie sagen, wir müssen die finanzielle Belastung der Verbraucher bedenken.
+Dialogue: 0,0:04:24.00,0:04:24.90,ClearMain,Chris,0,0,0,DialogueTable|60007_140,Das leuchtet ein, aber …
+Dialogue: 0,0:04:25.00,0:04:25.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_141,Oh? Du hast eine Meinung zu meiner Forschung?
+Dialogue: 0,0:04:26.00,0:04:26.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_142,Lianne riss die Augen auf.
+Dialogue: 0,0:04:27.00,0:04:27.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_143,Dachte sie etwa, wir hätten endlich ein gemeinsames Interesse?
+Dialogue: 0,0:04:28.00,0:04:28.90,ClearMain,Chris,0,0,0,DialogueTable|60007_144,Wir können nicht ewig weglaufen.
+Dialogue: 0,0:04:29.00,0:04:29.90,ClearMain,Chris,0,0,0,DialogueTable|60007_145,Wenn wir jedes Mal unsere Erinnerungen löschen, sobald es hart wird, bleibt uns irgendwann vermutlich nichts mehr.
+Dialogue: 0,0:04:30.00,0:04:30.90,ClearMain,Chris,0,0,0,DialogueTable|60007_146,Selbst die Lianne, die heute hier sitzt, wird morgen zurückgehen und sich der Realität stellen.
+Dialogue: 0,0:04:31.00,0:04:31.90,ClearMain,Chris,0,0,0,DialogueTable|60007_147,Du wirst dein Bestes geben, das Chaos aufzuräumen und das Projekt durchzuziehen, oder?
+Dialogue: 0,0:04:32.00,0:04:32.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_148,Na ja, ja.
+Dialogue: 0,0:04:33.00,0:04:33.90,ClearMain,Chris,0,0,0,DialogueTable|60007_149,Es gibt Momente, in denen man weiß, dass man etwas tun muss, aber einfach … nicht kann.
+Dialogue: 0,0:04:34.00,0:04:34.90,ClearMain,Chris,0,0,0,DialogueTable|60007_150,Ein Trauma ist so etwas.
+Dialogue: 0,0:04:35.00,0:04:35.90,ClearMain,Chris,0,0,0,DialogueTable|60007_151,Du hast ein Loch in deinem Herzen, du weißt, dass du es füllen musst, aber es tut einfach zu weh.
+Dialogue: 0,0:04:36.00,0:04:36.90,ClearMain,Chris,0,0,0,DialogueTable|60007_152,Wenn man so ein Loch hat, zehrt das natürlich an Körper und Seele.
+Dialogue: 0,0:04:37.00,0:04:37.90,ClearMain,Chris,0,0,0,DialogueTable|60007_153,Man müsste Abstand nehmen und heilen, aber man kann nicht, weil das Loch in einem selbst ist.
+Dialogue: 0,0:04:38.00,0:04:38.90,ClearMain,Chris,0,0,0,DialogueTable|60007_154,Ich dachte, das Medikament, das du entwickelst, ist für solche Situationen gemacht.
+Dialogue: 0,0:04:39.00,0:04:39.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_155,Genau. Wenn man von innen zerbröckelt, ist es unglaublich schwer, das allein zu reparieren.
+Dialogue: 0,0:04:40.00,0:04:40.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_156,Manchmal ist es wichtiger, sich davon zu entfernen und Körper und Geist zu bewahren.
+Dialogue: 0,0:04:41.00,0:04:41.90,ClearMain,Chris,0,0,0,DialogueTable|60007_157,Ich hoffe nur, dass die Patienten so sein können wie du, Lianne.
+Dialogue: 0,0:04:42.00,0:04:42.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_158,…?
+Dialogue: 0,0:04:43.00,0:04:43.90,ClearMain,Chris,0,0,0,DialogueTable|60007_159,Eine Möglichkeit, neue Kraft zu tanken und den Mut zu finden, der Welt wieder entgegenzutreten.
+Dialogue: 0,0:04:44.00,0:04:44.90,ClearMain,Chris,0,0,0,DialogueTable|60007_160,Ich meine, ich hoffe, sie können die Probleme angehen, die sie vor sich hergeschoben haben, mit einem geheilten und stärkeren Geist und Körper.
+Dialogue: 0,0:04:45.00,0:04:45.90,ClearMain,Chris,0,0,0,DialogueTable|60007_161,So wie du heute, Lianne.
+Dialogue: 0,0:04:46.00,0:04:46.90,ClearMain,Chris,0,0,0,DialogueTable|60007_162,Wie sagt man in diesem einen Manga? „Es gibt kein Paradies, in das du fliehen kannst.“
+Dialogue: 0,0:04:47.00,0:04:47.90,ClearMain,Chris,0,0,0,DialogueTable|60007_163,Da es dein Medikament ist, Lianne, hoffe ich, dass es genau so wird, wie du es dir wünschst.
+Dialogue: 0,0:04:48.00,0:04:48.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_172,...
+Dialogue: 0,0:04:49.00,0:04:49.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_165,Du kleiner …!!!
+Dialogue: 0,0:04:50.00,0:04:50.90,ClearMain,Chris,0,0,0,DialogueTable|60007_166,W-warum?
+Dialogue: 0,0:04:51.00,0:04:51.90,ClearMain,Chris,0,0,0,DialogueTable|60007_167,Ich fand, das klang aus meinem Mund ziemlich cool.
+Dialogue: 0,0:04:52.00,0:04:52.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_168,Lianne stürzte sich auf mich.
+Dialogue: 0,0:04:53.00,0:04:53.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_169,Ich wusste, dass sie nichts Böses im Sinn hatte, aber ich konnte nicht anders, als instinktiv einen Schritt zurückzuweichen.
+Dialogue: 0,0:04:54.00,0:04:54.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_170,Nachdem du das gesagt hast,
+Dialogue: 0,0:04:55.00,0:04:55.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_171,werde ich dieses Projekt auf jeden Fall durchziehen.
+Dialogue: 0,0:04:56.00,0:04:56.90,ClearMain,Chris,0,0,0,CommentDialogueTable|60007_6_C3,...
+Dialogue: 0,0:04:57.00,0:04:57.90,ClearMain,Chris,0,0,0,DialogueTable|60007_173,Okay, kannst du mich jetzt loslassen?
+Dialogue: 0,0:04:58.00,0:04:58.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_174,Lass mich dich noch ein bisschen umarmen …
+Dialogue: 0,0:04:59.00,0:04:59.90,ClearMain,Chris,0,0,0,DialogueTable|60007_175,Nur ein bisschen.
+Dialogue: 0,0:05:00.00,0:05:00.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_176,Nuuur ein bisschen.
+Dialogue: 0,0:05:01.00,0:05:01.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_177,Mit Tränen in den Augen
+Dialogue: 0,0:05:02.00,0:05:02.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_178,ging Lianne, nachdem sie ein großes Versprechen abgegeben und noch ein bisschen gejammert hatte.
+Dialogue: 0,0:05:03.00,0:05:03.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60007_179,Sie musste ihren eigenen Schmerz tragen, den niemand sah.
+Dialogue: 0,0:05:04.00,0:05:04.90,ClearMain,Chris,0,0,0,DialogueTable|60007_180,Wie spät es schon ist … Ich sollte ins Café gehen, in dem Pray arbeitet, und etwas zu Mittag essen.

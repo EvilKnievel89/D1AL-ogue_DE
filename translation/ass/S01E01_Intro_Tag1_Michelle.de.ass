@@ -1,0 +1,114 @@
+[Script Info]
+Title: S01E01_Intro_Tag1_Michelle
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_1,Hey, Michelle.
+Dialogue: 0,0:00:01.00,0:00:01.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_2,Wie geht's dir da drüben?
+Dialogue: 0,0:00:02.00,0:00:02.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_3,Ich schätze, ich habe mich inzwischen etwas an das Leben in Chroma City gewöhnt.
+Dialogue: 0,0:00:03.00,0:00:03.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_4,Statt nach dem Sonnenaufgang messe ich meine Tage jetzt an den Meldungen „Zahlung genehmigt“ und „Guthaben unzureichend“.
+Dialogue: 0,0:00:04.00,0:00:04.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_5,Das Licht, das einst der Sonne gehörte, gehört jetzt Sunshine Corp, und die meisten Dinge werden mit einem Preisschild geregelt.
+Dialogue: 0,0:00:05.00,0:00:05.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_6,Ich wünschte, Bier wäre das Einzige, wofür ich zahlen müsste …
+Dialogue: 0,0:00:06.00,0:00:06.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_7,Ach ja. Der Bierpreis ist neulich schon wieder gestiegen.
+Dialogue: 0,0:00:07.00,0:00:07.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_8,Alles wird teurer. Na ja, bis auf zwei Dinge: die Sonne und mein Einkommen.
+Dialogue: 0,0:00:08.00,0:00:08.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_9,Trotzdem, Michelle …
+Dialogue: 0,0:00:09.00,0:00:09.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_10,In dieser Stadt kostet alles ein Vermögen, nur ein Arbeitstag nicht.
+Dialogue: 0,0:00:10.00,0:00:10.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_11,Zumindest beim Arbeiten finde ich noch etwas Ruhe.
+Dialogue: 0,0:00:11.00,0:00:11.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_12,Als ich nach unserer Trennung hierher getrieben bin,
+Dialogue: 0,0:00:12.00,0:00:12.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_13,dachte ich, meine Unfähigkeit sei schuld daran.
+Dialogue: 0,0:00:13.00,0:00:13.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_14,Und dieser Gedanke zieht mich immer noch runter.
+Dialogue: 0,0:00:14.00,0:00:14.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_15,Viel hat sich seitdem wohl nicht verändert.
+Dialogue: 0,0:00:15.00,0:00:15.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_16,Aber solange ich hier meine Hände beschäftige,
+Dialogue: 0,0:00:16.00,0:00:16.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_17,… lässt diese Last nach, wenn auch nur für einen Moment.
+Dialogue: 0,0:00:17.00,0:00:17.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_18,Nicht mal die Bezahlung spielt dabei eine Rolle.
+Dialogue: 0,0:00:18.00,0:00:18.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_19,In diesen wenigen Stunden weiß ich einfach, dass ich nicht zusammenbreche.
+Dialogue: 0,0:00:19.00,0:00:19.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_20,Die Menschen, denen ich begegne, die Gespräche, die wir führen,
+Dialogue: 0,0:00:20.00,0:00:20.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_21,und alles, was ich dabei empfunden habe …
+Dialogue: 0,0:00:21.00,0:00:21.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_22,Von alldem will ich dir erzählen.
+Dialogue: 0,0:00:22.00,0:00:22.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_23,Im zweiten Stock eines Gebäudes im Geschäftsviertel, abseits des Stadtzentrums.
+Dialogue: 0,0:00:23.00,0:00:23.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_24,Reparaturklinik D1AL-ogue.
+Dialogue: 0,0:00:24.00,0:00:24.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_25,Ein Ort, an dem das Summen der Stadt nach ein paar Worten Smalltalk verstummt.
+Dialogue: 0,0:00:25.00,0:00:25.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_26,Mäkel nicht an meiner Namensgebung herum.
+Dialogue: 0,0:00:26.00,0:00:26.90,CutScene,Chris (Monolog),0,0,0,CutScene|30001_27,Denn in Chroma City stellen sie dir einen Kostenvoranschlag für ein gebrochenes Herz aus und stellen dir die Reparatur in Rechnung.
+Dialogue: 0,0:00:27.00,0:00:27.90,StartMain,Michelle,0,0,0,DialogueTable|60000_1,Lahm.
+Dialogue: 0,0:00:28.00,0:00:28.90,StartMain,Chris,0,0,0,DialogueTable|60000_2,Hm …
+Dialogue: 0,0:00:29.00,0:00:29.90,StartMain,Michelle,0,0,0,DialogueTable|60000_3,Ehrlich, der Name ist einfach lahm.
+Dialogue: 0,0:00:30.00,0:00:30.90,StartMain,Michelle,0,0,0,DialogueTable|60000_4,Und, Chris, hast du schon ein paar Dosen intus?
+Dialogue: 0,0:00:31.00,0:00:31.90,StartMain,Michelle,0,0,0,DialogueTable|60000_5,Was soll das sentimentale Gesülze so früh am Morgen?
+Dialogue: 0,0:00:32.00,0:00:32.90,StartMain,Chris,0,0,0,DialogueTable|60000_6,Ich hab nur an einen Kunden von gestern gedacht.
+Dialogue: 0,0:00:33.00,0:00:33.90,StartMain,Chris,0,0,0,DialogueTable|60000_7,Konnte nicht anders.
+Dialogue: 0,0:00:34.00,0:00:34.90,StartMain,Chris,0,0,0,DialogueTable|60000_8,Der Typ kam rein und meinte, sein tragbarer Virtual-Chip hänge.
+Dialogue: 0,0:00:35.00,0:00:35.90,StartMain,Chris,0,0,0,DialogueTable|60000_9,Ich schätze, er ist mitten in der Reparatur hochgefahren.
+Dialogue: 0,0:00:36.00,0:00:36.90,StartMain,Chris,0,0,0,DialogueTable|60000_10,Und er ist wie verrückt durch den Raum gerannt und hat einen Ledergürtel nach mir geschwungen.
+Dialogue: 0,0:00:37.00,0:00:37.90,StartMain,Chris,0,0,0,DialogueTable|60000_11,Seinetwegen wäre auch meine D1AL-Ausrüstung fast draufgegangen.
+Dialogue: 0,0:00:38.00,0:00:38.90,StartMain,Michelle,0,0,0,DialogueTable|60000_12,Das kommt von deinem zwielichtigen und lahmen Namen.
+Dialogue: 0,0:00:39.00,0:00:39.90,StartMain,Michelle,0,0,0,DialogueTable|60000_13,Kein Wunder, dass du nur solche Kunden bekommst.
+Dialogue: 0,0:00:40.00,0:00:40.90,StartMain,Chris,0,0,0,DialogueTable|60000_14,Ha.
+Dialogue: 0,0:00:41.00,0:00:41.90,StartMain,Chris,0,0,0,DialogueTable|60000_15,Sag nicht …
+Dialogue: 0,0:00:42.00,0:00:42.90,StartMain,Chris,0,0,0,DialogueTable|60000_16,Du redest von der „Oase“ des neonumfluteten Chroma City –
+Dialogue: 0,0:00:43.00,0:00:43.90,StartMain,Chris,0,0,0,DialogueTable|60000_17,der Reparaturklinik D1AL-ogue?
+Dialogue: 0,0:00:44.00,0:00:44.90,StartMain,Chris,0,0,0,DialogueTable|60000_18,Unsere Reparaturklinik ist ein Rundum-Zufluchtsort. Wir bieten nicht nur schnelle, präzise Reparaturen,
+Dialogue: 0,0:00:45.00,0:00:45.90,StartMain,Chris,0,0,0,DialogueTable|60000_19,sondern auch Seelenfrieden durch entspannende Gespräche.
+Dialogue: 0,0:00:46.00,0:00:46.90,StartMain,Michelle,0,0,0,DialogueTable|60000_20,Genau wegen dieses zwielichtigen Namens drehen E.V.Es sofort um und lassen sich woanders reparieren.
+Dialogue: 0,0:00:47.00,0:00:47.90,StartMain,Michelle,0,0,0,DialogueTable|60000_21,„Seelenfrieden“ für E.V.Es? Das wirkt weniger zwielichtig als gruselig.
+Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Michelle,0,0,0,DialogueTable|60000_22,Ist das der Grund, warum du dir angewöhnt hast,
+Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Michelle,0,0,0,DialogueTable|60000_23,E.V.Es dazu zu bringen, sich einzunässen?
+Dialogue: 0,0:00:50.00,0:00:50.90,StartMain,Chris,0,0,0,DialogueTable|60000_24,Fürs Protokoll: Es ist das Ablassen von überhitztem Kühlmittel.
+Dialogue: 0,0:00:51.00,0:00:51.90,StartMain,Chris,0,0,0,DialogueTable|60000_25,Deine Formulierung ist irreführend.
+Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Michelle,0,0,0,DialogueTable|60000_26,Ist doch dasselbe in Grün.
+Dialogue: 0,0:00:53.00,0:00:53.90,StartMain,Chris,0,0,0,DialogueTable|60000_27,Was meinst du mit „dasselbe in Grün“?
+Dialogue: 0,0:00:54.00,0:00:54.90,StartMain,Chris,0,0,0,DialogueTable|60000_28,Niemand sonst drückt sich so aus.
+Dialogue: 0,0:00:55.00,0:00:55.90,StartMain,Michelle,0,0,0,DialogueTable|60000_29,Hör auf, so früh am Morgen Mist zu labern, und check endlich dein Zeug.
+Dialogue: 0,0:00:56.00,0:00:56.90,StartMain,Michelle,0,0,0,DialogueTable|60000_30,Machst du heute nicht auf?
+Dialogue: 0,0:00:57.00,0:00:57.90,StartMain,Chris,0,0,0,DialogueTable|60000_31,Komm schon, früher hast du solche Geschichten geliebt.
+Dialogue: 0,0:00:58.00,0:00:58.90,StartMain,Chris,0,0,0,DialogueTable|60000_32,Dabei hast du als Kind ununterbrochen davon geredet, eine E.V.E sein zu wollen.
+Dialogue: 0,0:00:59.00,0:00:59.90,StartMain,Michelle,0,0,0,DialogueTable|60000_33,Halt die Klappe.
+Dialogue: 0,0:01:00.00,0:01:00.90,StartMain,Michelle,0,0,0,DialogueTable|60000_34,Du hast wohl immer noch einen fiesen Kater von gestern.
+Dialogue: 0,0:01:01.00,0:01:01.90,StartMain,Michelle,0,0,0,DialogueTable|60000_35,Und …
+Dialogue: 0,0:01:02.00,0:01:02.90,StartMain,Michelle,0,0,0,DialogueTable|60000_36,wenn dir E.V.Es so am Herzen liegen,
+Dialogue: 0,0:01:03.00,0:01:03.90,StartMain,Michelle,0,0,0,DialogueTable|60000_37,warum ersetzt du dann nicht die veraltete Ausrüstung in deiner Reparaturklinik?
+Dialogue: 0,0:01:04.00,0:01:04.90,StartMain,Michelle,0,0,0,DialogueTable|60000_38,Du nutzt immer noch ein D1AL, obwohl das D5AL längst draußen ist. Das ist ihnen gegenüber einfach respektlos.
+Dialogue: 0,0:01:05.00,0:01:05.90,StartMain,Chris,0,0,0,DialogueTable|60000_39,Du übersiehst, dass DXAL-Geräte auf Diagnose spezialisiert sind.
+Dialogue: 0,0:01:06.00,0:01:06.90,StartMain,Chris,0,0,0,DialogueTable|60000_40,Die Diagnose war schon bei der 1. Generation so solide,
+Dialogue: 0,0:01:07.00,0:01:07.90,StartMain,Chris,0,0,0,DialogueTable|60000_41,dass sich die Werte auch mit der 5. nicht drastisch verbessert haben.
+Dialogue: 0,0:01:08.00,0:01:08.90,StartMain,Michelle,0,0,0,DialogueTable|60000_42,Und was ist dann der Unterschied?
+Dialogue: 0,0:01:09.00,0:01:09.90,StartMain,Chris,0,0,0,DialogueTable|60000_43,Die größten Fortschritte liegen in der Unit-Synthese.
+Dialogue: 0,0:01:10.00,0:01:10.90,StartMain,Chris,0,0,0,DialogueTable|60000_44,Zum Beispiel ein flüssigerer Syntheseprozess, Übertakten synthetisierter Teile, Firmware-Mods …
+Dialogue: 0,0:01:11.00,0:01:11.90,StartMain,Chris,0,0,0,DialogueTable|60000_45,Aber!
+Dialogue: 0,0:01:12.00,0:01:12.90,StartMain,Chris,0,0,0,DialogueTable|60000_46,Die schwächeren Syntheseleistungen des D1AL gleiche ich allein mit purem Fingerspitzengefühl aus.
+Dialogue: 0,0:01:13.00,0:01:13.90,StartMain,Michelle,0,0,0,DialogueTable|60000_47,Das ist tatsächlich ziemlich beeindruckend …
+Dialogue: 0,0:01:14.00,0:01:14.90,StartMain,Chris,0,0,0,DialogueTable|60000_48,Aber der Hauptgrund ist: Wenn ich auf eine neuere Generation umsteige …
+Dialogue: 0,0:01:15.00,0:01:15.90,StartMain,Michelle,0,0,0,DialogueTable|60000_49,Wieso? Fällt da eine zusätzliche Abogebühr an?
+Dialogue: 0,0:01:16.00,0:01:16.90,StartMain,Chris,0,0,0,DialogueTable|60000_50,… dann wäre es völlig sinnlos gewesen, den Laden als „D1AL-ogue“ anzumelden.
+Dialogue: 0,0:01:17.00,0:01:17.90,StartMain,Michelle,0,0,0,DialogueTable|60000_51,…
+Dialogue: 0,0:01:18.00,0:01:18.90,StartMain,Chris,0,0,0,DialogueTable|60000_52,Du verstehst es einfach nicht.
+Dialogue: 0,0:01:19.00,0:01:19.90,StartMain,Chris,0,0,0,DialogueTable|60000_53,Ein bisschen Witz haucht einer müden Seele Leben ein, und außerdem …
+Dialogue: 0,0:01:20.00,0:01:20.90,StartMain,Michelle,0,0,0,DialogueTable|60000_54,Wenn man bedenkt, dass dieser seltsam benannte Laden
+Dialogue: 0,0:01:21.00,0:01:21.90,StartMain,Michelle,0,0,0,DialogueTable|60000_55,immer noch im Geschäft ist,
+Dialogue: 0,0:01:22.00,0:01:22.90,StartMain,Michelle,0,0,0,DialogueTable|60000_56,dann sind deine Fähigkeiten wohl echt.
+Dialogue: 0,0:01:23.00,0:01:23.90,StartMain,Michelle,0,0,0,DialogueTable|60000_57,Dann.
+Dialogue: 0,0:01:24.00,0:01:24.90,StartMain,Michelle,0,0,0,DialogueTable|60000_58,Dann dürfte es ein Kinderspiel sein, wenn ich dir jetzt gleich den <bounce a=0.2, f=3.0><color=#FFFE01>Standard-Level-1-DXAL-Übungsreparatur-Test</color></bounce> aufdrücke, oder?!?!
+Dialogue: 0,0:01:25.00,0:01:25.90,StartMain,Chris,0,0,0,DialogueTable|60000_59,Äh …
+Dialogue: 0,0:01:26.00,0:01:26.90,StartMain,Chris,0,0,0,DialogueTable|60000_60,Hm …?
+Dialogue: 0,0:01:27.00,0:01:27.90,StartMain,Chris,0,0,0,DialogueTable|60000_61,[Übungsreparatur] Beweise Michelle, dass sie dein Können falsch einschätzt
+Dialogue: 0,0:01:28.00,0:01:28.90,ClearMain,Chris,0,0,0,DialogueTable|60001_1,Erledigt.
+Dialogue: 0,0:01:29.00,0:01:29.90,ClearMain,Chris,0,0,0,DialogueTable|60001_2,Zufrieden?
+Dialogue: 0,0:01:30.00,0:01:30.90,ClearMain,Michelle,0,0,0,DialogueTable|60001_3,Echt beeindruckend …
+Dialogue: 0,0:01:31.00,0:01:31.90,ClearMain,Michelle,0,0,0,DialogueTable|60001_4,Ehrlich, ich wusste, dass du eine Reparaturklinik betreibst, aber nicht, dass du so gut bist.
+Dialogue: 0,0:01:32.00,0:01:32.90,ClearMain,Michelle,0,0,0,DialogueTable|60001_5,Ich weiß, es ist nur ein Level-1-Test, aber selbst mit der neuesten D5AL-Ausrüstung ginge das nicht so schnell.
+Dialogue: 0,0:01:33.00,0:01:33.90,ClearMain,Michelle,0,0,0,DialogueTable|60001_6,Ich sehe dich in einem neuen Licht.
+Dialogue: 0,0:01:34.00,0:01:34.90,ClearMain,Chris,0,0,0,DialogueTable|60001_7,Ach, das ist nichts.
+Dialogue: 0,0:01:35.00,0:01:35.90,ClearMain,Chris,0,0,0,DialogueTable|60001_8,Wenn ich will, dass E.V.Es weiter in diese „seltsam benannte“ Klinik kommen, wie du sagst,
+Dialogue: 0,0:01:36.00,0:01:36.90,ClearMain,Chris,0,0,0,DialogueTable|60001_9,darf ich mir keinen einzigen Patzer leisten.
+Dialogue: 0,0:01:37.00,0:01:37.90,ClearMain,Chris,0,0,0,DialogueTable|60001_10,Der erste Eindruck zählt überall am meisten.
+Dialogue: 0,0:01:38.00,0:01:38.90,ClearMain,Michelle,0,0,0,DialogueTable|60001_11,…
+Dialogue: 0,0:01:39.00,0:01:39.90,ClearMain,Michelle,0,0,0,DialogueTable|60001_12,Wenn dir der erste Eindruck so wichtig ist, warum wirfst du dann nicht diesen zwielichtigen Slogan an der Eingangstür weg?
+Dialogue: 0,0:01:40.00,0:01:40.90,ClearMain,Chris,0,0,0,DialogueTable|60001_13,Außerdem müssen sie sich bei der Reparatur wohlfühlen, damit sie sich entspannen und öffnen können.
+Dialogue: 0,0:01:41.00,0:01:41.90,ClearMain,Michelle,0,0,0,DialogueTable|60001_14,… Deine gruselige Philosophie werde ich nie verstehen.
+Dialogue: 0,0:01:42.00,0:01:42.90,ClearMain,Chris,0,0,0,DialogueTable|60001_15,Wie auch immer, ich sollte jetzt wohl den Laden aufmachen.
+Dialogue: 0,0:01:43.00,0:01:43.90,ClearMain,Michelle,0,0,0,DialogueTable|60001_16,Alles klar, bis später.

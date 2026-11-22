@@ -1,0 +1,255 @@
+[Script Info]
+Title: S01E03_Tag1_Orca
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_1,Eine E.V.E stand vor mir, obwohl ich kein Geräusch der sich öffnenden Tür gehört hatte.
+Dialogue: 0,0:00:01.00,0:00:01.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_2,Trotz ihrer höflichen Art und des angenehmen ersten Eindrucks konnte ich mich nicht recht entspannen.
+Dialogue: 0,0:00:02.00,0:00:02.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_3,Alle TN-DLS-Modelle sind staatliche E.V.Es, meist erkennbar an ihrem Abteilungsemblem.
+Dialogue: 0,0:00:03.00,0:00:03.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_4,Aber die E.V.E vor mir trug kein Emblem, und es gab auch sonst keine Möglichkeit, ihre Zugehörigkeit zu bestätigen.
+Dialogue: 0,0:00:04.00,0:00:04.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_5,Natürlich war in Chroma City nichts „Offizielles“ besonders vertrauenswürdig,
+Dialogue: 0,0:00:05.00,0:00:05.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_6,aber auf dieses Emblem reagierte ich ungewöhnlich empfindlich.
+Dialogue: 0,0:00:06.00,0:00:06.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_7,Pray meint, ich würde dieses Zeichen mit den „Augen eines Sünders“ ansehen,
+Dialogue: 0,0:00:07.00,0:00:07.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_8,was wohl nicht die beste Art ist, Kundschaft zu behandeln.
+Dialogue: 0,0:00:08.00,0:00:08.90,StartMain,Chris,0,0,0,DialogueTable|60004_9,Bevor wir anfangen: Wenn ich fragen darf, worauf bist du eigentlich spezialisiert?
+Dialogue: 0,0:00:09.00,0:00:09.90,StartMain,Chris,0,0,0,DialogueTable|60004_10,Wenn du ein Militärmodell bist, ist private Wartung illegal.
+Dialogue: 0,0:00:10.00,0:00:10.90,StartMain,Orca,0,0,0,DialogueTable|60004_11,Ah, das konntest du wohl nicht erkennen, weil ich heute dienstfrei bin und meine Schutzausrüstung nicht trage.
+Dialogue: 0,0:00:11.00,0:00:11.90,StartMain,Orca,0,0,0,DialogueTable|60004_12,Ich bin Orca O. Ohara von der Chroma City Urban Recovery Agency.
+Dialogue: 0,0:00:12.00,0:00:12.90,StartMain,Orca,0,0,0,DialogueTable|60004_13,Nenn mich einfach Orca.
+Dialogue: 0,0:00:13.00,0:00:13.90,StartMain,Orca,0,0,0,DialogueTable|60004_14,Obwohl ich für Rettungs- und Katastropheneinsätze entwickelt wurde,
+Dialogue: 0,0:00:14.00,0:00:14.90,StartMain,Orca,0,0,0,DialogueTable|60004_15,habe ich wie andere E.V.Es vielseitige Funktionen, um das Unbehagen in der Öffentlichkeit zu verringern.
+Dialogue: 0,0:00:15.00,0:00:15.90,StartMain,Chris,0,0,0,DialogueTable|60004_16,Rettung … Du siehst für jemanden, der an rauen Einsatzorten eingesetzt wird, ziemlich gewöhnlich aus.
+Dialogue: 0,0:00:16.00,0:00:16.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_17,Eigentlich sah sie alles andere als gewöhnlich aus.
+Dialogue: 0,0:00:17.00,0:00:17.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_18,Auf Rettung spezialisierte TN-DLS-Modelle sind darauf ausgelegt, konventionell schön auszusehen, um Unbehagen zu minimieren.
+Dialogue: 0,0:00:18.00,0:00:18.90,StartMain,Orca,0,0,0,DialogueTable|60004_19,Das liegt daran, dass wir uns meist auf externe Ausrüstung verlassen.
+Dialogue: 0,0:00:19.00,0:00:19.90,StartMain,Orca,0,0,0,DialogueTable|60004_20,Das Designmotto unseres Modells lautet im Grunde „für alles gebaut“.
+Dialogue: 0,0:00:20.00,0:00:20.90,StartMain,Orca,0,0,0,DialogueTable|60004_21,Anders als mein Aussehen vermuten lässt, habe ich eigentlich jede Menge Befestigungspunkte für externe Ausrüstung.
+Dialogue: 0,0:00:21.00,0:00:21.90,StartMain,Orca,0,0,0,DialogueTable|60004_22,Das hier ist für das Kraft-Exoskelett beim Eindringen, das hier für das Schubtriebwerk, und unten am Schwanz …
+Dialogue: 0,0:00:22.00,0:00:22.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_23,Es war ziemlich peinlich, ihr dabei zuzusehen, wie sie hier und da ihre Kleidung hochschob, um ihre Specs zu zeigen,
+Dialogue: 0,0:00:23.00,0:00:23.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_24,doch Orca schien völlig ahnungslos und plapperte minutenlang aufgeregt weiter.
+Dialogue: 0,0:00:24.00,0:00:24.90,StartMain,Orca,0,0,0,DialogueTable|60004_25,Was meinst du?
+Dialogue: 0,0:00:25.00,0:00:25.90,StartMain,Chris,0,0,0,DialogueTable|60004_26,Ich kann definitiv sagen, dass du nicht beim Militär bist.
+Dialogue: 0,0:00:26.00,0:00:26.90,StartMain,Chris,0,0,0,DialogueTable|60004_27,Außerdem …
+Dialogue: 0,0:00:27.00,0:00:27.90,StartMain,Orca,0,0,0,DialogueTable|60004_28,Außerdem …?
+Dialogue: 0,0:00:28.00,0:00:28.90,StartMain,Chris,0,0,0,DialogueTable|60004_29,…Schon gut. Ich wollte mich nur für meine Unhöflichkeit vorhin entschuldigen. Ich war etwas überrumpelt.
+Dialogue: 0,0:00:29.00,0:00:29.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_30,Natürlich stimmte das nicht.
+Dialogue: 0,0:00:30.00,0:00:30.90,StartMain,Orca,0,0,0,DialogueTable|60004_31,Echt? Du wirkst auf mich gar nicht so unhöflich.
+Dialogue: 0,0:00:31.00,0:00:31.90,StartMain,Chris,0,0,0,DialogueTable|60004_32,Schließlich sind Leute zu staatlichen E.V.Es selten nett.
+Dialogue: 0,0:00:32.00,0:00:32.90,StartMain,Chris,0,0,0,DialogueTable|60004_33,Falls du dachtest, ich verhalte mich wie alle anderen, ist das normal.
+Dialogue: 0,0:00:33.00,0:00:33.90,StartMain,Orca,0,0,0,DialogueTable|60004_34,Das ergibt Sinn …
+Dialogue: 0,0:00:34.00,0:00:34.90,StartMain,Chris,0,0,0,DialogueTable|60004_35,Wegen welcher Wartung bist du hier?
+Dialogue: 0,0:00:35.00,0:00:35.90,StartMain,Orca,0,0,0,DialogueTable|60004_36,Ich wurde erst kürzlich hierher versetzt, deshalb muss ich bis morgen eine Inspektionsbestätigung einreichen.
+Dialogue: 0,0:00:36.00,0:00:36.90,StartMain,Orca,0,0,0,DialogueTable|60004_37,Es dürfte keine größeren Probleme geben, also dauert es nicht lange.
+Dialogue: 0,0:00:37.00,0:00:37.90,StartMain,Chris,0,0,0,DialogueTable|60004_38,Sieht so aus … aber man weiß erst Bescheid, wenn man nachsieht.
+Dialogue: 0,0:00:38.00,0:00:38.90,StartMain,Chris,0,0,0,DialogueTable|60004_39,Ich fahre die Wartungskonsole hoch. Gib mir einen Moment.
+Dialogue: 0,0:00:39.00,0:00:39.90,StartMain,Chris,0,0,0,DialogueTable|60004_40,...
+Dialogue: 0,0:00:40.00,0:00:40.90,StartMain,Orca,0,0,0,DialogueTable|60004_41,...
+Dialogue: 0,0:00:41.00,0:00:41.90,StartMain,Chris,0,0,0,DialogueTable|60004_42,...
+Dialogue: 0,0:00:42.00,0:00:42.90,StartMain,Orca,0,0,0,DialogueTable|60004_43,...
+Dialogue: 0,0:00:43.00,0:00:43.90,StartMain,Chris,0,0,0,DialogueTable|60004_44,...
+Dialogue: 0,0:00:44.00,0:00:44.90,StartMain,Orca,0,0,0,DialogueTable|60004_45,Ähm.
+Dialogue: 0,0:00:45.00,0:00:45.90,StartMain,Orca,0,0,0,DialogueTable|60004_46,Vielleicht liegt es daran, dass sich alle auf den Polarnacht-Tag vorbereiten – die Straßen sind so lebendig, nicht wahr?
+Dialogue: 0,0:00:46.00,0:00:46.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_47,Polarnacht-Tag.
+Dialogue: 0,0:00:47.00,0:00:47.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_48,Der ganze Stolz von Chroma City.
+Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_49,Ein Feiertag, den es nur in dieser Stadt gibt, und ein riesiges Fest.
+Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_50,Ich hatte sogar vergessen, dass er schon fast vor der Tür stand.
+Dialogue: 0,0:00:50.00,0:00:50.90,StartMain,Chris,0,0,0,DialogueTable|60004_51,Den Feiertag gibt es nur in dieser Stadt. Warst du früher schon mal zur Besichtigung hier?
+Dialogue: 0,0:00:51.00,0:00:51.90,StartMain,Orca,0,0,0,DialogueTable|60004_52,Hmm …
+Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Chris,0,0,0,DialogueTable|60004_53,Wenn es schwer fällt, darüber zu reden, musst du es mir nicht erzählen.
+Dialogue: 0,0:00:53.00,0:00:53.90,StartMain,Orca,0,0,0,DialogueTable|60004_54,Nein, schon gut.
+Dialogue: 0,0:00:54.00,0:00:54.90,StartMain,Orca,0,0,0,DialogueTable|60004_55,Vor ein paar Jahren war ich als Verstärkung in Chroma City.
+Dialogue: 0,0:00:55.00,0:00:55.90,StartMain,Orca,0,0,0,DialogueTable|60004_56,Es war zufällig gerade Polarnacht-Tag.
+Dialogue: 0,0:00:56.00,0:00:56.90,StartMain,Chris,0,0,0,DialogueTable|60004_57,Sogar aus Nachbarstädten wurde Verstärkung angefordert?
+Dialogue: 0,0:00:57.00,0:00:57.90,StartMain,Orca,0,0,0,DialogueTable|60004_58,Ja. Damals war ich in Luminance City stationiert, südlich von Chroma City.
+Dialogue: 0,0:00:58.00,0:00:58.90,StartMain,Orca,0,0,0,DialogueTable|60004_59,Es herrschte das reinste Chaos.
+Dialogue: 0,0:00:59.00,0:00:59.90,StartMain,Orca,0,0,0,DialogueTable|60004_60,Die Gewalt und das Durcheinander mitten im Festjubel waren schockierend, selbst für mich.
+Dialogue: 0,0:01:00.00,0:01:00.90,StartMain,Orca,0,0,0,DialogueTable|60004_61,Ein Holo-Panorama, das den Himmel überzog, und direkt darunter eine Mischung aus Rauch und Explosionen …
+Dialogue: 0,0:01:01.00,0:01:01.90,StartMain,Chris,0,0,0,DialogueTable|60004_62,Muss schrecklich gewesen sein.
+Dialogue: 0,0:01:02.00,0:01:02.90,StartMain,Orca,0,0,0,DialogueTable|60004_63,Ja. Schreie, die sich mit einer wunderschönen Nachtlandschaft und hoffnungsvoller Musik vermischen … es ist ziemlich schockierend.
+Dialogue: 0,0:01:03.00,0:01:03.90,StartMain,Orca,0,0,0,DialogueTable|60004_64,Die Show lief einfach weiter, als wäre ihr die Tragödie gleichgültig …
+Dialogue: 0,0:01:04.00,0:01:04.90,StartMain,Orca,0,0,0,DialogueTable|60004_65,und die meisten in der Menge waren zu berauscht vom Fest, um überhaupt mitzubekommen, was los war.
+Dialogue: 0,0:01:05.00,0:01:05.90,StartMain,Orca,0,0,0,DialogueTable|60004_66,Sogar die Veranstalter, die von dem Vorfall wussten, spielten einfach bei der Stimmung mit.
+Dialogue: 0,0:01:06.00,0:01:06.90,StartMain,Chris,0,0,0,DialogueTable|60004_67,Das lag wahrscheinlich am Budget.
+Dialogue: 0,0:01:07.00,0:01:07.90,StartMain,Chris,0,0,0,DialogueTable|60004_68,Das Holo-Panorama namens „Chromatic Zenith“ ist der ganze Stolz von Chroma City.
+Dialogue: 0,0:01:08.00,0:01:08.90,StartMain,Chris,0,0,0,DialogueTable|60004_69,Angeblich soll es den Bürgern ein Zugehörigkeitsgefühl geben,
+Dialogue: 0,0:01:09.00,0:01:09.90,StartMain,Chris,0,0,0,DialogueTable|60004_70,aber man steckt ein astronomisches Budget hinein, weil es riesige Tourismuseinnahmen bringt.
+Dialogue: 0,0:01:10.00,0:01:10.90,StartMain,Chris,0,0,0,DialogueTable|60004_71,Es war schon viel zu viel Geld versenkt worden, um wegen eines Zwischenfalls abzusagen.
+Dialogue: 0,0:01:11.00,0:01:11.90,StartMain,Orca,0,0,0,DialogueTable|60004_72,Am Ende geht es also nur ums Geld …
+Dialogue: 0,0:01:12.00,0:01:12.90,StartMain,Chris,0,0,0,DialogueTable|60004_73,Nimm Budget und Entschädigungen raus, und in Chroma bleiben nur die Patienten übrig.
+Dialogue: 0,0:01:13.00,0:01:13.90,StartMain,Chris,0,0,0,DialogueTable|60004_74,Nicht dass es mir gefällt, aber es ist die unvermeidliche Realität.
+Dialogue: 0,0:01:14.00,0:01:14.90,StartMain,Orca,0,0,0,DialogueTable|60004_75,...
+Dialogue: 0,0:01:15.00,0:01:15.90,StartMain,Orca,0,0,0,DialogueTable|60004_76,Das ist traurig.
+Dialogue: 0,0:01:16.00,0:01:16.90,StartMain,Chris,0,0,0,DialogueTable|60004_77,Tut mir leid. Ich wollte nicht so deprimierend klingen.
+Dialogue: 0,0:01:17.00,0:01:17.90,StartMain,Orca,0,0,0,DialogueTable|60004_78,…Es ist eben die Realität.
+Dialogue: 0,0:01:18.00,0:01:18.90,StartMain,Chris,0,0,0,DialogueTable|60004_79,Nichts ist langweiliger, als über die Realität zu reden.
+Dialogue: 0,0:01:19.00,0:01:19.90,StartMain,Chris,0,0,0,DialogueTable|60004_80,Die Realität erleben wir jeden einzelnen Tag, ob wir wollen oder nicht.
+Dialogue: 0,0:01:20.00,0:01:20.90,StartMain,Chris,0,0,0,DialogueTable|60004_81,Selbst die beste Serie wird langweilig, wenn man sie hundertmal gesehen hat,
+Dialogue: 0,0:01:21.00,0:01:21.90,StartMain,Chris,0,0,0,DialogueTable|60004_82,also muss eine Geschichte über einen Tag, den man tausende Male erlebt hat, zwangsläufig öde sein.
+Dialogue: 0,0:01:22.00,0:01:22.90,StartMain,Chris,0,0,0,DialogueTable|60004_83,Es ist nur natürlich, dass man sich eher zu Geschichten über Urlaubsabenteuer oder Spontankauf-Figuren hingezogen fühlt,
+Dialogue: 0,0:01:23.00,0:01:23.90,StartMain,Chris,0,0,0,DialogueTable|60004_84,als zu Neon-Shine-Abos oder Nebenkostenabrechnungen.
+Dialogue: 0,0:01:24.00,0:01:24.90,StartMain,Orca,0,0,0,DialogueTable|60004_85,Rational betrachtet ergibt das keinen Sinn, aber aus Erfahrung kann ich es gut nachvollziehen.
+Dialogue: 0,0:01:25.00,0:01:25.90,StartMain,Orca,0,0,0,DialogueTable|60004_86,Die meisten Hobbys sind schließlich nur eine Flucht aus dem Alltag.
+Dialogue: 0,0:01:26.00,0:01:26.90,StartMain,Chris,0,0,0,DialogueTable|60004_87,Darum drehen die Leute am Polarnacht-Tag durch.
+Dialogue: 0,0:01:27.00,0:01:27.90,StartMain,Chris,0,0,0,DialogueTable|60004_88,Genauso die Touristen, die von der anderen Seite des Globus anreisen, um das Chromatic Zenith zu sehen.
+Dialogue: 0,0:01:28.00,0:01:28.90,StartMain,Chris,0,0,0,DialogueTable|60004_89,Weil es nichts gibt, worauf man sich morgen freuen kann, und sie die Realität leid sind,
+Dialogue: 0,0:01:29.00,0:01:29.90,StartMain,Chris,0,0,0,DialogueTable|60004_90,verschließen sie Augen und Ohren und zwingen sich zu schreien, dass sie gerade glücklich sind.
+Dialogue: 0,0:01:30.00,0:01:30.90,StartMain,Chris,0,0,0,DialogueTable|60004_91,Vor dem Schmerz wegzulaufen …
+Dialogue: 0,0:01:31.00,0:01:31.90,StartMain,Chris,0,0,0,DialogueTable|60004_92,ist ein ganz grundlegender menschlicher Instinkt.
+Dialogue: 0,0:01:32.00,0:01:32.90,StartMain,Orca,0,0,0,DialogueTable|60004_93,…?
+Dialogue: 0,0:01:33.00,0:01:33.90,StartMain,Chris,0,0,0,DialogueTable|60004_94,Ups, ich klinge so knarzig wie mein Dial. Null von zehn Punkten für die Verkaufsmasche, oder?
+Dialogue: 0,0:01:34.00,0:01:34.90,StartMain,Orca,0,0,0,DialogueTable|60004_95,Aber manchmal ist ein bisschen Knarzen genau das, was einen lebendig fühlen lässt. Ob Maschine oder Mensch.
+Dialogue: 0,0:01:35.00,0:01:35.90,StartMain,Orca,0,0,0,DialogueTable|60004_96,Moment … Du machst die Wartung wirklich mit einem Dial der 1. Generation?
+Dialogue: 0,0:01:36.00,0:01:36.90,StartMain,Chris,0,0,0,DialogueTable|60004_97,Mach dir nicht zu viele Sorgen.
+Dialogue: 0,0:01:37.00,0:01:37.90,StartMain,Chris,0,0,0,DialogueTable|60004_98,Ich habe TN-DLS-Modelle mit diesem klobigen Freund schon oft „sicher“ repariert.
+Dialogue: 0,0:01:38.00,0:01:38.90,StartMain,Orca,0,0,0,DialogueTable|60004_99,Warum klingt das Wort „sicher“ so beängstigend …?
+Dialogue: 0,0:01:39.00,0:01:39.90,StartMain,Chris,0,0,0,DialogueTable|60004_100,Oh, das Dial ist bereit. Sollen wir anfangen?
+Dialogue: 0,0:01:40.00,0:01:40.90,StartMain,Auftragstitel,0,0,0,DialogueTable|60004_101,[Orcas Auftrag] Orcas reguläre Inspektion
+Dialogue: 0,0:01:41.00,0:01:41.90,Sub,Orca,0,0,0,DialogueTable|40040_1,Mmh … Ngh … Das ist mein erstes Mal … dass ich so eine Wartung bekomme …
+Dialogue: 0,0:01:42.00,0:01:42.90,Sub,Orca,0,0,0,DialogueTable|40040_2,Ngh, ah … ahh … So habe ich mich noch nie gefühlt … Ich weiß einfach nicht …
+Dialogue: 0,0:01:43.00,0:01:43.90,Repair1,Chris,0,0,0,DialogueTable|40041_1,Ich habe die Einheit für dieses Teil ausgetauscht.
+Dialogue: 0,0:01:44.00,0:01:44.90,Repair1,Chris,0,0,0,DialogueTable|40041_2,Wie fühlt es sich an? Sag Bescheid, falls etwas unangenehm ist oder sich irgendwie komisch anfühlt.
+Dialogue: 0,0:01:45.00,0:01:45.90,Repair1,Orca,0,0,0,DialogueTable|40041_3,Nein, es ist viel angenehmer, als ich dachte. Ich habe mir wohl umsonst Sorgen gemacht.
+Dialogue: 0,0:01:46.00,0:01:46.90,Repair1,Orca,0,0,0,DialogueTable|40041_4,Es fühlt sich sogar geschmeidiger an als beim Dial der 5. Generation.
+Dialogue: 0,0:01:47.00,0:01:47.90,Repair1,Chris,0,0,0,DialogueTable|40041_5,Da bin ich erleichtert.
+Dialogue: 0,0:01:48.00,0:01:48.90,Repair1,Orca,0,0,0,DialogueTable|40041_6,Aber … es fühlt sich irgendwie … kribbelig an? Es pocht immer weiter …
+Dialogue: 0,0:01:49.00,0:01:49.90,Repair1,Orca,0,0,0,DialogueTable|40041_7,Bitte sei etwas sanfter …
+Dialogue: 0,0:01:50.00,0:01:50.90,Repair1,Orca,0,0,0,DialogueTable|40041_8,In diesem Bereich sitzen unglaublich viele Nervensensoren …
+Dialogue: 0,0:01:51.00,0:01:51.90,Repair1,Orca,0,0,0,DialogueTable|40041_9,Darum ist es wirklich …, ahh … empfindlich …
+Dialogue: 0,0:01:52.00,0:01:52.90,Repair1,Chris,0,0,0,DialogueTable|40041_10,Mein Fehler. Ich habe schon lange keine TN-DLS mehr gewartet, bin also etwas eingerostet.
+Dialogue: 0,0:01:53.00,0:01:53.90,Repair1,Chris,0,0,0,DialogueTable|40041_11,Ich versuche, so sanft wie möglich zu sein.
+Dialogue: 0,0:01:54.00,0:01:54.90,Repair2,Chris,0,0,0,DialogueTable|40042_1,Jedes TN-DLS-Modell hat ein eigenes Anhängsel, oder?
+Dialogue: 0,0:01:55.00,0:01:55.90,Repair2,Orca,0,0,0,DialogueTable|40042_2,Stimmt. Jedes Modell ist ja auf einen anderen Zweck spezialisiert.
+Dialogue: 0,0:01:56.00,0:01:56.90,Repair2,Chris,0,0,0,DialogueTable|40042_3,Tierohren und Gelenke mit umgekehrter Beugung habe ich schon gesehen, aber einen Schwanz zum ersten Mal.
+Dialogue: 0,0:01:57.00,0:01:57.90,Repair2,Orca,0,0,0,DialogueTable|40042_4,Alle E.V.Es in meiner Einheit – der Scarlet Response Unit der Urban Recovery Agency – sind TN-DLS-Modelle,
+Dialogue: 0,0:01:58.00,0:01:58.90,Repair2,Orca,0,0,0,DialogueTable|40042_5,und alle haben einen Schwanz wie meinen.
+Dialogue: 0,0:01:59.00,0:01:59.90,Repair2,Chris,0,0,0,DialogueTable|40042_6,Faszinierend. Wofür wird der Schwanz normalerweise benutzt?
+Dialogue: 0,0:02:00.00,0:02:00.90,Repair2,Orca,0,0,0,DialogueTable|40042_7,Meistens räumen wir damit Trümmer weg
+Dialogue: 0,0:02:01.00,0:02:01.90,Repair2,Orca,0,0,0,DialogueTable|40042_8,oder brechen durch Wände, um hineinzukommen.
+Dialogue: 0,0:02:02.00,0:02:02.90,Repair2,Chris,0,0,0,DialogueTable|40042_9,Für ein Teil, das für so grobe Arbeit benutzt wird, hast du vorhin gesagt, es sei empfindlich?
+Dialogue: 0,0:02:03.00,0:02:03.90,Repair2,Orca,0,0,0,DialogueTable|40042_10,Die äußere Panzerung besteht aus einer hochfesten Speziallegierung, im Einsatz ist das also kein Problem.
+Dialogue: 0,0:02:04.00,0:02:04.90,Repair2,Orca,0,0,0,DialogueTable|40042_11,Aber wenn man es für die Wartung öffnet, ist es praktisch schutzlos … Haa …
+Dialogue: 0,0:02:05.00,0:02:05.90,Repair2,Chris,0,0,0,DialogueTable|40042_12,...
+Dialogue: 0,0:02:06.00,0:02:06.90,Repair2,Chris,0,0,0,DialogueTable|40042_13,Tut mir leid. Ich werde vorsichtiger sein.
+Dialogue: 0,0:02:07.00,0:02:07.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60005_1_C3,Wie du gesagt hast, war es nur eine reguläre Inspektion,
+Dialogue: 0,0:02:08.00,0:02:08.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60005_2_C3,und da es keine größeren Probleme gab, hat es gar nicht lange gedauert.
+Dialogue: 0,0:02:09.00,0:02:09.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60005_3_C3,Hä? Dieses komische schwere Gefühl, das mich runtergezogen hat, ist komplett weg!
+Dialogue: 0,0:02:10.00,0:02:10.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60005_4_C3,Nein, es ist sogar noch besser – es fühlt sich so erfrischend an!
+Dialogue: 0,0:02:11.00,0:02:11.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60005_5_C3,Chef, du siehst gerade ziemlich fasziniert aus.
+Dialogue: 0,0:02:12.00,0:02:12.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60005_6_C3,Du hast so ausdrucksstark reagiert, dass ich mich ganz unbemerkt hineinziehen ließ.
+Dialogue: 0,0:02:13.00,0:02:13.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60005_7_C3,Schön, dass du zufrieden bist.
+Dialogue: 0,0:02:14.00,0:02:14.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60005_8_C3,Ich sollte mich bei dir bedanken!
+Dialogue: 0,0:02:15.00,0:02:15.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60005_9_C3,Ich schätze, es ist wie dieser besondere Nervenkitzel, wenn man mit dem Motorrad durch die Innenstadt rast?
+Dialogue: 0,0:02:16.00,0:02:16.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60005_10_C3,Mit dem Wind in den Haaren durch Chroma City cruisen … Du hast ein gewagteres Hobby, als ich dachte.
+Dialogue: 0,0:02:17.00,0:02:17.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60005_11_C3,Ja, damals in Luminance City bin ich an freien Tagen mit meinem Bike an die frische Luft gefahren.
+Dialogue: 0,0:02:18.00,0:02:18.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60005_12_C3,Ich besitze ohnehin kein Auto, und ich liebe Bikes einfach.
+Dialogue: 0,0:02:19.00,0:02:19.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60005_13_C3,Außerdem mag ich die Offenheit eines Bikes lieber als den geschlossenen Raum eines Autos.
+Dialogue: 0,0:02:20.00,0:02:20.90,Comment_Good,Orca,0,0,0,CommentDialogueTable|60005_14_C3,Dieser seltsame Nervenkitzel, wenn die Blicke anderer sich mit dem befreienden Gefühl mischen, völlig im Freien zu sein … das fühlt sich richtig gut an.
+Dialogue: 0,0:02:21.00,0:02:21.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60005_15_C3,...
+Dialogue: 0,0:02:22.00,0:02:22.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60005_16_C3,Jeder hat eben seinen eigenen Geschmack bei Hobbys.
+Dialogue: 0,0:02:23.00,0:02:23.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60005_1_C2,Es dauert etwas länger, als ich dachte …
+Dialogue: 0,0:02:24.00,0:02:24.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60005_2_C2,...
+Dialogue: 0,0:02:25.00,0:02:25.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60005_3_C2,Hattest du während der Wartung irgendwelche Beschwerden?
+Dialogue: 0,0:02:26.00,0:02:26.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60005_4_C2,Hä?
+Dialogue: 0,0:02:27.00,0:02:27.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60005_5_C2,Du siehst gerade wirklich unwohl aus.
+Dialogue: 0,0:02:28.00,0:02:28.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60005_6_C2,Ah … Also …
+Dialogue: 0,0:02:29.00,0:02:29.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60005_7_C2,Gibt es hier eine Toilette? Es hat länger gedauert, als ich dachte, und ich muss wirklich dringend …
+Dialogue: 0,0:02:30.00,0:02:30.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60005_8_C2,Ah, geh einfach rein. Die Toilette ist die Tür links.
+Dialogue: 0,0:02:31.00,0:02:31.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60005_9_C2,…Danke. Entschuldige mich kurz!
+Dialogue: 0,0:02:32.00,0:02:32.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60005_10_C2,...
+Dialogue: 0,0:02:33.00,0:02:33.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60005_11_C2,...
+Dialogue: 0,0:02:34.00,0:02:34.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60005_12_C2,Danke, Chef.
+Dialogue: 0,0:02:35.00,0:02:35.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60005_13_C2,Die Toilette ist wirklich sauber. Haha …
+Dialogue: 0,0:02:36.00,0:02:36.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60005_14_C2,Du musst dich nicht so schämen.
+Dialogue: 0,0:02:37.00,0:02:37.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60005_15_C2,Es ist ganz natürlich, dass E.V.Es regelmäßig das Kühlmittel aus ihren Systemen ablassen.
+Dialogue: 0,0:02:38.00,0:02:38.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60005_16_C2,…Danke.
+Dialogue: 0,0:02:39.00,0:02:39.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60005_1_C1,Es dauert etwas länger, als ich dachte …
+Dialogue: 0,0:02:40.00,0:02:40.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60005_2_C1,...
+Dialogue: 0,0:02:41.00,0:02:41.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60005_3_C1,Hattest du während der Wartung irgendwelche Beschwerden?
+Dialogue: 0,0:02:42.00,0:02:42.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60005_4_C1,Hä?
+Dialogue: 0,0:02:43.00,0:02:43.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60005_5_C1,Du siehst gerade wirklich unwohl aus.
+Dialogue: 0,0:02:44.00,0:02:44.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60005_6_C1,Ah … Also …
+Dialogue: 0,0:02:45.00,0:02:45.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60005_7_C1,Gibt es hier eine Toilette? Es hat länger gedauert, als ich dachte, und ich muss wirklich dringend …
+Dialogue: 0,0:02:46.00,0:02:46.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60005_8_C1,Ah, geh einfach rein. Die Toilette ist die Tür links.
+Dialogue: 0,0:02:47.00,0:02:47.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60005_9_C1,…Danke. Entschuldige mich kurz!
+Dialogue: 0,0:02:48.00,0:02:48.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60005_10_C1,...
+Dialogue: 0,0:02:49.00,0:02:49.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60005_11_C1,...
+Dialogue: 0,0:02:50.00,0:02:50.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60005_12_C1,Danke, Chef.
+Dialogue: 0,0:02:51.00,0:02:51.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60005_13_C1,Die Toilette ist wirklich sauber. Haha …
+Dialogue: 0,0:02:52.00,0:02:52.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60005_14_C1,Du musst dich nicht so schämen.
+Dialogue: 0,0:02:53.00,0:02:53.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60005_15_C1,Es ist ganz natürlich, dass E.V.Es regelmäßig das Kühlmittel aus ihren Systemen ablassen.
+Dialogue: 0,0:02:54.00,0:02:54.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60005_16_C1,…Danke.
+Dialogue: 0,0:02:55.00,0:02:55.90,ClearMain,Chris,0,0,0,DialogueTable|60005_1,Tut mir leid, dass ich bei der Wartung so grob war.
+Dialogue: 0,0:02:56.00,0:02:56.90,ClearMain,Orca,0,0,0,DialogueTable|60005_2,N-nein, überhaupt nicht.
+Dialogue: 0,0:02:57.00,0:02:57.90,ClearMain,Orca,0,0,0,DialogueTable|60005_3,Ich bin nur ungewöhnlich empfindlich im Vergleich zu anderen vom gleichen Modell …
+Dialogue: 0,0:02:58.00,0:02:58.90,ClearMain,Orca,0,0,0,DialogueTable|60005_4,Weil du die ganze Zeit mit mir geredet hast,
+Dialogue: 0,0:02:59.00,0:02:59.90,ClearMain,Orca,0,0,0,DialogueTable|60005_5,war ich am Ende beruhigt, und es hat überhaupt nicht wehgetan.
+Dialogue: 0,0:03:00.00,0:03:00.90,ClearMain,Orca,0,0,0,DialogueTable|60005_6,Und mein Körper fühlt sich so viel leichter an. Für solche Ergebnisse halte ich das gern aus.
+Dialogue: 0,0:03:01.00,0:03:01.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60005_7,Orca begann, sich hier und da zu strecken, wie um anzugeben –
+Dialogue: 0,0:03:02.00,0:03:02.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60005_8,eine sorglose E.V.E in einem engen Raum.
+Dialogue: 0,0:03:03.00,0:03:03.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60005_9,Solange sie nirgends anstößt, ist die Aussicht gar nicht schlecht.
+Dialogue: 0,0:03:04.00,0:03:04.90,ClearMain,Chris,0,0,0,DialogueTable|60005_10,Eigentlich habe ich kaum etwas gemacht.
+Dialogue: 0,0:03:05.00,0:03:05.90,ClearMain,Chris,0,0,0,DialogueTable|60005_11,Ich habe nur ein paar Neural Units ausgetauscht, damit sie besser zu Umgebungen mit wenig Photonendaten passen.
+Dialogue: 0,0:03:06.00,0:03:06.90,ClearMain,Orca,0,0,0,DialogueTable|60005_12,Du meinst, weil es an Licht mangelt?
+Dialogue: 0,0:03:07.00,0:03:07.90,ClearMain,Chris,0,0,0,DialogueTable|60005_13,Genau.
+Dialogue: 0,0:03:08.00,0:03:08.90,ClearMain,Chris,0,0,0,DialogueTable|60005_14,Weder Menschen noch E.V.Es überleben ohne Sonnenlicht.
+Dialogue: 0,0:03:09.00,0:03:09.90,ClearMain,Chris,0,0,0,DialogueTable|60005_15,Darum ist ein „Neon Shine“-Abo in Chroma City praktisch unverzichtbar.
+Dialogue: 0,0:03:10.00,0:03:10.90,ClearMain,Orca,0,0,0,DialogueTable|60005_16,Deshalb haben mich meine Kolleginnen gefragt, ob ich Neon Shine abonniert habe.
+Dialogue: 0,0:03:11.00,0:03:11.90,ClearMain,Chris,0,0,0,DialogueTable|60005_17,Denn überall außerhalb von Chroma hat man keine Probleme durch Lichtmangel.
+Dialogue: 0,0:03:12.00,0:03:12.90,ClearMain,Orca,0,0,0,DialogueTable|60005_18,Sie haben aus dem Überleben einen bezahlten Service gemacht.
+Dialogue: 0,0:03:13.00,0:03:13.90,ClearMain,Chris,0,0,0,DialogueTable|60005_19,Chroma behauptet, das sei dieselbe Logik wie beim Bezahlen fürs Essen.
+Dialogue: 0,0:03:14.00,0:03:14.90,ClearMain,Chris,0,0,0,DialogueTable|60005_20,Irgendwann bekommen wir vielleicht noch eine Rechnung fürs Atmen.
+Dialogue: 0,0:03:15.00,0:03:15.90,ClearMain,Chris,0,0,0,DialogueTable|60005_21,Trotzdem sind E.V.Es etwas besser dran.
+Dialogue: 0,0:03:16.00,0:03:16.90,ClearMain,Chris,0,0,0,DialogueTable|60005_22,Menschen können in eine Depression rutschen, wenn sie nur zwei Tage ohne Neon Shine auskommen müssen.
+Dialogue: 0,0:03:17.00,0:03:17.90,ClearMain,Orca,0,0,0,DialogueTable|60005_23,Das nennt man … „LDS“, richtig?
+Dialogue: 0,0:03:18.00,0:03:18.90,ClearMain,Chris,0,0,0,DialogueTable|60005_24,Stimmt. Es steht für Lichtmangel-Syndrom.
+Dialogue: 0,0:03:19.00,0:03:19.90,ClearMain,Chris,0,0,0,DialogueTable|60005_25,Einfach gesagt ist es eine Krankheit, die durch Lichtmangel entsteht.
+Dialogue: 0,0:03:20.00,0:03:20.90,ClearMain,Chris,0,0,0,DialogueTable|60005_26,Die inneren Signale des Körpers geraten durcheinander, und bei E.V.Es baut sich Rauschen im photonischen neuronalen Netz auf.
+Dialogue: 0,0:03:21.00,0:03:21.90,ClearMain,Chris,0,0,0,DialogueTable|60005_27,Die Depression und die Leistungseinbrüche, die du zuletzt gespürt hast, kommen wahrscheinlich daher.
+Dialogue: 0,0:03:22.00,0:03:22.90,ClearMain,Orca,0,0,0,DialogueTable|60005_28,Meine Ausrüstung fühlte sich nach der Ankunft in dieser Stadt schwerer an als sonst. Das war also nicht nur Einbildung.
+Dialogue: 0,0:03:23.00,0:03:23.90,ClearMain,Chris,0,0,0,DialogueTable|60005_29,Körper und Geist sind untrennbar.
+Dialogue: 0,0:03:24.00,0:03:24.90,ClearMain,Chris,0,0,0,DialogueTable|60005_30,Dein Gemütszustand verändert sich zwangsläufig mit deinem körperlichen Zustand.
+Dialogue: 0,0:03:25.00,0:03:25.90,ClearMain,Orca,0,0,0,DialogueTable|60005_31,Es ist lustig, das als E.V.E zu sagen, aber … das klingt sehr mechanisch.
+Dialogue: 0,0:03:26.00,0:03:26.90,ClearMain,Chris,0,0,0,DialogueTable|60005_32,Finde ich auch.
+Dialogue: 0,0:03:27.00,0:03:27.90,ClearMain,Chris,0,0,0,DialogueTable|60005_33,Aber Menschen sind gar nicht so anders. Es ist nur eine Frage von Metall und Fleisch.
+Dialogue: 0,0:03:28.00,0:03:28.90,ClearMain,Chris,0,0,0,DialogueTable|60005_34,Die meisten Psychopharmaka behandeln psychische Probleme, indem sie Hormone regulieren,
+Dialogue: 0,0:03:29.00,0:03:29.90,ClearMain,Chris,0,0,0,DialogueTable|60005_35,und das medizinische Verfahren namens Defibrillation soll im Grunde dasselbe Prinzip sein wie das Neustarten einer Maschine namens Mensch.
+Dialogue: 0,0:03:30.00,0:03:30.90,ClearMain,Chris,0,0,0,DialogueTable|60005_36,Mit elektrischen Signalen zu arbeiten, mentale und emotionale Urteile je nach Hardware-Umgebung zu verändern … es ist alles dasselbe.
+Dialogue: 0,0:03:31.00,0:03:31.90,ClearMain,Chris,0,0,0,DialogueTable|60005_37,Ich persönlich sehe keinen Grund, zwischen Menschen und E.V.Es zu unterscheiden.
+Dialogue: 0,0:03:32.00,0:03:32.90,ClearMain,Orca,0,0,0,DialogueTable|60005_38,Wenn diese Philosophie diese Reparaturklinik hervorgebracht hat … das ist ziemlich cool.
+Dialogue: 0,0:03:33.00,0:03:33.90,ClearMain,Chris,0,0,0,DialogueTable|60005_39,Persönliche Gespräche gehören bei D1AL-ogue zum Kernservice.
+Dialogue: 0,0:03:34.00,0:03:34.90,ClearMain,Chris,0,0,0,DialogueTable|60005_40,Du hast ja gesagt, heute sei dein freier Tag, richtig?
+Dialogue: 0,0:03:35.00,0:03:35.90,ClearMain,Orca,0,0,0,DialogueTable|60005_41,Stimmt. Ich war die letzten Tage komplett im Stress mit Umzug und Einsatzrufen, aber jetzt habe ich endlich eine Pause.
+Dialogue: 0,0:03:36.00,0:03:36.90,ClearMain,Orca,0,0,0,DialogueTable|60005_42,Wenn keine Einsatzrufe anliegen, habe ich eigentlich meistens einfach Leerlauf.
+Dialogue: 0,0:03:37.00,0:03:37.90,ClearMain,Chris,0,0,0,DialogueTable|60005_43,Allein der Umzug klingt schon wie ein Albtraum.
+Dialogue: 0,0:03:38.00,0:03:38.90,ClearMain,Orca,0,0,0,DialogueTable|60005_44,Stimmt. Aber zum Glück ist er jetzt vorbei.
+Dialogue: 0,0:03:39.00,0:03:39.90,ClearMain,Orca,0,0,0,DialogueTable|60005_45,Hast du Tipps für etwas Tapetenwechsel?
+Dialogue: 0,0:03:40.00,0:03:40.90,ClearMain,Chris,0,0,0,DialogueTable|60005_46,Ich empfehle das Café im Erdgeschoss des Gebäudes gegenüber.
+Dialogue: 0,0:03:41.00,0:03:41.90,ClearMain,Orca,0,0,0,DialogueTable|60005_47,Ah, das habe ich auf dem Weg hierher gesehen. Ich glaube, der Name fing mit „Re“ an …
+Dialogue: 0,0:03:42.00,0:03:42.90,ClearMain,Chris,0,0,0,DialogueTable|60005_48,Meinst du „Re:tro-jan“?
+Dialogue: 0,0:03:43.00,0:03:43.90,ClearMain,Orca,0,0,0,DialogueTable|60005_49,Retro … wie war das noch?
+Dialogue: 0,0:03:44.00,0:03:44.90,ClearMain,Chris,0,0,0,DialogueTable|60005_50,„Re:tro-jan“. Die Aussprache ist ein bisschen ungewöhnlich.
+Dialogue: 0,0:03:45.00,0:03:45.90,ClearMain,Orca,0,0,0,DialogueTable|60005_51,Ah … Meinst du „Trojan“ wie beim Trojanischen Pferd?
+Dialogue: 0,0:03:46.00,0:03:46.90,ClearMain,Orca,0,0,0,DialogueTable|60005_52,Der Name ist genauso ungewöhnlich wie dieser Laden.
+Dialogue: 0,0:03:47.00,0:03:47.90,ClearMain,Chris,0,0,0,DialogueTable|60005_53,Genau. Die Inhaberin hat mir erzählt, er sei eine Mischung aus „Retro“ und „Trojaner-Virus“.
+Dialogue: 0,0:03:48.00,0:03:48.90,ClearMain,Chris,0,0,0,DialogueTable|60005_54,Es geht um ihren Ehrgeiz, Retro-Trends in diese schrille Hightech-Stadt einzuschleusen, genau wie ein Trojaner.
+Dialogue: 0,0:03:49.00,0:03:49.90,ClearMain,Orca,0,0,0,DialogueTable|60005_55,Wow, wenn man es so sagt, ergibt das tatsächlich viel Sinn.
+Dialogue: 0,0:03:50.00,0:03:50.90,ClearMain,Chris,0,0,0,DialogueTable|60005_56,Es ist ein Retro-Café, was heutzutage selten ist,
+Dialogue: 0,0:03:51.00,0:03:51.90,ClearMain,Chris,0,0,0,DialogueTable|60005_57,und der Filterkaffee der Inhaberin ist das Highlight meines Tages.
+Dialogue: 0,0:03:52.00,0:03:52.90,ClearMain,Orca,0,0,0,DialogueTable|60005_58,Ein Retro-Thema in so einer Stadt … das ist interessant.
+Dialogue: 0,0:03:53.00,0:03:53.90,ClearMain,Chris,0,0,0,DialogueTable|60005_59,Und noch etwas: Meide Orte mit zu vielen Leuten.
+Dialogue: 0,0:03:54.00,0:03:54.90,ClearMain,Chris,0,0,0,DialogueTable|60005_60,Um diese Jahreszeit werden dichte Menschenmengen meistens
+Dialogue: 0,0:03:55.00,0:03:55.90,ClearMain,Chris,0,0,0,DialogueTable|60005_61,von den Stability Officers abgeführt.
+Dialogue: 0,0:03:56.00,0:03:56.90,ClearMain,Orca,0,0,0,DialogueTable|60005_62,Danke für den Rat, Chris.
+Dialogue: 0,0:03:57.00,0:03:57.90,ClearMain,Orca,0,0,0,DialogueTable|60005_63,Wenn die Nacht zu lang wird, werden die Leute nervös.
+Dialogue: 0,0:03:58.00,0:03:58.90,ClearMain,Orca,0,0,0,DialogueTable|60005_64,Sogar die Stability Officers.
+Dialogue: 0,0:03:59.00,0:03:59.90,ClearMain,Chris,0,0,0,DialogueTable|60005_65,(Die Stability Officers dieser Stadt wie normale Cops zu betrachten … ein großer Fehler.)
+Dialogue: 0,0:04:00.00,0:04:00.90,ClearMain,Orca,0,0,0,DialogueTable|60005_66,Trotzdem schadet es nicht, vorsichtig zu sein.
+Dialogue: 0,0:04:01.00,0:04:01.90,ClearMain,Orca,0,0,0,DialogueTable|60005_67,Ich glaube, ich genieße diese festliche Jahresendstimmung einfach in aller Ruhe allein.
+Dialogue: 0,0:04:02.00,0:04:02.90,ClearMain,Chris,0,0,0,DialogueTable|60005_68,Viel Spaß, Orca.
+Dialogue: 0,0:04:03.00,0:04:03.90,ClearMain,Orca,0,0,0,DialogueTable|60005_69,Danke. Bis zum nächsten Mal.
+Dialogue: 0,0:04:04.00,0:04:04.90,ClearMain,Chris,0,0,0,DialogueTable|60005_70,Es ist schon Abend. Zeit, Feierabend zu machen.

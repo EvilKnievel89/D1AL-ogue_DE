@@ -1,0 +1,276 @@
+[Script Info]
+Title: S01E06_Tag3_Pray
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,WorkBefore,Chris,0,0,0,DialogueTable|70002_1,(Ich habe geträumt, dass mich ein unsichtbarer Mann verprügelt...)
+Dialogue: 0,0:00:01.00,0:00:01.90,WorkBefore,Chris,0,0,0,DialogueTable|70002_2,(Ich konnte mich nicht mal wehren, weil ich ihn nicht sehen konnte, also habe ich Prügel kassiert. Kein besonders angenehmes Gefühl.)
+Dialogue: 0,0:00:02.00,0:00:02.90,WorkBefore,Chris,0,0,0,DialogueTable|70002_3,(Liegt das an dem Kunden von gestern?)
+Dialogue: 0,0:00:03.00,0:00:03.90,WorkBefore,Chris,0,0,0,DialogueTable|70002_4,(Puh... Hoffentlich kriege ich heute nur anständige Kunden.)
+Dialogue: 0,0:00:04.00,0:00:04.90,StartMain,Michelle,0,0,0,DialogueTable|60010_1,...Optische Tarnung?
+Dialogue: 0,0:00:05.00,0:00:05.90,StartMain,Michelle,0,0,0,DialogueTable|60010_2,Ich kann nicht glauben, dass so ein Symbol für Kriminalität so offen benutzt wird.
+Dialogue: 0,0:00:06.00,0:00:06.90,StartMain,Michelle,0,0,0,DialogueTable|60010_3,Hat diese Stadt die öffentliche Sicherheit komplett aufgegeben?
+Dialogue: 0,0:00:07.00,0:00:07.90,StartMain,Chris,0,0,0,DialogueTable|60010_4,Aufgegeben haben sie nicht, eher sich angepasst.
+Dialogue: 0,0:00:08.00,0:00:08.90,StartMain,Chris,0,0,0,DialogueTable|60010_5,Die meisten Wohnungen und Läden haben zur Sicherheit mindestens einen Infrarotsensor.
+Dialogue: 0,0:00:09.00,0:00:09.90,StartMain,Chris,0,0,0,DialogueTable|60010_6,Thermooptische Tarnung können die zwar nicht erfassen, aber normale optische Tarnung erkennen sie problemlos.
+Dialogue: 0,0:00:10.00,0:00:10.90,StartMain,Michelle,0,0,0,DialogueTable|60010_7,Und was ist mit thermooptischer Tarnung?
+Dialogue: 0,0:00:11.00,0:00:11.90,StartMain,Chris,0,0,0,DialogueTable|60010_8,Wer die benutzt, bekommt es statt mit der Urban Stability Agency mit dem Militär zu tun, da braucht man schon verdammt viel Mumm.
+Dialogue: 0,0:00:12.00,0:00:12.90,StartMain,Chris,0,0,0,DialogueTable|60010_9,Deshalb können die Leute in Chroma City ruhig schlafen und ihre Sicherheit den Infrarotsensoren überlassen.
+Dialogue: 0,0:00:13.00,0:00:13.90,StartMain,Michelle,0,0,0,DialogueTable|60010_10,Klingt anstrengend, da zu leben.
+Dialogue: 0,0:00:14.00,0:00:14.90,StartMain,Michelle,0,0,0,DialogueTable|60010_11,Versteckspiel als Alltag...
+Dialogue: 0,0:00:15.00,0:00:15.90,StartMain,Chris,0,0,0,DialogueTable|60010_12,Deshalb wird es hier nie langweilig.
+Dialogue: 0,0:00:16.00,0:00:16.90,StartMain,Michelle,0,0,0,DialogueTable|60010_13,Das ist nicht „nie langweilig“, das ist einfach nur lästig.
+Dialogue: 0,0:00:17.00,0:00:17.90,StartMain,Chris,0,0,0,DialogueTable|60010_14,Kleine Unannehmlichkeiten muss man in Kauf nehmen, um sich seinen Platz in dieser Stadt der Wunder zu verdienen.
+Dialogue: 0,0:00:18.00,0:00:18.90,StartMain,Michelle,0,0,0,DialogueTable|60010_15,Wunder, von wegen. Die Gegend ist rund um die Uhr düster und trostlos.
+Dialogue: 0,0:00:19.00,0:00:19.90,StartMain,Chris,0,0,0,DialogueTable|60010_16,Gerade deshalb wirken die Neonreklamen, die die Stadt erleuchten, umso blendender.
+Dialogue: 0,0:00:20.00,0:00:20.90,StartMain,Chris,0,0,0,DialogueTable|60010_17,Die Nacht in dieser Straße, in der Menschen, E.V.Es und Neon ineinander verschwimmen, ist schöner als der Tag irgendwo sonst.
+Dialogue: 0,0:00:21.00,0:00:21.90,StartMain,Chris,0,0,0,DialogueTable|60010_18,Dieser Anblick hat mich so gefesselt, dass ich den Sprung gewagt und mich hier mit nichts als einem alten Gerät selbstständig gemacht habe.
+Dialogue: 0,0:00:22.00,0:00:22.90,StartMain,Michelle,0,0,0,DialogueTable|60010_19,Ich wette, nicht die Nacht hat dich gefesselt, sondern die E.V.Es, die die Straßen füllen.
+Dialogue: 0,0:00:23.00,0:00:23.90,StartMain,Michelle,0,0,0,DialogueTable|60010_20,Und was heißt hier „selbstständig gemacht“?
+Dialogue: 0,0:00:24.00,0:00:24.90,StartMain,Michelle,0,0,0,DialogueTable|60010_21,Du tust so cool, aber hast du dir die Festplatte formatiert oder was?
+Dialogue: 0,0:00:25.00,0:00:25.90,StartMain,Michelle,0,0,0,DialogueTable|60010_22,Kommt mir vor wie gestern, dass du gejammert hast, du hättest kein Geld fürs Essen.
+Dialogue: 0,0:00:26.00,0:00:26.90,StartMain,Michelle,0,0,0,DialogueTable|60010_23,Wer hat noch mal Mama und Papa angebettelt, ihn rauszuhauen?
+Dialogue: 0,0:00:27.00,0:00:27.90,StartMain,Chris,0,0,0,DialogueTable|60010_24,Ich hab's zurückgezahlt... mit Zinsen!
+Dialogue: 0,0:00:28.00,0:00:28.90,StartMain,Michelle,0,0,0,DialogueTable|60010_25,Ja, ja~
+Dialogue: 0,0:00:29.00,0:00:29.90,StartMain,Chris,0,0,0,DialogueTable|60010_26,Sieht so aus, als hätte ich einen Kunden.
+Dialogue: 0,0:00:30.00,0:00:30.90,StartMain,Michelle,0,0,0,DialogueTable|60010_27,Du schmollst doch nicht, oder?
+Dialogue: 0,0:00:31.00,0:00:31.90,StartMain,Chris,0,0,0,DialogueTable|60010_28,Nö. Morgen gehe ich wieder auf dein Gerede ein.
+Dialogue: 0,0:00:32.00,0:00:32.90,StartMain,Michelle,0,0,0,DialogueTable|60010_29,Schmollen. Ganz eindeutig am Schmollen...
+Dialogue: 0,0:00:33.00,0:00:33.90,StartMain,Chris,0,0,0,DialogueTable|60010_30,Ich schmolle NICHT!
+Dialogue: 0,0:00:34.00,0:00:34.90,StartMain,Pray,0,0,0,DialogueTable|60010_31,Hehehe... hehe..
+Dialogue: 0,0:00:35.00,0:00:35.90,StartMain,Chris,0,0,0,DialogueTable|60010_32,Pray, dir ist schon klar, dass du gerade ziemlich böse klingst, oder?
+Dialogue: 0,0:00:36.00,0:00:36.90,StartMain,Pray,0,0,0,DialogueTable|60010_33,Echt?
+Dialogue: 0,0:00:37.00,0:00:37.90,StartMain,Pray,0,0,0,DialogueTable|60010_34,Normalerweise würde ich Streit anfangen und mir was Lustiges suchen,
+Dialogue: 0,0:00:38.00,0:00:38.90,StartMain,Pray,0,0,0,DialogueTable|60010_35,aber heute bin ich großzügig und lasse es durchgehen.
+Dialogue: 0,0:00:39.00,0:00:39.90,StartMain,Pray,0,0,0,DialogueTable|60010_36,Pfft... hehehe...
+Dialogue: 0,0:00:40.00,0:00:40.90,StartMain,Chris,0,0,0,DialogueTable|60010_37,Frau Pray. Aus fachlicher Sicht sieht es so aus, als bräuchtest du sofort eine Wartung.
+Dialogue: 0,0:00:41.00,0:00:41.90,StartMain,Chris,0,0,0,DialogueTable|60010_38,Probleme im neuronalen Netz neigen bei E.V.Es dazu, sich mit der Zeit rapide zu verschlechtern.
+Dialogue: 0,0:00:42.00,0:00:42.90,StartMain,Chris,0,0,0,DialogueTable|60010_39,Wir müssen sofort anfangen.
+Dialogue: 0,0:00:43.00,0:00:43.90,StartMain,Pray,0,0,0,DialogueTable|60010_40,Hab ich's mir doch gedacht: Nichts bringt meine Stabilität so zuverlässig zurück wie deine Spaßbremsen-Reaktionen.
+Dialogue: 0,0:00:44.00,0:00:44.90,StartMain,Chris,0,0,0,DialogueTable|60010_41,Stimmt etwas nicht?
+Dialogue: 0,0:00:45.00,0:00:45.90,StartMain,Chris,0,0,0,DialogueTable|60010_42,Was meinst du mit „Stabilität“?
+Dialogue: 0,0:00:46.00,0:00:46.90,StartMain,Pray,0,0,0,DialogueTable|60010_43,Hast du den Artikel von gestern nicht gesehen?
+Dialogue: 0,0:00:47.00,0:00:47.90,StartMain,Pray,0,0,0,DialogueTable|60010_44,„Hochrangiger Sunshine-Corp-Manager nach Angriff am Stadtrand vermisst.“
+Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Chris,0,0,0,DialogueTable|60010_45,Der Typ von neulich.
+Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Pray,0,0,0,DialogueTable|60010_46,Auf jeden Fall.
+Dialogue: 0,0:00:50.00,0:00:50.90,StartMain,Pray,0,0,0,DialogueTable|60010_47,Die Identität haben sie nicht veröffentlicht,
+Dialogue: 0,0:00:51.00,0:00:51.90,StartMain,Pray,0,0,0,DialogueTable|60010_48,aber ich bezweifle, dass sich um diese Zeit mehr als eine Führungskraft in die Außenbezirke verirrt.
+Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Chris,0,0,0,DialogueTable|60010_49,Weil die Polarnacht kurz bevorsteht.
+Dialogue: 0,0:00:53.00,0:00:53.90,StartMain,Pray,0,0,0,DialogueTable|60010_50,Wo das größte Fest der Stadt kurz bevorsteht,
+Dialogue: 0,0:00:54.00,0:00:54.90,StartMain,Pray,0,0,0,DialogueTable|60010_51,haben die bestimmt keine Zeit, sich mit Kleinigkeiten wie Straßenlaternen abzugeben.
+Dialogue: 0,0:00:55.00,0:00:55.90,StartMain,Pray,0,0,0,DialogueTable|60010_52,Es sei denn, sie sind irgendwelche Spinner...
+Dialogue: 0,0:00:56.00,0:00:56.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_53,Prays Groll schien ziemlich tief zu sitzen
+Dialogue: 0,0:00:57.00,0:00:57.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_54,für einen einzigen Albtraum-Kunden.
+Dialogue: 0,0:00:58.00,0:00:58.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_55,Vielleicht gab es noch mehr, das sie mir bisher nicht erzählt hatte.
+Dialogue: 0,0:00:59.00,0:00:59.90,StartMain,Chris,0,0,0,DialogueTable|60010_56,Machst du dir Sorgen wegen der Entführung hier in der Nähe?
+Dialogue: 0,0:01:00.00,0:01:00.90,StartMain,Pray,0,0,0,DialogueTable|60010_57,Ganz ohne Sorge bin ich nicht,
+Dialogue: 0,0:01:01.00,0:01:01.90,StartMain,Pray,0,0,0,DialogueTable|60010_58,aber wenn ich vor sowas Angst hätte, wäre ich schon längst in die nächste Stadt abgehauen.
+Dialogue: 0,0:01:02.00,0:01:02.90,StartMain,Pray,0,0,0,DialogueTable|60010_59,Ist keine große Sache.
+Dialogue: 0,0:01:03.00,0:01:03.90,StartMain,Chris,0,0,0,DialogueTable|60010_60,Ständige Fokus-Neukalibrierung der Okularlinsen und unregelmäßige Kernpulsation.
+Dialogue: 0,0:01:04.00,0:01:04.90,StartMain,Chris,0,0,0,DialogueTable|60010_61,Das ist ein klassisches Zeichen dafür, dass Energie anderswohin abgezweigt wird.
+Dialogue: 0,0:01:05.00,0:01:05.90,StartMain,Chris,0,0,0,DialogueTable|60010_62,Aber im Moment gibt es keine nennenswerte körperliche Aktivität oder Rechenlast.
+Dialogue: 0,0:01:06.00,0:01:06.90,StartMain,Chris,0,0,0,DialogueTable|60010_63,Das heißt, dein System bereitet sich auf einen Notfall vor...
+Dialogue: 0,0:01:07.00,0:01:07.90,StartMain,Chris,0,0,0,DialogueTable|60010_64,Und das sind Lehrbuchzeichen einer Angst- oder Furchtreaktion, weißt du?
+Dialogue: 0,0:01:08.00,0:01:08.90,StartMain,Pray,0,0,0,DialogueTable|60010_65,W-Was weißt du schon...
+Dialogue: 0,0:01:09.00,0:01:09.90,StartMain,Chris,0,0,0,DialogueTable|60010_66,Ingenieur 1. Klasse für Kernbauteile, Spezialist für die Wiederherstellung photonischer neuronaler Netze, E.V.E-Körperwartungstechniker. Voll zertifiziert.
+Dialogue: 0,0:01:10.00,0:01:10.90,StartMain,Chris,0,0,0,DialogueTable|60010_67,Ich bin ein von Chroma zertifizierter Wartungs- und Prüfexperte für E.V.Es,
+Dialogue: 0,0:01:11.00,0:01:11.90,StartMain,Chris,0,0,0,DialogueTable|60010_68,und der Typ, der dich mindestens einmal die Woche aufmacht, um nach Problemen zu sehen.
+Dialogue: 0,0:01:12.00,0:01:12.90,StartMain,Pray,0,0,0,DialogueTable|60010_69,<shake a=0.2>Ich hasse das!!</shake>
+Dialogue: 0,0:01:13.00,0:01:13.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_70,Was genau hasst sie?
+Dialogue: 0,0:01:14.00,0:01:14.90,StartMain,Pray,0,0,0,DialogueTable|60010_71,<shake a=0.2>Du kannst nicht einfach so über meinen Zustand reden, wie es dir passt.</shake>
+Dialogue: 0,0:01:15.00,0:01:15.90,StartMain,Pray,0,0,0,DialogueTable|60010_72,<shake a=0.2>Das ganze Gerede über die Erhöhung der Neon-Shine-Abogebühr ist verstummt, und der Plan zum Abbau der Straßenlaternen wurde auch gekippt.</shake>
+Dialogue: 0,0:01:16.00,0:01:16.90,StartMain,Pray,0,0,0,DialogueTable|60010_73,<shake a=0.2>Es passieren nur gute Dinge...</shake>
+Dialogue: 0,0:01:17.00,0:01:17.90,StartMain,Chris,0,0,0,DialogueTable|60010_74,Hör zu, ich weiß nicht, was passiert ist,
+Dialogue: 0,0:01:18.00,0:01:18.90,StartMain,Chris,0,0,0,DialogueTable|60010_75,aber du kannst wenigstens ehrlich zu mir sein.
+Dialogue: 0,0:01:19.00,0:01:19.90,StartMain,Pray,0,0,0,DialogueTable|60010_76,...Cinderella hat mir geholfen.
+Dialogue: 0,0:01:20.00,0:01:20.90,StartMain,Pray,0,0,0,DialogueTable|60010_77,Weil ich einen Post geschrieben habe.
+Dialogue: 0,0:01:21.00,0:01:21.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_78,Cinderella – im Cyberspace längst ein berühmtes Selbstjustiz-Phantom.
+Dialogue: 0,0:01:22.00,0:01:22.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_79,Eine Gestalt ohne jeden Beweis dafür, dass es sie überhaupt gibt – unmöglich zu sagen, ob Einzelperson oder Gruppe.
+Dialogue: 0,0:01:23.00,0:01:23.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_80,Sie machten sich einen Namen damit, Schlüsselfiguren aus Konzernen und Kartellen zu ermorden...
+Dialogue: 0,0:01:24.00,0:01:24.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_81,und am Tatort einen Glasschuh gut sichtbar zurückzulassen.
+Dialogue: 0,0:01:25.00,0:01:25.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_82,Ihre Taten fanden die Unterstützung der verbitterten Unterschicht
+Dialogue: 0,0:01:26.00,0:01:26.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_83,und brachten ihnen eine riesige Anhängerschaft ein, doch eine solche Bilanz musste zwangsläufig auch Schattenseiten haben.
+Dialogue: 0,0:01:27.00,0:01:27.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_84,Es gab reichlich Verbindungen zu Verbrechersyndikaten, die unzählige unschuldige Opfer hinterließen,
+Dialogue: 0,0:01:28.00,0:01:28.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_85,oder Aktionen, hinter denen der Verdacht stand, politische Rivalen der Eliten beseitigt zu haben.
+Dialogue: 0,0:01:29.00,0:01:29.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_86,Und überall tauchen Leute auf, die behaupten, Cinderella zu sein.
+Dialogue: 0,0:01:30.00,0:01:30.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60010_87,Allerdings scheinen ihre Anhänger das alles einfach als Nachahmungstaten abzutun...
+Dialogue: 0,0:01:31.00,0:01:31.90,StartMain,Chris,0,0,0,DialogueTable|60010_88,Willst du damit sagen, dass man vor einem Helden keine Angst haben kann?
+Dialogue: 0,0:01:32.00,0:01:32.90,StartMain,Pray,0,0,0,DialogueTable|60010_89,Sich Sorgen machen und Angst haben sind zwei verschiedene Dinge.
+Dialogue: 0,0:01:33.00,0:01:33.90,StartMain,Chris,0,0,0,DialogueTable|60010_90,Selbst ein Experte riskiert eine Fehldiagnose, wenn er keine detaillierte Analyse durchführt.
+Dialogue: 0,0:01:34.00,0:01:34.90,StartMain,Pray,0,0,0,DialogueTable|60010_91,Ich mache mir nur Sorgen.
+Dialogue: 0,0:01:35.00,0:01:35.90,StartMain,Pray,0,0,0,DialogueTable|60010_92,Weil Nachahmungstäter ständig von Cinderellas Ruhm zehren.
+Dialogue: 0,0:01:36.00,0:01:36.90,StartMain,Chris,0,0,0,DialogueTable|60010_93,Klar. Klar.
+Dialogue: 0,0:01:37.00,0:01:37.90,StartMain,Pray,0,0,0,DialogueTable|60010_94,Ah, ngh...!
+Dialogue: 0,0:01:38.00,0:01:38.90,StartMain,Pray,0,0,0,DialogueTable|60010_95,Was denn, so plötzlich?!
+Dialogue: 0,0:01:39.00,0:01:39.90,StartMain,Chris,0,0,0,DialogueTable|60010_96,Diese Neural Unit hängt am sympathischen Nervensystem.
+Dialogue: 0,0:01:40.00,0:01:40.90,StartMain,Chris,0,0,0,DialogueTable|60010_97,Sie ist schon bei leichter Berührung unglaublich angespannt. Wie sehr hast du dich verausgabt?
+Dialogue: 0,0:01:41.00,0:01:41.90,StartMain,Chris,0,0,0,DialogueTable|60010_98,Sie könnte komplett durchgebrannt sein.
+Dialogue: 0,0:01:42.00,0:01:42.90,StartMain,Pray,0,0,0,DialogueTable|60010_99,Es ist... nicht so schlimm.
+Dialogue: 0,0:01:43.00,0:01:43.90,StartMain,Chris,0,0,0,DialogueTable|60010_100,Wenn du Angst hast, gönnst du dir gern was, oder?
+Dialogue: 0,0:01:44.00,0:01:44.90,StartMain,Chris,0,0,0,DialogueTable|60010_101,Zum Beispiel Figuren oder Limited-Edition-Merch.
+Dialogue: 0,0:01:45.00,0:01:45.90,StartMain,Chris,0,0,0,DialogueTable|60010_102,Da du pleite bist, hast du dir wohl auf andere Weise was gegönnt.
+Dialogue: 0,0:01:46.00,0:01:46.90,StartMain,Chris,0,0,0,DialogueTable|60010_103,Wenn wir sie über Nacht lassen, könnte es richtig gefährlich werden, also tauschen wir sie besser aus.
+Dialogue: 0,0:01:47.00,0:01:47.90,StartMain,Auftragstitel,0,0,0,DialogueTable|60010_104,[Prays Auftrag] Prays überlastete Neural Unit ersetzen
+Dialogue: 0,0:01:48.00,0:01:48.90,Sub,Pray,0,0,0,DialogueTable|40100_1,Ngh, nn... Ahn, es tut weh... Sei ein bisschen sanfter...
+Dialogue: 0,0:01:49.00,0:01:49.90,Sub,Pray,0,0,0,DialogueTable|40100_2,Ah, ah! ...Ngh, mmh, es tut weh, aber... irgendwie ist es eine Erleichterung.
+Dialogue: 0,0:01:50.00,0:01:50.90,Repair1,Chris,0,0,0,DialogueTable|40101_1,Du musst ziemlich ängstlich gewesen sein.
+Dialogue: 0,0:01:51.00,0:01:51.90,Repair1,Pray,0,0,0,DialogueTable|40101_2,Ist es so schlimm?
+Dialogue: 0,0:01:52.00,0:01:52.90,Repair1,Chris,0,0,0,DialogueTable|40101_3,Ein Stromstoß ist durch die überlastete Neural Unit gejagt – genug, um das D1AL-Gerät durcheinanderzubringen.
+Dialogue: 0,0:01:53.00,0:01:53.90,Repair1,Chris,0,0,0,DialogueTable|40101_4,Wie hart hast du sie denn stimuliert?
+Dialogue: 0,0:01:54.00,0:01:54.90,Repair1,Pray,0,0,0,DialogueTable|40101_5,Na ja... Ich hab einfach plötzlich Angst bekommen...
+Dialogue: 0,0:01:55.00,0:01:55.90,Repair1,Chris,0,0,0,DialogueTable|40101_6,Ich weiß nicht, was dir so große Sorgen macht,
+Dialogue: 0,0:01:56.00,0:01:56.90,Repair1,Chris,0,0,0,DialogueTable|40101_7,aber wenn du so ängstlich warst, hättest du mich einfach anrufen sollen.
+Dialogue: 0,0:01:57.00,0:01:57.90,Repair1,Chris,0,0,0,DialogueTable|40101_8,Ich hätte direkt neben dir sein und dir höchstpersönlich zur Hand gehen können.
+Dialogue: 0,0:01:58.00,0:01:58.90,Repair1,Pray,0,0,0,DialogueTable|40101_9,...
+Dialogue: 0,0:01:59.00,0:01:59.90,Repair1,Chris,0,0,0,DialogueTable|40101_10,...?
+Dialogue: 0,0:02:00.00,0:02:00.90,Repair1,Pray,0,0,0,DialogueTable|40101_11,...Perversling.
+Dialogue: 0,0:02:01.00,0:02:01.90,Repair1,Chris,0,0,0,DialogueTable|40101_12,…;;
+Dialogue: 0,0:02:02.00,0:02:02.90,Repair2,Chris,0,0,0,DialogueTable|40102_1,Zieht Cinderella das alles jedes Mal nur mit Glasschuhen durch?
+Dialogue: 0,0:02:03.00,0:02:03.90,Repair2,Pray,0,0,0,DialogueTable|40102_2,Ziemlich genau.
+Dialogue: 0,0:02:04.00,0:02:04.90,Repair2,Pray,0,0,0,DialogueTable|40102_3,Laut jemandem, der den Tatort aus nächster Nähe gesehen hat,
+Dialogue: 0,0:02:05.00,0:02:05.90,Repair2,Pray,0,0,0,DialogueTable|40102_4,haben sie das alles nur mit Glasschuhen gemacht – keine anderen Waffen.
+Dialogue: 0,0:02:06.00,0:02:06.90,Repair2,Chris,0,0,0,DialogueTable|40102_5,Also sind die Glasschuhe, die sie immer zurücklassen, die eigentliche Mordwaffe?
+Dialogue: 0,0:02:07.00,0:02:07.90,Repair2,Pray,0,0,0,DialogueTable|40102_6,Scheint so. Ich hab im Feed gesehen, dass ein Stability Officer ein absatzförmiges Loch genau zwischen den Augen hatte.
+Dialogue: 0,0:02:08.00,0:02:08.90,Repair2,Pray,0,0,0,DialogueTable|40102_7,Der Post wurde schnell gelöscht.
+Dialogue: 0,0:02:09.00,0:02:09.90,Repair2,Pray,0,0,0,DialogueTable|40102_8,Aber eine Blutfontäne aus dem Kopf von jemandem spritzen zu sehen, vor dem ich immer Angst hatte, war so brutal,
+Dialogue: 0,0:02:10.00,0:02:10.90,Repair2,Pray,0,0,0,DialogueTable|40102_9,dass ich ihnen danach insgeheim die Daumen gedrückt habe.
+Dialogue: 0,0:02:11.00,0:02:11.90,Repair2,Chris,0,0,0,DialogueTable|40102_10,Das als „Fontäne“ zu bezeichnen, ist noch viel brutaler...
+Dialogue: 0,0:02:12.00,0:02:12.90,Comment_Good,Pray,0,0,0,CommentDialogueTable|60011_1_C3,Schon fertig?
+Dialogue: 0,0:02:13.00,0:02:13.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60011_2_C3,Ja. Zum Glück waren die umliegenden Units nicht allzu verzogen, also habe ich nur die Neural Unit getauscht, die praktisch durchgebrannt war.
+Dialogue: 0,0:02:14.00,0:02:14.90,Comment_Good,Pray,0,0,0,CommentDialogueTable|60011_3_C3,Dadurch scheinen sich die angespannten Neural Units beruhigt zu haben.
+Dialogue: 0,0:02:15.00,0:02:15.90,Comment_Good,Pray,0,0,0,CommentDialogueTable|60011_4_C3,Das D1AL hat komische Geräusche gemacht,
+Dialogue: 0,0:02:16.00,0:02:16.90,Comment_Good,Pray,0,0,0,CommentDialogueTable|60011_5_C3,was für einen Zauber hast du da gewirkt?
+Dialogue: 0,0:02:17.00,0:02:17.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60011_6_C3,Ich mache nur meinen Job.
+Dialogue: 0,0:02:18.00,0:02:18.90,Comment_Normal,Pray,0,0,0,CommentDialogueTable|60011_1_C2,Ist alles fertig?
+Dialogue: 0,0:02:19.00,0:02:19.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60011_2_C2,Ja. Zum Glück waren die umliegenden Units nicht allzu verzogen, also habe ich nur die Neural Unit getauscht, die praktisch durchgebrannt war.
+Dialogue: 0,0:02:20.00,0:02:20.90,Comment_Normal,Pray,0,0,0,CommentDialogueTable|60011_3_C2,Dadurch scheinen sich die angespannten Neural Units beruhigt zu haben. Danke.
+Dialogue: 0,0:02:21.00,0:02:21.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60011_4_C2,Keine Ursache.
+Dialogue: 0,0:02:22.00,0:02:22.90,Comment_Normal,Pray,0,0,0,CommentDialogueTable|60011_5_C2,Aber selbst bei meinem desolaten Zustand kommt es mir vor, als hätte es heute viel länger gedauert als sonst.
+Dialogue: 0,0:02:23.00,0:02:23.90,Comment_Normal,Pray,0,0,0,CommentDialogueTable|60011_6_C2,Stimmt etwas nicht? Vielleicht warst du die ganze Nacht allein wach, so wie ich, und hast…
+Dialogue: 0,0:02:24.00,0:02:24.90,Comment_Normal,Pray,0,0,0,CommentDialogueTable|60011_7_C2,Du bist in dem Alter, also respektiere ich das.
+Dialogue: 0,0:02:25.00,0:02:25.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60011_8_C2,Nein, bitte respektier das nicht. Es ist nicht so, wie du denkst.
+Dialogue: 0,0:02:26.00,0:02:26.90,Comment_Bad,Pray,0,0,0,CommentDialogueTable|60011_1_C1,Ist alles fertig?
+Dialogue: 0,0:02:27.00,0:02:27.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60011_2_C1,Ja. Zum Glück waren die umliegenden Units nicht allzu verzogen, also habe ich nur die Neural Unit getauscht, die praktisch durchgebrannt war.
+Dialogue: 0,0:02:28.00,0:02:28.90,Comment_Bad,Pray,0,0,0,CommentDialogueTable|60011_3_C1,Dadurch scheinen sich die angespannten Neural Units beruhigt zu haben. Danke.
+Dialogue: 0,0:02:29.00,0:02:29.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60011_4_C1,Keine Ursache.
+Dialogue: 0,0:02:30.00,0:02:30.90,Comment_Bad,Pray,0,0,0,CommentDialogueTable|60011_5_C1,Aber selbst bei meinem desolaten Zustand kommt es mir vor, als hätte es heute viel länger gedauert als sonst.
+Dialogue: 0,0:02:31.00,0:02:31.90,Comment_Bad,Pray,0,0,0,CommentDialogueTable|60011_6_C1,Stimmt etwas nicht? Vielleicht warst du die ganze Nacht allein wach, so wie ich, und hast…
+Dialogue: 0,0:02:32.00,0:02:32.90,Comment_Bad,Pray,0,0,0,CommentDialogueTable|60011_7_C1,Du bist in dem Alter, also respektiere ich das.
+Dialogue: 0,0:02:33.00,0:02:33.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60011_8_C1,Nein, bitte respektier das nicht. Es ist nicht so, wie du denkst.
+Dialogue: 0,0:02:34.00,0:02:34.90,ClearMain,Chris,0,0,0,DialogueTable|60011_1,Es ist nur so, dass der Stromstoß in deiner Neural Unit
+Dialogue: 0,0:02:35.00,0:02:35.90,ClearMain,Chris,0,0,0,DialogueTable|60011_2,das D1AL-Gerät bei der Wartung schon mehrmals fast gegrillt hätte.
+Dialogue: 0,0:02:36.00,0:02:36.90,ClearMain,Pray,0,0,0,DialogueTable|60011_3,Ich verstehe zwar nicht viel davon,
+Dialogue: 0,0:02:37.00,0:02:37.90,ClearMain,Pray,0,0,0,DialogueTable|60011_4,aber allein vom Zuhören klingt das doch unglaublich gefährlich, oder?
+Dialogue: 0,0:02:38.00,0:02:38.90,ClearMain,Chris,0,0,0,DialogueTable|60011_5,Und zu deinen Symptomen.
+Dialogue: 0,0:02:39.00,0:02:39.90,ClearMain,Chris,0,0,0,DialogueTable|60011_6,Das ist keine große Sache.
+Dialogue: 0,0:02:40.00,0:02:40.90,ClearMain,Chris,0,0,0,DialogueTable|60011_7,Es ist ein Problem damit, dass dein neuronales Netz immer wieder zwangsweise aktualisiert wird, aber es beeinträchtigt deinen Alltag nicht.
+Dialogue: 0,0:02:41.00,0:02:41.90,ClearMain,Chris,0,0,0,DialogueTable|60011_8,Außer dass du möglicherweise ein paar Erinnerungen verlierst.
+Dialogue: 0,0:02:42.00,0:02:42.90,ClearMain,Pray,0,0,0,DialogueTable|60011_9,...
+Dialogue: 0,0:02:43.00,0:02:43.90,ClearMain,Chris,0,0,0,DialogueTable|60011_10,Du musst dich ab jetzt einfach zusammenreißen.
+Dialogue: 0,0:02:44.00,0:02:44.90,ClearMain,Chris,0,0,0,DialogueTable|60011_11,Entspann dein Gesicht.
+Dialogue: 0,0:02:45.00,0:02:45.90,ClearMain,Chris,0,0,0,DialogueTable|60011_12,Du siehst aus, als hättest du etwas auf dem Herzen,
+Dialogue: 0,0:02:46.00,0:02:46.90,ClearMain,Chris,0,0,0,DialogueTable|60011_13,aber kriegst du es mit so einer ernsten Miene überhaupt raus?
+Dialogue: 0,0:02:47.00,0:02:47.90,ClearMain,Pray,0,0,0,DialogueTable|60011_14,Haa...
+Dialogue: 0,0:02:48.00,0:02:48.90,ClearMain,Pray,0,0,0,DialogueTable|60011_15,Vergiss es.
+Dialogue: 0,0:02:49.00,0:02:49.90,ClearMain,Pray,0,0,0,DialogueTable|60011_16,Für jemanden, der so schwer von Begriff ist, durchschaust du mich echt gut.
+Dialogue: 0,0:02:50.00,0:02:50.90,ClearMain,Pray,0,0,0,DialogueTable|60011_17,Ich kann dir nichts verheimlichen.
+Dialogue: 0,0:02:51.00,0:02:51.90,ClearMain,Chris,0,0,0,DialogueTable|60011_18,Meine Zertifikate sind nicht nur zur Zierde.
+Dialogue: 0,0:02:52.00,0:02:52.90,ClearMain,Pray,0,0,0,DialogueTable|60011_19,Aber ich wünschte, du würdest ein bisschen die Stimmung lesen.
+Dialogue: 0,0:02:53.00,0:02:53.90,ClearMain,Pray,0,0,0,DialogueTable|60011_20,Manchmal gibt es einfach Dinge, über die ich nicht reden will.
+Dialogue: 0,0:02:54.00,0:02:54.90,ClearMain,Pray,0,0,0,DialogueTable|60011_21,Cinderella war mein Idol.
+Dialogue: 0,0:02:55.00,0:02:55.90,ClearMain,Pray,0,0,0,DialogueTable|60011_22,Ich war ihr größter Fan, völlig unbeeindruckt von all den Skandalen...
+Dialogue: 0,0:02:56.00,0:02:56.90,ClearMain,Pray,0,0,0,DialogueTable|60011_23,Aber seit hier ein Vorfall passiert ist – und das alles wegen mir –, sind all diese Gedanken auf mich eingestürmt.
+Dialogue: 0,0:02:57.00,0:02:57.90,ClearMain,Pray,0,0,0,DialogueTable|60011_24,Was, wenn unserer süßen Chefin etwas passiert?
+Dialogue: 0,0:02:58.00,0:02:58.90,ClearMain,Pray,0,0,0,DialogueTable|60011_25,Was, wenn der böse Mechaniker im 2. Stock zur Zielscheibe wird?
+Dialogue: 0,0:02:59.00,0:02:59.90,ClearMain,Chris,0,0,0,DialogueTable|60011_26,...
+Dialogue: 0,0:03:00.00,0:03:00.90,ClearMain,Pray,0,0,0,DialogueTable|60011_27,Wenn so etwas passiert wäre, hätte ich gedacht, ich werde verrückt, weil ich mir die Schuld gebe.
+Dialogue: 0,0:03:01.00,0:03:01.90,ClearMain,Pray,0,0,0,DialogueTable|60011_28,Ich habe einen Post im „Cinderella, Help!“-Forum hinterlassen,
+Dialogue: 0,0:03:02.00,0:03:02.90,ClearMain,Pray,0,0,0,DialogueTable|60011_29,und nicht mal einen halben Tag später kam die Meldung.
+Dialogue: 0,0:03:03.00,0:03:03.90,ClearMain,Pray,0,0,0,DialogueTable|60011_30,Ich war diejenige, die ihnen gefolgt ist und alle Skandale als bloßen Klatsch abgetan hat,
+Dialogue: 0,0:03:04.00,0:03:04.90,ClearMain,Pray,0,0,0,DialogueTable|60011_31,aber die Angst hat mich gepackt, sobald ich und die Menschen um mich herum hineingezogen wurden.
+Dialogue: 0,0:03:05.00,0:03:05.90,ClearMain,Chris,0,0,0,DialogueTable|60011_32,Soweit ich weiß, bekommt dieses Forum über 3.000 Beiträge pro Stunde.
+Dialogue: 0,0:03:06.00,0:03:06.90,ClearMain,Chris,0,0,0,DialogueTable|60011_33,Ich glaube, du lädst dir viel zu viel davon selbst auf.
+Dialogue: 0,0:03:07.00,0:03:07.90,ClearMain,Chris,0,0,0,DialogueTable|60011_34,Selbst wenn Cinderella ihre Ziele wirklich aus diesem Forum auswählt,
+Dialogue: 0,0:03:08.00,0:03:08.90,ClearMain,Chris,0,0,0,DialogueTable|60011_35,ist die Wahrscheinlichkeit, dass sie deinen Post sehen, so gut wie null.
+Dialogue: 0,0:03:09.00,0:03:09.90,ClearMain,Pray,0,0,0,DialogueTable|60011_36,Du hast wahrscheinlich recht.
+Dialogue: 0,0:03:10.00,0:03:10.90,ClearMain,Pray,0,0,0,DialogueTable|60011_37,Mir zu viel aufladen...
+Dialogue: 0,0:03:11.00,0:03:11.90,ClearMain,Pray,0,0,0,DialogueTable|60011_38,Aber als ich anfing, mich da hineinzusteigern, konnte ich das nicht mehr sehen.
+Dialogue: 0,0:03:12.00,0:03:12.90,ClearMain,Pray,0,0,0,DialogueTable|60011_39,Alles fühlte sich wie meine Schuld an, und ich habe mir Sorgen um Dinge gemacht, die noch gar nicht passiert waren.
+Dialogue: 0,0:03:13.00,0:03:13.90,ClearMain,Pray,0,0,0,DialogueTable|60011_40,Ich bin total erschöpft, weil ich die ganze Nacht gestöhnt habe.
+Dialogue: 0,0:03:14.00,0:03:14.90,ClearMain,Chris,0,0,0,DialogueTable|60011_41,Während du an deiner armen Neural Unit herumgefummelt hast.
+Dialogue: 0,0:03:15.00,0:03:15.90,ClearMain,Pray,0,0,0,DialogueTable|60011_42,Glück ist der beste Weg, Schmerz zu vergessen.
+Dialogue: 0,0:03:16.00,0:03:16.90,ClearMain,Pray,0,0,0,DialogueTable|60011_43,Jedenfalls, als ich dich und die Chefin heute Morgen putzmunter gesehen habe... musste ich vor Erleichterung einfach hohl auflachen.
+Dialogue: 0,0:03:17.00,0:03:17.90,ClearMain,Chris,0,0,0,DialogueTable|60011_44,Deshalb bist du also mit diesen unanständigen Geräuschen hereingekommen.
+Dialogue: 0,0:03:18.00,0:03:18.90,ClearMain,Pray,0,0,0,DialogueTable|60011_45,Unanständig?!
+Dialogue: 0,0:03:19.00,0:03:19.90,ClearMain,Chris,0,0,0,DialogueTable|60011_46,Du hast mich vorhin böse genannt...
+Dialogue: 0,0:03:20.00,0:03:20.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60011_47,Als ich Pray wieder ganz die Alte sah, ließ endlich auch meine eigene Anspannung nach.
+Dialogue: 0,0:03:21.00,0:03:21.90,ClearMain,Chris,0,0,0,DialogueTable|60011_48,Manchmal ist es besser, einfach alles auszukotzen.
+Dialogue: 0,0:03:22.00,0:03:22.90,ClearMain,Chris,0,0,0,DialogueTable|60011_49,Wie bei einer Magenverstimmung.
+Dialogue: 0,0:03:23.00,0:03:23.90,ClearMain,Pray,0,0,0,DialogueTable|60011_50,Was ist das denn für ein Unsinn, so aus dem Nichts?
+Dialogue: 0,0:03:24.00,0:03:24.90,ClearMain,Chris,0,0,0,DialogueTable|60011_51,Ich meine, du musst es nicht zurückhalten, nur weil es kindisch oder widersprüchlich klingt.
+Dialogue: 0,0:03:25.00,0:03:25.90,ClearMain,Chris,0,0,0,DialogueTable|60011_52,Nicht, dass du es ständig tun solltest, natürlich.
+Dialogue: 0,0:03:26.00,0:03:26.90,ClearMain,Chris,0,0,0,DialogueTable|60011_53,Klar, das Gegessene wieder auszuspucken ist Verschwendung, und schön anzusehen ist es auch nicht,
+Dialogue: 0,0:03:27.00,0:03:27.90,ClearMain,Chris,0,0,0,DialogueTable|60011_54,aber bei einer Magenverstimmung geht nichts darüber.
+Dialogue: 0,0:03:28.00,0:03:28.90,ClearMain,Chris,0,0,0,DialogueTable|60011_55,Sich bei jemandem, der einem nahesteht, Luft zu machen, kann manchmal helfen, es durchzustehen.
+Dialogue: 0,0:03:29.00,0:03:29.90,ClearMain,Pray,0,0,0,DialogueTable|60011_56,Aber das könnte Leute vergraulen.
+Dialogue: 0,0:03:30.00,0:03:30.90,ClearMain,Pray,0,0,0,DialogueTable|60011_57,Selbst ich finde es anstrengend, wenn Leute nur über ihre eigenen Probleme reden.
+Dialogue: 0,0:03:31.00,0:03:31.90,ClearMain,Chris,0,0,0,DialogueTable|60011_58,Es ist okay, solange du es nicht ständig machst. Nur wenn es wirklich hart wird.
+Dialogue: 0,0:03:32.00,0:03:32.90,ClearMain,Chris,0,0,0,DialogueTable|60011_59,Deshalb habe ich diese Reparaturklinik überhaupt erst gegründet.
+Dialogue: 0,0:03:33.00,0:03:33.90,ClearMain,Chris,0,0,0,DialogueTable|60011_60,Wenn dich sonst noch etwas beschäftigt, lässt du es besser einfach raus.
+Dialogue: 0,0:03:34.00,0:03:34.90,ClearMain,Pray,0,0,0,DialogueTable|60011_61,Etwas, das mich beschäftigt...
+Dialogue: 0,0:03:35.00,0:03:35.90,ClearMain,Pray,0,0,0,DialogueTable|60011_62,Na gut.
+Dialogue: 0,0:03:36.00,0:03:36.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60011_63,Pray räusperte sich.
+Dialogue: 0,0:03:37.00,0:03:37.90,ClearMain,Pray,0,0,0,DialogueTable|60011_64,Also, Chris.
+Dialogue: 0,0:03:38.00,0:03:38.90,ClearMain,Pray,0,0,0,DialogueTable|60011_65,Du weißt, dass nächsten Donnerstag Polarnacht-Tag ist...
+Dialogue: 0,0:03:39.00,0:03:39.90,ClearMain,Pray,0,0,0,DialogueTable|60011_66,An dem Tag...
+Dialogue: 0,0:03:40.00,0:03:40.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60011_67,Polarnacht-Tag.
+Dialogue: 0,0:03:41.00,0:03:41.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60011_68,Anders als alle anderen, die ganz aufgedreht sind, empfinde ich nichts als Gleichgültigkeit.
+Dialogue: 0,0:03:42.00,0:03:42.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60011_69,Wenn sogar eine Stubenhockerin wie Pray Pläne hat,
+Dialogue: 0,0:03:43.00,0:03:43.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60011_70,kommt es mir fast so vor, als wäre ich der Einzige in Chroma City ohne jede Erinnerung an den Polarnacht-Tag.
+Dialogue: 0,0:03:44.00,0:03:44.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60011_71,Ein Tag, der mich seltsamerweise null interessiert.
+Dialogue: 0,0:03:45.00,0:03:45.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60011_72,Vielleicht liegt es daran, dass das Glück in meinem Zimmer die lauten Straßen und Lichter locker aufwiegt.
+Dialogue: 0,0:03:46.00,0:03:46.90,ClearMain,Pray,0,0,0,DialogueTable|60011_73,...Wäre das okay?
+Dialogue: 0,0:03:47.00,0:03:47.90,ClearMain,Chris,0,0,0,DialogueTable|60011_74,Äh... Was? Ich war kurz weggetreten...
+Dialogue: 0,0:03:48.00,0:03:48.90,ClearMain,Pray,0,0,0,DialogueTable|60011_75,...
+Dialogue: 0,0:03:49.00,0:03:49.90,ClearMain,Chris,0,0,0,DialogueTable|60011_76,Tut mir leid, kannst du das noch mal sagen?
+Dialogue: 0,0:03:50.00,0:03:50.90,ClearMain,Pray,0,0,0,DialogueTable|60011_77,...Haa.
+Dialogue: 0,0:03:51.00,0:03:51.90,ClearMain,Pray,0,0,0,DialogueTable|60011_78,Ich sagte, lass uns einfach zusammen essen gehen.
+Dialogue: 0,0:03:52.00,0:03:52.90,ClearMain,Pray,0,0,0,DialogueTable|60011_79,Es ist mein freier Tag.
+Dialogue: 0,0:03:53.00,0:03:53.90,ClearMain,Chris,0,0,0,DialogueTable|60011_80,Echt? Ist da nicht eigentlich Hochsaison?
+Dialogue: 0,0:03:54.00,0:03:54.90,ClearMain,Pray,0,0,0,DialogueTable|60011_81,Wir peilen eine andere Art von Hochphase an.
+Dialogue: 0,0:03:55.00,0:03:55.90,ClearMain,Pray,0,0,0,DialogueTable|60011_82,Die Chefin sagt, die Polarnacht ist für alle anderen Hochsaison, also zahlt sich das hier viel mehr aus.
+Dialogue: 0,0:03:56.00,0:03:56.90,ClearMain,Pray,0,0,0,DialogueTable|60011_83,Ich glaube allerdings, sie will nur eine Ausrede, um ihr Doujin-Zeug zu machen.
+Dialogue: 0,0:03:57.00,0:03:57.90,ClearMain,Chris,0,0,0,DialogueTable|60011_84,Du meinst Buff Girl.
+Dialogue: 0,0:03:58.00,0:03:58.90,ClearMain,Pray,0,0,0,DialogueTable|60011_85,Das Finale läuft nächste Woche.
+Dialogue: 0,0:03:59.00,0:03:59.90,ClearMain,Pray,0,0,0,DialogueTable|60011_86,Sie arbeitet schon fleißig an Zuckerfiguren und ihrem Cosplay-Outfit.
+Dialogue: 0,0:04:00.00,0:04:00.90,ClearMain,Chris,0,0,0,DialogueTable|60011_87,Gut, dass ihr den gleichen Geschmack habt.
+Dialogue: 0,0:04:01.00,0:04:01.90,ClearMain,Pray,0,0,0,DialogueTable|60011_88,Deshalb habe ich mich überhaupt erst beworben.
+Dialogue: 0,0:04:02.00,0:04:02.90,ClearMain,Pray,0,0,0,DialogueTable|60011_89,Die echten Comichefte, die stolz im Regal standen, haben mich angefixt.
+Dialogue: 0,0:04:03.00,0:04:03.90,ClearMain,Pray,0,0,0,DialogueTable|60011_90,Da es ein Retro-Café ist, dachte ich, es wären bloß zufällige Deko-Requisiten, aber...
+Dialogue: 0,0:04:04.00,0:04:04.90,ClearMain,Pray,0,0,0,DialogueTable|60011_91,...dann entdeckte ich in einer Kiste in der Ecke einen ganzen Haufen selbstgemachten Merch.
+Dialogue: 0,0:04:05.00,0:04:05.90,ClearMain,Pray,0,0,0,DialogueTable|60011_92,„Die meint es ernst.“ Das wusste ich auf der Stelle.
+Dialogue: 0,0:04:06.00,0:04:06.90,ClearMain,Pray,0,0,0,DialogueTable|60011_93,Schau dir nur das Cosplay-Event nächste Woche an. Die Chefin ist viel aufgeregter als ich.
+Dialogue: 0,0:04:07.00,0:04:07.90,ClearMain,Pray,0,0,0,DialogueTable|60011_94,Es ist der beste Job überhaupt, nur dass wir ununterbrochen arbeiten.
+Dialogue: 0,0:04:08.00,0:04:08.90,ClearMain,Chris,0,0,0,DialogueTable|60011_95,Klingt witzig, aber auch ziemlich anstrengend.
+Dialogue: 0,0:04:09.00,0:04:09.90,ClearMain,Pray,0,0,0,DialogueTable|60011_96,Besser, als während der Polarnacht zu arbeiten.
+Dialogue: 0,0:04:10.00,0:04:10.90,ClearMain,Pray,0,0,0,DialogueTable|60011_97,Es nervt, zu arbeiten, wenn alle anderen frei haben, und dazu kommen doppelt so viele Kunden wie sonst.
+Dialogue: 0,0:04:11.00,0:04:11.90,ClearMain,Pray,0,0,0,DialogueTable|60011_98,Außerdem ist die Power von Buff Girl nicht zu unterschätzen.
+Dialogue: 0,0:04:12.00,0:04:12.90,ClearMain,Pray,0,0,0,DialogueTable|60011_99,Apropos, ich sollte los.
+Dialogue: 0,0:04:13.00,0:04:13.90,ClearMain,Pray,0,0,0,DialogueTable|60011_100,Die Chefin kämpft wahrscheinlich ganz allein.
+Dialogue: 0,0:04:14.00,0:04:14.90,ClearMain,Chris,0,0,0,DialogueTable|60011_101,Arbeite nicht zu hart.
+Dialogue: 0,0:04:15.00,0:04:15.90,ClearMain,Pray,0,0,0,DialogueTable|60011_102,Du auch nicht.
+Dialogue: 0,0:04:16.00,0:04:16.90,ClearMain,Pray,0,0,0,DialogueTable|60011_103,Und putz dir das nächste Mal die Ohren.
+Dialogue: 0,0:04:17.00,0:04:17.90,ClearMain,Pray,0,0,0,DialogueTable|60011_104,Du konntest nicht mal hören, was ich dir direkt ins Gesicht gesagt habe...
+Dialogue: 0,0:04:18.00,0:04:18.90,ClearMain,Chris,0,0,0,DialogueTable|60011_105,Meine Ohren sind sauber.
+Dialogue: 0,0:04:19.00,0:04:19.90,ClearMain,Chris,0,0,0,DialogueTable|60011_106,Vielleicht liegt es daran, dass ich heute noch keine Nahrungsergänzungsmittel genommen habe.
+Dialogue: 0,0:04:20.00,0:04:20.90,ClearMain,Pray,0,0,0,DialogueTable|60011_107,Jedenfalls.
+Dialogue: 0,0:04:21.00,0:04:21.90,ClearMain,Pray,0,0,0,DialogueTable|60011_108,Mach das nächste Mal nicht wieder.
+Dialogue: 0,0:04:22.00,0:04:22.90,ClearMain,Pray,0,0,0,DialogueTable|60011_109,Wer zuhört, dem wird Gutes zuteil.
+Dialogue: 0,0:04:23.00,0:04:23.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60011_110,Nachdem Pray gegangen war, holte mich endlich die Erschöpfung ein.
+Dialogue: 0,0:04:24.00,0:04:24.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60011_111,Wer hätte gedacht, dass vergessene Nahrungsergänzungsmittel so einen Unterschied machen.
+Dialogue: 0,0:04:25.00,0:04:25.90,ClearMain,Chris,0,0,0,DialogueTable|60011_112,Ich sollte mal den Kopf freibekommen.

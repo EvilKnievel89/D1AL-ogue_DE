@@ -1,0 +1,245 @@
+[Script Info]
+Title: S01E14_Tag7_Orca
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize
+Style: Default,Arial,20
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.90,WorkBefore,Chris,0,0,0,DialogueTable|70006_1,(Ich fühle mich wegen der Sache mit Orca immer noch mies ...)
+Dialogue: 0,0:00:01.00,0:00:01.90,WorkBefore,Chris,0,0,0,DialogueTable|70006_2,(Hoffentlich geht es ihr nicht schlechter.)
+Dialogue: 0,0:00:02.00,0:00:02.90,WorkBefore,Chris,0,0,0,DialogueTable|70006_3,(Gleich ist Orcas Termin.)
+Dialogue: 0,0:00:03.00,0:00:03.90,WorkBefore,Chris,0,0,0,DialogueTable|70006_4,(Ich öffne besser den Laden und bereite die Wartung vor, bevor sie kommt.)
+Dialogue: 0,0:00:04.00,0:00:04.90,StartMain,Orca,0,0,0,DialogueTable|60026_1,Hallo, Chris.
+Dialogue: 0,0:00:05.00,0:00:05.90,StartMain,Orca,0,0,0,DialogueTable|60026_2,Ich bin zur Nachkontrolle hier, wie besprochen ...
+Dialogue: 0,0:00:06.00,0:00:06.90,StartMain,Orca,0,0,0,DialogueTable|60026_3,Wie geht es dir ...? Ist alles in Ordnung?
+Dialogue: 0,0:00:07.00,0:00:07.90,StartMain,Chris,0,0,0,DialogueTable|60026_4,Ganz gut geht es mir nicht gerade.
+Dialogue: 0,0:00:08.00,0:00:08.90,StartMain,Chris,0,0,0,DialogueTable|60026_5,Aber es geht mir deutlich besser.
+Dialogue: 0,0:00:09.00,0:00:09.90,StartMain,Chris,0,0,0,DialogueTable|60026_6,Es gab auch Leute, die mir die Daumen gedrückt haben.
+Dialogue: 0,0:00:10.00,0:00:10.90,StartMain,Chris,0,0,0,DialogueTable|60026_7,Und dadurch hatte ich das Gefühl, mit diesem Laden etwas richtig zu machen.
+Dialogue: 0,0:00:11.00,0:00:11.90,StartMain,Orca,0,0,0,DialogueTable|60026_8,Das sind gute Neuigkeiten.
+Dialogue: 0,0:00:12.00,0:00:12.90,StartMain,Orca,0,0,0,DialogueTable|60026_9,Nichts ist lohnender, als zu wissen, dass man auf dem richtigen Weg ist.
+Dialogue: 0,0:00:13.00,0:00:13.90,StartMain,Orca,0,0,0,DialogueTable|60026_10,Ich ...
+Dialogue: 0,0:00:14.00,0:00:14.90,StartMain,Orca,0,0,0,DialogueTable|60026_11,möchte auch einer dieser Menschen sein, die dir dieses Gefühl geben, Chris.
+Dialogue: 0,0:00:15.00,0:00:15.90,StartMain,Chris,0,0,0,DialogueTable|60026_12,Das bist du schon.
+Dialogue: 0,0:00:16.00,0:00:16.90,StartMain,Chris,0,0,0,DialogueTable|60026_13,Bei einem Modell wie deinem und den Aufträgen, die du mitbringst, Orca ...
+Dialogue: 0,0:00:17.00,0:00:17.90,StartMain,Chris,0,0,0,DialogueTable|60026_14,halten die mich technisch ganz schön auf Trab.
+Dialogue: 0,0:00:18.00,0:00:18.90,StartMain,Chris,0,0,0,DialogueTable|60026_15,Anders als bei deinen Standard-E.V.Es
+Dialogue: 0,0:00:19.00,0:00:19.90,StartMain,Chris,0,0,0,DialogueTable|60026_16,setzt dein Modell auf vielseitige Hochleistungseinheiten.
+Dialogue: 0,0:00:20.00,0:00:20.90,StartMain,Chris,0,0,0,DialogueTable|60026_17,Hohe Leistung heißt meistens,
+Dialogue: 0,0:00:21.00,0:00:21.90,StartMain,Chris,0,0,0,DialogueTable|60026_18,dass sie viel schwerer zu reparieren sind oder öfter ausfallen.
+Dialogue: 0,0:00:22.00,0:00:22.90,StartMain,Orca,0,0,0,DialogueTable|60026_19,Andererseits
+Dialogue: 0,0:00:23.00,0:00:23.90,StartMain,Orca,0,0,0,DialogueTable|60026_20,wurde mir wohl nur der Standardtarif berechnet ...
+Dialogue: 0,0:00:24.00,0:00:24.90,StartMain,Chris,0,0,0,DialogueTable|60026_21,Beschützerin der Straßen.
+Dialogue: 0,0:00:25.00,0:00:25.90,StartMain,Chris,0,0,0,DialogueTable|60026_22,Einem „Buff Girl“ kann ich für die Wartung schlecht zu viel berechnen.
+Dialogue: 0,0:00:26.00,0:00:26.90,StartMain,Orca,0,0,0,DialogueTable|60026_23,B-Bitte nenn mich nicht so!
+Dialogue: 0,0:00:27.00,0:00:27.90,StartMain,Chris,0,0,0,DialogueTable|60026_24,Schon gut, schon gut.
+Dialogue: 0,0:00:28.00,0:00:28.90,StartMain,Chris,0,0,0,DialogueTable|60026_25,Die Wahrheit ist:
+Dialogue: 0,0:00:29.00,0:00:29.90,StartMain,Chris,0,0,0,DialogueTable|60026_26,Eine feste Preisgrundlage für Reparaturen gibt es kaum.
+Dialogue: 0,0:00:30.00,0:00:30.90,StartMain,Chris,0,0,0,DialogueTable|60026_27,Jeder Kunde braucht andere Teile, und alle betreiben ihre Systeme anders.
+Dialogue: 0,0:00:31.00,0:00:31.90,StartMain,Chris,0,0,0,DialogueTable|60026_28,Die Rechnung jedes Mal neu zu berechnen
+Dialogue: 0,0:00:32.00,0:00:32.90,StartMain,Chris,0,0,0,DialogueTable|60026_29,ist ein ziemlicher Aufwand,
+Dialogue: 0,0:00:33.00,0:00:33.90,StartMain,Chris,0,0,0,DialogueTable|60026_30,und deswegen kann ich auch niemanden abweisen.
+Dialogue: 0,0:00:34.00,0:00:34.90,StartMain,Orca,0,0,0,DialogueTable|60026_31,Ich glaube, ich verstehe, was du meinst.
+Dialogue: 0,0:00:35.00,0:00:35.90,StartMain,Orca,0,0,0,DialogueTable|60026_32,Was, wenn es mehr kostet als gedacht? Wäre die Fahrt dann umsonst?
+Dialogue: 0,0:00:36.00,0:00:36.90,StartMain,Orca,0,0,0,DialogueTable|60026_33,Solche Sorgen sind ganz natürlich.
+Dialogue: 0,0:00:37.00,0:00:37.90,StartMain,Orca,0,0,0,DialogueTable|60026_34,Und meistens gilt: Je besser der Service,
+Dialogue: 0,0:00:38.00,0:00:38.90,StartMain,Orca,0,0,0,DialogueTable|60026_35,desto schwerer wiegen diese Sorgen.
+Dialogue: 0,0:00:39.00,0:00:39.90,StartMain,Chris,0,0,0,DialogueTable|60026_36,Genau.
+Dialogue: 0,0:00:40.00,0:00:40.90,StartMain,Chris,0,0,0,DialogueTable|60026_37,Weil „D1AL-ogue“ auf ein Luxus-Flair setzt, das zugleich als psychologische Therapie dient,
+Dialogue: 0,0:00:41.00,0:00:41.90,StartMain,Chris,0,0,0,DialogueTable|60026_38,muss ich den Leuten die Sorgen nehmen.
+Dialogue: 0,0:00:42.00,0:00:42.90,StartMain,Chris,0,0,0,DialogueTable|60026_39,Für eine „Luxus“-Klinik allerdings
+Dialogue: 0,0:00:43.00,0:00:43.90,StartMain,Chris,0,0,0,DialogueTable|60026_40,benutze ich verdammt oft ein klobiges Dial.
+Dialogue: 0,0:00:44.00,0:00:44.90,StartMain,Orca,0,0,0,DialogueTable|60026_41,Nennen wir es dann „Vintage“?
+Dialogue: 0,0:00:45.00,0:00:45.90,StartMain,Chris,0,0,0,DialogueTable|60026_42,„Vintage“ passt mir.
+Dialogue: 0,0:00:46.00,0:00:46.90,StartMain,Chris,0,0,0,DialogueTable|60026_43,Na gut, Orca.
+Dialogue: 0,0:00:47.00,0:00:47.90,StartMain,Chris,0,0,0,DialogueTable|60026_44,Zeit für deine „Vintage“-Wartung.
+Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Chris,0,0,0,DialogueTable|60026_45,Bereit?
+Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Auftragstitel,0,0,0,DialogueTable|60026_46,[Orcas Auftrag] Sync-Prüfung nach Orcas Körperwechsel
+Dialogue: 0,0:00:50.00,0:00:50.90,Sub,Orca,0,0,0,DialogueTable|40260_1,Ah ... ah, ngh ... M-Mein Körper zittert von allein ...
+Dialogue: 0,0:00:51.00,0:00:51.90,Sub,Orca,0,0,0,DialogueTable|40260_2,Ah ..! ... Ngh, die Stelle ist viel zu empfindlich ...
+Dialogue: 0,0:00:52.00,0:00:52.90,Repair1,Chris,0,0,0,DialogueTable|40261_1,Ich prüfe jetzt deine Sync-Werte mit dem neuen Körper.
+Dialogue: 0,0:00:53.00,0:00:53.90,Repair1,Chris,0,0,0,DialogueTable|40261_2,Du könntest einen kräftigen Stoß spüren.
+Dialogue: 0,0:00:54.00,0:00:54.90,Repair1,Orca,0,0,0,DialogueTable|40261_3,Nghhh ... Eep ..!!
+Dialogue: 0,0:00:55.00,0:00:55.90,Repair1,Orca,0,0,0,DialogueTable|40261_4,Puh ...
+Dialogue: 0,0:00:56.00,0:00:56.90,Repair1,Chris,0,0,0,DialogueTable|40261_5,Passt.
+Dialogue: 0,0:00:57.00,0:00:57.90,Repair1,Orca,0,0,0,DialogueTable|40261_6,Bist du sicher, dass das normal ist?
+Dialogue: 0,0:00:58.00,0:00:58.90,Repair1,Orca,0,0,0,DialogueTable|40261_7,Es fühlte sich an, als würde mich etwas Riesiges wie eine Stoffpuppe herumschleudern.
+Dialogue: 0,0:00:59.00,0:00:59.90,Repair1,Chris,0,0,0,DialogueTable|40261_8,Ich weiß nicht genau, wie sich das anfühlt,
+Dialogue: 0,0:01:00.00,0:01:00.90,Repair1,Chris,0,0,0,DialogueTable|40261_9,aber wenn du Sinnesrückmeldungen bekommst, bist du normal.
+Dialogue: 0,0:01:01.00,0:01:01.90,Repair1,Chris,0,0,0,DialogueTable|40261_10,Gestern hättest du noch nichts gespürt.
+Dialogue: 0,0:01:02.00,0:01:02.90,Repair1,Chris,0,0,0,DialogueTable|40261_11,Falls es wehgetan hat,
+Dialogue: 0,0:01:03.00,0:01:03.90,Repair1,Chris,0,0,0,DialogueTable|40261_12,sage ich dir nächstes Mal früher Bescheid.
+Dialogue: 0,0:01:04.00,0:01:04.90,Repair1,Orca,0,0,0,DialogueTable|40261_13,Es war weniger Schmerz als ...
+Dialogue: 0,0:01:05.00,0:01:05.90,Repair1,Orca,0,0,0,DialogueTable|40261_14,das Gefühl, besiegt zu sein.
+Dialogue: 0,0:01:06.00,0:01:06.90,Repair2,Orca,0,0,0,DialogueTable|40262_1,Chris ...
+Dialogue: 0,0:01:07.00,0:01:07.90,Repair2,Orca,0,0,0,DialogueTable|40262_2,du bist doch erwachsen, oder?
+Dialogue: 0,0:01:08.00,0:01:08.90,Repair2,Chris,0,0,0,DialogueTable|40262_3,Bin ich, aber ...
+Dialogue: 0,0:01:09.00,0:01:09.90,Repair2,Chris,0,0,0,DialogueTable|40262_4,wie kommst du darauf?
+Dialogue: 0,0:01:10.00,0:01:10.90,Repair2,Orca,0,0,0,DialogueTable|40262_5,Mir ist bewusst, dass Menschen mit der Zeit wachsen,
+Dialogue: 0,0:01:11.00,0:01:11.90,Repair2,Orca,0,0,0,DialogueTable|40262_6,aber ...
+Dialogue: 0,0:01:12.00,0:01:12.90,Repair2,Orca,0,0,0,DialogueTable|40262_7,dein Kindheits-Ich und dein heutiges Aussehen
+Dialogue: 0,0:01:13.00,0:01:13.90,Repair2,Orca,0,0,0,DialogueTable|40262_8,passen nicht ganz zusammen.
+Dialogue: 0,0:01:14.00,0:01:14.90,Repair2,Orca,0,0,0,DialogueTable|40262_9,Ah, falls das ein heikles Thema ist ... Verzeihung.
+Dialogue: 0,0:01:15.00,0:01:15.90,Repair2,Chris,0,0,0,DialogueTable|40262_10,Mach dir keinen Kopf.
+Dialogue: 0,0:01:16.00,0:01:16.90,Repair2,Chris,0,0,0,DialogueTable|40262_11,Das ist etwas, das ich verarbeiten muss,
+Dialogue: 0,0:01:17.00,0:01:17.90,Repair2,Chris,0,0,0,DialogueTable|40262_12,und was jenen Polarnacht-Tag angeht,
+Dialogue: 0,0:01:18.00,0:01:18.90,Repair2,Chris,0,0,0,DialogueTable|40262_13,glaube ich nicht, dass er mich noch so sehr belastet.
+Dialogue: 0,0:01:19.00,0:01:19.90,Repair2,Chris,0,0,0,DialogueTable|40262_14,Der Großteil meines Stresses und meiner Fixierung
+Dialogue: 0,0:01:20.00,0:01:20.90,Repair2,Chris,0,0,0,DialogueTable|40262_15,scheint von dem zu kommen, was danach geschah,
+Dialogue: 0,0:01:21.00,0:01:21.90,Repair2,Chris,0,0,0,DialogueTable|40262_16,und nicht vom Unfall selbst.
+Dialogue: 0,0:01:22.00,0:01:22.90,Repair2,Chris,0,0,0,DialogueTable|40262_17,Wie auch immer,
+Dialogue: 0,0:01:23.00,0:01:23.90,Repair2,Chris,0,0,0,DialogueTable|40262_18,ich dachte, du wärst der kontaktfreudige Typ, Orca,
+Dialogue: 0,0:01:24.00,0:01:24.90,Repair2,Chris,0,0,0,DialogueTable|40262_19,aber du redest, als hättest du noch nie gesehen, wie ein Mensch erwachsen wird.
+Dialogue: 0,0:01:25.00,0:01:25.90,Repair2,Orca,0,0,0,DialogueTable|40262_20,Habe ich tatsächlich nicht.
+Dialogue: 0,0:01:26.00,0:01:26.90,Repair2,Orca,0,0,0,DialogueTable|40262_21,Ich bin gern aktiv,
+Dialogue: 0,0:01:27.00,0:01:27.90,Repair2,Orca,0,0,0,DialogueTable|40262_22,aber mein Umgang beschränkt sich meist auf andere E.V.Es bei der Arbeit.
+Dialogue: 0,0:01:28.00,0:01:28.90,Repair2,Orca,0,0,0,DialogueTable|40262_23,Deshalb habe ich nur selten Gelegenheit, Menschen zu treffen.
+Dialogue: 0,0:01:29.00,0:01:29.90,Repair2,Orca,0,0,0,DialogueTable|40262_24,Und langfristige Beziehungen aufzubauen ...
+Dialogue: 0,0:01:30.00,0:01:30.90,Repair2,Orca,0,0,0,DialogueTable|40262_25,ist noch seltener.
+Dialogue: 0,0:01:31.00,0:01:31.90,Repair2,Chris,0,0,0,DialogueTable|40262_26,Das haben wir wohl überraschenderweise gemeinsam.
+Dialogue: 0,0:01:32.00,0:01:32.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60027_1_C3,Der Sync mit dem neuen Körper war stabil, deshalb ging es überhaupt nicht lange.
+Dialogue: 0,0:01:33.00,0:01:33.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60027_1_C2,Der Sync mit dem neuen Körper war stabil, aber ...
+Dialogue: 0,0:01:34.00,0:01:34.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60027_2_C2,weil du so empfindlich darauf reagiert hast, Orca,
+Dialogue: 0,0:01:35.00,0:01:35.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60027_3_C2,hat es länger gedauert als gedacht.
+Dialogue: 0,0:01:36.00,0:01:36.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60027_4_C2,Tut mir leid. Ich muss anstrengend gewesen sein ...
+Dialogue: 0,0:01:37.00,0:01:37.90,Comment_Normal,Chris,0,0,0,CommentDialogueTable|60027_5_C2,Überhaupt nicht. Deine Reaktionen waren ziemlich unterhaltsam, deshalb habe ich gern an dir gearbeitet.
+Dialogue: 0,0:01:38.00,0:01:38.90,Comment_Normal,Orca,0,0,0,CommentDialogueTable|60027_6_C2,... Wie peinlich.
+Dialogue: 0,0:01:39.00,0:01:39.90,Comment_Good,Chris,0,0,0,CommentDialogueTable|60027_2_C3,Der Sync mit dem neuen Körper war stabil, aber ...
+Dialogue: 0,0:01:40.00,0:01:40.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60027_1_C1,weil du so empfindlich darauf reagiert hast, Orca,
+Dialogue: 0,0:01:41.00,0:01:41.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60027_2_C1,hat es länger gedauert als gedacht.
+Dialogue: 0,0:01:42.00,0:01:42.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60027_3_C1,Tut mir leid. Ich muss anstrengend gewesen sein ...
+Dialogue: 0,0:01:43.00,0:01:43.90,Comment_Bad,Chris,0,0,0,CommentDialogueTable|60027_4_C1,Überhaupt nicht. Deine Reaktionen waren ziemlich unterhaltsam, deshalb habe ich gern an dir gearbeitet.
+Dialogue: 0,0:01:44.00,0:01:44.90,Comment_Bad,Orca,0,0,0,CommentDialogueTable|60027_5_C1,... Wie peinlich.
+Dialogue: 0,0:01:45.00,0:01:45.90,ClearMain,Chris,0,0,0,DialogueTable|60027_1,Das war der letzte Teil der Nachwartung.
+Dialogue: 0,0:01:46.00,0:01:46.90,ClearMain,Chris,0,0,0,DialogueTable|60027_2,Wenn sich nichts komisch anfühlt,
+Dialogue: 0,0:01:47.00,0:01:47.90,ClearMain,Chris,0,0,0,DialogueTable|60027_3,können wir hier Schluss machen.
+Dialogue: 0,0:01:48.00,0:01:48.90,ClearMain,Chris,0,0,0,DialogueTable|60027_4,Irgendwelche Probleme?
+Dialogue: 0,0:01:49.00,0:01:49.90,ClearMain,Orca,0,0,0,DialogueTable|60027_5,Überhaupt nicht.
+Dialogue: 0,0:01:50.00,0:01:50.90,ClearMain,Orca,0,0,0,DialogueTable|60027_6,Im Einsatz, wenn ich richtig Kraft aufwende, könnte es anders sein, aber ...
+Dialogue: 0,0:01:51.00,0:01:51.90,ClearMain,Orca,0,0,0,DialogueTable|60027_7,das Empfinden selbst ist vollkommen klar.
+Dialogue: 0,0:01:52.00,0:01:52.90,ClearMain,Chris,0,0,0,DialogueTable|60027_8,Ein Glück.
+Dialogue: 0,0:01:53.00,0:01:53.90,ClearMain,Chris,0,0,0,DialogueTable|60027_9,Nach einem Teiletausch dieser Größenordnung
+Dialogue: 0,0:01:54.00,0:01:54.90,ClearMain,Chris,0,0,0,DialogueTable|60027_10,erleben manche E.V.Es gelegentlich eine leichte Desorientierung.
+Dialogue: 0,0:01:55.00,0:01:55.90,ClearMain,Chris,0,0,0,DialogueTable|60027_11,Das ist so ähnlich wie eine Identitätskrise.
+Dialogue: 0,0:01:56.00,0:01:56.90,ClearMain,Orca,0,0,0,DialogueTable|60027_12,Ist das so?
+Dialogue: 0,0:01:57.00,0:01:57.90,ClearMain,Orca,0,0,0,DialogueTable|60027_13,Nur meine Teile haben sich geändert,
+Dialogue: 0,0:01:58.00,0:01:58.90,ClearMain,Orca,0,0,0,DialogueTable|60027_14,ich fühle mich immer noch wie ich selbst.
+Dialogue: 0,0:01:59.00,0:01:59.90,ClearMain,Orca,0,0,0,DialogueTable|60027_15,Das ist faszinierend.
+Dialogue: 0,0:02:00.00,0:02:00.90,ClearMain,Chris,0,0,0,DialogueTable|60027_16,Da gibt es diese berühmte Geschichte vom Schiff des Theseus.
+Dialogue: 0,0:02:01.00,0:02:01.90,ClearMain,Chris,0,0,0,DialogueTable|60027_17,Das Schiff des Theseus, bei dem jedes einzelne Teil ersetzt wurde,
+Dialogue: 0,0:02:02.00,0:02:02.90,ClearMain,Chris,0,0,0,DialogueTable|60027_18,und aus den alten, aussortierten Teilen ein neues Schiff gebaut wurde.
+Dialogue: 0,0:02:03.00,0:02:03.90,ClearMain,Chris,0,0,0,DialogueTable|60027_19,Die Frage ist: Welches ist das echte Schiff des Theseus?
+Dialogue: 0,0:02:04.00,0:02:04.90,ClearMain,Orca,0,0,0,DialogueTable|60027_20,Das Schiff des Theseus ist einfach das Schiff des Theseus.
+Dialogue: 0,0:02:05.00,0:02:05.90,ClearMain,Orca,0,0,0,DialogueTable|60027_21,Gehört das neue Schiff Theseus?
+Dialogue: 0,0:02:06.00,0:02:06.90,ClearMain,Chris,0,0,0,DialogueTable|60027_22,Nun ...
+Dialogue: 0,0:02:07.00,0:02:07.90,ClearMain,Chris,0,0,0,DialogueTable|60027_23,Ich glaube nicht, dass die Geschichte darauf eingeht.
+Dialogue: 0,0:02:08.00,0:02:08.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_24,Was für eine amüsante Sichtweise. Die hatte ich noch nie gehört.
+Dialogue: 0,0:02:09.00,0:02:09.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_25,Eine reine und doch irgendwie einzigartige Philosophie.
+Dialogue: 0,0:02:10.00,0:02:10.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_26,Genau diese Haltung muss ihr die Überzeugung geben ...
+Dialogue: 0,0:02:11.00,0:02:11.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_27,sich ohne lange zu überlegen mitten in Schrecken und Tragödie zu stürzen.
+Dialogue: 0,0:02:12.00,0:02:12.90,ClearMain,Orca,0,0,0,DialogueTable|60027_28,Man könnte sagen, diese Geschichte wirft die Frage nach der „Essenz“ auf.
+Dialogue: 0,0:02:13.00,0:02:13.90,ClearMain,Orca,0,0,0,DialogueTable|60027_29,Die Teile des Schiffs – also der physische Körper – gegenüber der Vorstellung „Das ist das Schiff des Theseus“.
+Dialogue: 0,0:02:14.00,0:02:14.90,ClearMain,Orca,0,0,0,DialogueTable|60027_30,Sie fragt, welches von beiden die wahre Essenz in sich trägt.
+Dialogue: 0,0:02:15.00,0:02:15.90,ClearMain,Chris,0,0,0,DialogueTable|60027_31,Richtig.
+Dialogue: 0,0:02:16.00,0:02:16.90,ClearMain,Orca,0,0,0,DialogueTable|60027_32,Unzählige Philosophen dürften ihre eigenen Antworten gegeben haben,
+Dialogue: 0,0:02:17.00,0:02:17.90,ClearMain,Orca,0,0,0,DialogueTable|60027_33,aber ich bin schlicht zu dem Schluss gekommen: „Ich weiß es nicht.“
+Dialogue: 0,0:02:18.00,0:02:18.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_34,Ihre völlig unerwartete, absurde Antwort warf mich kurz aus der Bahn.
+Dialogue: 0,0:02:19.00,0:02:19.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_35,So selbstbewusst „Ich weiß es nicht“ zu verkünden.
+Dialogue: 0,0:02:20.00,0:02:20.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_36,Ehrlich gesagt war es ziemlich lustig, sie noch selbstsicherer als sonst zu sehen.
+Dialogue: 0,0:02:21.00,0:02:21.90,ClearMain,Orca,0,0,0,DialogueTable|60027_37,Ich bin nicht das Schiff des Theseus.
+Dialogue: 0,0:02:22.00,0:02:22.90,ClearMain,Orca,0,0,0,DialogueTable|60027_38,Ich bin nicht Theseus und nicht einmal Matrose auf diesem Schiff.
+Dialogue: 0,0:02:23.00,0:02:23.90,ClearMain,Orca,0,0,0,DialogueTable|60027_39,Ich bin nicht der Schiffbauer, der die Planken ersetzt hat, geschweige denn jemand aus dieser Zeit.
+Dialogue: 0,0:02:24.00,0:02:24.90,ClearMain,Orca,0,0,0,DialogueTable|60027_40,Da ich nichts darüber weiß,
+Dialogue: 0,0:02:25.00,0:02:25.90,ClearMain,Orca,0,0,0,DialogueTable|60027_41,kann ich ja wohl schlecht über seine Essenz diskutieren, oder?
+Dialogue: 0,0:02:26.00,0:02:26.90,ClearMain,Chris,0,0,0,DialogueTable|60027_42,Meinst du Qualifikationen?
+Dialogue: 0,0:02:27.00,0:02:27.90,ClearMain,Orca,0,0,0,DialogueTable|60027_43,Weniger eine Frage der Qualifikationen,
+Dialogue: 0,0:02:28.00,0:02:28.90,ClearMain,Orca,0,0,0,DialogueTable|60027_44,ich sehe es eher als eine Frage der Erkenntnis.
+Dialogue: 0,0:02:29.00,0:02:29.90,ClearMain,Orca,0,0,0,DialogueTable|60027_45,Übertragen wir das auf Menschen und E.V.Es.
+Dialogue: 0,0:02:30.00,0:02:30.90,ClearMain,Orca,0,0,0,DialogueTable|60027_46,Es geht um die Seele,
+Dialogue: 0,0:02:31.00,0:02:31.90,ClearMain,Orca,0,0,0,DialogueTable|60027_47,wie wir gestern besprochen haben.
+Dialogue: 0,0:02:32.00,0:02:32.90,ClearMain,Chris,0,0,0,DialogueTable|60027_48,Du meintest, dass E.V.Es, die ihre Identität nicht richtig erkundet haben,
+Dialogue: 0,0:02:33.00,0:02:33.90,ClearMain,Chris,0,0,0,DialogueTable|60027_49,oft darunter leiden, nach Aufmerksamkeit und Bestätigung zu hungern, richtig?
+Dialogue: 0,0:02:34.00,0:02:34.90,ClearMain,Orca,0,0,0,DialogueTable|60027_50,Genau.
+Dialogue: 0,0:02:35.00,0:02:35.90,ClearMain,Orca,0,0,0,DialogueTable|60027_51,Ich habe tatsächlich selbst mit dieser Frage gerungen, ungefähr zur selben Zeit.
+Dialogue: 0,0:02:36.00,0:02:36.90,ClearMain,Orca,0,0,0,DialogueTable|60027_52,ungefähr zur selben Zeit.
+Dialogue: 0,0:02:37.00,0:02:37.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_53,Klar. Das knüpft direkt an dasselbe Thema an.
+Dialogue: 0,0:02:38.00,0:02:38.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_54,Denn zu sagen, E.V.Es hätten keine Seele,
+Dialogue: 0,0:02:39.00,0:02:39.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_55,ist letztlich nur eine Verlängerung der Diskussion über ihre Essenz und ihren Wert als Lebewesen.
+Dialogue: 0,0:02:40.00,0:02:40.90,ClearMain,Orca,0,0,0,DialogueTable|60027_56,Glaubst du, dass es eine Seele wirklich gibt?
+Dialogue: 0,0:02:41.00,0:02:41.90,ClearMain,Orca,0,0,0,DialogueTable|60027_57,Sie ist unsichtbar, nicht greifbar und wissenschaftlich kaum belegt.
+Dialogue: 0,0:02:42.00,0:02:42.90,ClearMain,Orca,0,0,0,DialogueTable|60027_58,Per Definition ist das Wort „glauben“
+Dialogue: 0,0:02:43.00,0:02:43.90,ClearMain,Orca,0,0,0,DialogueTable|60027_59,für Dinge reserviert, bei denen es an Gewissheit fehlt.
+Dialogue: 0,0:02:44.00,0:02:44.90,ClearMain,Chris,0,0,0,DialogueTable|60027_60,Willst du damit sagen, dass es sie nicht gibt?
+Dialogue: 0,0:02:45.00,0:02:45.90,ClearMain,Orca,0,0,0,DialogueTable|60027_61,Nein.
+Dialogue: 0,0:02:46.00,0:02:46.90,ClearMain,Orca,0,0,0,DialogueTable|60027_62,Ich meine lediglich, dass wir nicht wissen, ob sie existiert oder nicht.
+Dialogue: 0,0:02:47.00,0:02:47.90,ClearMain,Orca,0,0,0,DialogueTable|60027_63,Wenn unsere Essenz die Seele ist,
+Dialogue: 0,0:02:48.00,0:02:48.90,ClearMain,Orca,0,0,0,DialogueTable|60027_64,wir aber nicht einmal feststellen können, ob es sie gibt,
+Dialogue: 0,0:02:49.00,0:02:49.90,ClearMain,Orca,0,0,0,DialogueTable|60027_65,wie können wir uns dann definieren?
+Dialogue: 0,0:02:50.00,0:02:50.90,ClearMain,Orca,0,0,0,DialogueTable|60027_66,Chris, du sagtest, dass ich mit dieser Wartung
+Dialogue: 0,0:02:51.00,0:02:51.90,ClearMain,Orca,0,0,0,DialogueTable|60027_67,praktisch einen neuen Körper bekommen habe.
+Dialogue: 0,0:02:52.00,0:02:52.90,ClearMain,Orca,0,0,0,DialogueTable|60027_68,Macht mich das ...
+Dialogue: 0,0:02:53.00,0:02:53.90,ClearMain,Orca,0,0,0,DialogueTable|60027_69,zu einer anderen Orca?
+Dialogue: 0,0:02:54.00,0:02:54.90,ClearMain,Chris,0,0,0,DialogueTable|60027_70,Ich glaube nicht.
+Dialogue: 0,0:02:55.00,0:02:55.90,ClearMain,Chris,0,0,0,DialogueTable|60027_71,Obwohl ... ich habe nicht gerade tief darüber nachgedacht.
+Dialogue: 0,0:02:56.00,0:02:56.90,ClearMain,Orca,0,0,0,DialogueTable|60027_72,Dann,
+Dialogue: 0,0:02:57.00,0:02:57.90,ClearMain,Orca,0,0,0,DialogueTable|60027_73,was, wenn mein Bewusstsein
+Dialogue: 0,0:02:58.00,0:02:58.90,ClearMain,Orca,0,0,0,DialogueTable|60027_74,in ein völlig anderes E.V.E-Modell übertragen würde?
+Dialogue: 0,0:02:59.00,0:02:59.90,ClearMain,Chris,0,0,0,DialogueTable|60027_75,Dann wärst du immer noch du.
+Dialogue: 0,0:03:00.00,0:03:00.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_76,Die Prämisse ist etwas anders als beim Schiff des Theseus –
+Dialogue: 0,0:03:01.00,0:03:01.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_77,– nämlich völlig andere Form und Funktion.
+Dialogue: 0,0:03:02.00,0:03:02.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_78,Und trotzdem, ohne lange nachzudenken,
+Dialogue: 0,0:03:03.00,0:03:03.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_79,sagte ich ihr, dass sie dann immer noch sie wäre.
+Dialogue: 0,0:03:04.00,0:03:04.90,ClearMain,Orca,0,0,0,DialogueTable|60027_80,Die Wahrheit lässt sich nicht erkennen.
+Dialogue: 0,0:03:05.00,0:03:05.90,ClearMain,Orca,0,0,0,DialogueTable|60027_81,Alle könnten Orca sein, keine von ihnen, oder sie sind es nur teilweise.
+Dialogue: 0,0:03:06.00,0:03:06.90,ClearMain,Orca,0,0,0,DialogueTable|60027_82,Die echte Orca könnte gestern gestorben sein, und ich bin vielleicht nur ein Ersatz.
+Dialogue: 0,0:03:07.00,0:03:07.90,ClearMain,Orca,0,0,0,DialogueTable|60027_83,Denn die Wahrheit ist komplex.
+Dialogue: 0,0:03:08.00,0:03:08.90,ClearMain,Chris,0,0,0,DialogueTable|60027_84,Das klingt ziemlich beängstigend.
+Dialogue: 0,0:03:09.00,0:03:09.90,ClearMain,Chris,0,0,0,DialogueTable|60027_85,Also,
+Dialogue: 0,0:03:10.00,0:03:10.90,ClearMain,Chris,0,0,0,DialogueTable|60027_86,zu welchem Schluss bist du gekommen, Orca?
+Dialogue: 0,0:03:11.00,0:03:11.90,ClearMain,Orca,0,0,0,DialogueTable|60027_87,Da ich es nicht sicher wissen kann,
+Dialogue: 0,0:03:12.00,0:03:12.90,ClearMain,Orca,0,0,0,DialogueTable|60027_88,habe ich beschlossen, einfach mein Bestes zu geben.
+Dialogue: 0,0:03:13.00,0:03:13.90,ClearMain,Orca,0,0,0,DialogueTable|60027_89,Wenn ich nicht wissen kann, was die Essenz ist,
+Dialogue: 0,0:03:14.00,0:03:14.90,ClearMain,Orca,0,0,0,DialogueTable|60027_90,gebe ich eben für jede Version von Orca alles.
+Dialogue: 0,0:03:15.00,0:03:15.90,ClearMain,Orca,0,0,0,DialogueTable|60027_91,Nach allem, was ich erlebt habe,
+Dialogue: 0,0:03:16.00,0:03:16.90,ClearMain,Orca,0,0,0,DialogueTable|60027_92,war die Welt schon immer voller komplexer, unbegreiflicher Dinge.
+Dialogue: 0,0:03:17.00,0:03:17.90,ClearMain,Orca,0,0,0,DialogueTable|60027_93,Recht zu haben oder perfekt zu sein ...
+Dialogue: 0,0:03:18.00,0:03:18.90,ClearMain,Orca,0,0,0,DialogueTable|60027_94,es war immer schwerer, Dinge zu finden, die einfach Sinn ergaben.
+Dialogue: 0,0:03:19.00,0:03:19.90,ClearMain,Orca,0,0,0,DialogueTable|60027_95,Handlungen, die ich für richtig hielt,
+Dialogue: 0,0:03:20.00,0:03:20.90,ClearMain,Orca,0,0,0,DialogueTable|60027_96,können manchmal damit enden, jemanden zu verletzen,
+Dialogue: 0,0:03:21.00,0:03:21.90,ClearMain,Orca,0,0,0,DialogueTable|60027_97,und Informationen, denen ich als Wahrheit vertraute,
+Dialogue: 0,0:03:22.00,0:03:22.90,ClearMain,Orca,0,0,0,DialogueTable|60027_98,können sich über Nacht einfach ändern.
+Dialogue: 0,0:03:23.00,0:03:23.90,ClearMain,Chris,0,0,0,DialogueTable|60027_99,...
+Dialogue: 0,0:03:24.00,0:03:24.90,ClearMain,Orca,0,0,0,DialogueTable|60027_100,Wenn ich so denke,
+Dialogue: 0,0:03:25.00,0:03:25.90,ClearMain,Orca,0,0,0,DialogueTable|60027_101,sollte ich mein Leben noch ernsthafter leben.
+Dialogue: 0,0:03:26.00,0:03:26.90,ClearMain,Orca,0,0,0,DialogueTable|60027_102,Ob ich eine Seele habe oder nicht, ob ich E.V.E oder Mensch bin ...
+Dialogue: 0,0:03:27.00,0:03:27.90,ClearMain,Orca,0,0,0,DialogueTable|60027_103,die Erkenntnis, dass es nicht an mir liegt, meinen eigenen Wert zu bestimmen,
+Dialogue: 0,0:03:28.00,0:03:28.90,ClearMain,Orca,0,0,0,DialogueTable|60027_104,hat all mein Zögern verschwinden lassen.
+Dialogue: 0,0:03:29.00,0:03:29.90,ClearMain,Orca,0,0,0,DialogueTable|60027_105,So konnte ich mich ganz darauf konzentrieren, bei meinen Rettungseinsätzen mein Bestes zu geben.
+Dialogue: 0,0:03:30.00,0:03:30.90,ClearMain,Chris,0,0,0,DialogueTable|60027_106,Ich glaube, oft ist es auch umgekehrt.
+Dialogue: 0,0:03:31.00,0:03:31.90,ClearMain,Chris,0,0,0,DialogueTable|60027_107,Zu wissen, dass das, was man auch tut,
+Dialogue: 0,0:03:32.00,0:03:32.90,ClearMain,Chris,0,0,0,DialogueTable|60027_108,vielleicht nicht die richtige Entscheidung ist ...
+Dialogue: 0,0:03:33.00,0:03:33.90,ClearMain,Chris,0,0,0,DialogueTable|60027_109,macht es vermutlich ziemlich schwer, motiviert zu bleiben.
+Dialogue: 0,0:03:34.00,0:03:34.90,ClearMain,Orca,0,0,0,DialogueTable|60027_110,Vielleicht ist das ein Vorteil meines Berufs.
+Dialogue: 0,0:03:35.00,0:03:35.90,ClearMain,Orca,0,0,0,DialogueTable|60027_111,Er ist hart,
+Dialogue: 0,0:03:36.00,0:03:36.90,ClearMain,Orca,0,0,0,DialogueTable|60027_112,aber zumindest muss man sich nicht so oft selbst infrage stellen, oder?
+Dialogue: 0,0:03:37.00,0:03:37.90,ClearMain,Chris,0,0,0,DialogueTable|60027_113,Menschen zu retten ...
+Dialogue: 0,0:03:38.00,0:03:38.90,ClearMain,Chris,0,0,0,DialogueTable|60027_114,macht es zumindest schwer, ein schlechter Mensch zu sein.
+Dialogue: 0,0:03:39.00,0:03:39.90,ClearMain,Chris,0,0,0,DialogueTable|60027_115,Das ist eine interessante Sichtweise.
+Dialogue: 0,0:03:40.00,0:03:40.90,ClearMain,Chris,0,0,0,DialogueTable|60027_116,Und zufällig genau der Rat, den ich gerade gebraucht habe.
+Dialogue: 0,0:03:41.00,0:03:41.90,ClearMain,Orca,0,0,0,DialogueTable|60027_117,Das freut mich …
+Dialogue: 0,0:03:42.00,0:03:42.90,ClearMain,Orca,0,0,0,DialogueTable|60027_118,Ich hatte schon befürchtet,
+Dialogue: 0,0:03:43.00,0:03:43.90,ClearMain,Orca,0,0,0,DialogueTable|60027_119,ich hätte endlos über meine eigenen Interessen drauflosgeplappert.
+Dialogue: 0,0:03:44.00,0:03:44.90,ClearMain,Orca,0,0,0,DialogueTable|60027_120,Dann magst du solche Themen also auch, Chris.
+Dialogue: 0,0:03:45.00,0:03:45.90,ClearMain,Chris,0,0,0,DialogueTable|60027_121,Ich verstehe nicht viel davon,
+Dialogue: 0,0:03:46.00,0:03:46.90,ClearMain,Chris,0,0,0,DialogueTable|60027_122,aber abgeneigt bin ich auch nicht.
+Dialogue: 0,0:03:47.00,0:03:47.90,ClearMain,Chris,0,0,0,DialogueTable|60027_123,Das war ein gutes Gespräch, Orca.
+Dialogue: 0,0:03:48.00,0:03:48.90,ClearMain,Orca,0,0,0,DialogueTable|60027_124,Das Gefühl ist gegenseitig.
+Dialogue: 0,0:03:49.00,0:03:49.90,ClearMain,Orca,0,0,0,DialogueTable|60027_125,Danke, Chris.
+Dialogue: 0,0:03:50.00,0:03:50.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_126,Vom Versuch, meine Erinnerungen wieder zusammenzusetzen,
+Dialogue: 0,0:03:51.00,0:03:51.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_127,bis zu allem, was mit Michelle geschehen ist,
+Dialogue: 0,0:03:52.00,0:03:52.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_128,und ... sogar bis in die Vergangenheit.
+Dialogue: 0,0:03:53.00,0:03:53.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_129,Ich stehe immer wieder in Orcas Schuld.
+Dialogue: 0,0:03:54.00,0:03:54.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_130,Sie will wahrscheinlich nichts dafür haben, aber ich hoffe, ich bekomme die Chance, es wiedergutzumachen ...
