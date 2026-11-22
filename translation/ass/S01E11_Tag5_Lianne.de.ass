@@ -26,7 +26,7 @@ Dialogue: 0,0:00:14.00,0:00:14.90,StartMain,Chris,0,0,0,DialogueTable|60020_15,V
 Dialogue: 0,0:00:15.00,0:00:15.90,StartMain,Chris,0,0,0,DialogueTable|60020_16,Es ist aber komisch, nur wegen ein paar vergessener Pillen zusammenzuklappen.
 Dialogue: 0,0:00:16.00,0:00:16.90,StartMain,Chris,0,0,0,DialogueTable|60020_17,Vielleicht ist es etwas Psychisches ...
 Dialogue: 0,0:00:17.00,0:00:17.90,StartMain,Chris,0,0,0,DialogueTable|60020_18,Da „das Ding“, von dem ich dachte, es hält mich fit, weg ist,
-Dialogue: 0,0:00:18.00,0:00:18.90,StartMain,Chris,0,0,0,DialogueTable|60020_19,reagiert mein Körper vielleicht einfach über.
+Dialogue: 0,0:00:18.00,0:00:18.90,StartMain,Chris,0,0,0,DialogueTable|60020_19,überreagiert mein Körper vielleicht einfach.
 Dialogue: 0,0:00:19.00,0:00:19.90,StartMain,Lianne,0,0,0,DialogueTable|60020_20,Wahrscheinlich genau das. Etwas Psychisches.
 Dialogue: 0,0:00:20.00,0:00:20.90,StartMain,Lianne,0,0,0,DialogueTable|60020_21,Ich bin auf diesem Gebiet so etwas wie eine Expertin, also verlass dich auf mein Wort.
 Dialogue: 0,0:00:21.00,0:00:21.90,StartMain,Chris,0,0,0,DialogueTable|60020_22,Wenn ich so darüber nachdenke, ist es irgendwie ironisch.
@@ -56,7 +56,7 @@ Dialogue: 0,0:00:44.00,0:00:44.90,StartMain,Chris,0,0,0,DialogueTable|60020_45,B
 Dialogue: 0,0:00:45.00,0:00:45.90,StartMain,Chris,0,0,0,DialogueTable|60020_46,Klingt, als hätte ich mir etwas Ernstes eingefangen.
 Dialogue: 0,0:00:46.00,0:00:46.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60020_47,Ehrlich gesagt werfe ich selbst oft mit diesem Wort um mich,
 Dialogue: 0,0:00:47.00,0:00:47.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60020_48,also hätte ich kein Recht, es ihr vorzuhalten. Es war wirklich nur Gejammer von mir.
-Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60020_49,Wenn ich daran zurückdenke, wie sowohl Pray als auch Lianne ...
+Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60020_49,Bei dem Gedanken daran, wie sowohl Pray als auch Lianne ...
 Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60020_50,von diesem Wort überrumpelt waren,
 Dialogue: 0,0:00:50.00,0:00:50.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60020_51,war ich sicher, dass Lianne es ansprechen würde.
 Dialogue: 0,0:00:51.00,0:00:51.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60020_52,Aber sie ließ es durchgehen.
@@ -80,8 +80,8 @@ Dialogue: 0,0:01:08.00,0:01:08.90,StartMain,Lianne,0,0,0,DialogueTable|60020_69,
 Dialogue: 0,0:01:09.00,0:01:09.90,StartMain,Lianne,0,0,0,DialogueTable|60020_70,Das kannst du nicht so auf die leichte Schulter nehmen.
 Dialogue: 0,0:01:10.00,0:01:10.90,StartMain,Lianne,0,0,0,DialogueTable|60020_71,...
 Dialogue: 0,0:01:11.00,0:01:11.90,StartMain,Lianne,0,0,0,DialogueTable|60020_72,Außerdem ... mache ich mir Sorgen um dich ...
-Dialogue: 0,0:01:12.00,0:01:12.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60020_73,Trotz ihres üblichen kühlen, professionellen Auftretens
-Dialogue: 0,0:01:13.00,0:01:13.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60020_74,reichte diese kindliche Seite von Lianne, die gelegentlich durchblitzt ...
+Dialogue: 0,0:01:12.00,0:01:12.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60020_73,Mitten in ihrer sonst so kühlen, professionellen Art
+Dialogue: 0,0:01:13.00,0:01:13.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60020_74,reichte diese kindliche Seite von Lianne, die gelegentlich durchblitzte ...
 Dialogue: 0,0:01:14.00,0:01:14.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60020_75,aus, um die Anspannung zu lösen und mich zum Schmunzeln zu bringen.
 Dialogue: 0,0:01:15.00,0:01:15.90,StartMain,Lianne,0,0,0,DialogueTable|60020_76,Was ist so lustig?
 Dialogue: 0,0:01:16.00,0:01:16.90,StartMain,Lianne,0,0,0,DialogueTable|60020_77,Es ist dein eigener Körper. Machst du dir keine Sorgen?

@@ -211,8 +211,8 @@ Dialogue: 0,0:03:19.00,0:03:19.90,ClearMain,Chris,0,0,0,DialogueTable|60007_75,D
 Dialogue: 0,0:03:20.00,0:03:20.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_76,Ein Ort zum Verstecken, wann immer man einfach weglaufen will,
 Dialogue: 0,0:03:21.00,0:03:21.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_77,eine Möglichkeit, neue Kraft zu tanken und den Mut zu finden, der Welt wieder entgegenzutreten.
 Dialogue: 0,0:03:22.00,0:03:22.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_78,Das ist das Ziel unseres Projekts.
-Dialogue: 0,0:03:23.00,0:03:23.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_79,Zu sehen, wie mir das Verstecken und Ausruhen hier den Mut gegeben hat, durchzuhalten,
-Dialogue: 0,0:03:24.00,0:03:24.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_80,hat mir klargemacht, dass mein Projekt nicht einfach hier enden darf.
+Dialogue: 0,0:03:23.00,0:03:23.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_79,Nachdem ich mich hier versteckt und ausgeruht und dabei den Mut zum Durchhalten gefunden habe,
+Dialogue: 0,0:03:24.00,0:03:24.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_80,ist mir klar geworden, dass mein Projekt nicht einfach hier enden darf.
 Dialogue: 0,0:03:25.00,0:03:25.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_81,Wenn schon die Wirkung davon, „mir einfach ein bisschen beim Jammern zuzuhören“, wie du es nennst, so groß ist,
 Dialogue: 0,0:03:26.00,0:03:26.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_82,dann wird unser Medikament der Welt sehr viel Gutes tun.
 Dialogue: 0,0:03:27.00,0:03:27.90,ClearMain,Chris,0,0,0,DialogueTable|60007_83,Darf ich fragen, was für ein Medikament das ist?
@@ -269,8 +269,8 @@ Dialogue: 0,0:04:17.00,0:04:17.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_133
 Dialogue: 0,0:04:18.00,0:04:18.90,ClearMain,Chris,0,0,0,DialogueTable|60007_134,Zombie-Prävention und Traumabewältigung. Klingt nach einem soliden Plan.
 Dialogue: 0,0:04:19.00,0:04:19.90,ClearMain,Chris,0,0,0,DialogueTable|60007_135,Außerdem scheint es gut zu sein, dass man diese Erinnerungen zurückholen kann.
 Dialogue: 0,0:04:20.00,0:04:20.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_136,Das ist ein heißes Thema unter meinen Kollegen.
-Dialogue: 0,0:04:21.00,0:04:21.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_137,Manche argumentieren: Weil die Erinnerungen zurückkehren, wenn man aufhört,
-Dialogue: 0,0:04:22.00,0:04:22.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_138,zwingt das die Leute im Grunde dazu, das Medikament immer weiter zu kaufen.
+Dialogue: 0,0:04:21.00,0:04:21.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_137,Manche argumentieren, dass die Rückkehr der Erinnerungen beim Absetzen
+Dialogue: 0,0:04:22.00,0:04:22.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_138,die Leute im Grunde dazu zwingt, das Medikament immer weiter zu kaufen.
 Dialogue: 0,0:04:23.00,0:04:23.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_139,Sie sagen, wir müssen die finanzielle Belastung der Verbraucher bedenken.
 Dialogue: 0,0:04:24.00,0:04:24.90,ClearMain,Chris,0,0,0,DialogueTable|60007_140,Das leuchtet ein, aber …
 Dialogue: 0,0:04:25.00,0:04:25.90,ClearMain,Lianne,0,0,0,DialogueTable|60007_141,Oh? Du hast eine Meinung zu meiner Forschung?

@@ -46,7 +46,7 @@ Dialogue: 0,0:00:34.00,0:00:34.90,StartMain,Chris,0,0,0,DialogueTable|60016_35,u
 Dialogue: 0,0:00:35.00,0:00:35.90,StartMain,Blade,0,0,0,DialogueTable|60016_36,Das geht alles auf ihr Konto.
 Dialogue: 0,0:00:36.00,0:00:36.90,StartMain,Blade,0,0,0,DialogueTable|60016_37,Nach außen geben sie sich als Befreiungsarmee gegen korrupte Macht,
 Dialogue: 0,0:00:37.00,0:00:37.90,StartMain,Blade,0,0,0,DialogueTable|60016_38,aber für mich sind das bloß dopaminsüchtige Bastarde, die durchdrehen, weil sie auf ihr eigenes Leben sauer sind.
-Dialogue: 0,0:00:38.00,0:00:38.90,StartMain,Blade,0,0,0,DialogueTable|60016_39,Bei all der Energie, die sie damit verschwenden, rumzurennen und von Weltveränderung zu quatschen,
+Dialogue: 0,0:00:38.00,0:00:38.90,StartMain,Blade,0,0,0,DialogueTable|60016_39,Statt ihre Energie damit zu verschwenden, rumzurennen und von Weltveränderung zu quatschen,
 Dialogue: 0,0:00:39.00,0:00:39.90,StartMain,Blade,0,0,0,DialogueTable|60016_40,würden sie sich und der Welt einen riesigen Gefallen tun, wenn sie sich in einer Gasse mit einem Henker anlegen und draufgehen würden.
 Dialogue: 0,0:00:40.00,0:00:40.90,StartMain,Chris,0,0,0,DialogueTable|60016_41,Nun, ihre Methoden sind ziemlich extrem.
 Dialogue: 0,0:00:41.00,0:00:41.90,StartMain,Chris,0,0,0,DialogueTable|60016_42,Deshalb haben die Leute Angst, sogar bei dieser Jahresendstimmung.
@@ -60,7 +60,7 @@ Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Blade,0,0,0,DialogueTable|60016_49,�
 Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Chris,0,0,0,DialogueTable|60016_50,Ja?
 Dialogue: 0,0:00:50.00,0:00:50.90,StartMain,Blade,0,0,0,DialogueTable|60016_51,Das ist ein altes Modell der 1. Generation, stimmt's?
 Dialogue: 0,0:00:51.00,0:00:51.90,StartMain,Blade,0,0,0,DialogueTable|60016_52,So eins, das keine Wartungsprotokolle an Sunshine Corp schickt.
-Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Blade,0,0,0,DialogueTable|60016_53,So nicht nachverfolgbare Ausrüstung in diesen Zeiten zu benutzen ...
+Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Blade,0,0,0,DialogueTable|60016_53,Ausrüstung, die sich nicht nachverfolgen lässt, in diesen Zeiten zu benutzen ...
 Dialogue: 0,0:00:53.00,0:00:53.90,StartMain,Blade,0,0,0,DialogueTable|60016_54,heißt, du hast entweder Mumm ... oder jede Menge zu verbergen.
 Dialogue: 0,0:00:54.00,0:00:54.90,StartMain,Chris,0,0,0,DialogueTable|60016_55,...Nun. Ich bleibe dabei, weil ich es gewohnt bin.
 Dialogue: 0,0:00:55.00,0:00:55.90,StartMain,Chris,0,0,0,DialogueTable|60016_56,Außerdem ist es auch für Sie angenehmer, wenn nichts protokolliert wird, Blade.

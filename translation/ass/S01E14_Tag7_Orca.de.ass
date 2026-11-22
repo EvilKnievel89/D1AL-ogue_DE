@@ -130,7 +130,7 @@ Dialogue: 0,0:01:58.00,0:01:58.90,ClearMain,Orca,0,0,0,DialogueTable|60027_14,ic
 Dialogue: 0,0:01:59.00,0:01:59.90,ClearMain,Orca,0,0,0,DialogueTable|60027_15,Das ist faszinierend.
 Dialogue: 0,0:02:00.00,0:02:00.90,ClearMain,Chris,0,0,0,DialogueTable|60027_16,Da gibt es diese berühmte Geschichte vom Schiff des Theseus.
 Dialogue: 0,0:02:01.00,0:02:01.90,ClearMain,Chris,0,0,0,DialogueTable|60027_17,Das Schiff des Theseus, bei dem jedes einzelne Teil ersetzt wurde,
-Dialogue: 0,0:02:02.00,0:02:02.90,ClearMain,Chris,0,0,0,DialogueTable|60027_18,und aus den alten, aussortierten Teilen ein neues Schiff gebaut wurde.
+Dialogue: 0,0:02:02.00,0:02:02.90,ClearMain,Chris,0,0,0,DialogueTable|60027_18,und das neue Schiff, das aus den alten, aussortierten Teilen gebaut wurde.
 Dialogue: 0,0:02:03.00,0:02:03.90,ClearMain,Chris,0,0,0,DialogueTable|60027_19,Die Frage ist: Welches ist das echte Schiff des Theseus?
 Dialogue: 0,0:02:04.00,0:02:04.90,ClearMain,Orca,0,0,0,DialogueTable|60027_20,Das Schiff des Theseus ist einfach das Schiff des Theseus.
 Dialogue: 0,0:02:05.00,0:02:05.90,ClearMain,Orca,0,0,0,DialogueTable|60027_21,Gehört das neue Schiff Theseus?
@@ -212,11 +212,11 @@ Dialogue: 0,0:03:20.00,0:03:20.90,ClearMain,Orca,0,0,0,DialogueTable|60027_96,k�
 Dialogue: 0,0:03:21.00,0:03:21.90,ClearMain,Orca,0,0,0,DialogueTable|60027_97,und Informationen, die ich für wahr hielt,
 Dialogue: 0,0:03:22.00,0:03:22.90,ClearMain,Orca,0,0,0,DialogueTable|60027_98,können sich über Nacht einfach ändern.
 Dialogue: 0,0:03:23.00,0:03:23.90,ClearMain,Chris,0,0,0,DialogueTable|60027_99,...
-Dialogue: 0,0:03:24.00,0:03:24.90,ClearMain,Orca,0,0,0,DialogueTable|60027_100,Wenn ich so denke,
-Dialogue: 0,0:03:25.00,0:03:25.90,ClearMain,Orca,0,0,0,DialogueTable|60027_101,sollte ich mein Leben noch ernsthafter leben.
+Dialogue: 0,0:03:24.00,0:03:24.90,ClearMain,Orca,0,0,0,DialogueTable|60027_100,Als ich so darüber nachdachte,
+Dialogue: 0,0:03:25.00,0:03:25.90,ClearMain,Orca,0,0,0,DialogueTable|60027_101,hatte ich das Gefühl, ich sollte mein Leben noch ernsthafter leben.
 Dialogue: 0,0:03:26.00,0:03:26.90,ClearMain,Orca,0,0,0,DialogueTable|60027_102,Ob ich eine Seele habe oder nicht, ob ich E.V.E oder Mensch bin ...
-Dialogue: 0,0:03:27.00,0:03:27.90,ClearMain,Orca,0,0,0,DialogueTable|60027_103,die Erkenntnis, dass es nicht an mir liegt, meinen eigenen Wert zu bestimmen,
-Dialogue: 0,0:03:28.00,0:03:28.90,ClearMain,Orca,0,0,0,DialogueTable|60027_104,hat all mein Zögern verschwinden lassen.
+Dialogue: 0,0:03:27.00,0:03:27.90,ClearMain,Orca,0,0,0,DialogueTable|60027_103,mir wurde klar, dass es nicht an mir liegt, meinen eigenen Wert zu bestimmen,
+Dialogue: 0,0:03:28.00,0:03:28.90,ClearMain,Orca,0,0,0,DialogueTable|60027_104,und mein Zögern verschwand.
 Dialogue: 0,0:03:29.00,0:03:29.90,ClearMain,Orca,0,0,0,DialogueTable|60027_105,So konnte ich mich ganz darauf konzentrieren, bei meinen Rettungseinsätzen mein Bestes zu geben.
 Dialogue: 0,0:03:30.00,0:03:30.90,ClearMain,Chris,0,0,0,DialogueTable|60027_106,Ich glaube, oft ist es auch umgekehrt.
 Dialogue: 0,0:03:31.00,0:03:31.90,ClearMain,Chris,0,0,0,DialogueTable|60027_107,Zu wissen, dass das, was man auch tut,

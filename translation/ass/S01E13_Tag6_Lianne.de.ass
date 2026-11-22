@@ -72,7 +72,7 @@ Dialogue: 0,0:01:00.00,0:01:00.90,StartMain,Michelle,0,0,0,DialogueTable|60024_6
 Dialogue: 0,0:01:01.00,0:01:01.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60024_62,Zersplitterte Erinnerungen sammeln sich,
 Dialogue: 0,0:01:02.00,0:01:02.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60024_63,und nehmen allmählich wieder eine klare Gestalt an.
 Dialogue: 0,0:01:03.00,0:01:03.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60024_64,So, wie Orcas Geschichte die Erinnerung an Michelles Tod ausgelöst hatte,
-Dialogue: 0,0:01:04.00,0:01:04.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60024_65,holten Michelles Worte nun diese verschütteten Erinnerungen an die Oberfläche zurück.
+Dialogue: 0,0:01:04.00,0:01:04.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60024_65,begannen auch Michelles Worte, diese verschütteten Erinnerungen wieder an die Oberfläche zu holen.
 Dialogue: 0,0:01:05.00,0:01:05.90,StartMain,Michelle,0,0,0,DialogueTable|60024_66,Ich bin ...
 Dialogue: 0,0:01:06.00,0:01:06.90,StartMain,Chris,0,0,0,DialogueTable|60024_67,Tut mir leid, Michelle.
 Dialogue: 0,0:01:07.00,0:01:07.90,StartMain,Chris,0,0,0,DialogueTable|60024_68,Bis eben
@@ -95,13 +95,13 @@ Dialogue: 0,0:01:23.00,0:01:23.90,StartMain,Chris,0,0,0,DialogueTable|60024_84,I
 Dialogue: 0,0:01:24.00,0:01:24.90,StartMain,Chris,0,0,0,DialogueTable|60024_85,Deine extrahierten Daten fest in der Hand,
 Dialogue: 0,0:01:25.00,0:01:25.90,StartMain,Chris,0,0,0,DialogueTable|60024_86,hielt ich an dem Glauben fest, dass du noch lebst.
 Dialogue: 0,0:01:26.00,0:01:26.90,StartMain,Chris,0,0,0,DialogueTable|60024_87,Ich redete mir einfach ein, du würdest vernachlässigt, weil unser Medizin-Abo billig war,
-Dialogue: 0,0:01:27.00,0:01:27.90,StartMain,Chris,0,0,0,DialogueTable|60024_88,oder die Behandlung zu riskant.
+Dialogue: 0,0:01:27.00,0:01:27.90,StartMain,Chris,0,0,0,DialogueTable|60024_88,oder weil die Behandlung zu riskant war.
 Dialogue: 0,0:01:28.00,0:01:28.90,StartMain,Chris,0,0,0,DialogueTable|60024_89,Jetzt fällt mir alles wieder ein.
 Dialogue: 0,0:01:29.00,0:01:29.90,StartMain,Chris,0,0,0,DialogueTable|60024_90,Warum ich so besessen von E.V.Es war,
 Dialogue: 0,0:01:30.00,0:01:30.90,StartMain,Chris,0,0,0,DialogueTable|60024_91,warum ich sie behandelt habe, als wären sie Menschen ...
 Dialogue: 0,0:01:31.00,0:01:31.90,StartMain,Michelle,0,0,0,DialogueTable|60024_92,Moment, also ...
 Dialogue: 0,0:01:32.00,0:01:32.90,StartMain,Michelle,0,0,0,DialogueTable|60024_93,...was ich gerade bin, ist kein Versicherungstrick
-Dialogue: 0,0:01:33.00,0:01:33.90,StartMain,Michelle,0,0,0,DialogueTable|60024_94,oder eine gescheiterte medizinische Behandlung,
+Dialogue: 0,0:01:33.00,0:01:33.90,StartMain,Michelle,0,0,0,DialogueTable|60024_94,und auch keine gescheiterte medizinische Behandlung,
 Dialogue: 0,0:01:34.00,0:01:34.90,StartMain,Michelle,0,0,0,DialogueTable|60024_95,sondern ganz allein dein Werk?
 Dialogue: 0,0:01:35.00,0:01:35.90,StartMain,Chris,0,0,0,DialogueTable|60024_96,...Ja.
 Dialogue: 0,0:01:36.00,0:01:36.90,StartMain,Chris,0,0,0,DialogueTable|60024_97,Ich habe fast jede Zertifizierung für E.V.Es und KI erworben, die es gibt ...
@@ -126,7 +126,7 @@ Dialogue: 0,0:01:54.00,0:01:54.90,StartMain,Michelle,0,0,0,DialogueTable|60024_1
 Dialogue: 0,0:01:55.00,0:01:55.90,StartMain,Michelle,0,0,0,DialogueTable|60024_116,war also nur dein Versuch, mich als deine Schwester zu sehen?
 Dialogue: 0,0:01:56.00,0:01:56.90,StartMain,Michelle,0,0,0,DialogueTable|60024_117,Widerlich.
 Dialogue: 0,0:01:57.00,0:01:57.90,StartMain,Chris,0,0,0,DialogueTable|60024_118,Auch wenn ich mich nicht erinnern konnte,
-Dialogue: 0,0:01:58.00,0:01:58.90,StartMain,Chris,0,0,0,DialogueTable|60024_119,das Unterbewusstsein verblasst nicht einfach.
+Dialogue: 0,0:01:58.00,0:01:58.90,StartMain,Chris,0,0,0,DialogueTable|60024_119,verblasst das Unterbewusstsein nicht einfach.
 Dialogue: 0,0:01:59.00,0:01:59.90,StartMain,Chris,0,0,0,DialogueTable|60024_120,Ich wollte es nicht, aber ich kann den Einfluss nicht leugnen.
 Dialogue: 0,0:02:00.00,0:02:00.90,StartMain,Michelle,0,0,0,DialogueTable|60024_121,Was macht mich das jetzt.
 Dialogue: 0,0:02:01.00,0:02:01.90,StartMain,Michelle,0,0,0,DialogueTable|60024_122,Jetzt, wo deine unterdrückten Erinnerungen zurück sind ...
@@ -186,7 +186,7 @@ Dialogue: 0,0:02:54.00,0:02:54.90,StartMain,Michelle,0,0,0,DialogueTable|60024_1
 Dialogue: 0,0:02:55.00,0:02:55.90,StartMain,Chris,0,0,0,DialogueTable|60024_176,Michelle ... nein.
 Dialogue: 0,0:02:56.00,0:02:56.90,StartMain,Michelle,0,0,0,DialogueTable|60024_177,Ich wollte nicht so leben.
 Dialogue: 0,0:02:57.00,0:02:57.90,StartMain,Michelle,0,0,0,DialogueTable|60024_178,Nur weil du deine Schwester nicht loslassen konntest,
-Dialogue: 0,0:02:58.00,0:02:58.90,StartMain,Michelle,0,0,0,DialogueTable|60024_179,wollte ich nicht <shake a=0.2>dieses schreckliche Leben führen.</shake>
+Dialogue: 0,0:02:58.00,0:02:58.90,StartMain,Michelle,0,0,0,DialogueTable|60024_179,muss ich <shake a=0.2>dieses schreckliche Leben führen</shake>, das ich nie wollte.
 Dialogue: 0,0:02:59.00,0:02:59.90,StartMain,Michelle,0,0,0,DialogueTable|60024_180,Ich bin Michelle ...
 Dialogue: 0,0:03:00.00,0:03:00.90,StartMain,Michelle,0,0,0,DialogueTable|60024_181,Ich soll Michelle sein ...
 Dialogue: 0,0:03:01.00,0:03:01.90,StartMain,Chris,0,0,0,DialogueTable|60024_182,Michelle ...
@@ -266,7 +266,7 @@ Dialogue: 0,0:04:14.00,0:04:14.90,StartMain,Lianne,0,0,0,DialogueTable|60024_255
 Dialogue: 0,0:04:15.00,0:04:15.90,StartMain,Lianne,0,0,0,DialogueTable|60024_256,Und deine Beziehung zu ihr hat sich ebenfalls verändert.
 Dialogue: 0,0:04:16.00,0:04:16.90,StartMain,Lianne,0,0,0,DialogueTable|60024_257,Auch wenn sie nicht deine echte Schwester ist.
 Dialogue: 0,0:04:17.00,0:04:17.90,StartMain,Chris,0,0,0,DialogueTable|60024_258,Bis gestern
-Dialogue: 0,0:04:18.00,0:04:18.90,StartMain,Chris,0,0,0,DialogueTable|60024_259,habe ich sie für meine richtige Schwester gehalten.
+Dialogue: 0,0:04:18.00,0:04:18.90,StartMain,Chris,0,0,0,DialogueTable|60024_259,habe ich sie für meine richtige Schwester gehalten,
 Dialogue: 0,0:04:19.00,0:04:19.90,StartMain,Chris,0,0,0,DialogueTable|60024_260,und deshalb konnten wir uns so nahe sein.
 Dialogue: 0,0:04:20.00,0:04:20.90,StartMain,Chris,0,0,0,DialogueTable|60024_261,Ehrlich gesagt ... es waren nur die Drogen.
 Dialogue: 0,0:04:21.00,0:04:21.90,StartMain,Lianne,0,0,0,DialogueTable|60024_262,Wenn du es so siehst,
@@ -300,8 +300,8 @@ Dialogue: 0,0:04:48.00,0:04:48.90,StartMain,Chris,0,0,0,DialogueTable|60024_289,
 Dialogue: 0,0:04:49.00,0:04:49.90,StartMain,Chris,0,0,0,DialogueTable|60024_290,Aber trotzdem,
 Dialogue: 0,0:04:50.00,0:04:50.90,StartMain,Chris,0,0,0,DialogueTable|60024_291,fühle ich mich schon viel leichter.
 Dialogue: 0,0:04:51.00,0:04:51.90,StartMain,Lianne,0,0,0,DialogueTable|60024_292,Auch wenn du noch nicht alle Antworten hast,
-Dialogue: 0,0:04:52.00,0:04:52.90,StartMain,Lianne,0,0,0,DialogueTable|60024_293,allein zu wissen, in welche Richtung du den nächsten Schritt machst ...
-Dialogue: 0,0:04:53.00,0:04:53.90,StartMain,Lianne,0,0,0,DialogueTable|60024_294,reicht, damit du das Gefühl hast, es zu schaffen.
+Dialogue: 0,0:04:52.00,0:04:52.90,StartMain,Lianne,0,0,0,DialogueTable|60024_293,genügt es schon, zu wissen, in welche Richtung du den nächsten Schritt machst ...
+Dialogue: 0,0:04:53.00,0:04:53.90,StartMain,Lianne,0,0,0,DialogueTable|60024_294,damit du das Gefühl hast, es zu schaffen.
 Dialogue: 0,0:04:54.00,0:04:54.90,StartMain,Lianne,0,0,0,DialogueTable|60024_295,Ich bin nur froh, dass du die Medikamente, die ich mitgebracht habe, nicht brauchen wirst.
 Dialogue: 0,0:04:55.00,0:04:55.90,StartMain,Chris,0,0,0,DialogueTable|60024_296,Ich schulde dir was, Lianne.
 Dialogue: 0,0:04:56.00,0:04:56.90,StartMain,Chris,0,0,0,DialogueTable|60024_297,Also,

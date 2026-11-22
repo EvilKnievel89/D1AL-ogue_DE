@@ -20,6 +20,11 @@
   schlecht im Griff habe, … liegt vielleicht nur daran, dass ich mir etwas wünsche, das ich nicht habe.“)
   grammatisch durchgehend neu gebaut, „fader, langweiliger Mechaniker“ → „schlichter, unaufgeregter“
   (`60020_30`–`60020_34`).
+- Zweiter Korrekturdurchgang gezielt für Sätze über mehrere Textfenster (592 Satzketten als Ganzes
+  gelesen): 26 Ketten mit 39 Fenstern korrigiert – Nebensätze ohne passenden Hauptsatz, falsche
+  Verbstellung über die Fenstergrenze, wörtliche englische Gerundium-Konstruktionen, verdrehte
+  Kausalität (u. a. Michelles „… muss ich dieses schreckliche Leben führen, das ich nie wollte“,
+  Orcas Rückblick in Tag 7, mehrere Stellen in den Enden).
 
 ## 1.0.0 – 2026-11-22
 

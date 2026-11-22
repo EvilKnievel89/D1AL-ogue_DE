@@ -32,7 +32,7 @@ Dialogue: 0,0:00:20.00,0:00:20.90,Ending_Figur,Chris,0,0,0,CutScene|80004_21,Chr
 Dialogue: 0,0:00:21.00,0:00:21.90,Ending_Figur,Chris,0,0,0,CutScene|80004_22,Zu viele Menschen leiden hier,
 Dialogue: 0,0:00:22.00,0:00:22.90,Ending_Figur,Chris,0,0,0,CutScene|80004_23,und Opfer überschreiten die Grenze und werden selbst zu denen, die anderen wehtun.
 Dialogue: 0,0:00:23.00,0:00:23.90,Ending_Figur,Chris,0,0,0,CutScene|80004_24,Trotzdem ...
-Dialogue: 0,0:00:24.00,0:00:24.90,Ending_Figur,Chris,0,0,0,CutScene|80004_25,dass eine Polarnacht in Chroma immer noch etwas Schönes sein kann ...
+Dialogue: 0,0:00:24.00,0:00:24.90,Ending_Figur,Chris,0,0,0,CutScene|80004_25,kann eine Polarnacht in Chroma immer noch etwas Schönes sein ...
 Dialogue: 0,0:00:25.00,0:00:25.90,Ending_Figur,Chris,0,0,0,CutScene|80004_26,Das wollte ich dir zeigen.
 Dialogue: 0,0:00:26.00,0:00:26.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_27,Na ja ... ich weiß, das Thema ist jetzt abgehakt, aber ...
 Dialogue: 0,0:00:27.00,0:00:27.90,Ending_Figur,Michelle,0,0,0,CutScene|80004_28,im Grunde sagst du, dass mehr an mir dran ist als nur ich selbst.
@@ -54,7 +54,7 @@ Dialogue: 0,0:00:42.00,0:00:42.90,Ending_Figur,Chris,0,0,0,CutScene|80001_7,Es i
 Dialogue: 0,0:00:43.00,0:00:43.90,Ending_Figur,Chris,0,0,0,CutScene|80001_8,ich hätte besser aufpassen sollen ...
 Dialogue: 0,0:00:44.00,0:00:44.90,Ending_Figur,Pray,0,0,0,CutScene|80001_9,Michelle?
 Dialogue: 0,0:00:45.00,0:00:45.90,Ending_Figur,Pray,0,0,0,CutScene|80001_10,Endlich?
-Dialogue: 0,0:00:46.00,0:00:46.90,Ending_Figur,Pray,0,0,0,CutScene|80001_11,Danach und nach deinem Gesichtsausdruck zu urteilen,
+Dialogue: 0,0:00:46.00,0:00:46.90,Ending_Figur,Pray,0,0,0,CutScene|80001_11,Nach dem, was du sagst, und deinem Gesichtsausdruck zu urteilen,
 Dialogue: 0,0:00:47.00,0:00:47.90,Ending_Figur,Pray,0,0,0,CutScene|80001_12,ist es wohl gut gelaufen.
 Dialogue: 0,0:00:48.00,0:00:48.90,Ending_Figur,Pray,0,0,0,CutScene|80001_13,Du bist viel zu spät aufgekreuzt
 Dialogue: 0,0:00:49.00,0:00:49.90,Ending_Figur,Pray,0,0,0,CutScene|80001_14,mit einem breiten Grinsen im Gesicht,
@@ -130,8 +130,8 @@ Dialogue: 0,0:01:58.00,0:01:58.90,Ending_Figur,Chris,0,0,0,CutScene|80002_37,ich
 Dialogue: 0,0:01:59.00,0:01:59.90,Ending_Figur,Chris,0,0,0,CutScene|80002_38,und viele andere, die helfen,
 Dialogue: 0,0:02:00.00,0:02:00.90,Ending_Figur,Chris,0,0,0,CutScene|80002_39,also mache ich mir nicht wirklich Sorgen.
 Dialogue: 0,0:02:01.00,0:02:01.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_40,Ein Glück ...
-Dialogue: 0,0:02:02.00,0:02:02.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_41,Mit deinen warmen Händen an mir ...
-Dialogue: 0,0:02:03.00,0:02:03.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_42,und nach so guten Neuigkeiten
+Dialogue: 0,0:02:02.00,0:02:02.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_41,Wenn ich deine warmen Hände an mir spüre ...
+Dialogue: 0,0:02:03.00,0:02:03.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_42,und so gute Neuigkeiten höre,
 Dialogue: 0,0:02:04.00,0:02:04.90,Ending_Figur,Lianne,0,0,0,CutScene|80002_43,fühlt es sich an, als würde meine ganze Angst einfach dahinschmelzen ...
 Dialogue: 0,0:02:05.00,0:02:05.90,Ending_Figur,Chris,0,0,0,CutScene|80002_44,Na dann, Lianne.
 Dialogue: 0,0:02:06.00,0:02:06.90,Ending_Figur,Chris,0,0,0,CutScene|80002_45,Wollen wir ein Stück spazieren gehen?
@@ -148,7 +148,7 @@ Dialogue: 0,0:02:16.00,0:02:16.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|
 Dialogue: 0,0:02:17.00,0:02:17.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_56,Aber nach diesem Tag
 Dialogue: 0,0:02:18.00,0:02:18.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_57,wurde die Polarnacht mit einem Glück übermalt,
 Dialogue: 0,0:02:19.00,0:02:19.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_58,so warm wie Liannes Umarmung.
-Dialogue: 0,0:02:20.00,0:02:20.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_59,Wir lagen zusammengekuschelt im Bett,
+Dialogue: 0,0:02:20.00,0:02:20.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_59,Zusammengekuschelt im Bett zu liegen
 Dialogue: 0,0:02:21.00,0:02:21.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_60,und Michelles Genörgel zu hören ...
 Dialogue: 0,0:02:22.00,0:02:22.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_61,machte mich unglaublich dankbar,
 Dialogue: 0,0:02:23.00,0:02:23.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80002_62,also betete ich leise, dass dieser Moment ewig währen möge.
@@ -191,8 +191,8 @@ Dialogue: 0,0:02:59.00,0:02:59.90,Ending_Figur,Chris,0,0,0,CutScene|80003_36,Du 
 Dialogue: 0,0:03:00.00,0:03:00.90,Ending_Figur,Chris,0,0,0,CutScene|80003_37,deshalb wollte ich dir meine aufrichtige Dankbarkeit zeigen.
 Dialogue: 0,0:03:01.00,0:03:01.90,Ending_Figur,Chris,0,0,0,CutScene|80003_38,Wo wir schon beim Thema sind, lass es mich einfach sagen.
 Dialogue: 0,0:03:02.00,0:03:02.90,Ending_Figur,Chris,0,0,0,CutScene|80003_39,Danke, Orca.
-Dialogue: 0,0:03:03.00,0:03:03.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_40,Still reichte ich ihr meine Hand ...
-Dialogue: 0,0:03:04.00,0:03:04.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_41,entgegen.
+Dialogue: 0,0:03:03.00,0:03:03.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_40,Still streckte ich meine Hand aus ...
+Dialogue: 0,0:03:04.00,0:03:04.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_41,ihr entgegen.
 Dialogue: 0,0:03:05.00,0:03:05.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_42,Aus Respekt ...
 Dialogue: 0,0:03:06.00,0:03:06.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_43,und einer Mischung aus anderen, komplizierten Gefühlen.
 Dialogue: 0,0:03:07.00,0:03:07.90,Ending_Figur,Erzaehler (Chris),0,0,0,CutScene|80003_44,Eine stille Art zu sagen, dass ich mich auf alles freue, was als Nächstes für uns kommt.
