@@ -11,6 +11,8 @@
   englische Wendungen („handlicher Mechaniker“, „Leider für sie“, „Das Gefühl ist gegenseitig“),
   Sinnfehler („Nur weil du die zweite Michelle akzeptierst, leugnest du nicht …“), kaputte
   Satzübergänge zwischen zwei Textfenstern, ein Glossar-Verstoß und ein Tippfehler.
+- Tag 5 (Pray): Erklärung von „Shadow Proxying“ präzisiert – „… wenn einer E.V.E die Daten einer
+  anderen Person übergestülpt werden“ (`DialogueTable|60018_105`).
 
 ## 1.0.0 – 2026-11-22
 
