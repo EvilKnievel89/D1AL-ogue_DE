@@ -3,7 +3,7 @@
  "game": "D1AL-ogue",
  "steam_appid": 4270390,
  "language": "de",
- "version": "1.0.0",
+ "version": "1.0.1",
  "entries": {
   "CommentDialogueTable|60003_1_C1": "Fertig. Es schien keine größeren Probleme zu geben.",
   "CommentDialogueTable|60003_1_C2": "Fertig. Es schien keine größeren Probleme zu geben.",
@@ -4018,7 +4018,7 @@
   "TitleTables|NERVE_DESC": "Sinnesorgane und neuronales Netz in einem.\\nErfasst externe Informationen und leitet Signale schnell an alle Komponenten weiter.",
   "TitleTables|NERVE_NAME": "<color=yellow>Neural Unit</color>",
   "TitleTables|NO": "Nein",
-  "TitleTables|OPEN_BUSINESS": "Geöffnet",
+  "TitleTables|OPEN_BUSINESS": "Laden öffnen",
   "TitleTables|Option": "Optionen",
   "TitleTables|PARTS_MOVE": "Verschobene Teile",
   "TitleTables|PERFECT_REPAIR": "Perfekte Reparatur!",

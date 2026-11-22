@@ -65,7 +65,7 @@ Dialogue: 0,0:00:53.00,0:00:53.90,Sign_UI,UI,0,0,0,TitleTables|SPECIAL_FUSION_CO
 Dialogue: 0,0:00:54.00,0:00:54.90,Sign_UI,UI,0,0,0,TitleTables|REPAIR_TIME,Reparaturzeit
 Dialogue: 0,0:00:55.00,0:00:55.90,Sign_UI,UI,0,0,0,TitleTables|CUSTOMER_COMMENT,Kundenkommentar
 Dialogue: 0,0:00:56.00,0:00:56.90,Sign_UI,UI,0,0,0,TitleTables|MUSIC_PLAYER,Musikplayer
-Dialogue: 0,0:00:57.00,0:00:57.90,Sign_UI,UI,0,0,0,TitleTables|OPEN_BUSINESS,Geöffnet
+Dialogue: 0,0:00:57.00,0:00:57.90,Sign_UI,UI,0,0,0,TitleTables|OPEN_BUSINESS,Laden öffnen
 Dialogue: 0,0:00:58.00,0:00:58.90,Sign_UI,UI,0,0,0,TitleTables|ACCEPT_REQUEST,Auftrag annehmen
 Dialogue: 0,0:00:59.00,0:00:59.90,Sign_UI,UI,0,0,0,TitleTables|UI_MONTH,
 Dialogue: 0,0:01:00.00,0:01:00.90,Sign_UI,UI,0,0,0,TitleTables|UI_DAY,

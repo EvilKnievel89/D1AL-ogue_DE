@@ -156,7 +156,7 @@ Art: Ort, Organisation, Attacke/Technik, Gegenstand, Running Gag, Anspielung, So
 | dispatch calls | Einsatzrufe | Sonstiges | |
 | the joint (Blade) | Schuppen | Sonstiges | |
 | service (Doppeldeutigkeit) | Service | Wortspiel | |
-| Open for Business (Menü) | Geöffnet | Sonstiges | Alternative „Geschäft öffnen“ |
+| Open for Business (Menü, Key OPEN_BUSINESS) | Laden öffnen | Sonstiges | Schaltfläche zum Öffnen des Ladens am Tagesbeginn (Aktion, kein Status) |
 | Standard-UI (Continue/Settings/Back/Next/Confirm/Cancel/Close/Complete/Submit) | Fortsetzen/Einstellungen/Zurück/Weiter/Bestätigen/Abbrechen/Schließen/Fertig/Absenden | Sonstiges | Exit/Quit → Beenden |
 | Credits (Menü) | Mitwirkende | Sonstiges | |
 | **Tag 3–7, Ende, News, Tutorial** | | | |
