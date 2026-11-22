@@ -37,6 +37,7 @@ Pfade im Beispiel: `GAME` = Spielordner, `WORK` = lokaler Arbeitsordner (nicht i
    | `glyphs.py WORK GAME` | Alle verwendeten Zeichen im Spielfont (Silver_EN) vorhanden? |
    | `termcheck.py WORK "Regex" …` | Wie wurde ein Begriff in welcher Datei übersetzt? |
    | `show.py WORK S01E03:82-84` | Segmente EN/DE anzeigen |
+   | `context.py WORK "DialogueTable\|60016_56" [n]` | Zeile mit n Zeilen Kontext in EN, KO (Originalsprache), JA und DE – für Fehlermeldungen |
    | `verify_bundle.py WORK GAME` | Gepatchtes Bundle gegen Original: gleiche Struktur (Umbrüche, Tags, Platzhalter) je Eintrag |
 
 Hinweis: `qa.py`, `glyphs.py`, `termcheck.py` erwarten `*.de.ass` (und für Vergleiche `*.en.ass`) im

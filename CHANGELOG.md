@@ -4,6 +4,8 @@
 
 - Menü: Schaltfläche zum Öffnen des Ladens am Tagesbeginn heißt jetzt „Laden öffnen“ statt „Geöffnet“
   (`OPEN_BUSINESS` ist eine Aktion, kein Status).
+- Tag 4 (Blade): grammatisch falschen Satz korrigiert – „Außerdem ist es auch für Sie angenehmer,
+  wenn nichts protokolliert wird, Blade.“ (`DialogueTable|60016_56`).
 
 ## 1.0.0 – 2026-11-22
 
