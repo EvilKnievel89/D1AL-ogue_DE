@@ -66,7 +66,7 @@ Behandlung: `übersetzen` | `Sign` (feste Box, knapp halten) | `auslassen`
 | Figur (Schreibweise) | Beschreibung | erste Folge |
 |---|---|---|
 | Chris | Ich-Erzähler, Betreiber der Reparaturklinik D1AL-ogue | S01E01 |
-| Michelle | Chris' jüngere Schwester, chattet/telefoniert mit ihm; Eltern „Mom and Dad“ → „Mama und Papa“. **Spoiler:** die echte Michelle ist tot, die Michelle im Chat ist eine von Chris geschaffene KI (E13, E15, E16: „Michelle is dead“ / „But I am Michelle“). Anrede bleibt du. Chris weiß lange nicht, wo sie „wohnt“ – Plotpunkt erhalten. Nennt Pray spöttisch „Fly“ → „Fliege“ | S01E01 |
+| Michelle | Chris' jüngere Schwester, chattet/telefoniert mit ihm; Eltern „Mom and Dad“ → „Mama und Papa“. **Spoiler:** die echte Michelle ist tot, die Michelle im Chat ist eine von Chris geschaffene KI (E13, E15, E16: „Michelle is dead“ / „But I am Michelle“). Anrede bleibt du. Chris weiß lange nicht, wo sie „wohnt“ – Plotpunkt erhalten. Verwechselt einmal Prays Namen: „Fly“ (KO 플라이 statt 프레이, R/L-Verwechslung) → „Play“, kein Spitzname | S01E01 |
 | Nina | Prays Chefin im Café; „Boss“ → „Chefin“ (auch rückwirkend: Prays Boss ist immer Nina) | S01E18 |
 | Cinderella | Selbstjustiz-Phantom mit Glasschuhen (Glasschuh, Stiletto-Absatz); Geschlecht/Anzahl offen – Quelle „they“ → „sie“ (bewusst mehrdeutig), Name unverändert; Forum „Cinderella, Help!“ unverändert | S01E06 |
 | Mayor Lucas | Bürgermeister Lucas | S00E04 |

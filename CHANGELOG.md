@@ -25,6 +25,8 @@
   Verbstellung über die Fenstergrenze, wörtliche englische Gerundium-Konstruktionen, verdrehte
   Kausalität (u. a. Michelles „… muss ich dieses schreckliche Leben führen, das ich nie wollte“,
   Orcas Rückblick in Tag 7, mehrere Stellen in den Enden).
+- Tag 6: Michelle verwechselt Prays Namen jetzt mit „Play“ statt „Fliege“ – im Original eine
+  R/L-Verwechslung (프레이/플라이, engl. „Fly“), kein Spitzname (`DialogueTable|60022_58`).
 
 ## 1.0.0 – 2026-11-22
 
