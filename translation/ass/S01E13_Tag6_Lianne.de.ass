@@ -15,7 +15,7 @@ Dialogue: 0,0:00:03.00,0:00:03.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTabl
 Dialogue: 0,0:00:04.00,0:00:04.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60024_5,zu einem schweren Unfall führen können.
 Dialogue: 0,0:00:05.00,0:00:05.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60024_6,Meine Hände zitterten, als ich die Nachricht tippte.
 Dialogue: 0,0:00:06.00,0:00:06.90,StartMain,Chris,0,0,0,DialogueTable|60024_7,Michelle ...
-Dialogue: 0,0:00:07.00,0:00:07.90,StartMain,Michelle,0,0,0,DialogueTable|60024_8,Was ist es diesmal.
+Dialogue: 0,0:00:07.00,0:00:07.90,StartMain,Michelle,0,0,0,DialogueTable|60024_8,Was ist diesmal los.
 Dialogue: 0,0:00:08.00,0:00:08.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60024_9,Sie antwortete sofort, als hätte sie gewartet.
 Dialogue: 0,0:00:09.00,0:00:09.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60024_10,Langsam versuchte ich, mein rasendes Herz zu beruhigen – obwohl es unmöglich schien.
 Dialogue: 0,0:00:10.00,0:00:10.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60024_11,Ich tippte noch einmal ihren Namen.
@@ -146,7 +146,7 @@ Dialogue: 0,0:02:14.00,0:02:14.90,StartMain,Michelle,0,0,0,DialogueTable|60024_1
 Dialogue: 0,0:02:15.00,0:02:15.90,StartMain,Michelle,0,0,0,DialogueTable|60024_136,in mir nur jemand anderen gesehen hat ...
 Dialogue: 0,0:02:16.00,0:02:16.90,StartMain,Michelle,0,0,0,DialogueTable|60024_137,<shake a=0.5 f=10>Verstehst du das überhaupt</shake>..?
 Dialogue: 0,0:02:17.00,0:02:17.90,StartMain,Chris,0,0,0,DialogueTable|60024_138,Nein, tue ich nicht.
-Dialogue: 0,0:02:18.00,0:02:18.90,StartMain,Chris,0,0,0,DialogueTable|60024_139,Was dir gehört, gehört dir,
+Dialogue: 0,0:02:18.00,0:02:18.90,StartMain,Chris,0,0,0,DialogueTable|60024_139,Deine Sache ist deine Sache,
 Dialogue: 0,0:02:19.00,0:02:19.90,StartMain,Chris,0,0,0,DialogueTable|60024_140,und ich kann es nicht für dich durchleben.
 Dialogue: 0,0:02:20.00,0:02:20.90,StartMain,Chris,0,0,0,DialogueTable|60024_141,Mein eigenes Chaos zu durchdenken ist schon schwer genug.
 Dialogue: 0,0:02:21.00,0:02:21.90,StartMain,Chris,0,0,0,DialogueTable|60024_142,Für alles andere habe ich einfach keinen Platz im Kopf.
@@ -241,7 +241,7 @@ Dialogue: 0,0:03:49.00,0:03:49.90,StartMain,Lianne,0,0,0,DialogueTable|60024_230
 Dialogue: 0,0:03:50.00,0:03:50.90,StartMain,Lianne,0,0,0,DialogueTable|60024_231,Wirf mal einen Blick aufs Etikett, ja?
 Dialogue: 0,0:03:51.00,0:03:51.90,StartMain,Chris,0,0,0,DialogueTable|60024_232,...„Für Chris“
 Dialogue: 0,0:03:52.00,0:03:52.90,StartMain,Lianne,0,0,0,DialogueTable|60024_233,Ich habe deine Denkmuster
-Dialogue: 0,0:03:53.00,0:03:53.90,StartMain,Lianne,0,0,0,DialogueTable|60024_234,und möglichen Traumatypen analysiert.
+Dialogue: 0,0:03:53.00,0:03:53.90,StartMain,Lianne,0,0,0,DialogueTable|60024_234,und mögliche Traumatypen analysiert.
 Dialogue: 0,0:03:54.00,0:03:54.90,StartMain,Lianne,0,0,0,DialogueTable|60024_235,Nach dem, was ich gerade gehört habe ... fällt das unter Fall 17.
 Dialogue: 0,0:03:55.00,0:03:55.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60024_236,Fall 17 ...
 Dialogue: 0,0:03:56.00,0:03:56.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60024_237,Wie viele Fälle hat sie eigentlich eingeplant?
@@ -273,7 +273,7 @@ Dialogue: 0,0:04:21.00,0:04:21.90,StartMain,Lianne,0,0,0,DialogueTable|60024_262
 Dialogue: 0,0:04:22.00,0:04:22.90,StartMain,Lianne,0,0,0,DialogueTable|60024_263,willst du dann auch mit all deinen Stammkunden brechen?
 Dialogue: 0,0:04:23.00,0:04:23.90,StartMain,Lianne,0,0,0,DialogueTable|60024_264,Nicht viele E.V.Es würden sich von einem so deprimierten Mechaniker reparieren lassen wollen.
 Dialogue: 0,0:04:24.00,0:04:24.90,StartMain,Lianne,0,0,0,DialogueTable|60024_265,Auch wenn es billige Drogen waren,
-Dialogue: 0,0:04:25.00,0:04:25.90,StartMain,Lianne,0,0,0,DialogueTable|60024_266,dank ihnen konntest du den Coolen spielen,
+Dialogue: 0,0:04:25.00,0:04:25.90,StartMain,Lianne,0,0,0,DialogueTable|60024_266,konntest du dank ihnen den Coolen spielen,
 Dialogue: 0,0:04:26.00,0:04:26.90,StartMain,Lianne,0,0,0,DialogueTable|60024_267,und du hast dabei einige schöne Erinnerungen gesammelt, oder?
 Dialogue: 0,0:04:27.00,0:04:27.90,StartMain,Chris,0,0,0,DialogueTable|60024_268,Das ist ...
 Dialogue: 0,0:04:28.00,0:04:28.90,StartMain,Lianne,0,0,0,DialogueTable|60024_269,Wenn du es leugnen willst,
@@ -290,7 +290,7 @@ Dialogue: 0,0:04:38.00,0:04:38.90,StartMain,Lianne,0,0,0,DialogueTable|60024_279
 Dialogue: 0,0:04:39.00,0:04:39.90,StartMain,Lianne,0,0,0,DialogueTable|60024_280,Ähm.
 Dialogue: 0,0:04:40.00,0:04:40.90,StartMain,Lianne,0,0,0,DialogueTable|60024_281,Jedenfalls!
 Dialogue: 0,0:04:41.00,0:04:41.90,StartMain,Lianne,0,0,0,DialogueTable|60024_282,Nur weil du die zweite Michelle akzeptierst,
-Dialogue: 0,0:04:42.00,0:04:42.90,StartMain,Lianne,0,0,0,DialogueTable|60024_283,leugnest du nicht den Tod der echten Michelle.
+Dialogue: 0,0:04:42.00,0:04:42.90,StartMain,Lianne,0,0,0,DialogueTable|60024_283,heißt das nicht, dass du den Tod der echten Michelle leugnest.
 Dialogue: 0,0:04:43.00,0:04:43.90,StartMain,Lianne,0,0,0,DialogueTable|60024_284,Nimm dir alle Zeit, die du zum Trauern brauchst,
 Dialogue: 0,0:04:44.00,0:04:44.90,StartMain,Lianne,0,0,0,DialogueTable|60024_285,und weine, wenn du musst.
 Dialogue: 0,0:04:45.00,0:04:45.90,StartMain,Chris,0,0,0,DialogueTable|60024_286,Die Sache ist,

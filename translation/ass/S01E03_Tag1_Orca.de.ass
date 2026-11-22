@@ -60,7 +60,7 @@ Dialogue: 0,0:00:48.00,0:00:48.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTabl
 Dialogue: 0,0:00:49.00,0:00:49.90,StartMain,Erzaehler (Chris),0,0,0,DialogueTable|60004_50,Ich hatte sogar vergessen, dass er schon fast vor der Tür stand.
 Dialogue: 0,0:00:50.00,0:00:50.90,StartMain,Chris,0,0,0,DialogueTable|60004_51,Den Feiertag gibt es nur in dieser Stadt. Warst du früher schon mal zur Besichtigung hier?
 Dialogue: 0,0:00:51.00,0:00:51.90,StartMain,Orca,0,0,0,DialogueTable|60004_52,Hmm …
-Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Chris,0,0,0,DialogueTable|60004_53,Wenn es schwer fällt, darüber zu reden, musst du es mir nicht erzählen.
+Dialogue: 0,0:00:52.00,0:00:52.90,StartMain,Chris,0,0,0,DialogueTable|60004_53,Wenn es dir schwerfällt, darüber zu reden, musst du es mir nicht erzählen.
 Dialogue: 0,0:00:53.00,0:00:53.90,StartMain,Orca,0,0,0,DialogueTable|60004_54,Nein, schon gut.
 Dialogue: 0,0:00:54.00,0:00:54.90,StartMain,Orca,0,0,0,DialogueTable|60004_55,Vor ein paar Jahren war ich als Verstärkung in Chroma City.
 Dialogue: 0,0:00:55.00,0:00:55.90,StartMain,Orca,0,0,0,DialogueTable|60004_56,Es war zufällig gerade Polarnacht-Tag.

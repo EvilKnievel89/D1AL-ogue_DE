@@ -41,7 +41,7 @@ Dialogue: 0,0:00:29.00,0:00:29.90,StartMain,Chris,0,0,0,DialogueTable|60026_26,E
 Dialogue: 0,0:00:30.00,0:00:30.90,StartMain,Chris,0,0,0,DialogueTable|60026_27,Jeder Kunde braucht andere Teile, und alle betreiben ihre Systeme anders.
 Dialogue: 0,0:00:31.00,0:00:31.90,StartMain,Chris,0,0,0,DialogueTable|60026_28,Die Rechnung jedes Mal neu zu berechnen
 Dialogue: 0,0:00:32.00,0:00:32.90,StartMain,Chris,0,0,0,DialogueTable|60026_29,ist ein ziemlicher Aufwand,
-Dialogue: 0,0:00:33.00,0:00:33.90,StartMain,Chris,0,0,0,DialogueTable|60026_30,und deswegen kann ich auch niemanden abweisen.
+Dialogue: 0,0:00:33.00,0:00:33.90,StartMain,Chris,0,0,0,DialogueTable|60026_30,und wegen so etwas kann ich auch niemanden abweisen.
 Dialogue: 0,0:00:34.00,0:00:34.90,StartMain,Orca,0,0,0,DialogueTable|60026_31,Ich glaube, ich verstehe, was du meinst.
 Dialogue: 0,0:00:35.00,0:00:35.90,StartMain,Orca,0,0,0,DialogueTable|60026_32,Was, wenn es mehr kostet als gedacht? Wäre die Fahrt dann umsonst?
 Dialogue: 0,0:00:36.00,0:00:36.90,StartMain,Orca,0,0,0,DialogueTable|60026_33,Solche Sorgen sind ganz natürlich.
@@ -163,7 +163,7 @@ Dialogue: 0,0:02:31.00,0:02:31.90,ClearMain,Orca,0,0,0,DialogueTable|60027_47,wi
 Dialogue: 0,0:02:32.00,0:02:32.90,ClearMain,Chris,0,0,0,DialogueTable|60027_48,Du meintest, dass E.V.Es, die ihre Identität nicht richtig erkundet haben,
 Dialogue: 0,0:02:33.00,0:02:33.90,ClearMain,Chris,0,0,0,DialogueTable|60027_49,oft darunter leiden, nach Aufmerksamkeit und Bestätigung zu hungern, richtig?
 Dialogue: 0,0:02:34.00,0:02:34.90,ClearMain,Orca,0,0,0,DialogueTable|60027_50,Genau.
-Dialogue: 0,0:02:35.00,0:02:35.90,ClearMain,Orca,0,0,0,DialogueTable|60027_51,Ich habe tatsächlich selbst mit dieser Frage gerungen, ungefähr zur selben Zeit.
+Dialogue: 0,0:02:35.00,0:02:35.90,ClearMain,Orca,0,0,0,DialogueTable|60027_51,Ich habe tatsächlich selbst mit dieser Frage gerungen,
 Dialogue: 0,0:02:36.00,0:02:36.90,ClearMain,Orca,0,0,0,DialogueTable|60027_52,ungefähr zur selben Zeit.
 Dialogue: 0,0:02:37.00,0:02:37.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_53,Klar. Das knüpft direkt an dasselbe Thema an.
 Dialogue: 0,0:02:38.00,0:02:38.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_54,Denn zu sagen, E.V.Es hätten keine Seele,
@@ -209,7 +209,7 @@ Dialogue: 0,0:03:17.00,0:03:17.90,ClearMain,Orca,0,0,0,DialogueTable|60027_93,Re
 Dialogue: 0,0:03:18.00,0:03:18.90,ClearMain,Orca,0,0,0,DialogueTable|60027_94,es war immer schwerer, Dinge zu finden, die einfach Sinn ergaben.
 Dialogue: 0,0:03:19.00,0:03:19.90,ClearMain,Orca,0,0,0,DialogueTable|60027_95,Handlungen, die ich für richtig hielt,
 Dialogue: 0,0:03:20.00,0:03:20.90,ClearMain,Orca,0,0,0,DialogueTable|60027_96,können manchmal damit enden, jemanden zu verletzen,
-Dialogue: 0,0:03:21.00,0:03:21.90,ClearMain,Orca,0,0,0,DialogueTable|60027_97,und Informationen, denen ich als Wahrheit vertraute,
+Dialogue: 0,0:03:21.00,0:03:21.90,ClearMain,Orca,0,0,0,DialogueTable|60027_97,und Informationen, die ich für wahr hielt,
 Dialogue: 0,0:03:22.00,0:03:22.90,ClearMain,Orca,0,0,0,DialogueTable|60027_98,können sich über Nacht einfach ändern.
 Dialogue: 0,0:03:23.00,0:03:23.90,ClearMain,Chris,0,0,0,DialogueTable|60027_99,...
 Dialogue: 0,0:03:24.00,0:03:24.90,ClearMain,Orca,0,0,0,DialogueTable|60027_100,Wenn ich so denke,
@@ -236,7 +236,7 @@ Dialogue: 0,0:03:44.00,0:03:44.90,ClearMain,Orca,0,0,0,DialogueTable|60027_120,D
 Dialogue: 0,0:03:45.00,0:03:45.90,ClearMain,Chris,0,0,0,DialogueTable|60027_121,Ich verstehe nicht viel davon,
 Dialogue: 0,0:03:46.00,0:03:46.90,ClearMain,Chris,0,0,0,DialogueTable|60027_122,aber abgeneigt bin ich auch nicht.
 Dialogue: 0,0:03:47.00,0:03:47.90,ClearMain,Chris,0,0,0,DialogueTable|60027_123,Das war ein gutes Gespräch, Orca.
-Dialogue: 0,0:03:48.00,0:03:48.90,ClearMain,Orca,0,0,0,DialogueTable|60027_124,Das Gefühl ist gegenseitig.
+Dialogue: 0,0:03:48.00,0:03:48.90,ClearMain,Orca,0,0,0,DialogueTable|60027_124,Finde ich auch.
 Dialogue: 0,0:03:49.00,0:03:49.90,ClearMain,Orca,0,0,0,DialogueTable|60027_125,Danke, Chris.
 Dialogue: 0,0:03:50.00,0:03:50.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_126,Vom Versuch, meine Erinnerungen wieder zusammenzusetzen,
 Dialogue: 0,0:03:51.00,0:03:51.90,ClearMain,Erzaehler (Chris),0,0,0,DialogueTable|60027_127,bis zu allem, was mit Michelle geschehen ist,
