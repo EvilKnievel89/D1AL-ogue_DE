@@ -27,6 +27,8 @@
   Orcas Rückblick in Tag 7, mehrere Stellen in den Enden).
 - Tag 6: Michelle verwechselt Prays Namen jetzt mit „Play“ statt „Fliege“ – im Original eine
   R/L-Verwechslung (프레이/플라이, engl. „Fly“), kein Spitzname (`DialogueTable|60022_58`).
+- Tag 6: Chris' „Orca-Orca-Orca“-Satz flüssiger, der beabsichtigte Namens-Gag bleibt erhalten
+  („… heißt das, es fällt schwer zu merken, dass etwas nicht stimmt, / solange Orca Orca für ... Orca hält?“).
 
 ## 1.0.0 – 2026-11-22
 
