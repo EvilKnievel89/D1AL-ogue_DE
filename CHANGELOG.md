@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.1 – 2026-11-22
+## 1.0.1 – 2026-11-23
 
 - Menü: Schaltfläche zum Öffnen des Ladens am Tagesbeginn heißt jetzt „Laden öffnen“ statt „Geöffnet“
   (`OPEN_BUSINESS` ist eine Aktion, kein Status).
