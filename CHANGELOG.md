@@ -4,6 +4,8 @@
 
 - Tag 7 (Orca): „Anders als bei deinen Standard-E.V.Es“ → „Anders als gewöhnliche E.V.Es“ – das englische
   „your standard“ war generisch gemeint, keine Anrede (`DialogueTable|60026_15`).
+- Tag 7 (Pray): „Bist du komplett kastriert oder was?“ → „Bist du impotent oder was?“ – wie im Original
+  (KO 고자, JA インポ) derb, aber idiomatisch (`DialogueTable|60028_35`).
 
 ## 1.0.1 – 2026-11-23
 
