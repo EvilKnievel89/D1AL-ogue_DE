@@ -6,4 +6,4 @@
   gemeinsames Ende, vier Figuren-Enden, Abspann, Menü, Tutorial, Kundenkommentare, News.
 - Patcher mit automatischer Steam-Erkennung, Sicherung/Wiederherstellung der Originale,
   Update-Erkennung und Schutz vor doppeltem Patchen.
-- Getestet mit Steam-Build 24985627.
+- Getestet mit Spielversion 1.0.4 (Steam-Build 24985627).

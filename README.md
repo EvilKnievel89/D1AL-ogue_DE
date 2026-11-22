@@ -4,6 +4,8 @@ Inoffizielle deutsche Übersetzung von **[D1AL-ogue](https://store.steampowered.
 Übersetzt sind **alle 4.091 Texte**: sämtliche Dialoge und Zwischensequenzen (Intro, Tag 1–7, alle vier Enden,
 Abspann), Menü, Tutorial, Kundenkommentare und News.
 
+![Hauptmenü von D1AL-ogue mit deutscher Übersetzung](docs/hauptmenue.jpg)
+
 > **Hinweis:** Die Übersetzung wurde mit KI (Claude) erstellt – mit gemeinsamem Glossar, festgelegter Anrede
 > (du/Sie) pro Figurenpaar und automatischen Prüfungen – und stichprobenartig im Spiel getestet, aber nicht
 > vollständig von Menschen korrekturgelesen. Fehler bitte als [Issue](../../issues) melden.
@@ -16,6 +18,8 @@ Abspann), Menü, Tutorial, Kundenkommentare und News.
 2. D1AL-ogue beenden, `D1AL-ogue_DE_Patcher.exe` starten, **[1] Installieren** wählen.
    Der Spielordner wird über Steam automatisch gefunden.
 3. Im Spiel als Sprache **English** einstellen – die Texte erscheinen auf Deutsch.
+
+Getestet mit Spielversion 1.0.4 (Steam-Build 24985627).
 
 **Deinstallieren:** Patcher starten → **[2] Deinstallieren** (oder in Steam „Dateien auf Fehler überprüfen“).
 **Nach einem Spiel-Update:** Patcher einfach erneut ausführen.
