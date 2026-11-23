@@ -1,6 +1,9 @@
 # Changelog
 
-## 1.0.2 – unveröffentlicht
+## 1.0.2 – 2026-11-23
+
+- Die Übersetzung wurde einmal vollständig im Spiel durchgespielt; die dabei gefundenen Stellen sind korrigiert.
+  Hinweis in README und LIESMICH entsprechend aktualisiert.
 
 - Tag 7 (Orca): „Anders als bei deinen Standard-E.V.Es“ → „Anders als gewöhnliche E.V.Es“ – das englische
   „your standard“ war generisch gemeint, keine Anrede (`DialogueTable|60026_15`).

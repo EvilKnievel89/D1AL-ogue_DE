@@ -4,8 +4,9 @@ D1AL-ogue – Deutsche Fan-Übersetzung
 Inoffizielle deutsche Übersetzung von D1AL-ogue (Steam). Übersetzt sind alle Dialoge,
 Zwischensequenzen, alle Enden, Menü, Tutorial, Kundenkommentare und News (4.091 Texte).
 
-HINWEIS: Die Übersetzung wurde mit KI (Claude) erstellt und nur stichprobenartig geprüft.
-Fehler und holprige Stellen sind möglich – Meldungen bitte als Issue auf GitHub.
+HINWEIS: Die Übersetzung wurde mit KI (Claude) erstellt, mit zwei automatischen Korrekturdurchgängen
+geprüft und anschließend einmal vollständig im Spiel durchgespielt und korrigiert. Ein professionelles
+Lektorat gab es nicht – Fehler bitte als Issue auf GitHub melden.
 Dies ist ein Fan-Projekt ohne Verbindung zu CherryPicker. Alle Rechte am Spiel liegen beim Entwickler.
 
 

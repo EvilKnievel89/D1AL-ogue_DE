@@ -22,7 +22,7 @@ import struct
 import subprocess
 import sys
 
-VERSION = "1.0.1"
+VERSION = "1.0.2"
 GAME_DIR_NAME = "D1AL-ogue"
 GAME_EXE = "D1AL-ogue.exe"
 AA_REL = os.path.join("D1AL-ogue_Data", "StreamingAssets", "aa")

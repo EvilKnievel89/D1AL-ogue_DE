@@ -6,9 +6,10 @@ Abspann), Menü, Tutorial, Kundenkommentare und News.
 
 ![Hauptmenü von D1AL-ogue mit deutscher Übersetzung](docs/hauptmenue.jpg)
 
-> **Hinweis:** Die Übersetzung wurde mit KI (Claude) erstellt – mit gemeinsamem Glossar, festgelegter Anrede
-> (du/Sie) pro Figurenpaar und automatischen Prüfungen – und stichprobenartig im Spiel getestet, aber nicht
-> vollständig von Menschen korrekturgelesen. Fehler bitte als [Issue](../../issues) melden.
+> **Hinweis:** Die Übersetzung wurde mit KI (Claude) erstellt – mit gemeinsamem Glossar und festgelegter Anrede
+> (du/Sie) pro Figurenpaar –, mit zwei automatischen Korrekturdurchgängen gegen das englische und das koreanische
+> Original geprüft und anschließend einmal vollständig im Spiel durchgespielt und korrigiert. Ein professionelles
+> Lektorat gab es nicht – Fehler bitte als [Issue](../../issues) melden.
 >
 > Fan-Projekt ohne Verbindung zu CherryPicker. Alle Rechte am Spiel liegen beim Entwickler.
 
